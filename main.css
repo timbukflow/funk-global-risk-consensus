@@ -12,8 +12,9 @@
   --funkgrey: #7F7F7F;
 
   --fontsmall: 18px;
+  --fontbutton: 16px;
   --fontmedium: 24px;
-  --fontlarge: 50px;
+  --fontlarge: 30px;
 }
 
 * {
@@ -23,6 +24,7 @@
 body {
   margin: 10px 30px;
   padding: 0;
+  background-color: #e0e5eb;
 }
 
 /*----------------------------------
@@ -34,7 +36,7 @@ h1, h2, h3, a, li {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
 }
-p  {
+p, button  {
   font-family: 'Noto Sans', sans-serif;
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
@@ -50,14 +52,15 @@ h1 {
 
 h2 {
   font-size: var(--fontmedium);
+  color: #474747;
   line-height: 125%;
   margin: 0 0 30px;
   hyphens: auto;
   -webkit-hyphens: auto;
 }
 
-p, a, li { 
-  font-size: var(--fontsmall);
+p, a, li, button { 
+  font-size: var(--fontbutton);
   line-height: 125%;
   margin: 0;  
 }
@@ -78,9 +81,11 @@ nav {
   justify-content: space-between;
   border-bottom: #7F7F7F solid 1px;
   padding: 10px 5px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  position: fixed;
+  top: 0;
+  width: calc(100% - 60px);
+  margin: 10px 30px;
+  left: 0;
 }
 
 nav li, nav a {
@@ -107,4 +112,111 @@ li:first-child {
 
 li:last-child {
   text-align: right;
+}
+
+/*----------------------------------
+  Start
+-----------------------------------*/
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+}
+
+.years {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: white;
+  border: none;
+  border-radius: 4px;
+  width: 15%;
+  height: 50px;
+  color: #3C3C3B;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
+  transition: background-color 0.5s ease ;
+}
+
+button.active {
+  background-color: var(--funkblue);
+  color: white;
+}
+
+button:hover {
+  background-color: #e7e7e7;
+}
+
+.containerrisksevent {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin-top: 60px;
+}
+
+.contentrisks {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 60%;
+}
+
+.contentrisks h2,
+.contentevent h2 {
+  padding-left: 15px;
+  margin: 0;
+}
+
+
+.contentevent {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 40%;
+}
+
+.risks, .events {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.risk, .event, .trend {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 120px;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
+}
+
+.risk img, .event img {
+  width: 100%;
+  min-height: 150px;
+  display: inherit;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  filter: grayscale(0.5);
+  transition: all 0.5s ease ;
+}
+
+.risk img:hover {
+  filter: grayscale(0);
+}
+
+.risk h1, .event h1 {
+  position: absolute;
+  top: 0px;
+  padding: 20px;
+  color: #ffffff;
 }

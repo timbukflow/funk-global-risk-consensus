@@ -44,31 +44,9 @@
 
 <body>
 <div class="container">
-        <div class="years">
-            <button data-year="2017">2017</button>
-            <button data-year="2018">2018</button>
-            <button data-year="2019">2019</button>
-            <button data-year="2020">2020</button>
-            <button data-year="2021">2021</button>
-            <button data-year="2022">2022</button>
-            <button data-year="2023" class="active">2023</button>
-        </div>
-        
-        <div class="containerrisksevent">
-            <div class="contentrisks">
-                <h2>Top 5 Risiken</h2>
-                <div class="risks"></div>
-            </div>
-            <div class="contentevent">
-                <h2>Global Events</h2>
-                <div class="events"></div>
-                <h2>Trend 2024</h2>
-                <div class="trend"></div>
-            </div>
-        </div>  
-    </div>
+           
     
-    
+<div>tester</div>
 
             
     <?php require_once 'nav.php'; ?>
