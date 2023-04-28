@@ -8,7 +8,7 @@
 
     <meta name="description" content=".........">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://www.funk-global-risk-consensus.ch" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.ch" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -43,8 +43,24 @@
 </head>
 
 <body>
+
+<div class="navyears">
+    <button class="menu"> <img src="img/funk-menu.svg" alt="menu" width="12px"></button>
+    <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
+    <div class="buttons">
+      <button>2017</button>
+      <button>2018</button>
+      <button>2019</button>
+      <button>2020</button>
+      <button>2021</button>
+      <button>2022</button>
+      <button class="active">2023</button>
+    </div>
+    <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
+</div>
+
 <div class="container">
-        <div class="years">
+        <!-- <div class="years">
             <button data-year="2017">2017</button>
             <button data-year="2018">2018</button>
             <button data-year="2019">2019</button>
@@ -52,7 +68,7 @@
             <button data-year="2021">2021</button>
             <button data-year="2022">2022</button>
             <button data-year="2023" class="active">2023</button>
-        </div>
+        </div> -->
         
         <div class="containerrisksevent">
             <div class="contentrisks">
