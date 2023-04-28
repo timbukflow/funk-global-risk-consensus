@@ -174,8 +174,12 @@ $(document).ready(() => {
       yearData.risks.forEach(risk => {
           $risks.append(`
               <a href="${risk.link}" class="risk">
+                <div class="riskimg">
                   <img src="${risk.image}" alt="${risk.name}">
+                </div>
+                <div class="risktitle">
                   <h1>${risk.name}</h1>
+                </div>
               </a>
           `);
       });
@@ -200,7 +204,7 @@ $(document).ready(() => {
 
   updateContent("2023");
 
-  
+
   // Buttons Year
 
   const buttonsContainer = document.querySelector('.buttons');

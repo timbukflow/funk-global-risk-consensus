@@ -44,44 +44,32 @@
 
 <body>
 
-<div class="navyears">
-    <button class="menu"> <img src="img/funk-menu.svg" alt="menu" width="12px"></button>
-    <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
-    <div class="buttons">
-      <button>2017</button>
-      <button>2018</button>
-      <button>2019</button>
-      <button>2020</button>
-      <button>2021</button>
-      <button>2022</button>
-      <button class="active">2023</button>
+    <div class="navyears">
+        <button class="menu"> <img src="img/funk-menu.svg" alt="menu" width="14px"></button>
+        <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
+        <div class="buttons years">
+        <button data-year="2017">2017</button>
+        <button data-year="2018">2018</button>
+        <button data-year="2019">2019</button>
+        <button data-year="2020">2020</button>
+        <button data-year="2021">2021</button>
+        <button data-year="2022">2022</button>
+        <button data-year="2023" class="active">2023</button>
+        </div>
+        <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
     </div>
-    <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
-</div>
 
-<div class="container">
-        <!-- <div class="years">
-            <button data-year="2017">2017</button>
-            <button data-year="2018">2018</button>
-            <button data-year="2019">2019</button>
-            <button data-year="2020">2020</button>
-            <button data-year="2021">2021</button>
-            <button data-year="2022">2022</button>
-            <button data-year="2023" class="active">2023</button>
-        </div> -->
-        
-        <div class="containerrisksevent">
-            <div class="contentrisks">
-                <h2>Top 5 Risiken</h2>
-                <div class="risks"></div>
-            </div>
-            <div class="contentevent">
-                <h2>Global Events</h2>
-                <div class="events"></div>
-                <h2>Trend 2024</h2>
-                <div class="trend"></div>
-            </div>
-        </div>  
+    <div class="riskseventstrends">
+        <div class="contentrisks">
+            <h2>Top Risiken</h2>
+            <div class="risks"></div>
+        </div>
+        <div class="contentevent">
+            <h2>Global Events</h2>
+            <div class="events"></div>
+            <h2>Trend 2024</h2>
+            <div class="trend"></div>
+        </div>
     </div>
     
     
