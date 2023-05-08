@@ -10,6 +10,7 @@
   --funkblue: #005092;
   --funkgreen: #75B845;
   --funkgrey: #7F7F7F;
+  --funkgreenlight: #9aa8a4;
   --funkbackground: #F6F6F6;
 
   --fontsmall: 18px;
@@ -46,7 +47,7 @@ p, button  {
 
 h1 {
   font-size: var(--fontlarge);
-  line-height: 100%; 
+  line-height: 130%; 
   margin-top: 0;
 }
 
@@ -186,15 +187,15 @@ button:hover {
 
 .riskseventstrends {
   position: relative;
-  top: 200px;
   display: flex;
   flex-direction: row;
-  gap: 50px;
-  margin: 0 25px;
+  gap: 80px;
+  margin: 200px 20px 80px 80px;
 }
 
 .contentrisks {
   display: flex;
+  position: relative;
   flex-direction: column;
   gap: 2rem;
   width: 70%;
@@ -202,6 +203,7 @@ button:hover {
 
 .contentevent {
   display: flex;
+  position: relative;
   flex-direction: column;
   gap: 2rem;
   width: 30%;
@@ -214,57 +216,67 @@ button:hover {
 }
 
 
-
-
 .risks {
   display: flex;
+  position: sticky;
+  top: 50px;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 20px;
-  
+  gap: 40px;
 }
 
 .events {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 40px;
 }
 
 
 .risk, .event, .trend {
-  background-color: #ffffff;
+  background-color: white;
   border-radius: 10px;
-  height: 250px;
   overflow: hidden;
   position: relative;
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
+  transition: box-shadow 0.5s;
+  cursor: pointer;
 }
 
 .risk {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  width: calc(50% - 10px);
+  width: calc(50% - 20px);
+}
+.risk:hover {
+  -webkit-box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.3); 
+  box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.3);
+}
+.event {
+  background-color: var(--funkgreenlight);
 }
 
-.riskimg {
+.riskimg, .eventimg {
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: 120px;
 }
 
-.risktitle {
-  height: 150px;
+.risktitle, .eventtitle {
+  height: 100px;
   display: flex;
   align-items: flex-end;
   padding: 25px 20px;
 }
 
-.risktitle h1 {
+.risktitle h1, .eventtitle h1 {
   margin: 0;
 }
-
+.eventtitle h1 {
+  color: white;
+}
 
 .risk img, .event img {
   width: 100%;
@@ -273,16 +285,16 @@ button:hover {
   object-fit: cover;
   display: block;
   margin: 0 auto;
-  
-  transition: all 0.5s ease ;
 }
 
-.risk img:hover {
-  
+/*----------------------------------
+  Footer
+-----------------------------------*/
+.holder {
+  width: 100%;
+  height: 500px;
+  background-color: #9aa8a4;
 }
-
-
-
 
 /*----------------------------------
   Responsiv

@@ -25,19 +25,39 @@ const data = {
           "name": "Extreme Wetterereignisse",
           "image": "img/funk-global-risk-consensus-extreme-wetterereignisse.jpg",
           "link": "extreme-wetterereignisse"
+        },
+        {
+          "name": "Nicht-Berufskrankheiten",
+          "image": "img/funk-global-risk-consensus-nicht-berufskrankheiten.jpg",
+          "link": "nicht-berufskrankheiten"
         }
     ],
     "events": [
         {
-            "name": "Corona Virus",
-            "image": "img/funk-global-risk-consensus-corona-virus.jpg",
-            "link": "corona-virus"
+          "name": "Ukrainekrieg",
+          "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
+          "link": "globale-events-ukrainekrieg"
         },
         {
-          "name": "Ukraine Krieg",
-          "image": "img/funk-global-risk-consensus-ukraine-krieg.jpg",
-          "link": "ukraine-krieg"
-      }
+          "name": "Massiver Zinsanstieg",
+          "image": "img/funk-global-risk-consensus-globale-events-massiver-zinsanstieg.jpg",
+          "link": "globale-events-massiver-zinsanstieg"
+        },
+        {
+          "name": "Handelskrieg",
+          "image": "img/funk-global-risk-consensus-globale-events-handelskrieg.jpg",
+          "link": "globale-events-handelskrieg"
+        },
+        {
+          "name": "Bankenkrise",
+          "image": "img/funk-global-risk-consensus-globale-events-bankenkrise.jpg",
+          "link": "globale-events-bankenkrise"
+        },
+        {
+          "name": "Ende Covid-19 Pandemie",
+          "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
+          "link": "globale-events-covid-19-pandemie"
+        }
     ],
   },
   "2022": {
@@ -64,98 +84,43 @@ const data = {
         },
         {
           "name": "Ungünstige Marktentwicklung",
-          "image": "img/funk-global-risk-unguenstige-marktentwicklung.jpg",
+          "image": "img/funk-global-risk-consensus-unguenstige-marktentwicklung.jpg",
           "link": "unguenstige-marktentwicklung"
+        },
+        {
+          "name": "Extreme Wetterereignisse",
+          "image": "img/funk-global-risk-consensus-extreme-wetterereignisse.jpg",
+          "link": "extreme-wetterereignisse"
         }
     ],
     "events": [
         {
-            "name": "Corona Virus",
-            "image": "img/funk-global-risk-consensus-corona-virus.jpg",
-            "link": "corona-virus"
+          "name": "Covid-19 Pandemie",
+          "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
+          "link": "globale-events-covid-19-pandemie"
         },
         {
-          "name": "Ukraine Krieg",
-          "image": "img/funk-global-risk-consensus-ukraine-krieg.jpg",
-          "link": "ukraine-krieg"
-      }
+          "name": "Ukrainekrieg",
+          "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
+          "link": "globale-events-ukrainekrieg"
+        },
+        {
+          "name": "Massiver Anstieg der Inflation",
+          "image": "img/funk-global-risk-consensus-globale-events-massiver-anstieg-der-inflation.jpg",
+          "link": "globale-events-massiver-anstieg-der-inflation"
+        },
+        {
+          "name": "Verschärfung des Handelskrieges US-China",
+          "image": "img/funk-global-risk-consensus-globale-events-verschaerfung-des-handelskrieges-us-china.jpg",
+          "link": "globale-events-verschaerfung-des-handelskrieges-us-china"
+        },
     ],
   },
-  "2017": {
+  
+  "2021": {
       "risks": [
-          {
-            "name": "Cyber Risiken",
-            "image": "img/funk-global-risk-consensus-cyber-risiken.jpg",
-            "link": "cyber-risiken"
-          },
-          {
-            "name": "Ungünstige Marktentwicklung",
-            "image": "img/funk-global-risk-unguenstige-marktentwicklung.jpg",
-            "link": "unguenstige-marktentwicklung"
-          },
-          {
-            "name": "Politische Risiken",
-            "image": "img/funk-global-risk-consensus-politische-risiken.jpg",
-            "link": "politische-risiken"
-          },
-          {
-            "name": "Naturkatastrophen",
-            "image": "img/funk-global-risk-consensus-naturkatastrophen.jpg",
-            "link": "naturkatastrophen"
-          },
-          {
-            "name": "Von Menschen verursachte Katastrophen",
-            "image": "img/funk-global-risk-consensus-von-menschen-verursachte-katastrophen.jpg",
-            "link": "von-menschen-verursachte-katastrophen"
-          }
       ],
       "events": [
-          {
-              "name": "Event 1",
-              "image": "img/funk-global-risk-consensus-fachkraeftemangel.jpg",
-              "link": "cyber-risiken"
-          }
-      ],
-  },
-  "2018": {
-      "risks": [
-          {
-            "name": "Cyber Risiken",
-            "image": "img/funk-global-risk-consensus-cyber-risiken.jpg",
-            "link": "cyber-risiken"
-          },
-          {
-            "name": "Neue Technologien",
-            "image": "img/funk-global-risk-consensus-neue-technologien.jpg",
-            "link": "neue-technologien"
-          },
-          {
-            "name": "Ändernde Regulierungen",
-            "image": "img/funk-global-risk-consensus-neue-technologien.jpg",
-            "link": "neue-technologien"
-          },
-          {
-            "name": "Neue Technologien",
-            "image": "img/funk-global-risk-consensus-neue-technologien.jpg",
-            "link": "neue-technologien"
-          },
-          {
-            "name": "Neue Technologien",
-            "image": "img/funk-global-risk-consensus-neue-technologien.jpg",
-            "link": "neue-technologien"
-          }
-      ],
-      "events": [
-          {
-              "name": "Event 1",
-              "image": "images/event1.jpg",
-              "link": "cyber-risiken"
-          },
-          {
-            "name": "Event 2",
-            "image": "images/event1.jpg",
-            "link": "cyber-risiken"
-        }
       ],
   },
 };
@@ -187,8 +152,12 @@ $(document).ready(() => {
       yearData.events.forEach(event => {
           $events.append(`
               <div class="event">
+                <div class="eventimg">
                   <img src="${event.image}" alt="${event.name}">
+                </div>
+                <div class="eventtitle">
                   <h1>${event.name}</h1>
+                </div>
               </div>
           `);
       });
