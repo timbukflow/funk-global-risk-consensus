@@ -138,7 +138,7 @@ $(document).ready(() => {
 
       yearData.risks.forEach(risk => {
           $risks.append(`
-              <a href="${risk.link}" class="risk">
+              <a href="${risk.link}" class="risk bg">
                 <div class="riskimg">
                   <img src="${risk.image}" alt="${risk.name}">
                 </div>
@@ -151,7 +151,7 @@ $(document).ready(() => {
 
       yearData.events.forEach(event => {
           $events.append(`
-              <div class="event">
+              <div class="event bg">
                 <div class="eventimg">
                   <img src="${event.image}" alt="${event.name}">
                 </div>

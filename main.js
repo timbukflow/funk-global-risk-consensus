@@ -10,5 +10,4 @@ $(document).ready(function() {
   
   setInterval(updateTime, 1000);
 
-
 });
