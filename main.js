@@ -10,10 +10,38 @@ $(document).ready(function() {
   
   setInterval(updateTime, 1000);
 
-  // More Text
-  $('.moreBtn').click(function() {
+  // Suppernav
+  $('.menuBtn').click(function() {
+    const isOpen = $(this).hasClass('active');
+    $(this).toggleClass('active');
+
+    if (isOpen) {
+      $('#icon-menu', this).show();
+      $('#icon-close', this).hide();
+    } else {
+      $('#icon-menu', this).hide();
+      $('#icon-close', this).show();
+    }
+
+    $('.supernavcontainer').stop(true, true).fadeToggle(1000);
+  });
+
+
+  // Mehr Button
+  $('.mBtn').click(function() {
     const isOpen = $(this).attr('data-open') === 'true';
-    const newText = isOpen ? 'Schliessen' : 'Bericht';
+    const newText = isOpen ? 'weniger' : 'mehr';
+
+    $(this).text(newText);
+    $(this).attr('data-open', !isOpen);
+
+    $(this).prev('.hidden-text').slideToggle(700);
+  });
+
+  // Bericht Button
+  $('.bBtn').click(function() {
+    const isOpen = $(this).attr('data-open') === 'true';
+    const newText = isOpen ? 'schliessen' : 'Bericht';
 
     $(this).text(newText);
     $(this).attr('data-open', !isOpen);

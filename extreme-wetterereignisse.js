@@ -14,9 +14,9 @@ const options = {
   scales: {
     y: {
       beginAtZero: true,
-      max: 30,
+      max: 24,
       ticks: {
-        stepSize: 2
+        stepSize: 1
       }
     }
   },

@@ -48,13 +48,13 @@
         <button class="menu"> <img src="img/funk-menu.svg" alt="menu" width="14px"></button>
         <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
         <div class="buttons years">
-        <button data-year="2017">2017</button>
-        <button data-year="2018">2018</button>
-        <button data-year="2019">2019</button>
-        <button data-year="2020">2020</button>
-        <button data-year="2021">2021</button>
-        <button data-year="2022">2022</button>
-        <button data-year="2023" class="active">2023</button>
+            <button data-year="2017">2017</button>
+            <button data-year="2018">2018</button>
+            <button data-year="2019">2019</button>
+            <button data-year="2020">2020</button>
+            <button data-year="2021">2021</button>
+            <button data-year="2022">2022</button>
+            <button data-year="2023" class="active">2023</button>
         </div>
         <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
     </div>

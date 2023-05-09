@@ -14,10 +14,9 @@
   --funkbackground: #F6F6F6;
 
   --fontsmall: 16px;
-  --fontbutton: 16px;
-  --fontmedium: 24px;
-  --fontlarge: 22px;
-  --fontbig: 40px;
+  --fontmedium: 21px;
+  --fontlarge: 25px;
+  --fontbig: 45px;
 }
 
 * {
@@ -35,13 +34,13 @@ body {
 -----------------------------------*/
 h1, h2, h3, a, li {
   font-family: 'Noto Serif', serif;
-  font-weight: normal;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
 }
-p, button  {
+p, button, .supernav li, .supernav a  {
   font-family: 'Noto Sans', sans-serif;
-  font-weight: normal;
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
   hyphens: auto;
@@ -51,19 +50,14 @@ h1 {
   font-size: var(--fontlarge);
   line-height: 130%; 
   margin-top: 0;
+  margin-bottom: 20px;
 }
-.risikobeschreibung h1 {
-  font-size: var(--fontbig);
-  line-height: 130%; 
-  margin-top: 0;
-}
-
 
 h2 {
   font-size: var(--fontmedium);
   color: #474747;
   line-height: 125%;
-  margin: 0 0 30px;
+  margin: 0;
   hyphens: auto;
   -webkit-hyphens: auto;
 }
@@ -72,26 +66,38 @@ p {
   font-size: var(--fontsmall);
   line-height: 150%;
   letter-spacing: 0.25px;
-  margin: 0;
   color: #474747; 
 }
 
 a, li, button { 
-  font-size: var(--fontbutton);
+  font-size: var(--fontsmall);
   line-height: 125%;
   margin: 0; 
   color: #474747; 
 }
 
 a {
-  font-size: var(--fontsmall);
   display: inline-block;
   text-decoration-line: none;
   transition: color 0.25s ease-in-out;
 }
 
+button {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  color: #3C3C3B;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.material-symbols-outlined {
+  color: var(--funkblue);
+}
+
+
 /*----------------------------------
-  Navigation
+  Header
 -----------------------------------*/
 
 nav {
@@ -102,6 +108,7 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 100;
 }
 
 nav li, nav a {
@@ -143,35 +150,40 @@ li:last-child {
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
 }
 /* morebtn */
-.moreBtn {
+.mBtn, .bBtn {
   border: var(--funkblue) 1px solid;
   color: var(--funkblue);
-  border-radius: 5px;
-  font-size: 14px;
-  height: 40px;
-  width: auto;
-  line-height: 100%;
-  padding: 10px 20px;
-  box-shadow: none;
-  background-color: #fff;
-  transition: background-color 0.5s ease;
-}
-.moreBtn:hover {
-  background-color: #ffffff;
-  opacity: 0.75;
+  transition: opacity 0.3s ease ;
 }
 
-.moreBtn.active {
-  background-color: var(--funkblue);
-}
-
-.moreBtn.active:hover {
-  background-color: var(--funkblue);
+.mBtn:hover, .bBtn:hover {
+  opacity: 0.5;
 }
 
 .hidden-text {
   display: none;
 }
+
+.anfrageBtn, .mailBtn {
+  color: white;
+  background-color: var(--funkgreen);
+  transition: opacity 0.3s ease ;
+}
+.mailBtn {
+  background-color: var(--funkblue);
+}
+.anfrageBtn:hover, .mailBtn:hover {
+  opacity: 0.5;
+}
+
+.dquelle {
+  font-size: 12px;
+  margin: 20px 0 0 0;
+  opacity: 0.5;
+}
+
+
+
 /*----------------------------------
   Navigation Years
 -----------------------------------*/
@@ -188,27 +200,22 @@ li:last-child {
   background-color: var(--funkbackground);
 }
 
-button {
-  background-color: white;
-  border: none;
-  border-radius: 5px;
+.years button {
   height: 50px;
   width: 100%;
-  color: #3C3C3B;
-  cursor: pointer;
-  padding: 0.5rem 1rem;
   -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
-  transition: background-color 0.5s ease ;
+  transition: background-color 0.5s ease, color 0.75s ease ;
 }
 
-button.active {
+.years button.active {
   background-color: var(--funkblue);
   color: white;
 }
 
-button:hover {
-  background-color: #e7e7e7;
+.years button:hover {
+  background-color: #E5EAEF;
+  color: #3C3C3B;
 }
 
 .menu {
@@ -242,21 +249,78 @@ button:hover {
 
 .navglobal {
   position: fixed;
-  top: 52px;
-  left: 0;
-  margin: 20px 0 0 25px;
-  width: 50px;
+  top: 70px;
+  left: 25px;
+  z-index: 99;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.menuBtn, .backBtn {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  padding: 20px;
   z-index: 1;
+  transition: background-color 0.3s;
+  align-items: center;
+  justify-content: center;
+}
+.menuBtn:hover, .backBtn:hover {
+  background-color: #ddd;
 }
 
-.menu {
-  width: 50px;
-  margin-right: 10px;
+#icon-close {
+  display: none;
 }
 
-.back {
-  width: 50px;
-  margin-top: 10px;
+.supernavcontainer {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 98;
+  background-color: rgba(0, 80, 146, 0.5);
+}
+
+.supernav {
+  position: absolute;
+  display: flex;
+  gap: 30px;
+  top: 70px;
+  left: 115px;
+  align-items: flex-start;
+}
+.supernav ul {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px 15px;
+}
+
+.supernav li {
+  text-align: left;
+  padding: 15px 0;
+  border-bottom: 1px #d7d7d7 solid;
+}
+.supernav li:last-child {
+  border-bottom: none;
+}
+
+.supernav li a {
+  padding: 0px 5px;
+}
+.supernav li a.activ {
+  color: #005092;
+  font-weight: 600;
+}
+
+.supernav li span.title {
+  padding: 0px 5px;
+  opacity: 0.5;
 }
 
 
@@ -364,34 +428,57 @@ button:hover {
   Risiko Detail
 -----------------------------------*/
 
-.rdetailcontainer {
+.rdmain {
   position: relative;
-  margin: 70px 25px 0 100px;
+  margin: 70px 25px 0 115px;
 }
 
-.reinleitungcontainer {
+.rdeinleitung {
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  gap: 30px;
+  align-items: flex-start;
 }
 
-.rbeschreibung {
-  width: 60%;
-  padding: 30px;
+.rdeinleitung h1 {
+  font-size: var(--fontbig);
 }
-.rentwicklung{
+
+.item40{
   width: 40%;
-  padding: 30px;
+  padding: 35px 30px;
+}
+.item60 {
+  width: 60%;
+}
+.item100 {
+  width: 100%;
+  padding: 35px 30px;
+}
+.rdimg {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: 250px;
+}
+.rdimg img {
+  width: 100%;
+  min-height: 150px;
+  display: inherit;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+.rdcontent {
+  padding: 35px 30px;
 }
 
 .rdcontainer {
-  margin-top: 50px;
+  margin-top: 75px;
 }
-.rdcontainer h3 {
+.rdcontainer h2 {
   margin-left: 30px;
-}
-.rfakten {
-  padding: 30px;
+  margin-bottom: 30px;
 }
 
 .piecontainer {
@@ -418,11 +505,11 @@ button:hover {
 }
 
 /* Events */
-.reventscontainer {
+.rdevents {
   display: flex;    
   flex-direction: row;
   align-items: flex-start;
-  gap: 40px;
+  gap: 30px;
 }
 .event {
   width: 100%;
@@ -444,42 +531,38 @@ button:hover {
 .eventtitle {
   padding: 25px 20px;
 }
-
 .eventtitle p {
   margin-bottom: 25px;
 }
 
 /* Lösung und Kontakt */
-.rsolutioncontainer {
+.rdsolution {
   display: flex;    
   flex-direction: row;
   align-items: flex-start;
-  gap: 40px; 
+  gap: 30px; 
 }
-.rsolution {
+.itemsolution {
   width: 60%;
+  padding: 25px 20px;
   background-color: #e7eee1;
 }
-.rsolution h1 {
+.itemsolution h1 {
   color: var(--funkgreen);
 }
-.rcontact {
+.itemcontact {
   width: 40%;
+  padding: 25px 20px;
+  display: flex;
+  gap: 20px;
 }
-.anfrageBtn {
-  color: white;
-  border-radius: 5px;
-  font-size: 14px;
-  height: 40px;
-  width: auto;
-  line-height: 100%;
-  padding: 10px 20px;
-  box-shadow: none;
-  background-color: var(--funkgreen);
+.contactimg {
+  width: 200px;
+  height: 200px;
 }
-
-
-
+.contactimg img {
+ width: 100%;
+}
 
 
 /*----------------------------------
