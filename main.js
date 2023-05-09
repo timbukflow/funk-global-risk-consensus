@@ -10,4 +10,15 @@ $(document).ready(function() {
   
   setInterval(updateTime, 1000);
 
+  // More Text
+  $('.moreBtn').click(function() {
+    const isOpen = $(this).attr('data-open') === 'true';
+    const newText = isOpen ? 'Schliessen' : 'Bericht';
+
+    $(this).text(newText);
+    $(this).attr('data-open', !isOpen);
+
+    $(this).prev('.hidden-text').slideToggle(700);
+  });
+
 });

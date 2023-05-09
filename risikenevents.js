@@ -127,7 +127,7 @@ const data = {
 
 $(document).ready(() => {
   const $risks = $(".risks");
-  const $events = $(".events");
+  const $events = $(".gevents");
   const $yearButtons = $(".years button");
 
   function updateContent(year) {
@@ -151,11 +151,11 @@ $(document).ready(() => {
 
       yearData.events.forEach(event => {
           $events.append(`
-              <div class="event bg">
-                <div class="eventimg">
+              <div class="gevent bg">
+                <div class="geventimg">
                   <img src="${event.image}" alt="${event.name}">
                 </div>
-                <div class="eventtitle">
+                <div class="geventtitle">
                   <h1>${event.name}</h1>
                 </div>
               </div>

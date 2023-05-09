@@ -53,15 +53,114 @@
         </a>
     </div>
 
-    <div class="risikodetailcontainer">
-        <div class="risikoeinleitung">
-            <div class="risikobeschreibung bg">
+    <div class="rdetailcontainer">
+        <div class="reinleitungcontainer">
+            <div class="rbeschreibung bg">
                 <h1>Extreme Wetterereignisse</h1>
                 <p>Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, Ihr Zuhause oder sogar Ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa oder sogar in der Schweiz gibt es immer wieder extreme Wetterereignisse die Tod und Zerstörung mit sich bringen. Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher Wetterereignisse nimmt global stark zu und mehr und mehr Menschen und Firmen sind betroffen</p>
             </div>
-            <div class="risikoentwicklung bg">
+            <div class="rentwicklung bg">
                 <h2>Entwicklung des Risikos</h2>
-                <canvas id="myChart"></canvas>
+                <canvas id="entwicklung-ew"></canvas>
+            </div>
+        </div>
+        <div class="rdcontainer">
+            <h3>Interessante Fakten</h3>
+            <div class="rfakten bg">
+                <h1>Extreme Wetterereignisse haben in den letzten 40 Jahren (1980-2020) in Europa (EEA-32 Länder) über 500 Milliarden Schäden verursacht, wovon nur 116 Milliarden versichert waren. Ungefähr 142 tausend Menschen sind diesen Events zum Opfer gefallen.</h1>
+                <div class="piecontainer">
+                    <div><canvas id="pie-economic-losses"></canvas></div>
+                    <div><canvas id="pie-insured-economic-losses"></canvas></div>
+                    <div><canvas id="pie-fatalities"></canvas></div>
+                </div>
+                <div class="piedescription">
+                    <p> 
+                        <span style='background-color:#60A3D9;'></span> Hydrologische Ereignisse
+                        <span style='background-color:#5487A6;'></span> Meteorologische Ereignisse
+                        <span style='background-color:#A9977F;'></span> Klimatologische Ereignisse - Hitzewelle
+                        <span style='background-color:#BFBFBF;'></span> Klimatologische Ereignisse - Andere
+                    </p>
+                    <p>Hydrologische Events beschreiben Hochwasser und Überschwemmungen, meteorologische Events sind Stürme, klimatologische Events sind Hitzewellen und andere klimatologische Events beschreiben Dürren, Kältewellen und extreme Feuchtperioden.</p>
+                </div>
+            </div>
+        </div>
+        <div class="rdcontainer">
+            <h3>Abhängigkeit zu Events</h3>
+            <div class="reventscontainer">
+                <div class="event bg">
+                    <div class="eventimg">
+                      <img src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" alt="">
+                    </div>
+                    <div class="eventtitle">
+                      <h1>Buschfeuer in Australien <br> 2019-2020</h1>
+                      <p class="hidden-text">
+                        Die Buschfeuer in Australien 2019-2020 waren eine der schlimmsten Feuerkatastrophen in der Geschichte des Landes. Die Brände begannen im Oktober 2019 und dauerten bis Februar 2020 an. 
+                        <br><br>
+                        Die Feuer breiteten sich in vielen Teilen des Landes aus, insbesondere in den Bundesstaaten New South Wales und Victoria, und zerstörten große Flächen von Wäldern, Buschland und Nationalparks. Es wird geschätzt, dass mehr als 10 Millionen Hektar Land verbrannt wurden, was ungefähr der Größe von Island entspricht. Viele Tierarten wurden durch die Feuer aus ihren Lebensräumen vertrieben und es wird angenommen, dass Hunderte von Millionen Tieren durch die Brände ums Leben gekommen sind. 
+                        <br><br>
+                        Die Feuer hatten auch schwerwiegende Auswirkungen auf die Gesundheit der Menschen in den betroffenen Gebieten. Die Luftqualität war in vielen Regionen aufgrund des Rauchs und der Asche stark beeinträchtigt, was zu gesundheitlichen Problemen bei der Bevölkerung führte.
+                      </p>
+                      <button class="moreBtn" data-open="true">Bericht</button>
+                    </div>
+                </div>
+                <div class="event bg">
+                    <div class="eventimg">
+                      <img src="img/funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021.jpg" alt="">
+                    </div>
+                    <div class="eventtitle">
+                      <h1>Jahrhunderthochwasser in Deutschland - 2021</h1>
+                      <p class="hidden-text">
+                        Im Juli 2021 kam es in Teilen Deutschlands aufgrund starker Regenfälle zu einem verheerenden Hochwasser. Die Überschwemmungen trafen vor allem die Bundesländer Nordrhein-Westfalen und Rheinland-Pfalz, aber auch andere Regionen wie Bayern, Sachsen und Sachsen-Anhalt waren betroffen.
+                        <br><br>
+                        Die Flüsse Rhein, Mosel und deren Nebenflüsse sowie die Zuflüsse der Elbe führten aufgrund der Regenfälle ungewöhnlich viel Wasser, das teilweise weit über die Ufer trat und zahlreiche Ortschaften und Städte in den betroffenen Regionen überflutete.<br><br>
+                        Die Schäden durch das Hochwasser waren enorm. Häuser, Straßen und Brücken wurden beschädigt oder zerstört, Autos und andere Fahrzeuge wurden fortgespült und es gab zahlreiche Tote und Verletzte.
+                      </p>
+                      <button class="moreBtn" data-open="true">Bericht</button>
+                    </div>
+                </div>
+                <div class="event bg">
+                    <div class="eventimg">
+                      <img src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" alt="">
+                    </div>
+                    <div class="eventtitle">
+                      <h1>Hurricane Ian <br> 2022</h1>
+                      <p class="hidden-text">
+                        Hurricane Ian wütete vom 23.-30 September 2022 in der Karibik und richtete grossflächige Zerstörung an. Die Windgeschwindigkeit erreichte bis 260km/h und somit war Ian ein Hurricane der Kategorie 5. Neben den starken Winden war die Sturmflut gepaart mit den sehr starken Niederschlägen und der langsamen Wanderung für die massiven Schäden verantwortlich. 
+                        <br><br>
+                        Insgesamt sind mindestens 160 Menschen ums Leben gekommen, 149 davon in Florida und Ian richtete Schäden von über 113 Milliarden Dollar an. Es war der tödlichste Hurricane in Florida seit 1935.
+                      </p>
+                      <button class="moreBtn" data-open="true">Bericht</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rdcontainer">
+            <h3>Lösungen</h3>
+            <div class="rsolutioncontainer">
+                <div class="rsolution bg">
+                    <div class="eventtitle">
+                    <h1>Naturgefahren Risiko Analyse.</h1>
+                    <p>
+                        Funk untersucht Firmenstandorte auf Ihre Gefährdung durch Naturgefahren und die Wahrscheinlichkeit von Events. Aus den Firmenkennzahlen und Prozessen gemischt mit den Eintrittswahrscheinlichkeiten von Naturgefahren sowie derer Intensität können Höchstschadenssummen abgeleitet werden.
+                        <br><br>
+                        <strong>BU-Analyse.</strong> <br> Mit der BU-Analyse können die Umsatzeinbussen und Unterbrechungszeiten aufgrund von Naturgefahren und anderen Risiken ermittelt werden.
+                    </p>
+                    <button class="anfrageBtn">Anfragen</button>
+                    </div>
+                </div>
+                <div class="rcontact bg">
+                    <div class="eventtitle">
+                    <h1>Buschfeuer in Australien <br> 2019-2020</h1>
+                    <p class="hidden-text">
+                        Die Buschfeuer in Australien 2019-2020 waren eine der schlimmsten Feuerkatastrophen in der Geschichte des Landes. Die Brände begannen im Oktober 2019 und dauerten bis Februar 2020 an. 
+                        <br><br>
+                        Die Feuer breiteten sich in vielen Teilen des Landes aus, insbesondere in den Bundesstaaten New South Wales und Victoria, und zerstörten große Flächen von Wäldern, Buschland und Nationalparks. Es wird geschätzt, dass mehr als 10 Millionen Hektar Land verbrannt wurden, was ungefähr der Größe von Island entspricht. Viele Tierarten wurden durch die Feuer aus ihren Lebensräumen vertrieben und es wird angenommen, dass Hunderte von Millionen Tieren durch die Brände ums Leben gekommen sind. 
+                        <br><br>
+                        Die Feuer hatten auch schwerwiegende Auswirkungen auf die Gesundheit der Menschen in den betroffenen Gebieten. Die Luftqualität war in vielen Regionen aufgrund des Rauchs und der Asche stark beeinträchtigt, was zu gesundheitlichen Problemen bei der Bevölkerung führte.
+                    </p>
+                    <button class="moreBtn" data-open="true">Bericht</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -73,12 +172,12 @@
             
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="extreme-wetterereignisse.js"></script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="main.js"></script>
+    
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

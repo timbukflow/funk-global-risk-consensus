@@ -66,7 +66,7 @@
         </div>
         <div class="contentevent">
             <h2>Global Events</h2>
-            <div class="events"></div>
+            <div class="gevents"></div>
             <h2>Trend 2024</h2>
             <div class="trend"></div>
         </div>
