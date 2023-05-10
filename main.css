@@ -388,14 +388,19 @@ li:last-child {
 .risk, .gevent, .trend {
   display: flex;
   flex-basis: calc(100% / 3 - 20px);
-  transition: box-shadow 0.5s;
+  transition: box-shadow 0.3s;
   cursor: pointer;
   height: 180px;
+  align-items: flex-end;
 }
 
 .risk:hover, .gevent:hover, .trend:hover {
   -webkit-box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.4); 
   box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.4);
+}
+
+.risktitle:hover, .geventtitle:hover{
+  background-color: rgb(40 60 80 / 80%);
 }
 
 .riskimg {
@@ -407,6 +412,7 @@ li:last-child {
 
 .risktitle, .geventtitle, .trendtitle {
   background-color: rgb(60 60 90 / 25%);
+  transition: background-color 0.3s;
   display: flex;
   align-items: flex-end;
   height: 180px;
@@ -418,6 +424,9 @@ li:last-child {
 .trendtitle {
   background-color: #2C785F;
 }
+.trendtitle:hover {
+  background-color: #225c49;
+}
 
 .geventimg {
   display: flex;
@@ -428,7 +437,7 @@ li:last-child {
   margin: 0;
   color: white;
   letter-spacing: 1px;
-  filter: drop-shadow(0px 0px 10px rgb(50, 50, 50));
+  /* filter: drop-shadow(0px 0px 10px rgb(50, 50, 50)); */
 }
 
 .risk img, .gevent img {
