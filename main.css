@@ -12,6 +12,7 @@
   --funkgrey: #7F7F7F;
   --funkgreenlight: #9aa8a4;
   --funkbackground: #F6F6F6;
+  --funkhover: #E5EAEF;
 
   --fontsmall: 16px;
   --fontmedium: 21px;
@@ -223,8 +224,7 @@ li:last-child {
 }
 
 .years button:hover {
-  background-color: #E5EAEF;
-  color: #3C3C3B;
+  background-color: var(--funkhover);
 }
 
 .years button.active:hover {
@@ -280,7 +280,7 @@ li:last-child {
   justify-content: center;
 }
 .menuBtn:hover, .backBtn:hover {
-  background-color: #ddd;
+  background-color: var(--funkhover);
 }
 
 #icon-close {
