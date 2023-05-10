@@ -39,25 +39,35 @@
     <link rel="stylesheet" href="main.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400&family=Noto+Serif&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,400,0,0" />
 </head>
 
 <body>
-
-    <div class="navyears">
-        <button class="menu"> <img src="img/funk-menu.svg" alt="menu" width="14px"></button>
-        <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
-        <div class="buttons years">
-            <button data-year="2017">2017</button>
-            <button data-year="2018">2018</button>
-            <button data-year="2019">2019</button>
-            <button data-year="2020">2020</button>
-            <button data-year="2021">2021</button>
-            <button data-year="2022">2022</button>
-            <button data-year="2023" class="active">2023</button>
+    <div class="startnavcont">
+        <div class="navglobal">
+            <button class="menuBtn bg">
+                <span id="icon-menu" class="material-symbols-outlined ">menu</span>
+                <span id="icon-close" class="material-symbols-outlined ">close</span>
+            </button>
         </div>
-        <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
+        <div class="navyears">
+            <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
+            <div class="buttons years">
+                <button data-year="2017">2017</button>
+                <button data-year="2018">2018</button>
+                <button data-year="2019">2019</button>
+                <button data-year="2020">2020</button>
+                <button data-year="2021">2021</button>
+                <button data-year="2022">2022</button>
+                <button data-year="2023" class="active">2023</button>
+            </div>
+            <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
+        </div>
+        <?php require_once 'supernav.php'; ?>
     </div>
+    
+    
 
     <div class="riskseventstrends">
         <div class="contentrisks">
@@ -67,13 +77,18 @@
         <div class="contentevent">
             <h2>Global Events</h2>
             <div class="gevents"></div>
+        </div>
+        <div class="contentevent">
             <h2>Trend 2024</h2>
-            <div class="trend"></div>
+            <div class="trends">
+                <a href="trend" class="trend bg">
+                    <div class="trendtitle">
+                        <h1>Funk Risiko Vorhersage Expertenmeinung</h1>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
-
-    <div class="holder"></div>
-    
     
 
             

@@ -3,7 +3,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Extreme Wetterereignisse</title>
+    <title>Funk Global Risk Consensus | WannaCry Ransomware</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content=".........">
@@ -62,19 +62,59 @@
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-extreme-wetterereignisse.jpg" alt="">
+                      <img src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" alt="">
                 </div>
                 <div class="rdcontent">
-                    <h1>Extreme Wetterereignisse</h1>
-                    <p>Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, Ihr Zuhause oder sogar Ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa oder sogar in der Schweiz gibt es immer wieder extreme Wetterereignisse die Tod und Zerstörung mit sich bringen.</p>
-                    <p class="hidden-text">Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher Wetterereignisse nimmt global stark zu und mehr und mehr Menschen und Firmen sind betroffen</p>
+                    <h1>WannaCry Ransomware</h1>
+                    <p>
+                        WannaCry ist eine Art von Ransomware, die im Mai 2017 eine massive globale Cyberattacke ausgelöst hat. Die Schadsoftware verbreitete sich schnell über Computer, die mit veralteten oder nicht gepatchten Versionen von Microsoft Windows-Betriebssystemen betrieben wurden.
+                        <br><br>    
+                        Die Ransomware nutzte eine Schwachstelle im Windows-SMB-Protokoll aus, um sich schnell in Netzwerken auszubreiten. Sobald ein Computer infiziert war, wurden alle darauf gespeicherten Dateien verschlüsselt und es erschien eine Lösegeldforderung auf dem Bildschirm des Nutzers.
+                        <br><br>
+                        Die Betrüger forderten in der Regel eine Zahlung in der Kryptowährung Bitcoin, um die Dateien wiederherzustellen. Die Lösegeldforderung betrug typischerweise mehrere hundert Dollar oder Euro.
+                    </p>
+                    <p class="hidden-text">
+                        WannaCry wurde von Experten als besonders gefährlich eingestuft, da es sich schnell verbreiten konnte und viele Unternehmen und Organisationen betraf, darunter Regierungsbehörden, Krankenhäuser, Banken und Flughäfen. Die Auswirkungen der Attacke waren weltweit zu spüren, mit geschätzten Schäden von ungefähr 4 Milliarden Dollar.
+                        <br><br>
+                        Obwohl Microsoft schnell einen Patch für die Schwachstelle bereitstellte, die von WannaCry ausgenutzt wurde, zeigt der Angriff die Bedeutung von regelmäßigen Sicherheitsupdates und -patches, um die Wahrscheinlichkeit von Cyberangriffen zu reduzieren.
+                    </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
             </div>
             <div class="item40 bg">
-                <h2>Entwicklung des Risikos</h2>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>
-                <canvas id="entwicklung-ew"></canvas>
+                <h2>Timeline WannaCry</h2>
+                <div class="timeline">
+                    <div class="event">
+                        <div class="event-content">
+                            <span class="date">12. Mai 2017</span>
+                            <p>WannaCry wird zum ersten Mal in Russland und China entdeckt und beginnt sich schnell auf andere Länder auszubreiten.</p>
+                        </div>
+                    </div>
+                    <div class="event">
+                        <div class="event-content">
+                            <span class="date">13. Mai 2017</span>
+                            <p>Der Angriff trifft Unternehmen und Organisationen auf der ganzen Welt, darunter den britischen National Health Service (NHS), die spanische Telefongesellschaft Telefonica, die Deutsche Bahn und FedEx.</p>
+                        </div>
+                    </div>
+                    <div class="event">
+                        <div class="event-content">
+                            <span class="date">14. Mai 2017</span>
+                            <p>Die Zahl der Infektionen nimmt weiter zu und viele Unternehmen und Regierungen rufen zu einer schnellen Reaktion auf den Angriff auf, um weitere Schäden zu verhindern.</p>
+                        </div>
+                    </div>
+                    <div class="event">
+                        <div class="event-content">
+                            <span class="date">15. Mai 2017</span>
+                            <p>Ein Sicherheitsforscher entdeckt einen "Kill Switch", der die Verbreitung von WannaCry eindämmen kann, indem er die Verbindung von WannaCry zu einer bestimmten Domain ermöglicht. Sobald die Verbindung steht, schaltet sich WannaCry ab.</p>
+                        </div>
+                    </div>
+                    <div class="event">
+                        <div class="event-content">
+                            <span class="date">16. Mai 2017</span>
+                            <p>Microsoft veröffentlicht einen Patch, um die Schwachstelle in Windows zu schließen, die von WannaCry ausgenutzt wird, um sich in Netzwerken auszubreiten.</p>
+                        </div>
+                    </div>
+                </div>
                 <p class="dquelle">Quelle: Lorem Ipsum dolores</p>
             </div>
         </div>

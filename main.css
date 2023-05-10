@@ -15,7 +15,7 @@
 
   --fontsmall: 16px;
   --fontmedium: 21px;
-  --fontlarge: 25px;
+  --fontlarge: 28px;
   --fontbig: 45px;
 }
 
@@ -38,7 +38,7 @@ h1, h2, h3, a, li {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
 }
-p, button, .supernav li, .supernav a  {
+p, button, .supernav li, .supernav a, .date  {
   font-family: 'Noto Sans', sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
@@ -51,6 +51,7 @@ h1 {
   line-height: 130%; 
   margin-top: 0;
   margin-bottom: 20px;
+  letter-spacing: 0.5px;
 }
 
 h2 {
@@ -188,20 +189,28 @@ li:last-child {
   Navigation Years
 -----------------------------------*/
 
+.startnavcont {
+  background-color: var(--funkbackground);
+  z-index: 1;
+  position: fixed;
+  top: 50px;
+  left: 0px;
+  width: 100%;
+  height: 90px;
+}
+
 .navyears {
   position: fixed;
-  top: 52px;
-  left: 0;
-  padding: 15px 15px 0 25px;
-  width: 100%;
+  top: 70px;
+  left: 120px;
+  width: calc(100% - 160px);
   display: flex;
   align-items: center;
   z-index: 1;
-  background-color: var(--funkbackground);
 }
 
 .years button {
-  height: 50px;
+  height: 60px;
   width: 100%;
   -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
@@ -225,9 +234,7 @@ li:last-child {
 
 .buttons {
   display: flex;
-  gap: 10px;
-  overflow-x: auto;
-  padding: 10px 10px 10px 0;
+  gap: 20px;
   width: 100%;
 }
 
@@ -250,7 +257,7 @@ li:last-child {
 .navglobal {
   position: fixed;
   top: 70px;
-  left: 25px;
+  left: 40px;
   z-index: 99;
   display: flex;
   gap: 10px;
@@ -291,7 +298,7 @@ li:last-child {
   display: flex;
   gap: 30px;
   top: 70px;
-  left: 115px;
+  left: 120px;
   align-items: flex-start;
 }
 .supernav ul {
@@ -331,9 +338,9 @@ li:last-child {
 .riskseventstrends {
   position: relative;
   display: flex;
-  flex-direction: row;
-  gap: 80px;
-  margin: 200px 20px 80px 80px;
+  flex-direction: column;
+  gap: 60px;
+  margin: 200px 40px 80px 40px;
 }
 
 .contentrisks {
@@ -341,7 +348,6 @@ li:last-child {
   position: relative;
   flex-direction: column;
   gap: 2rem;
-  width: 70%;
 }
 
 .contentevent {
@@ -349,7 +355,6 @@ li:last-child {
   position: relative;
   flex-direction: column;
   gap: 2rem;
-  width: 30%;
 }
 
 .contentrisks h2,
@@ -361,63 +366,74 @@ li:last-child {
 
 .risks {
   display: flex;
-  position: sticky;
-  top: 50px;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 40px;
+  gap: 30px;
 }
 
 .gevents {
   display: flex;
-  flex-direction: column;
-  gap: 40px;
+  flex-direction: row;
+  gap: 30px;
+  flex-wrap: wrap;
 }
 
+.trends {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  flex-wrap: wrap;
+}
 
 .risk, .gevent, .trend {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+  flex-basis: calc(100% / 3 - 20px);
   transition: box-shadow 0.5s;
   cursor: pointer;
+  height: 180px;
 }
 
-.risk {
-  width: calc(50% - 20px);
-}
-.risk:hover {
-  -webkit-box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.3); 
-  box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.3);
-}
-.gevent {
-  background-color: var(--funkgreenlight);
+.risk:hover, .gevent:hover, .trend:hover {
+  -webkit-box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.4); 
+  box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.4);
 }
 
-.riskimg, .geventimg {
+.riskimg {
   overflow: hidden;
   display: flex;
   align-items: center;
-  height: 120px;
+  height: 180px;
 }
 
-.risktitle, .geventtitle {
-  height: 100px;
+.risktitle, .geventtitle, .trendtitle {
+  background-color: rgba(60,60,60,0.4);
   display: flex;
   align-items: flex-end;
-  padding: 25px 20px;
+  height: 180px;
+  width: 100%;
+  padding: 25px;
+  position: absolute;
 }
 
-.risktitle h1, .geventtitle h1 {
-  margin: 0;
+.trendtitle {
+  background-color: #2C785F;
 }
-.geventtitle h1 {
+
+.geventimg {
+  display: flex;
+  align-items: center;
+}
+
+.risktitle h1, .geventtitle h1, .trendtitle h1 {
+  margin: 0;
   color: white;
+  letter-spacing: 1px;
+  filter: drop-shadow(0px 0px 10px rgb(50, 50, 50));
 }
 
 .risk img, .gevent img {
   width: 100%;
-  min-height: 150px;
+  min-height: 200px;
   display: inherit;
   object-fit: cover;
   display: block;
@@ -430,7 +446,7 @@ li:last-child {
 
 .rdmain {
   position: relative;
-  margin: 70px 25px 0 115px;
+  margin: 70px 40px 100px 120px;
 }
 
 .rdeinleitung {
@@ -564,15 +580,62 @@ li:last-child {
  width: 100%;
 }
 
+/*----------------------------------
+  Global Event Detail
+-----------------------------------*/
+
+.timeline {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  width: 1px;
+  background-color: #838383;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin-left: 0;
+}
+
+.event {
+  position: relative;
+}
+
+.event-content {
+  padding: 20px;
+  position: relative;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.event-content::before {
+  content: '';
+  position: absolute;
+  width: 15px;
+  border-bottom: 1px solid #838383;
+  height: 0;
+  left: 0;
+}
+
 
 /*----------------------------------
   Footer
 -----------------------------------*/
-.holder {
-  margin-top: 150px;
+footer {
+  justify-content: space-between;
+  background-color: var(--funkblue);
+  padding: 15px 25px;
   width: 100%;
-  height: 500px;
-  background-color: #9aa8a4;
+  z-index: 100;
+}
+footer li {
+  color: white;
 }
 
 /*----------------------------------

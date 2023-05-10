@@ -117,10 +117,15 @@ const data = {
     ],
   },
   
-  "2021": {
+  "2017": {
       "risks": [
       ],
       "events": [
+        {
+          "name": "WannaCry Ransomware",
+          "image": "img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg",
+          "link": "globale-events-wannacry-ransomware"
+        },
       ],
   },
 };
@@ -151,14 +156,14 @@ $(document).ready(() => {
 
       yearData.events.forEach(event => {
           $events.append(`
-              <div class="gevent bg">
-                <div class="geventimg">
-                  <img src="${event.image}" alt="${event.name}">
-                </div>
-                <div class="geventtitle">
-                  <h1>${event.name}</h1>
-                </div>
-              </div>
+              <a href="${event.link}" class="gevent bg">
+                  <div class="geventimg">
+                    <img src="${event.image}" alt="${event.name}">
+                  </div>
+                  <div class="geventtitle">
+                    <h1>${event.name}</h1>
+                  </div>
+              </a>
           `);
       });
   }
