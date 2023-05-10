@@ -395,12 +395,12 @@ li:last-child {
 }
 
 .risk:hover, .gevent:hover, .trend:hover {
-  -webkit-box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.4); 
-  box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.4);
+  -webkit-box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.3); 
+  box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.3);
 }
 
 .risktitle:hover, .geventtitle:hover{
-  background-color: rgb(40 60 80 / 80%);
+  background-color: rgb(60 60 90 / 50%);
 }
 
 .riskimg {
