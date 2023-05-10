@@ -227,6 +227,11 @@ li:last-child {
   color: #3C3C3B;
 }
 
+.years button.active:hover {
+  background-color: #014175;
+  color: white;
+}
+
 .menu {
   width: 50px;
   margin-right: 10px;
