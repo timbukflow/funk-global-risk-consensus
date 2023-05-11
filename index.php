@@ -44,6 +44,7 @@
 </head>
 
 <body>
+    
     <div class="startnavcont">
         <div class="navglobal">
             <button class="menuBtn bg">
@@ -67,29 +68,29 @@
         <?php require_once 'supernav.php'; ?>
     </div>
     
-    
-
+    <!-- Risiken - Globale Events - Trend -->
     <div class="riskseventstrends">
-        <div class="contentrisks">
+        <div class="crisks">
             <h2>Top Risiken</h2>
             <div class="risks"></div>
         </div>
-        <div class="contentevent">
-            <h2>Global Events</h2>
-            <div class="gevents"></div>
-        </div>
-        <div class="contentevent">
-            <h2>Trend 2024</h2>
-            <div class="trends">
-                <a href="trend" class="trend bg">
-                    <div class="trendtitle">
-                        <h1>Funk Risiko Vorhersage Expertenmeinung</h1>
-                    </div>
-                </a>
+        <div class="cgeventstrends">
+            <div class="cgevents">
+                <h2>Global Events</h2>
+                <div class="gevents"></div>
+            </div>
+            <div class="ctrends">
+                <h2>Trend 2024</h2>
+                <div class="trends">
+                    <a href="trend" class="trend bg">
+                        <div class="trendtitle">
+                            <h1>Funk Risiko Vorhersage Expertenmeinung</h1>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
-    
 
             
     <?php require_once 'nav.php'; ?>

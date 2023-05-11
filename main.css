@@ -16,7 +16,7 @@
 
   --fontsmall: 16px;
   --fontmedium: 21px;
-  --fontlarge: 28px;
+  --fontlarge: 27px;
   --fontbig: 45px;
 }
 
@@ -343,31 +343,34 @@ li:last-child {
 .riskseventstrends {
   position: relative;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 60px;
-  margin: 200px 40px 80px 40px;
+  max-width: 1800px;
+  margin: 200px auto;
+  padding: 0 40px;
 }
 
-.contentrisks {
-  display: flex;
-  position: relative;
-  flex-direction: column;
-  gap: 2rem;
+.riskseventstrends h1 {
+  margin: 0;
+  padding: 20px 25px;
 }
 
-.contentevent {
-  display: flex;
-  position: relative;
-  flex-direction: column;
-  gap: 2rem;
-}
-
-.contentrisks h2,
-.contentevent h2 {
+.riskseventstrends h2 {
   padding-left: 15px;
   margin: 0;
 }
 
+.riskseventstrends img {
+  width: 100%;
+  min-height: 200px;
+}
+
+.crisks {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 70%;
+}
 
 .risks {
   display: flex;
@@ -376,27 +379,69 @@ li:last-child {
   gap: 30px;
 }
 
-.gevents {
+.risk {
   display: flex;
-  flex-direction: row;
-  gap: 30px;
-  flex-wrap: wrap;
-}
-
-.trends {
-  display: flex;
-  flex-direction: row;
-  gap: 30px;
-  flex-wrap: wrap;
-}
-
-.risk, .gevent, .trend {
-  display: flex;
-  flex-basis: calc(100% / 3 - 20px);
+  flex-direction: column;
+  flex-basis: calc(100% / 2 - 15px);
   transition: box-shadow 0.3s;
   cursor: pointer;
-  height: 180px;
-  align-items: flex-end;
+  height: 220px;
+}
+
+.riskimg, .geventimg {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+
+.cgeventstrends {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 30%;
+}
+.cgevents, .ctrends {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.gevents, .trends  {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.gevent {
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.3s;
+  cursor: pointer;
+  height: 220px;
+}
+
+.trend {
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.3s;
+  cursor: pointer;
+}
+
+.gevent h1 {
+  color: white;
+  transition: background-color 0.3s;
+  background-color: #7DAA9B;
+}
+
+.trend h1 {
+  color: white;
+  transition: background-color 0.3s;
+  background-color: #2C785F;
+}
+
+.trend h1:hover {
+  background-color: #225c49;
 }
 
 .risk:hover, .gevent:hover, .trend:hover {
@@ -404,55 +449,8 @@ li:last-child {
   box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.3);
 }
 
-.risktitle:hover, .geventtitle:hover{
-  background-color: rgb(60 60 90 / 50%);
-}
 
-.riskimg {
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  height: 180px;
-}
 
-.risktitle, .geventtitle, .trendtitle {
-  background-color: rgb(60 60 90 / 25%);
-  transition: background-color 0.3s;
-  display: flex;
-  align-items: flex-end;
-  height: 180px;
-  width: 100%;
-  padding: 25px;
-  position: absolute;
-}
-
-.trendtitle {
-  background-color: #2C785F;
-}
-.trendtitle:hover {
-  background-color: #225c49;
-}
-
-.geventimg {
-  display: flex;
-  align-items: center;
-}
-
-.risktitle h1, .geventtitle h1, .trendtitle h1 {
-  margin: 0;
-  color: white;
-  letter-spacing: 1px;
-  /* filter: drop-shadow(0px 0px 10px rgb(50, 50, 50)); */
-}
-
-.risk img, .gevent img {
-  width: 100%;
-  min-height: 200px;
-  display: inherit;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto;
-}
 
 /*----------------------------------
   Risiko Detail
