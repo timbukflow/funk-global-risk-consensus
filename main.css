@@ -362,7 +362,8 @@ li:last-child {
 
 .riskseventstrends img {
   width: 100%;
-  min-height: 200px;
+  min-height: 250px;
+  object-fit: cover;
 }
 
 .crisks {
@@ -385,7 +386,7 @@ li:last-child {
   flex-basis: calc(100% / 2 - 15px);
   transition: box-shadow 0.3s;
   cursor: pointer;
-  height: 220px;
+  height: 300px;
 }
 
 .riskimg, .geventimg {
