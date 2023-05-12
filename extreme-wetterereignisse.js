@@ -44,6 +44,7 @@ const myLineChart = new Chart(ctx, {
   options: options
 });
 
+
 // Pie - Style
 const pieStyle = {
   backgroundColor: ['#60A3D9', '#5487A6', ' #A9977F', '#BFBFBF'],
@@ -66,10 +67,10 @@ const pieStyle = {
     }
   },
   padding: {
-    top: 10,
-    right: 10,
-    bottom: 10,
-    left: 10
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0
   }
 };
 

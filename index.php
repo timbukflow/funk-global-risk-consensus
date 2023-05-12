@@ -40,19 +40,19 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 </head>
 
 <body>
-    
+
     <div class="startnavcont">
+        <div class="navyears">
         <div class="navglobal">
             <button class="menuBtn bg">
                 <span id="icon-menu" class="material-symbols-outlined ">menu</span>
                 <span id="icon-close" class="material-symbols-outlined ">close</span>
             </button>
         </div>
-        <div class="navyears">
             <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
             <div class="buttons years">
                 <button data-year="2017">2017</button>
@@ -64,8 +64,8 @@
                 <button data-year="2023" class="active">2023</button>
             </div>
             <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
-        </div>
-        <?php require_once 'supernav.php'; ?>
+            <?php require_once 'supernav.php'; ?>
+        </div> 
     </div>
     
     <!-- Risiken - Globale Events - Trend -->
@@ -78,6 +78,7 @@
             <div class="cgevents">
                 <h2>Global Events</h2>
                 <div class="gevents"></div>
+                <button id="moregeventsBtn">Mehr anzeigen</button>
             </div>
             <div class="ctrends">
                 <h2>Trend 2024</h2>

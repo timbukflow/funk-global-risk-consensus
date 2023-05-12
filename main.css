@@ -25,8 +25,9 @@
 }
 
 body {
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 1800px;
   background-color: var(--funkbackground);
 }
 
@@ -197,17 +198,21 @@ li:last-child {
   top: 50px;
   left: 0px;
   width: 100%;
-  height: 90px;
+  height: 125px;
 }
 
 .navyears {
   position: fixed;
-  top: 70px;
-  left: 120px;
-  width: calc(100% - 160px);
+  top: 100px;
+  left: 0;
+  right: 0;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 0 20px;
   display: flex;
   align-items: center;
   z-index: 1;
+  gap: 20px;
 }
 
 .years button {
@@ -260,9 +265,9 @@ li:last-child {
 -----------------------------------*/
 
 .navglobal {
-  position: fixed;
-  top: 70px;
-  left: 40px;
+  position: sticky;
+  top: 100px;
+  width: 60px;
   z-index: 99;
   display: flex;
   gap: 10px;
@@ -299,13 +304,14 @@ li:last-child {
 }
 
 .supernav {
-  position: absolute;
   display: flex;
   gap: 30px;
-  top: 70px;
-  left: 120px;
+  max-width: 1800px;
+  margin: 100px auto 0;
+  padding-left: 110px;
   align-items: flex-start;
 }
+
 .supernav ul {
   width: 300px;
   display: flex;
@@ -346,8 +352,7 @@ li:last-child {
   flex-direction: row;
   gap: 60px;
   max-width: 1800px;
-  margin: 200px auto;
-  padding: 0 40px;
+  margin: 250px auto;
 }
 
 .riskseventstrends h1 {
@@ -420,6 +425,11 @@ li:last-child {
   transition: box-shadow 0.3s;
   cursor: pointer;
   height: 220px;
+  display: none;
+}
+
+.gevent.show {
+  display: flex;
 }
 
 .trend {
@@ -458,8 +468,9 @@ li:last-child {
 -----------------------------------*/
 
 .rdmain {
+  padding-left: 90px;
   position: relative;
-  margin: 70px 40px 100px 120px;
+  top: -30px;
 }
 
 .rdeinleitung {
@@ -474,11 +485,11 @@ li:last-child {
 }
 
 .item40{
-  width: 40%;
+  width: 30%;
   padding: 35px 30px;
 }
 .item60 {
-  width: 60%;
+  width: 70%;
 }
 .item100 {
   width: 100%;
@@ -504,20 +515,39 @@ li:last-child {
 
 .rdcontainer {
   margin-top: 75px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 30px;
 }
 .rdcontainer h2 {
   margin-left: 30px;
   margin-bottom: 30px;
 }
 
+.rdcfakten{
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+} 
+
+.rdcevents {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
 .piecontainer {
   display: flex;    
   flex-direction: row;
-  gap: 40px;
+  justify-content: space-between;
+  gap: 10px;
 }
-.piecontainer div {
-  width: 100%;
+
+.pietest {
+  width: calc(100% / 3 - 10px);
 }
+
 .piedescription {
   margin-top: 50px;
 }
@@ -535,9 +565,8 @@ li:last-child {
 
 /* Events */
 .rdevents {
-  display: flex;    
-  flex-direction: row;
-  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
   gap: 30px;
 }
 .event {
@@ -565,25 +594,25 @@ li:last-child {
 }
 
 /* Lösung und Kontakt */
-.rdsolution {
-  display: flex;    
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 30px; 
+.rdCsolution {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
 }
-.itemsolution {
-  width: 60%;
-  padding: 25px 20px;
+.rdsolution {
+  padding: 35px 30px;
   background-color: #e7eee1;
 }
-.itemsolution h1 {
+.rdsolution h1 {
   color: var(--funkgreen);
 }
-.itemcontact {
-  width: 40%;
-  padding: 25px 20px;
+.rdCcontact {
+  width: 30%;
   display: flex;
-  gap: 20px;
+  flex-direction: column;
+}
+.rdcontact {
+  padding: 35px 30px;
 }
 .contactimg {
   width: 200px;

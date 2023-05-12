@@ -116,7 +116,17 @@ const data = {
         },
     ],
   },
-  
+  "2018": {
+    "risks": [
+    ],
+    "events": [
+      {
+        "name": "WannaCry Ransomware",
+        "image": "img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg",
+        "link": "globale-events-wannacry-ransomware"
+      },
+    ],
+  },
   "2017": {
       "risks": [
       ],
@@ -134,50 +144,72 @@ $(document).ready(() => {
   const $risks = $(".risks");
   const $events = $(".gevents");
   const $yearButtons = $(".years button");
+  const $moregeventsBtn = $('#moregeventsBtn');
 
   function updateContent(year) {
-      $risks.empty();
-      $events.empty();
+    $risks.empty();
+    $events.empty();
 
-      const yearData = data[year];
+    const yearData = data[year];
 
-      yearData.risks.forEach(risk => {
-          $risks.append(`
-              <a href="${risk.link}" class="risk bg">
-                <div class="riskimg">
-                  <img src="${risk.image}" alt="${risk.name}">
-                </div>
-                <div class="risktitle">
-                  <h1>${risk.name}</h1>
-                </div>
-              </a>
-          `);
-      });
+    yearData.risks.forEach(risk => {
+      $risks.append(`
+          <a href="${risk.link}" class="risk bg">
+            <div class="riskimg">
+              <img src="${risk.image}" alt="${risk.name}">
+            </div>
+            <div class="risktitle">
+              <h1>${risk.name}</h1>
+            </div>
+          </a>
+      `);
+    });
 
-      yearData.events.forEach(event => {
-          $events.append(`
-              <a href="${event.link}" class="gevent bg">
-                  <div class="geventimg">
-                    <img src="${event.image}" alt="${event.name}">
-                  </div>
-                  <div class="geventtitle">
-                    <h1>${event.name}</h1>
-                  </div>
-              </a>
-          `);
-      });
+    yearData.events.forEach(event => {
+      $events.append(`
+          <a href="${event.link}" class="gevent bg">
+              <div class="geventimg">
+                <img src="${event.image}" alt="${event.name}">
+              </div>
+              <div class="geventtitle">
+                <h1>${event.name}</h1>
+              </div>
+          </a>
+      `);
+    });
+
+    toggleHiddenItems();
   }
 
+  function toggleHiddenItems() {
+    var $items = $('.gevent');
+
+    if ($items.length > 3) {
+      $items.slice(0, 3).addClass('show'); 
+      $items.slice(3).removeClass('show');
+
+      $moregeventsBtn.on('click', function() {
+        $items.slice(3).toggleClass('show');
+        $moregeventsBtn.text(function() {
+          return $items.slice(3).hasClass('show') ? 'Weniger anzeigen' : 'Mehr anzeigen';
+        });
+      });
+
+      $moregeventsBtn.show();
+    } else {
+      $items.addClass('show');
+      $moregeventsBtn.hide();
+    }
+  }
 
   $yearButtons.click(event => {
-      const year = $(event.target).data("year");
-      $yearButtons.removeClass("active");
-      $(event.target).addClass("active");
-      updateContent(year);
+    const year = $(event.target).data("year");
+    $yearButtons.removeClass("active");
+    $(event.target).addClass("active");
+    updateContent(year);
   });
 
   updateContent("2023");
-
 
   // Buttons Year
 
