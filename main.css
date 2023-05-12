@@ -163,7 +163,7 @@ li:last-child {
   opacity: 0.5;
 }
 
-.hidden-text {
+.hidden-text, .hidden-events {
   display: none;
 }
 
@@ -569,9 +569,7 @@ li:last-child {
   flex-direction: column;
   gap: 30px;
 }
-.event {
-  width: 100%;
-}
+
 .eventimg {
   overflow: hidden;
   display: flex;

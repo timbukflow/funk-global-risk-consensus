@@ -49,4 +49,15 @@ $(document).ready(function() {
     $(this).prev('.hidden-text').slideToggle(700);
   });
 
+  // Events Weitere Button
+  $('.ewBtn').click(function() {
+    const isOpenevent = $(this).attr('data-open') === 'true';
+    const newTextevent = isOpenevent ? 'schliessen' : 'Bericht';
+
+    $(this).text(newTextevent);
+    $(this).attr('data-open', !isOpenevent);
+
+    $(this).prev('.hidden-events').slideToggle(700);
+  });
+
 });

@@ -103,7 +103,7 @@
             </div>
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
-                <div class="rdevents">
+                <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
                         <img src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" alt="">
@@ -135,20 +135,23 @@
                         <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
-                    <div class="event bg">
-                        <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" alt="">
-                        </div>
-                        <div class="eventtitle">
-                        <h1>Hurricane Ian <br> 2022</h1>
-                        <p class="hidden-text">
-                            Hurricane Ian wütete vom 23.-30 September 2022 in der Karibik und richtete grossflächige Zerstörung an. Die Windgeschwindigkeit erreichte bis 260km/h und somit war Ian ein Hurricane der Kategorie 5. Neben den starken Winden war die Sturmflut gepaart mit den sehr starken Niederschlägen und der langsamen Wanderung für die massiven Schäden verantwortlich. 
-                            <br><br>
-                            Insgesamt sind mindestens 160 Menschen ums Leben gekommen, 149 davon in Florida und Ian richtete Schäden von über 113 Milliarden Dollar an. Es war der tödlichste Hurricane in Florida seit 1935.
-                        </p>
-                        <button class="bBtn" data-open="true">Bericht</button>
+                    <div class="hidden-events">
+                        <div class="event bg">
+                            <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" alt="">
+                            </div>
+                            <div class="eventtitle">
+                            <h1>Hurricane Ian <br> 2022</h1>
+                            <p class="hidden-text">
+                                Hurricane Ian wütete vom 23.-30 September 2022 in der Karibik und richtete grossflächige Zerstörung an. Die Windgeschwindigkeit erreichte bis 260km/h und somit war Ian ein Hurricane der Kategorie 5. Neben den starken Winden war die Sturmflut gepaart mit den sehr starken Niederschlägen und der langsamen Wanderung für die massiven Schäden verantwortlich. 
+                                <br><br>
+                                Insgesamt sind mindestens 160 Menschen ums Leben gekommen, 149 davon in Florida und Ian richtete Schäden von über 113 Milliarden Dollar an. Es war der tödlichste Hurricane in Florida seit 1935.
+                            </p>
+                            <button class="bBtn" data-open="true">Bericht</button>
+                            </div>
                         </div>
                     </div>
+                    <button class="ewBtn" data-open="true">Mehr anzeigen</button>
                 </div>
             </div>    
         </div>
