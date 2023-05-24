@@ -10,13 +10,13 @@
   --funkblue: #005092;
   --funkgreen: #75B845;
   --funkgrey: #7F7F7F;
-  --funkgreenlight: #9aa8a4;
+  --funkgreenlight: #7DAA9B;
   --funkbackground: #F6F6F6;
   --funkhover: #E5EAEF;
 
   --fontsmall: 16px;
   --fontmedium: 21px;
-  --fontlarge: 27px;
+  --fontlarge: 26px;
   --fontbig: 45px;
 }
 
@@ -26,8 +26,8 @@
 
 body {
   margin: 0 auto;
-  padding: 0 20px;
-  max-width: 1800px;
+  padding: 0 60px;
+  max-width: 1600px;
   background-color: var(--funkbackground);
 }
 
@@ -37,6 +37,7 @@ body {
 h1, h2, h3, a, li {
   font-family: 'Noto Serif', serif;
   font-weight: 400;
+  color: #474747;
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0;
 }
@@ -58,7 +59,6 @@ h1 {
 
 h2 {
   font-size: var(--fontmedium);
-  color: #474747;
   line-height: 125%;
   margin: 0;
   hyphens: auto;
@@ -96,6 +96,7 @@ button {
 
 .material-symbols-outlined {
   color: var(--funkblue);
+  vertical-align: text-bottom;
 }
 
 
@@ -106,7 +107,7 @@ button {
 nav {
   justify-content: space-between;
   background-color: var(--funkblue);
-  padding: 15px 25px;
+  padding: 15px 0;
   position: fixed;
   top: 0;
   left: 0;
@@ -121,10 +122,10 @@ nav li, nav a {
 ul {
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  max-width: 1600px;
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
+  padding: 0 70px;
 }
 
 li {
@@ -144,7 +145,7 @@ li:last-child {
   Basic
 -----------------------------------*/
 
-.bg {
+.bg, #gewBtn, .ewBtn {
   background-color: white;
   border-radius: 5px;
   overflow: hidden;
@@ -152,11 +153,17 @@ li:last-child {
   -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
 }
+
+.ewBtn {
+  width: 180px;
+}
 /* morebtn */
-.mBtn, .bBtn {
-  border: var(--funkblue) 1px solid;
+.mBtn, .bBtn, .geBtn {
   color: var(--funkblue);
   transition: opacity 0.3s ease ;
+  border-radius: 0;
+  padding: 0px;
+  background-color: transparent;
 }
 
 .mBtn:hover, .bBtn:hover {
@@ -185,13 +192,32 @@ li:last-child {
   opacity: 0.5;
 }
 
+/*----------------------------------
+  Charts
+-----------------------------------*/
+
+canvas {
+  margin: 40px 0 25px;
+}
+
+.chart-container .chart-labels .chart-label-square {
+  width: 8px;
+  height: 8px;
+}
+
+.chart-container .chart-labels .chart-label-square[data-dataset] {
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--chart-line-color);
+}
+
 
 
 /*----------------------------------
   Navigation Years
 -----------------------------------*/
 
-.startnavcont {
+.navyearscont {
   background-color: var(--funkbackground);
   z-index: 1;
   position: fixed;
@@ -206,9 +232,9 @@ li:last-child {
   top: 100px;
   left: 0;
   right: 0;
-  max-width: 1800px;
+  max-width: 1600px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 60px;
   display: flex;
   align-items: center;
   z-index: 1;
@@ -306,9 +332,9 @@ li:last-child {
 .supernav {
   display: flex;
   gap: 30px;
-  max-width: 1800px;
+  max-width: 1600px;
   margin: 100px auto 0;
-  padding-left: 110px;
+  padding-left: 150px;
   align-items: flex-start;
 }
 
@@ -317,6 +343,7 @@ li:last-child {
   display: flex;
   flex-direction: column;
   padding: 10px 20px 15px;
+  margin: 0;
 }
 
 .supernav li {
@@ -352,7 +379,7 @@ li:last-child {
   flex-direction: row;
   gap: 60px;
   max-width: 1800px;
-  margin: 250px auto;
+  margin: 250px auto 150px;
 }
 
 .riskseventstrends h1 {
@@ -367,8 +394,6 @@ li:last-child {
 
 .riskseventstrends img {
   width: 100%;
-  min-height: 250px;
-  object-fit: cover;
 }
 
 .crisks {
@@ -391,9 +416,12 @@ li:last-child {
   flex-basis: calc(100% / 2 - 15px);
   transition: box-shadow 0.3s;
   cursor: pointer;
-  height: 300px;
+  height: 220px;
 }
 
+.risktitle h1, .geventtitle h1, .trendtitle h1 {
+  font-size: var(--fontmedium);
+}
 .riskimg, .geventimg {
   overflow: hidden;
   display: flex;
@@ -410,26 +438,24 @@ li:last-child {
 .cgevents, .ctrends {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  align-items: flex-start;
+}
+.cgevents h2, .ctrends h2 {
+  margin-bottom: 30px;
 }
 
 .gevents, .trends  {
   display: flex;
   flex-direction: column;
-  gap: 30px;
 }
 
 .gevent {
-  display: flex;
   flex-direction: column;
   transition: box-shadow 0.3s;
   cursor: pointer;
   height: 220px;
-  display: none;
-}
-
-.gevent.show {
   display: flex;
+  margin-bottom: 30px;
 }
 
 .trend {
@@ -437,12 +463,13 @@ li:last-child {
   flex-direction: column;
   transition: box-shadow 0.3s;
   cursor: pointer;
+  height: 94px;
 }
 
 .gevent h1 {
   color: white;
   transition: background-color 0.3s;
-  background-color: #7DAA9B;
+  background-color: var(--funkgreenlight);
 }
 
 .trend h1 {
@@ -510,7 +537,7 @@ li:last-child {
   margin: 0 auto;
 }
 .rdcontent {
-  padding: 35px 30px;
+  padding: 30px;
 }
 
 .rdcontainer {
@@ -536,6 +563,12 @@ li:last-child {
   display: flex;
   flex-direction: column;
 }
+.fakten {
+  width: 100%;
+  margin-bottom: 30px;
+  padding: 30px;
+}
+
 
 .piecontainer {
   display: flex;    
@@ -567,9 +600,11 @@ li:last-child {
 .rdevents {
   display: flex;
   flex-direction: column;
-  gap: 30px;
 }
-
+.event {
+  width: 100%;
+  margin-bottom: 30px;
+}
 .eventimg {
   overflow: hidden;
   display: flex;
@@ -578,15 +613,26 @@ li:last-child {
 }
 .event img {
   width: 100%;
-  min-height: 150px;
+  min-height: 180px;
   display: inherit;
-  object-fit: cover;
   display: block;
   margin: 0 auto;
 }
 .eventtitle {
-  padding: 25px 20px;
+  padding: 30px;
 }
+.eventtitle.globalevent {
+  background-color: var(--funkgreenlight);
+}
+.eventtitle.globalevent h1 {
+  color: white;
+}
+.eventtitle.globalevent .geBtn,
+.eventtitle.globalevent .geBtn .material-symbols-outlined
+ {
+  color: white;
+}
+
 .eventtitle p {
   margin-bottom: 25px;
 }
@@ -598,7 +644,7 @@ li:last-child {
   flex-direction: column;
 }
 .rdsolution {
-  padding: 35px 30px;
+  padding: 30px;
   background-color: #e7eee1;
 }
 .rdsolution h1 {
@@ -641,11 +687,11 @@ li:last-child {
   margin-left: 0;
 }
 
-.event {
+.timegevent {
   position: relative;
 }
 
-.event-content {
+.timegevent-content {
   padding: 20px;
   position: relative;
 }
@@ -654,7 +700,7 @@ li:last-child {
   font-weight: bold;
 }
 
-.event-content::before {
+.timegevent-content::before {
   content: '';
   position: absolute;
   width: 15px;
@@ -670,13 +716,30 @@ li:last-child {
 footer {
   justify-content: space-between;
   background-color: var(--funkblue);
-  padding: 15px 25px;
+  padding: 15px 0;
   width: 100%;
   z-index: 100;
+  position: absolute;
+  left: 0;
+  right: 0;
 }
 footer li {
   color: white;
 }
+
+/*----------------------------------
+  Cookie
+-----------------------------------*/
+#cookiebanner {
+  background-color: white;
+  padding: 15px 15px;
+  width: 250px;
+  z-index: 100;
+  position: fixed;
+  border-radius: 5px;
+  bottom: 25px;
+}
+
 
 /*----------------------------------
   Responsiv

@@ -16,7 +16,7 @@ $(document).ready(function() {
     scales: {
       y: {
         beginAtZero: true,
-        max: 24,
+        max: 50,
         ticks: {
           stepSize: 1
         }

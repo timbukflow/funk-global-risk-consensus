@@ -52,12 +52,13 @@ $(document).ready(function() {
   // Events Weitere Button
   $('.ewBtn').click(function() {
     const isOpenevent = $(this).attr('data-open') === 'true';
-    const newTextevent = isOpenevent ? 'schliessen' : 'Bericht';
+    const newTextevent = isOpenevent ? 'Weniger Events' : 'Mehr Events';
 
     $(this).text(newTextevent);
     $(this).attr('data-open', !isOpenevent);
 
     $(this).prev('.hidden-events').slideToggle(700);
   });
+
 
 });

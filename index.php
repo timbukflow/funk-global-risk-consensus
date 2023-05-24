@@ -45,7 +45,7 @@
 
 <body>
 
-    <div class="startnavcont">
+    <div class="navyearscont">
         <div class="navyears">
         <div class="navglobal">
             <button class="menuBtn bg">
@@ -78,7 +78,7 @@
             <div class="cgevents">
                 <h2>Global Events</h2>
                 <div class="gevents"></div>
-                <button id="moregeventsBtn">Mehr anzeigen</button>
+                <button id="gewBtn">Mehr Events</button>
             </div>
             <div class="ctrends">
                 <h2>Trend 2024</h2>

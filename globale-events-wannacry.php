@@ -84,32 +84,32 @@
             <div class="item40 bg">
                 <h2>Timeline WannaCry</h2>
                 <div class="timeline">
-                    <div class="event">
-                        <div class="event-content">
+                    <div class="timegevent">
+                        <div class="timegevent-content">
                             <span class="date">12. Mai 2017</span>
                             <p>WannaCry wird zum ersten Mal in Russland und China entdeckt und beginnt sich schnell auf andere Länder auszubreiten.</p>
                         </div>
                     </div>
-                    <div class="event">
-                        <div class="event-content">
+                    <div class="timegevent">
+                        <div class="timegevent-content">
                             <span class="date">13. Mai 2017</span>
                             <p>Der Angriff trifft Unternehmen und Organisationen auf der ganzen Welt, darunter den britischen National Health Service (NHS), die spanische Telefongesellschaft Telefonica, die Deutsche Bahn und FedEx.</p>
                         </div>
                     </div>
-                    <div class="event">
-                        <div class="event-content">
+                    <div class="timegevent">
+                        <div class="timegevent-content">
                             <span class="date">14. Mai 2017</span>
                             <p>Die Zahl der Infektionen nimmt weiter zu und viele Unternehmen und Regierungen rufen zu einer schnellen Reaktion auf den Angriff auf, um weitere Schäden zu verhindern.</p>
                         </div>
                     </div>
-                    <div class="event">
-                        <div class="event-content">
+                    <div class="timegevent">
+                        <div class="timegevent-content">
                             <span class="date">15. Mai 2017</span>
                             <p>Ein Sicherheitsforscher entdeckt einen "Kill Switch", der die Verbreitung von WannaCry eindämmen kann, indem er die Verbindung von WannaCry zu einer bestimmten Domain ermöglicht. Sobald die Verbindung steht, schaltet sich WannaCry ab.</p>
                         </div>
                     </div>
-                    <div class="event">
-                        <div class="event-content">
+                    <div class="timegevent">
+                        <div class="timegevent-content">
                             <span class="date">16. Mai 2017</span>
                             <p>Microsoft veröffentlicht einen Patch, um die Schwachstelle in Windows zu schließen, die von WannaCry ausgenutzt wird, um sich in Netzwerken auszubreiten.</p>
                         </div>

@@ -151,7 +151,7 @@
                             </div>
                         </div>
                     </div>
-                    <button class="ewBtn" data-open="true">Mehr anzeigen</button>
+                    <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>
             </div>    
         </div>

@@ -2,9 +2,9 @@ const data = {
   "2023": {
     "risks": [
         {
-          "name": "Cyber Risiken",
-          "image": "img/funk-global-risk-consensus-cyber-risiken.jpg",
-          "link": "cyber-risiken"
+          "name": "Cyberrisiken",
+          "image": "img/funk-global-risk-consensus-cyberrisiken.jpg",
+          "link": "cyberrisiken"
         },
         {
           "name": "Inflation",
@@ -144,7 +144,6 @@ $(document).ready(() => {
   const $risks = $(".risks");
   const $events = $(".gevents");
   const $yearButtons = $(".years button");
-  const $moregeventsBtn = $('#moregeventsBtn');
 
   function updateContent(year) {
     $risks.empty();
@@ -183,24 +182,29 @@ $(document).ready(() => {
 
   function toggleHiddenItems() {
     var $items = $('.gevent');
-
-    if ($items.length > 3) {
-      $items.slice(0, 3).addClass('show'); 
-      $items.slice(3).removeClass('show');
-
-      $moregeventsBtn.on('click', function() {
-        $items.slice(3).toggleClass('show');
-        $moregeventsBtn.text(function() {
-          return $items.slice(3).hasClass('show') ? 'Weniger anzeigen' : 'Mehr anzeigen';
-        });
+    var $geventsweitereBtn = $('#gewBtn');
+  
+    if ($items.length > 2) {
+      $items.slice(0, 2).slideDown(1000);
+      $items.slice(2).hide();
+  
+      $geventsweitereBtn.on('click', function() {
+        $items.slice(2).slideToggle(1000);
+        
+        var currentText = $(this).text();
+        var newText = (currentText === 'Mehr Events') ? 'Weniger Events' : 'Mehr Events';
+        $(this).text(newText);
       });
-
-      $moregeventsBtn.show();
+  
+      $geventsweitereBtn.show();
     } else {
-      $items.addClass('show');
-      $moregeventsBtn.hide();
+      $items.slideDown(1000);
+      $geventsweitereBtn.hide();
     }
   }
+
+
+  
 
   $yearButtons.click(event => {
     const year = $(event.target).data("year");
