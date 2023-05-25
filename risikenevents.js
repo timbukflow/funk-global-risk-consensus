@@ -64,7 +64,7 @@ const data = {
     "risks": [
         {
           "name": "Cyber Risiken",
-          "image": "img/funk-global-risk-consensus-cyber-risiken.jpg",
+          "image": "img/funk-global-risk-consensus-cyberrisiken.jpg",
           "link": "cyber-risiken"
         },
         {

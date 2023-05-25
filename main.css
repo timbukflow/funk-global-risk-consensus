@@ -89,7 +89,7 @@ button {
   background-color: white;
   border: none;
   border-radius: 5px;
-  color: #3C3C3B;
+  color: var(--funkblue);
   cursor: pointer;
   padding: 10px 20px;
 }
@@ -299,25 +299,24 @@ canvas {
   gap: 10px;
   flex-direction: column;
 }
-
 .menuBtn, .backBtn {
   width: 60px;
   height: 60px;
   display: flex;
   padding: 20px;
   z-index: 1;
-  transition: background-color 0.3s;
+  transition: background-color 0.5s;
   align-items: center;
   justify-content: center;
 }
 .menuBtn:hover, .backBtn:hover {
   background-color: var(--funkhover);
 }
-
 #icon-close {
   display: none;
 }
 
+/* supernav */
 .supernavcontainer {
   display: none;
   position: fixed;
@@ -328,7 +327,6 @@ canvas {
   z-index: 98;
   background-color: rgba(0, 80, 146, 0.5);
 }
-
 .supernav {
   display: flex;
   gap: 30px;
@@ -337,35 +335,32 @@ canvas {
   padding-left: 150px;
   align-items: flex-start;
 }
-
 .supernav ul {
   width: 300px;
   display: flex;
   flex-direction: column;
-  padding: 10px 20px 15px;
+  padding: 10px 0 15px;
   margin: 0;
 }
-
 .supernav li {
   text-align: left;
-  padding: 15px 0;
-  border-bottom: 1px #d7d7d7 solid;
 }
 .supernav li:last-child {
   border-bottom: none;
 }
-
-.supernav li a {
-  padding: 0px 5px;
-}
-.supernav li a.activ {
-  color: #005092;
-  font-weight: 600;
-}
-
-.supernav li span.title {
-  padding: 0px 5px;
+.supernav .title {
+  padding: 12px 20px;
+  display: inline-block;
   opacity: 0.5;
+}
+.supernav li a {
+  padding: 12px 20px;
+  display: inherit;
+  color: var(--funkblue);
+  transition: background-color 0.5s;
+}
+.supernav li a:hover {
+  background-color: var(--funkhover);
 }
 
 

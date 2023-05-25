@@ -62,11 +62,10 @@
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-cyberrisiken.jpg" alt="">
+                      <img src="img/funk-global-risk-consensus-cyberrisiken.jpg" alt="funk-global-risk-consensus-cyberrisiken">
                 </div>
                 <div class="rdcontent">
                     <h1>Cyberrisiken</h1>
-                    <h2></h2>
                     <p>
                         <strong>Cyberrisiken haben viele Formen</strong><br>
                         Ransomware, Trojaner, Datendiebstahl, Datenverlust, DDoS Angriffe, (Spear-) Phishing, und viele mehr. Jeden Tag sind Unternehmen wie auch Privatpersonen unzähligen Gefahren aus dem Netz ausgesetzt. Die Angreifer ändern dauern ihre Strategie und sind leider oft den Sicherheitsmassnahmen einen Schritt voraus. Darum ist es wichtig nicht nur eine gute Cyberabwehr zu haben, sondern auch eine gute Organisation der Reaktiven Massnahmen, Stichwort Business Continuity Management und Incident Response Planning. Dies vor allem vor dem Hintergrund, dass es alle treffen kann und bei der hohen Frequenz und dem grossen Volumen an Angriffen auch früher oder später jeden treffen wird.

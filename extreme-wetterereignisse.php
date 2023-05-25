@@ -80,6 +80,7 @@
         </div>
 
         <div class="rdcontainer">
+            <!-- Interessante Fakten -->
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="item100 bg">
@@ -101,6 +102,7 @@
                     </div>
                 </div>
             </div>
+            <!-- Abhängigkeit zu Events -->
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
                 <div class="rdevents" id="container">
@@ -157,6 +159,7 @@
         </div>
         
         <div class="rdcontainer">
+            <!-- Lösungen -->
             <div class="rdCsolution">
                 <h2>Lösungen</h2>
                 <div class="rdsolution bg">
@@ -169,6 +172,7 @@
                     <button class="anfrageBtn">Anfragen</button>
                 </div>
             </div>
+            <!-- Kontakt -->
             <div class="rdCcontact">
                 <h2>Ihr Risikospezialist</h2> 
                 <div class="rdcontact bg">
@@ -190,9 +194,7 @@
             </div>
         </div>
     </div>
-
-    <div class="holder"></div>
-    
+  
     
 
             

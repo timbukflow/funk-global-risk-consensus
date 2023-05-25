@@ -6,9 +6,9 @@ $(document).ready(function() {
       label: "Entwicklung",
       data: [29, 31, 36, 38, 36, 41, 48],
       borderColor: "#005092",
-      borderWidth: 2,
       backgroundColor: "#005092",
-      hoverBackgroundColor: "white",  
+      borderWidth: 2,
+      pointRadius: 2,
     }]
   };
 
@@ -40,7 +40,7 @@ $(document).ready(function() {
   };
 
   const ctx = document.getElementById("entwicklung-cr").getContext("2d");
-  const myLineChart = new Chart(ctx, {
+  new Chart(ctx, {
     type: 'line',
     data: data,
     options: options
@@ -111,6 +111,8 @@ $(document).ready(function() {
         borderColor: "rgba(169, 151, 127, 0.5)",
         backgroundColor: "rgba(169, 151, 127, 0.5)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -119,6 +121,8 @@ $(document).ready(function() {
         borderColor: "rgba(169, 151, 127, 1)",
         backgroundColor: "rgba(169, 151, 127, 1)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -127,6 +131,8 @@ $(document).ready(function() {
         borderColor: "rgba(84, 135, 166, 0.5)",
         backgroundColor: "rgba(84, 135, 166, 0.5)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -135,6 +141,8 @@ $(document).ready(function() {
         borderColor: "rgba(84, 135, 166, 1)",
         backgroundColor: "rgba(84, 135, 166, 1)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -143,6 +151,8 @@ $(document).ready(function() {
         borderColor: "rgba(104, 192, 181, 0.5)",
         backgroundColor: "rgba(104, 192, 181, 0.5)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -151,6 +161,8 @@ $(document).ready(function() {
         borderColor: "rgba(104, 192, 181, 1)",
         backgroundColor: "rgba(104, 192, 181, 1)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -159,6 +171,8 @@ $(document).ready(function() {
         borderColor: "rgba(117, 184, 69, 0.5)",
         backgroundColor: "rgba(117, 184, 69, 0.5)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -167,6 +181,8 @@ $(document).ready(function() {
         borderColor: "rgba(117, 184, 69, 1)",
         backgroundColor: "rgba(117, 184, 69, 1)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -175,6 +191,8 @@ $(document).ready(function() {
         borderColor: "rgba(44, 120, 95, 0.5)",
         backgroundColor: "rgba(44, 120, 95, 0.5)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       },
       {
@@ -183,6 +201,8 @@ $(document).ready(function() {
         borderColor: "rgba(44, 120, 95, 1)",
         backgroundColor: "rgba(44, 120, 95, 1)",
         borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
         fill: false
       }
     ]
