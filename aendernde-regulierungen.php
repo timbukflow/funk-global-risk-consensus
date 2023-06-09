@@ -97,44 +97,50 @@
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" alt="globale-events-wannacry-ransomware">
-                        </div>
-                        <div class="eventtitle globalevent ">
-                            <h1>Wanna Cry - 2017</h1>
-                            <a href="globale-events-wannacry">
-                                <button class="geBtn">
-                                    <span class="material-symbols-outlined">chevron_right</span>Global Event
-                                </button>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-microsoft-exchange-exploit-2021.jpg" alt="event-microsoft-exchange-exploit-2021">
+                            <img src="img/funk-global-risk-consensus-event-brexit.jpg" alt="event-brexit">
                         </div>
                         <div class="eventtitle">
-                            <h1>Microsoft Exchange Exploit - 2021</h1>
+                            <h1>Brexit</h1>
                             <p class="hidden-text">
-                                Das Ausmaß der Microsoft Exchange-Lücke, auch bekannt als ProxyLogon-Schwachstelle, war weitreichend und hatte erhebliche Auswirkungen auf Unternehmen und Organisationen weltweit. Obwohl es schwierig ist, genaue Zahlen zu nennen, sind Tausende von Exchange-Servern weltweit von dieser Sicherheitslücke betroffen gewesen.<br><br>
-                                Die Ausnutzung der Schwachstelle ermöglichte es Angreifern, auf vertrauliche Informationen zuzugreifen, E-Mails abzufangen, Benutzerkonten zu übernehmen und sogar Ransomware oder andere bösartige Software auf den betroffenen Servern zu installieren. Dies hatte potenziell schwerwiegende Folgen für die Privatsphäre, die Datensicherheit und den Betrieb der betroffenen Unternehmen.<br><br>
-                                Es wurde berichtet, dass verschiedene Hackergruppen, darunter staatlich unterstützte Akteure, die ProxyLogon-Schwachstelle ausgenutzt haben. Insbesondere die Gruppe Hafnium, die angeblich Verbindungen zu China hat, wurde mit den Angriffen in Verbindung gebracht. Es ist jedoch anzumerken, dass es auch andere Akteure gab, die die Schwachstelle ausnutzten.    
+                                folgt    
                             </p>
                             <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
+                    <div class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-globale-events-handelskrieg.jpg" alt="event-handelskrieg">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Handelskrieg</h1>
+                            <p class="hidden-text">
+                                folgt    
+                            </p>
+                            <button class="bBtn" data-open="true">Bericht</button>
+                        </div>
+                    </div>
+                    <div class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-event-sanktionen.jpg" alt="event-sanktionen">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Sanktionen</h1>
+                            <p class="hidden-text">
+                                folgt    
+                            </p>
+                            <button class="bBtn" data-open="true">Bericht</button>
+                        </div>
+                    </div>
+                    <!-- hidden events -->
                     <div class="hidden-events">
                         <div class="event bg">
                             <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-solarwinds-luecke-2020.jpg" alt="event-solarwinds-luecke-2020">
+                                <img src="img/funk-global-risk-consensus-event-oecd-mindeststeuer.jpg" alt="event-oecd-mindeststeuer">
                             </div>
                             <div class="eventtitle">
-                                <h1>SolarWinds Lücke <br> 2020</h1>
+                                <h1>OECD Mindeststeuer</h1>
                                 <p class="hidden-text">
-                                    Die SolarWinds-Lücke, auch bekannt als Sunburst-Angriff oder Solorigate-Angriff, bezieht sich auf eine massive Sicherheitsverletzung, die im Dezember 2020 entdeckt wurde. Diese Lücke hatte weitreichende Auswirkungen auf Unternehmen, Regierungsbehörden und Organisationen auf der ganzen Welt.<br><br>
-                                    Der Angriff begann, als Angreifer in das interne Netzwerk des Softwareunternehmens SolarWinds eindrangen. Die Angreifer manipulierten dann eine Softwarekomponente namens Orion, die von SolarWinds entwickelt und von zahlreichen Kunden verwendet wird. Durch diese Manipulation konnten die Angreifer schädlichen Code in das Softwareupdate einschleusen, das an die Kunden verteilt wurde.<br><br>
-                                    Unzählige Organisationen, darunter Regierungsbehörden, Unternehmen und andere Institutionen, haben dieses infizierte Update installiert und somit den schädlichen Code unbewusst auf ihren Systemen ausgeführt. Dies ermöglichte den Angreifern den Zugriff auf die Netzwerke der betroffenen Organisationen.<br><br>
-                                    Der genaue Umfang der SolarWinds-Lücke ist schwer zu quantifizieren, da es sich um eine ausgeklügelte und gezielte Attacke handelte. Es wird geschätzt, dass Tausende von Organisationen in über 100 Ländern betroffen waren, darunter auch Regierungen und große Technologieunternehmen.<br><br>
-                                    Die Angreifer hatten Zugriff auf sensible Informationen, E-Mails, Kommunikationsdaten und andere vertrauliche Daten der betroffenen Organisationen. Darüber hinaus besteht die Möglichkeit, dass die Angreifer auch weitere Schadsoftware in den Netzwerken installiert haben, um langfristigen Zugriff und Überwachung zu ermöglichen.
+                                    folgt    
                                 </p>
                                 <button class="bBtn" data-open="true">Bericht</button>
                             </div>
@@ -150,9 +156,9 @@
             <div class="rdCsolution">
                 <h2>Lösungen</h2>
                 <div class="rdsolution bg">
-                    <h1>Funk Cyber Risk Calculator</h1>
+                    <h1>Folgt</h1>
                     <p>
-                        Funk berechnet aus Firmenkennzahlen das Cyber-Restrisiko Ihres Unternehmens. Zusätzlich wird das IT-Sicherheitsdispositiv analysiert und mögliche Lösungsvorschläge aufgezeigt.
+                        Folgt
                     </p>
                     <button class="anfrageBtn">Anfragen</button>
                 </div>
@@ -165,7 +171,6 @@
                         <img src="img/funk-stefan-braendli.png" alt="">
                     </div>
                     <div class="contactdata">
-                        
                         <p>
                             <strong>Stefan Brändli</strong><br>
                             Risk Analyst, MSc ERDW ETHZ <br>
@@ -186,8 +191,6 @@
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="aendernde-regulierungen.js"></script>
-
-    
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

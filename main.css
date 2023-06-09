@@ -383,7 +383,7 @@ canvas {
   align-items: flex-start;
 }
 .supernav ul {
-  width: 300px;
+  width: 400px;
   display: flex;
   flex-direction: column;
   padding: 10px 0 15px;
@@ -401,8 +401,10 @@ canvas {
   opacity: 0.5;
 }
 .supernav li a {
-  padding: 12px 20px;
+  padding: 12px 10px;
+  margin: 0 10px;
   display: inherit;
+  border-bottom: 1px var(--funkhover) solid;
   color: var(--funkblue);
   transition: background-color 0.5s;
 }

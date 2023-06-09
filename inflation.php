@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus">
+    <meta property="og:title" content="Funk Global Risk Consensus | Inflation">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | Inflation">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -45,52 +45,47 @@
 
 <body>
 
-    <div class="navglobal">
-        <button class="menuBtn bg">
-            <span id="icon-menu" class="material-symbols-outlined ">menu</span>
-            <span id="icon-close" class="material-symbols-outlined ">close</span>
-        </button>
-        <a href="index">
-            <button class="backBtn bg">
-                <span class="material-symbols-outlined">arrow_back</span>
-            </button>
-        </a>
-    </div>
+    <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
     <div class="rdmain">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-inflation.jpg" alt="funk-global-risk-consensus-inflation.jpg">
+                      <img src="img/funk-global-risk-consensus-risiko-inflation.jpg" alt="funk-global-risk-consensus-risiko-inflation.jpg">
                 </div>
                 <div class="rdcontent">
                     <h1>Inflation</h1>
                     <p>
                         <strong>Kosteninflation, Nachfrageinflation oder sogar beides?</strong><br>
-                        Es gibt verschiedene Ursachen für Inflation. Eine häufige Ursache ist die sogenannte Nachfrageinflation, bei der die Nachfrage nach Gütern und Dienstleistungen das Angebot übersteigt. Dadurch können die Preise steigen, da die Verkäufer ihre Produkte zu höheren Preisen verkaufen können.<br><br>Ein weiterer Faktor, der zur Nachfrageinflation beitragen kann, sind staatliche Maßnahmen wie eine expansive Fiskalpolitik oder eine lockere Geldpolitik. Wenn die Regierung die Ausgaben erhöht, indem sie beispielsweise öffentliche Projekte finanziert oder die Steuern senkt, kann dies die Nachfrage nach Gütern und Dienstleistungen erhöhen und zu einem Preisanstieg führen. Eine lockere Geldpolitik, bei der die Zentralbank die Zinssätze senkt oder die Geldmenge erhöht, kann ebenfalls die Nachfrage ankurbeln und zu Inflation führen.<br><br>Eine weitere Ursache ist die sogenannte Kosteninflation, bei der die Produktionskosten für Unternehmen steigen und diese Kosten an die Verbraucher weitergeben.
+                        Es gibt verschiedene Ursachen für Inflation. Eine häufige Ursache ist die sogenannte Nachfrageinflation, bei der die Nachfrage nach Gütern und Dienstleistungen das Angebot übersteigt. Dadurch besteht die Möglichkeit, dass die Preise steigen, da die Verkäufer ihre Produkte zu höheren Preisen verkaufen können.Ein möglicher Auslöser sind staatliche Massnahmen wie eine expansive Fiskalpolitik oder eine lockere Geldpolitik. Wenn die Regierung die Ausgaben erhöht, indem sie beispielsweise öffentliche Projekte finanziert oder die Steuern senkt, kann dies die Nachfrage nach Gütern und Dienstleistungen erhöhen und zu einem Preisanstieg führen. Dasselbe gilt bei einer Reduktion der Zinssätze oder Erhöhung der Geldmenge durch die Zentralbank.
                     </p>
                     <p class="hidden-text">
+                        Eine weitere Ursache ist die sogenannte Kosteninflation, bei der die Produktionskosten für Unternehmen steigen und diese Kosten an die Verbraucher weitergeben. Dies kann verschiedene Gründe haben, wie zum Beispiel gestiegene Rohstoffpreise, höhere Lohnkosten oder erhöhte Betriebsausgaben. Wenn Unternehmen ihre Kosten nicht effektiv kontrollieren können, besteht die Möglichkeit, dass sie die Preise für ihre Produkte und Dienstleistungen anheben müssen, um rentabel zu bleiben. Die Kosteninflation kann auch Auswirkungen auf die Wettbewerbsfähigkeit von Unternehmen haben, insbesondere wenn sie nicht in der Lage sind, ihre Preise im Einklang mit der Inflation anzupassen.<br><br>
+
                         <strong>COVID-19</strong><br>
-                        Aktuell leiden wir tatsächlich an beiden Arten der Inflation. Dies liegt daran, dass während der COVID-19 Pandemie viele produzierende Betriebe teilweise Ihre Produktion verringern mussten oder für kurze Zeit komplett einstellten. Dies führte zu einer Verknappung des Angebots, wodurch die Preise anstiegen.<br><br> Zusätzlich haben Regierungen rund um den Globus Darlehen, private finanzielle Unterstützung und weitere Massnahem ergriffen, um die Wirtschaft während der Pandemie zu stützen. Dieses Geld hat die Ausgaben für den Konsum während der Pandemie, hochgehalten und vor allem nach der Pandemie zu erhöhter Nachfrage geführt.<br><br>
+                        Aktuell leiden wir an beiden Arten der Inflation. Dies liegt daran, dass während der COVID-19 Pandemie viele produzierende Betriebe Ihre Produktion verringern mussten oder für kurze Zeit komplett einstellten. Dies führte zu einer Verknappung des Angebots, wodurch die Preise anstiegen.<br><br>
+                        Zusätzlich haben Regierungen rund um den Globus Darlehen, private finanzielle Unterstützung und weitere Massnahem ergriffen, um die Wirtschaft während der Pandemie zu stützen. Dieses Geld hat die Ausgaben für den Konsum hochgehalten und vor allem nach der Pandemie zu erhöhter Nachfrage geführt.<br><br>
 
                         <strong>Geldpolitik</strong><br>
-                        Seit 2008 herrschte weltweit ein Zinsumfeld, dass zu einer massiven Expansion des Geldvolumens beigetragen hat. Die tiefen Zinsen halfen, die Wirtschaft nach der Finanzkrise zu stabilisieren, jedoch wurde extrem viel Geld in das Wirtschaftssystem gepumpt. Dieses Kapital verstärkt aktuell die Inflation weiter, weshalb aktuell auch eine "Zinswende" stattfindet. (siehe Risiko Makroökonomische Veränderungen)<br><br>
+                        Seit 2008 herrschte weltweit ein Zinsumfeld, dass zu einer massiven Expansion des Geldvolumens beigetragen hat. Dank der tiefen Zinsen wurde extrem viel Geld in das Wirtschaftssystem geschleust um damit die Wirtschaft nach der Finanzkrise zu stabilisieren. Dieses Kapital verstärkt aktuell die Inflation weiter, weshalb aktuell auch eine "Zinswende" stattfindet. (siehe Risiko Makroökonomische Veränderungen)<br><br>
 
                         <strong>Ukrainekrieg</strong><br>
-                        Durch den Ausbruch des Krieges in der Ukraine kam ein weiterer Faktor dazu, welcher die Inflation weiter befeuert hat, da die Ukraine zum einen einer der grössten Produzenten von Agrarprodukten wie Getreide und Speiseölen ist, und weil die globalen Sanktionen gegen Russland zu einer Verknappung von fossilen Energieträgern geführt haben. Diese Verknappung von Rohstoffen führte zu einer Erhöhung der Produktionskosten welche die Kosteninflation sehr schnell verstärkt hat.<br><br>
+                        Der Ausbruch des Krieges in der Ukraine hat einen weiteren Faktor hinzugefügt, der die Inflation weiter angeheizt hat. Die Ukraine ist einer der größten Produzenten von Agrarprodukten wie Getreide und Speiseölen und die globalen Sanktionen gegen Russland haben zu einer Verknappung fossiler Energieträger geführt. Diese Rohstoffknappheit hat zu einer Erhöhung der Produktionskosten geführt und die Kosteninflation schnell verstärkt.<br><br>
 
                         <strong>Aktuelle Lage</strong><br>
-                        Die Kombination von Nachfrage- und Kosteninflation hat innerhalb von wenigen Monaten in den grössten Industrienationen zu einer Inflation von über 10% geführt. Dies ist über 5 mal mehr als angestrebt (Zielinflation ist ungefähr 2%). Da vor allem die Inflation bei Lebensmittel und Energieprodukten stark anstieg bleibt bei vielen Individuen weniger Geld für andere Ausgaben übrig. Dadurch sind die Nachfrage. Dies, zusammen mit den höheren Kosten für Energie und Rohstoffe, führt bei vielen Firmen zu weniger Einnahmen und höheren Kosten.<br><br>Auch der Lohndruck nimmt zu, die Mitarbeiter brauchen mehr Lohn um ihren Lebensunterhalt finanzieren zu können, was zu einem weiteren Anstieg der Kosten für die Firmen führt. Diese Kosten müssen dann als Preiserhöhung weitergegeben werden, was zu einem weiteren Rückgang des Konsums und somit der Einnahmen führt.<br><br>Während Betriebe welche essentielle Konsumgüter wie Nahrungsmittel und Energieprodukte produzieren kein Problem haben diese Preise ohne Nachfrageeinbruch weiter zu geben, ist das Umfeld für Luxus- und Gebrauchsgüterproduzenten weitaus prekärer, da zuerst auf diese Produkte verzichtet wird, wenn das Budget knapp wird.
+                        Die Kombination aus Nachfrage- und Kosteninflation hat innerhalb weniger Monate in den größten Industrienationen zu einer Inflation von über 10% geführt - das ist mehr als fünfmal höher als das angestrebte Ziel von etwa 2%. Insbesondere die Inflation bei Lebensmitteln und Energieprodukten ist stark angestiegen, was dazu führt, dass vielen Menschen weniger Geld für andere Ausgaben zur Verfügung steht. Dies wiederum führt zu einer geringeren Nachfrage. Zusätzlich zu den gestiegenen Kosten für Energie und Rohstoffe haben viele Unternehmen mit geringeren Einnahmen und höheren Kosten zu kämpfen.<br><br>
+                        Der steigende Lohndruck führt dazu, dass Mitarbeiter höhere Löhne benötigen, um ihren Lebensunterhalt zu finanzieren. Dies wiederum erhöht die Kosten für Unternehmen. Um diese erhöhten Kosten auszugleichen, werden die Preise erhöht. Dadurch kommt es zu einem Rückgang des Konsums und somit auch der Einnahmen.<br><br>
+                        Unternehmen, die essentielle Konsumgüter wie Nahrungsmittel und Energieprodukte produzieren, haben in der Regel keine Probleme, diese Preiserhöhungen ohne einen starken Einbruch in der Nachfrage umzusetzen. Im Gegensatz dazu befinden sich Hersteller von Luxus- und Gebrauchsgütern in einer prekären Situation, da Verbraucher in Zeiten knapper Budgets zuerst auf solche Produkte verzichten.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
             </div>
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>
+                <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
                 <canvas id="entwicklung-inflation"></canvas>
-                <p class="dquelle">Quelle: Lorem Ipsum dolores</p>
+                <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
 
@@ -183,8 +178,6 @@
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="inflation.js"></script>
-
-    
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

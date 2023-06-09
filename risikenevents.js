@@ -3,32 +3,32 @@ const data = {
     "risks": [
         {
           "name": "Cyberrisiken",
-          "image": "img/funk-global-risk-consensus-cyberrisiken.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
           "link": "cyberrisiken"
         },
         {
           "name": "Inflation",
-          "image": "img/funk-global-risk-consensus-inflation.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-inflation.jpg",
           "link": "inflation"
         },
         {
           "name": "Fachkräftemangel",
-          "image": "img/funk-global-risk-consensus-fachkraeftemangel.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
           "link": "fachkraeftemangel"
         },
         {
           "name": "Makroökonomische Veränderungen",
-          "image": "img/funk-global-risk-consensus-makrooekonomische-veraenderungen.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg",
           "link": "makrooekonomische-veraenderungen"
         },
         {
           "name": "Extreme Wetterereignisse",
-          "image": "img/funk-global-risk-consensus-extreme-wetterereignisse.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
           "link": "extreme-wetterereignisse"
         },
         {
           "name": "Nicht-Berufskrankheiten",
-          "image": "img/funk-global-risk-consensus-nicht-berufskrankheiten.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-nicht-berufskrankheiten.jpg",
           "link": "nicht-berufskrankheiten"
         }
     ],
@@ -63,33 +63,33 @@ const data = {
   "2022": {
     "risks": [
         {
-          "name": "Cyber Risiken",
-          "image": "img/funk-global-risk-consensus-cyberrisiken.jpg",
-          "link": "cyber-risiken"
+          "name": "Cyberrisiken",
+          "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+          "link": "cyberrisiken"
         },
         {
           "name": "Nicht-Berufskrankheiten",
-          "image": "img/funk-global-risk-consensus-nicht-berufskrankheiten.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-nicht-berufskrankheiten.jpg",
           "link": "nicht-berufskrankheiten"
         },
         {
           "name": "Klimawandel",
-          "image": "img/funk-global-risk-consensus-klimawandel.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-klimawandel.jpg",
           "link": "klimawandel"
         },
         {
           "name": "Ändernde Regulierungen",
-          "image": "img/funk-global-risk-consensus-aendernde-regulierungen.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
           "link": "aendernde-regulierungen"
         },
         {
           "name": "Ungünstige Marktentwicklung",
-          "image": "img/funk-global-risk-consensus-unguenstige-marktentwicklung.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg",
           "link": "unguenstige-marktentwicklung"
         },
         {
           "name": "Extreme Wetterereignisse",
-          "image": "img/funk-global-risk-consensus-extreme-wetterereignisse.jpg",
+          "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
           "link": "extreme-wetterereignisse"
         }
     ],
@@ -116,19 +116,202 @@ const data = {
         },
     ],
   },
-  "2018": {
+  "2021": {
     "risks": [
+      {
+        "name": "Cyberrisiken",
+        "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+        "link": "cyberrisiken"
+      },
+      {
+        "name": "Nicht-Berufskrankheiten",
+        "image": "img/funk-global-risk-consensus-risiko-nicht-berufskrankheiten.jpg",
+        "link": "nicht-berufskrankheiten"
+      },
+      {
+        "name": "Ändernde Regulierungen",
+        "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+        "link": "aendernde-regulierungen"
+      },
+      {
+        "name": "Ungünstige Marktentwicklung",
+        "image": "img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg",
+        "link": "unguenstige-marktentwicklung"
+      },
+      {
+        "name": "Extreme Wetterereignisse",
+        "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
+        "link": "extreme-wetterereignisse"
+      },      
+      {
+        "name": "Naturkatastrophen",
+        "image": "img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg",
+        "link": "naturkatastrophen"
+      },
     ],
     "events": [
       {
-        "name": "WannaCry Ransomware",
-        "image": "img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg",
-        "link": "globale-events-wannacry-ransomware"
+        "name": "Covid-19 Pandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
+        "link": "globale-events-covid-19-pandemie"
+      },
+    ],
+  },
+  "2020": {
+    "risks": [
+      {
+        "name": "Cyberrisiken",
+        "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+        "link": "cyberrisiken"
+      },
+      {
+        "name": "Ändernde Regulierungen",
+        "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+        "link": "aendernde-regulierungen"
+      },
+      {
+        "name": "Ungünstige Marktentwicklung",
+        "image": "img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg",
+        "link": "unguenstige-marktentwicklung"
+      },
+      {
+        "name": "Fachkräftemangel",
+        "image": "img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
+        "link": "fachkraeftemangel"
+      },
+      {
+        "name": "Naturkatastrophen",
+        "image": "img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg",
+        "link": "naturkatastrophen"
+      },
+      {
+        "name": "Politische Risiken",
+        "image": "img/funk-global-risk-consensus-risiko-politische-risiken.jpg",
+        "link": "politische-risiken"
+      },
+    ],
+    "events": [
+      {
+        "name": "Covid-19 Pandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
+        "link": "globale-events-covid-19-pandemie"
+      },
+    ],
+  },
+  "2019": {
+    "risks": [
+      {
+        "name": "Cyberrisiken",
+        "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+        "link": "cyberrisiken"
+      },
+      {
+        "name": "Fachkräftemangel",
+        "image": "img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
+        "link": "fachkraeftemangel"
+      },
+      {
+        "name": "Neue Technologien",
+        "image": "img/funk-global-risk-consensus-risiko-neue-technologien.jpg",
+        "link": "neue-technologien"
+      },
+      {
+        "name": "Politische Risiken",
+        "image": "img/funk-global-risk-consensus-risiko-politische-risiken.jpg",
+        "link": "politische-risiken"
+      },
+      {
+        "name": "Ändernde Regulierungen",
+        "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+        "link": "aendernde-regulierungen"
+      },
+      {
+        "name": "Naturkatastrophen",
+        "image": "img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg",
+        "link": "naturkatastrophen"
+      }
+    ],
+    "events": [
+      {
+        "name": "Covid-19 Pandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
+        "link": "globale-events-covid-19-pandemie"
+      },
+    ],
+  },
+  "2018": {
+    "risks": [
+      {
+        "name": "Cyberrisiken",
+        "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+        "link": "cyberrisiken"
+      },
+      {
+        "name": "Neue Technologien",
+        "image": "img/funk-global-risk-consensus-risiko-neue-technologien.jpg",
+        "link": "neue-technologien"
+      },
+      {
+        "name": "Ändernde Regulierungen",
+        "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+        "link": "aendernde-regulierungen"
+      },
+      {
+        "name": "Naturkatastrophen",
+        "image": "img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg",
+        "link": "naturkatastrophen"
+      },
+      {
+        "name": "Extreme Wetterereignisse",
+        "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
+        "link": "extreme-wetterereignisse"
+      },
+      {
+        "name": "Fachkräftemangel",
+        "image": "img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
+        "link": "fachkraeftemangel"
+      }
+    ],
+    "events": [
+      {
+        "name": "Die DSGVO tritt formal in Kraft",
+        "image": "img/funk-global-risk-consensus-globale-events-dsgvo.jpg",
+        "link": "globale-events-dsgvo"
       },
     ],
   },
   "2017": {
       "risks": [
+        {
+          "name": "Cyberrisiken",
+          "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+          "link": "cyberrisiken"
+        },
+        {
+          "name": "Ungünstige Marktentwicklung",
+          "image": "img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg",
+          "link": "unguenstige-marktentwicklung"
+        },
+        {
+          "name": "Politische Risiken",
+          "image": "img/funk-global-risk-consensus-risiko-politische-risiken.jpg",
+          "link": "politische-risiken"
+        },
+        {
+          "name": "Naturkatastrophen",
+          "image": "img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg",
+          "link": "naturkatastrophen"
+        },
+        {
+          "name": "Von Menschen verursachte Katastrophen",
+          "image": "img/funk-global-risk-consensus-risiko-von-menschen-verursachte-katastrophen.jpg",
+          "link": "von-menschen-verursachte-katastrophen"
+        },
+        {
+          "name": "Fachkräftemangel",
+          "image": "img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
+          "link": "fachkraeftemangel"
+        }
       ],
       "events": [
         {

@@ -4,7 +4,7 @@ $(document).ready(function() {
     labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
     datasets: [{
       label: "Entwicklung",
-      data: [29, 31, 36, 38, 36, 41, 48],
+      data: [48, 41, 36, 38, 36, 31, 29],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 2,
@@ -112,7 +112,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(169, 151, 127, 0.5)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -122,7 +121,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(169, 151, 127, 1)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -132,7 +130,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(84, 135, 166, 0.5)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -142,7 +139,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(84, 135, 166, 1)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -152,7 +148,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(104, 192, 181, 0.5)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -162,7 +157,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(104, 192, 181, 1)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -172,7 +166,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(117, 184, 69, 0.5)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -182,7 +175,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(117, 184, 69, 1)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -192,7 +184,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(44, 120, 95, 0.5)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       },
       {
@@ -202,7 +193,6 @@ $(document).ready(function() {
         backgroundColor: "rgba(44, 120, 95, 1)",
         borderWidth: 2,
         pointRadius: 2,
-        tension: 0.3,
         fill: false
       }
     ]

@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus">
+    <meta property="og:title" content="Funk Global Risk Consensus | Cyberrisiken">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | Cyberrisiken">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -44,48 +44,37 @@
 </head>
 
 <body>
-
-    <div class="navglobal">
-        <button class="menuBtn bg">
-            <span id="icon-menu" class="material-symbols-outlined ">menu</span>
-            <span id="icon-close" class="material-symbols-outlined ">close</span>
-        </button>
-        <a href="index">
-            <button class="backBtn bg">
-                <span class="material-symbols-outlined">arrow_back</span>
-            </button>
-        </a>
-    </div>
+    <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
     <div class="rdmain">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-cyberrisiken.jpg" alt="funk-global-risk-consensus-cyberrisiken">
+                      <img src="img/funk-global-risk-consensus-risiko-cyberrisiken.jpg" alt="funk-global-risk-risiko-consensus-cyberrisiken">
                 </div>
                 <div class="rdcontent">
                     <h1>Cyberrisiken</h1>
                     <p>
                         <strong>Cyberrisiken haben viele Formen</strong><br>
-                        Ransomware, Trojaner, Datendiebstahl, Datenverlust, DDoS Angriffe, (Spear-) Phishing, und viele mehr. Jeden Tag sind Unternehmen wie auch Privatpersonen unzähligen Gefahren aus dem Netz ausgesetzt. Die Angreifer ändern dauern ihre Strategie und sind leider oft den Sicherheitsmassnahmen einen Schritt voraus. Darum ist es wichtig nicht nur eine gute Cyberabwehr zu haben, sondern auch eine gute Organisation der Reaktiven Massnahmen, Stichwort Business Continuity Management und Incident Response Planning. Dies vor allem vor dem Hintergrund, dass es alle treffen kann und bei der hohen Frequenz und dem grossen Volumen an Angriffen auch früher oder später jeden treffen wird.
+                        Ransomware, Trojaner, Datendiebstahl, Datenverlust, DDoS Angriffe, (Spear-) Phishing, und viele mehr. Jeden Tag sind Unternehmen wie auch Privatpersonen unzähligen Gefahren aus dem Netz ausgesetzt. Die Angreifer passen ständig ihre Strategie an und sind somit den Sicherheitsmassnahmen oft einen Schritt voraus. Darum ist es wichtig nicht nur eine gute Cyberabwehr zu haben, sondern auch eine gute Organisation der Reaktiven Massnahmen, Stichwort Business Continuity Management und Incident Response Planning. Dies vor allem vor dem Hintergrund, dass es alle treffen kann und bei der hohen Frequenz und dem grossen Volumen an Angriffen auch früher oder später jeden treffen wird.
                     </p>
                     <p class="hidden-text">
                         <strong>Die unterschätzte Gefahr</strong><br>
-                        Viele Firmen unterschätzen auch die Gefahr, die von Cyber Risiken ausgehen. Die Abhängigkeit von der eigenen IT wird oft nicht als hoch wahrgenommen und dies, obwohl die Entwicklung zu digitaler Unterstützung seit Jahrzenten in Unternehmen voranschreitet. Der Ausfall des ERP oder CRM führt auch bei den grösstenteils "analogen" Firmen zu grossen Problemen, da zum Beispiel die Nachverfolgbarkeit von Interaktionen nicht mehr erfasst werden können oder wichtige Daten wie Lieferadressen oder -mengen nicht mehr abgerufen werden können.<br><br>
+                        Viele Firmen unterschätzen die Gefahr, die von Cyber Risiken ausgehen. Die Abhängigkeit von der eigenen IT wird oft nicht als hoch wahrgenommen und dies, obwohl die Entwicklung zu digitaler Unterstützung seit Jahrzenten in Unternehmen voranschreitet. Der Ausfall des ERP oder CRM führt auch bei den grösstenteils "analogen" Firmen zu grossen Problemen, da zum Beispiel die Nachverfolgbarkeit von Interaktionen nicht mehr erfasst oder wichtige Daten wie Lieferadressen oder -mengen nicht mehr abgerufen werden können.<br><br>
                         <strong>Insider Threat</strong><br>
-                        Ein oft unterschätztes Risiko ist der Insider Threat. Etwa 50% aller Schadenfälle ist auf eigene oder ehemalige Mitarbeiter zurückzuführen. Bekannt ist der Insider Threat vor allem durch die Steuerdaten-CDs im Nachgang an die Bankenkrise 2008. Weniger bekannt, aber viel weiter Verbreitet sind ungewollte Systemausfälle die durch Unwissenheit oder Fehler der Mitarbeiteten entstehen. Diese können genauso, wie Attacken von Drittparteien, zu erheblichen Schäden führen.<br><br>
+                        Ein oft unterschätztes Risiko ist der Insider Threat. Etwa 50% aller Schadenfälle ist auf eigene oder ehemalige Mitarbeiter zurückzuführen. Bekannt ist der Insider Threat vor allem durch die Steuerdaten-CDs im Nachgang an die Bankenkrise 2008. Weniger bekannt, aber viel weiter verbreitet sind ungewollte Systemausfälle die durch Unwissenheit oder Fehler der Mitarbeiteten entstehen. Diese können genauso wie Attacken von Drittparteien zu erheblichen Schäden führen.<br><br>
                         <strong>Weitreichende Konsequenzen</strong><br>
-                        In der immer mehr von IT-Dienstleistungen abhängigen Geschäftswelt ist ein Ausfall einer oder im schlimmsten Fall mehreren Anwendungen schnell sehr verheerend, da der täglichen Arbeit nicht mehr, oder nur beschränkt, nachgegangen werden kann. Die genauen Auswirkungen sind dabei sehr individuell und hängen vom Geschäftsmodell des betroffenen Unternehmens ab. Bei Produktionsunternehmen ist ein DDoS Angriff auf die Webseite weit weniger schädlich als der Ausfall der Fertigungsroboter. Bei einem Onlineshop sieht dies ganz anders aus. Es ist daher essentiell die eigenen Prozesse zu verstehen und zu priorisieren, so dass im Falle eines Vorfalls effizient gehandelt und die Wiederherstellung der Systeme gezielt priorisiert werden kann.
+                        In einer Geschäftswelt, die zunehmend von IT-Dienstleistungen abhängig ist, kann der Ausfall einer oder im schlimmsten Fall mehrerer Anwendungen schnell verheerende Folgen haben, da die tägliche Arbeit entweder gar nicht mehr oder nur eingeschränkt fortgesetzt werden kann. Die genauen Auswirkungen sind dabei sehr individuell und hängen vom Geschäftsmodell des betroffenen Unternehmens ab. Bei Produktionsunternehmen ist ein DDoS Angriff auf die Webseite weit weniger schädlich als der Ausfall der Fertigungsroboter. Bei einem Onlineshop sieht dies ganz anders aus. Es ist daher essenziell die eigenen Prozesse zu verstehen und zu priorisieren, so dass im Falle eines Angriffs effizient gehandelt und die Wiederherstellung der Systeme gezielt priorisiert werden kann.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
             </div>
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>
+                <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
                 <canvas id="entwicklung-cr"></canvas>
-                <p class="dquelle">Quelle: Lorem Ipsum dolores</p>
+                <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
 

@@ -46,8 +46,7 @@ $(document).ready(function() {
     options: options
   });
 
-  // Grafik 01 - Linechart
- 
+  // Interessante Fakten
   var goodsData = {
     labels: [
       "2016 JAN", "2016 FEB", "2016 MAR", "2016 APR", "2016 MAY", "2016 JUN", "2016 JUL", "2016 AUG", "2016 SEP", "2016 OCT", "2016 NOV", "2016 DEC",
@@ -217,22 +216,20 @@ var optionschart = {
         }
       }
     }
-};
+  };
 
-var goodsChartCanvas = document.getElementById("aer-grafik-01");
-new Chart(goodsChartCanvas, {
-    type: "line",
-    data: goodsData,
-    options: optionschart
-});
+  var goodsChartCanvas = document.getElementById("aer-grafik-01");
+  new Chart(goodsChartCanvas, {
+      type: "line",
+      data: goodsData,
+      options: optionschart
+  });
 
-var servicesChartCanvas = document.getElementById("aer-grafik-02");
-new Chart(servicesChartCanvas, {
-    type: "line",
-    data: servicesData,
-    options: optionschart
-});
-
-  
+  var servicesChartCanvas = document.getElementById("aer-grafik-02");
+  new Chart(servicesChartCanvas, {
+      type: "line",
+      data: servicesData,
+      options: optionschart
+  });
 
 });
