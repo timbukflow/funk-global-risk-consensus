@@ -316,7 +316,7 @@ const data = {
       "events": [
         {
           "name": "WannaCry Ransomware",
-          "image": "img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg",
+          "image": "img/funk-global-risk-consensus-globale-events-wannacry-ransomwared.jpg",
           "link": "globale-events-wannacry-ransomware"
         },
       ],
