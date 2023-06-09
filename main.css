@@ -99,6 +99,12 @@ button {
   vertical-align: text-bottom;
 }
 
+.ibtn {
+  vertical-align: text-top;
+  color: var(--funkgrey);
+  font-size: 18px !important;
+}
+
 
 /*----------------------------------
   Header
@@ -140,6 +146,47 @@ li:first-child {
 li:last-child {
   text-align: right;
 }
+
+/* Kontakt Methode Quelle Impressum */
+.info-btn {
+  cursor: pointer;
+}
+.fade-in-panel {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+}
+
+.fade-in-panel h2 {
+  margin-top: 0;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99;
+  background-color: rgba(0, 80, 146, 0.5);
+}
+
+
 
 /*----------------------------------
   Basic
@@ -562,6 +609,11 @@ canvas {
   width: 100%;
   margin-bottom: 30px;
   padding: 30px;
+}
+.grafiktitle {
+  border-bottom: var(--funkgrey) solid 1px;
+  font-size: 14px;
+  display: inline-block;
 }
 
 

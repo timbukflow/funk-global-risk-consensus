@@ -8,7 +8,7 @@ $(document).ready(function() {
       borderColor: "#005092",
       borderWidth: 2,
       backgroundColor: "#005092",
-      hoverBackgroundColor: "white",  
+      pointRadius: 2  
     }]
   };
 

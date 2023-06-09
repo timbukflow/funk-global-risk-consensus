@@ -7,8 +7,34 @@ $(document).ready(function() {
   
     document.getElementById('time').textContent = `Zürich (GMT+2) ${time}`;
   }
-  
   setInterval(updateTime, 1000);
+
+  // Kontakt Methode Quelle Imprssum
+  $('.info-btn').click(function() {
+    var targetId = $(this).data('target');
+    var targetPanel = $('#' + targetId);
+    fadeInPanel(targetPanel);
+  });
+  
+  function fadeInPanel(panel) {
+    $('#overlay').fadeIn();
+    panel.fadeIn();
+  
+    panel.find('.close-button').click(function() {
+      fadeOutPanel(panel);
+    });
+  
+    $('#overlay').click(function() {
+      fadeOutPanel(panel);
+    });
+  }
+  
+  function fadeOutPanel(panel) {
+    $('#overlay').fadeOut();
+    panel.fadeOut();
+  }
+  
+  
 
   // Suppernav
   $('.menuBtn').click(function() {
