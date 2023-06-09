@@ -3,12 +3,12 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Fachkräftemangel </title>
+    <title>Funk Global Risk Consensus | Klimawandel </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content=".........">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/fachkraeftemangel" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.ch/klimawandel" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta property="og:title" content="Funk Global Risk Consensus | Klimawandel">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | Klimawandel">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -51,19 +51,23 @@
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" alt="funk-global-risk-consensus-risiko-fachkraeftemangel">
+                      <img src="img/funk-global-risk-consensus-risiko-klimawandel.jpg" alt="funk-global-risk-consensus-risiko-klimawandel">
                 </div>
                 <div class="rdcontent">
-                    <h1>Fachkräftemangel</h1>
+                    <h1>Klimawandel</h1>
                     <p>
-                        <strong>Fehlende Nachfolger</strong><br>
-                        Viele KMUs stehen vor oder befinden sich bereits im Generationswechsel der Geschäftsleitung. Dieser Übergang stellt eine bedeutende Herausforderung dar, da es schwierig ist, geeignete Nachfolger zu finden. Einerseits herrscht weniger Loyalität bei den Mitarbeitern, was die Suche erschwert, und andererseits werden qualifizierte Führungskräfte immer seltener, wodurch der Aufbau langfristiger Nachfolgelösungen erschwert wird.
+                        <strong>Weltweites Phänomen</strong><br>
+                        Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Da der Klimawandel ein langsames, aber kontinuierliches Phänomen ist, ist es schwierig das Risiko greifbar zu machen.
                     </p>
                     <p class="hidden-text">
-                        <strong>Spezialisierung</strong><br>
-                        Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Es gibt einen wachsenden Mangel an Talenten mit den erforderlichen Ausbildungen, um diese spezialisierten Positionen besetzen zu können. Dieser Fachkräftemangel hat mehrere Gründe: Einige Fachberufe sind zwar stark nachgefragt, aber bieten nicht genügend Attraktivität, um ausreichend Interessierte anzuziehen. Dieses Phänomen ist insbesondere im Bereich der Pflege zu beobachten. <br><br>
-                        <strong>Bevölkerungsstruktur</strong><br>
-                        Ein weiterer Grund für den Fachkräftemangel ist die fortlaufende Digitalisierung. Immer mehr Jobs benötigen einen soliden IT-Background, jedoch wird in der Ausbildung noch zu wenig Wert auf diese Fähigkeiten gelegt. Ein weiteres Problem ist die Alterspyramide in den meisten westlichen Nationen: Die "Babyboomer-Generation" erreicht das Pensionierungsalter und viele Fachkräfte verlassen den Arbeitsmarkt auf der anderen Seite kommen aufgrund der seit längerer Zeit geringen Geburtenrate weniger neue Arbeitskräfte nach. Diese Lücke wird versucht durch Immigration zu schliessen. Dies gelingt aber nur bedingt, da ganz Europa mit demselben Problem zu kämpfen hat und das Problem sich so nur verlagert und nicht löst.
+                        Global ändern sich durch den Klimawandel Niederschlagsmengen, Temperaturen und viele weitere Umweltfaktoren. Der Meeresspiegel steigt an, ganze Klimazonen verwüsten, während andere nie dagewesene Feuchtigkeit sehen. Klimatische Wettereffekte werden intensiviert, andere verschwinden ganz.<br><br>
+
+                        <strong>Lieferketten genau beobachten</strong><br>
+                        An einem bestimmten Standort mag es den Anschein haben, dass die Auswirkungen des Klimawandels nicht spürbar sind und das Risiko ignoriert werden kann. Jedoch könnte eine Fabrik eines Lieferanten aufgrund des steigenden Meeresspiegels bald von Überschwemmungen betroffen sein.<br><br>
+                        In der Nahrungsmittelindustrie stellt der Klimawandel ein besonders hohes Risiko dar. Durch die Verschiebung der Klimazonen verändern sich das Niederschlagsverhalten und die Temperaturen in bestimmten Regionen. Dadurch kann es vorkommen, dass eine Region nicht mehr für die Zucht bestimmter Arten geeignet ist. Dies führt dazu, dass die gesamte Lieferkette umgestellt werden muss oder im schlimmsten Fall zusammenbricht.<br><br>
+
+                        <strong>Intensivierung von extremen Wetterereignissen</strong><br>
+                        Auf lange Sicht führt der Klimawandel dazu, dass die Risiken bei den extremen Wetterereignissen weiter zunehmen. Höhere Luft- und Meerestemperaturen führen zu höheren energetischen Zuständen. Dies bedeutet, dass sich mehr Energie in Wettersystemen befinden, sei es Niederschlag (warme Luft kann mehr Feuchtigkeit speichern) oder stärkere Winde, da die Temperaturgradienten ausgeprägter sind.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -72,7 +76,7 @@
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
                 <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
-                <canvas id="entwicklung-fachkraeftemangel"></canvas>
+                <canvas id="entwicklung-klimawandel"></canvas>
                 <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
@@ -83,7 +87,7 @@
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
                     <h1>Title</h1>
-                    <p>folgt</p>
+                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
                     <p class="grafiktitle">Grafik Title </p>
                     <canvas id="..."></canvas>
                     <p class="dquelle">Source:</p>
@@ -154,7 +158,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="fachkraeftemangel.js"></script>
+    <script src="klimawandel.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

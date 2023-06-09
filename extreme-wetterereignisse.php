@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus">
+    <meta property="og:title" content="Funk Global Risk Consensus | Extreme Wetterereignisse">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | Extreme Wetterereignisse">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -45,37 +45,34 @@
 
 <body>
 
-    <div class="navglobal">
-        <button class="menuBtn bg">
-            <span id="icon-menu" class="material-symbols-outlined ">menu</span>
-            <span id="icon-close" class="material-symbols-outlined ">close</span>
-        </button>
-        <a href="index">
-            <button class="backBtn bg">
-                <span class="material-symbols-outlined">arrow_back</span>
-            </button>
-        </a>
-    </div>
+    <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
     <div class="rdmain">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-extreme-wetterereignisse.jpg" alt="">
+                      <img src="img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg" alt="funk-global-risk-consensus-risiko-extreme-wetterereignisse">
                 </div>
                 <div class="rdcontent">
                     <h1>Extreme Wetterereignisse</h1>
-                    <p>Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, Ihr Zuhause oder sogar Ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa oder sogar in der Schweiz gibt es immer wieder extreme Wetterereignisse die Tod und Zerstörung mit sich bringen.</p>
-                    <p class="hidden-text">Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher Wetterereignisse nimmt global stark zu und mehr und mehr Menschen und Firmen sind betroffen</p>
+                    <p>
+                        <strong>Globale Katastrophen</strong><br>
+                        Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, Ihr Zuhause oder sogar Ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa oder sogar in der Schweiz gibt es immer wieder extreme Wetterereignisse die Tod und Zerstörung mit sich bringen.
+                    </p>
+                    <p class="hidden-text">
+                        <strong>Weitreichende Konsequenzen</strong><br>
+                        Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu, wodurch immer mehr Menschen und Firmenbetroffen sind.
+                    </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
             </div>
+
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua</p>
+                <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
                 <canvas id="entwicklung-ew"></canvas>
-                <p class="dquelle">Quelle: Lorem Ipsum dolores</p>
+                <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
 

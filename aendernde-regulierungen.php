@@ -8,7 +8,7 @@
 
     <meta name="description" content=".........">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/extreme-wetterereignisse" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.ch/aendernde-regulierungen" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -51,7 +51,7 @@
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-aendernde-regulierungen.jpg" alt="funk-global-risk-consensus-aendernde-regulierungen">
+                      <img src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" alt="funk-global-risk-consensus-risiko-aendernde-regulierungen">
                 </div>
                 <div class="rdcontent">
                     <h1>Ändernde Regulierungen</h1>

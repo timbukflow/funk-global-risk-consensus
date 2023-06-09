@@ -8,7 +8,7 @@
 
     <meta name="description" content=".........">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/extreme-wetterereignisse" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.ch/cyberrisiken" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />

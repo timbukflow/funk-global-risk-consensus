@@ -27,9 +27,9 @@ const data = {
           "link": "extreme-wetterereignisse"
         },
         {
-          "name": "Nicht-Berufskrankheiten",
-          "image": "img/funk-global-risk-consensus-risiko-nicht-berufskrankheiten.jpg",
-          "link": "nicht-berufskrankheiten"
+          "name": "Nichtberufskrankheiten",
+          "image": "img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg",
+          "link": "nichtberufskrankheiten"
         }
     ],
     "events": [
@@ -68,9 +68,9 @@ const data = {
           "link": "cyberrisiken"
         },
         {
-          "name": "Nicht-Berufskrankheiten",
-          "image": "img/funk-global-risk-consensus-risiko-nicht-berufskrankheiten.jpg",
-          "link": "nicht-berufskrankheiten"
+          "name": "Nichtberufskrankheiten",
+          "image": "img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg",
+          "link": "nichtberufskrankheiten"
         },
         {
           "name": "Klimawandel",
@@ -124,9 +124,9 @@ const data = {
         "link": "cyberrisiken"
       },
       {
-        "name": "Nicht-Berufskrankheiten",
-        "image": "img/funk-global-risk-consensus-risiko-nicht-berufskrankheiten.jpg",
-        "link": "nicht-berufskrankheiten"
+        "name": "Nichtberufskrankheiten",
+        "image": "img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg",
+        "link": "nichtberufskrankheiten"
       },
       {
         "name": "Ändernde Regulierungen",

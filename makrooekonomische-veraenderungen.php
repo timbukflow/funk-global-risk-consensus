@@ -3,12 +3,12 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Fachkräftemangel </title>
+    <title>Funk Global Risk Consensus | Makroökonomische Veränderungen </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content=".........">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/fachkraeftemangel" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.ch/makrooekonomische-veraenderungen" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta property="og:title" content="Funk Global Risk Consensus | Makroökonomische Veränderungen">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | Makroökonomische Veränderungen">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -51,19 +51,24 @@
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" alt="funk-global-risk-consensus-risiko-fachkraeftemangel">
+                      <img src="img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg" alt="funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen">
                 </div>
                 <div class="rdcontent">
-                    <h1>Fachkräftemangel</h1>
+                    <h1>Makroökonomische Veränderungen</h1>
                     <p>
-                        <strong>Fehlende Nachfolger</strong><br>
-                        Viele KMUs stehen vor oder befinden sich bereits im Generationswechsel der Geschäftsleitung. Dieser Übergang stellt eine bedeutende Herausforderung dar, da es schwierig ist, geeignete Nachfolger zu finden. Einerseits herrscht weniger Loyalität bei den Mitarbeitern, was die Suche erschwert, und andererseits werden qualifizierte Führungskräfte immer seltener, wodurch der Aufbau langfristiger Nachfolgelösungen erschwert wird.
+                        <strong>Massiver Leitzinsanstieg</strong><br>
+                        Eine Massnahme zur Reduktion der Nachfrageinflation ist die Nachfrage zu reduzieren. Viele Nationalbanken griffen in den letzten Monaten zu diesem Mittel. Innerhalb kurzer Zeit stiegen die wichtigsten Leitzinsen um teilweise über 5%.
                     </p>
                     <p class="hidden-text">
-                        <strong>Spezialisierung</strong><br>
-                        Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Es gibt einen wachsenden Mangel an Talenten mit den erforderlichen Ausbildungen, um diese spezialisierten Positionen besetzen zu können. Dieser Fachkräftemangel hat mehrere Gründe: Einige Fachberufe sind zwar stark nachgefragt, aber bieten nicht genügend Attraktivität, um ausreichend Interessierte anzuziehen. Dieses Phänomen ist insbesondere im Bereich der Pflege zu beobachten. <br><br>
-                        <strong>Bevölkerungsstruktur</strong><br>
-                        Ein weiterer Grund für den Fachkräftemangel ist die fortlaufende Digitalisierung. Immer mehr Jobs benötigen einen soliden IT-Background, jedoch wird in der Ausbildung noch zu wenig Wert auf diese Fähigkeiten gelegt. Ein weiteres Problem ist die Alterspyramide in den meisten westlichen Nationen: Die "Babyboomer-Generation" erreicht das Pensionierungsalter und viele Fachkräfte verlassen den Arbeitsmarkt auf der anderen Seite kommen aufgrund der seit längerer Zeit geringen Geburtenrate weniger neue Arbeitskräfte nach. Diese Lücke wird versucht durch Immigration zu schliessen. Dies gelingt aber nur bedingt, da ganz Europa mit demselben Problem zu kämpfen hat und das Problem sich so nur verlagert und nicht löst.
+                        <strong>Folgen hoher Zinsen auf laufende Kredite</strong><br>
+                        Seit mehr als 10 Jahren konnten Firmen, und auch Private, sich sehr günstig Geld leihen, da die von den Nationalbanken gesetzten Leitzinsen um 0% lagen. Dadurch konnten Banken günstig Kredite geben und Firmen konnten dieses günstige Geld für Investitionen nutzen. Durch den massiven Zinsanstieg werden diese Schulden laufend teurer, denn sobald die alten günstigen Kredite durch neue teure abgelöst werden müssen, steigen die Kosten diese Kredite zu finanzieren an.<br><br>
+
+                        <strong>Weiterreichende Folgen</strong><br>
+                        Neben dem direkten Anstieg der Kosten für Kredite, führen die höheren Leitzinse auch zu weitreichenderen Folgen für die Kreditnehmer. Hypotheken und Mieten sind indirekt an die Leitzinse gekoppelt. Steigen die Leitzinse wird es teurer für Banken Geld zu leihen, um dieses an Immobilienbesitzer weiterzugeben. Dadurch müssen höhere Mieten verlangt werden, um die Hypothekarkosten zu finanzieren.<br><br>
+                        Zusätzlich gibt es aber noch weitere Folgen. Leasing von Fahrzeugen und Maschinen wird teurer, da das Leasing ähnlich wie eine Hypothek funktionieren. Anstelle die Ware direkt zu kaufen, wird diese von einer Drittpartei finanziert und dann Monatlich die Benutzung (Wertverfall + Finanzierungskosten für den Kauf) in Rechnung gestellt. Da die Finanzierungskosten steigen, steigen auch die Leasingraten. Bei grossen Flotten oder Maschinenparks kann dies schnell viel Geld kosten.<br><br>
+
+                        <strong>Privatkonsum</strong><br>
+                        Höhere Leitzinsen reduzieren den Privatkonsum, da die Kosten für Wohnen wie oben beschrieben ansteigen. Zusätzlich steigen aber auch die Kosten für Privatkredite und eventuell die Mobilität (Leasing) an. Dies führt zu einer geringeren Nachfrage, was zwar der Inflation entgegenwirkt, jedoch bei Unternehmen zu Umsatzrückgängen führt, da weniger Güter konsumiert und gekauft werden.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -72,7 +77,7 @@
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
                 <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
-                <canvas id="entwicklung-fachkraeftemangel"></canvas>
+                <canvas id="entwicklung-makrooekonomische-veraenderungen"></canvas>
                 <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
@@ -83,7 +88,7 @@
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
                     <h1>Title</h1>
-                    <p>folgt</p>
+                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
                     <p class="grafiktitle">Grafik Title </p>
                     <canvas id="..."></canvas>
                     <p class="dquelle">Source:</p>
@@ -154,7 +159,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="fachkraeftemangel.js"></script>
+    <script src="makrooekonomische-veraenderungen.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

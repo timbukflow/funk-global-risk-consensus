@@ -3,12 +3,12 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Fachkräftemangel </title>
+    <title>Funk Global Risk Consensus | Naturkatastrophen </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content=".........">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/fachkraeftemangel" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.ch/naturkatastrophen" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta property="og:title" content="Funk Global Risk Consensus | Naturkatastrophen">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | Naturkatastrophen">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -51,19 +51,21 @@
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" alt="funk-global-risk-consensus-risiko-fachkraeftemangel">
+                      <img src="img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg" alt="funk-global-risk-consensus-risiko-naturkatastrophen">
                 </div>
                 <div class="rdcontent">
-                    <h1>Fachkräftemangel</h1>
+                    <h1>Naturkatastrophen</h1>
                     <p>
-                        <strong>Fehlende Nachfolger</strong><br>
-                        Viele KMUs stehen vor oder befinden sich bereits im Generationswechsel der Geschäftsleitung. Dieser Übergang stellt eine bedeutende Herausforderung dar, da es schwierig ist, geeignete Nachfolger zu finden. Einerseits herrscht weniger Loyalität bei den Mitarbeitern, was die Suche erschwert, und andererseits werden qualifizierte Führungskräfte immer seltener, wodurch der Aufbau langfristiger Nachfolgelösungen erschwert wird.
+                        <strong>Gewaltiges Zerstörungspotenzial</strong><br>
+                        Erdbeben, Tsunamis, Vulkanausbrüche. Sobald über eine dieser Events in den Medien berichtet wird, bedeutet dies meistens, dass irgendwo auf der Welt eine Katastrophe stattgefunden hat. Tausende Todesopfer und Milliardenschäden an Gebäuden und Infrastruktur sind keine Seltenheit, wenn diese Naturkatastrophen in der Nähe von stark überbauten Gebieten auftreten. Pompei, Haiti, Fukushima oder Sumatra - viele Menschen assoziieren diese Orte direkt mit schlimmen Naturkatastrophen.
                     </p>
                     <p class="hidden-text">
-                        <strong>Spezialisierung</strong><br>
-                        Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Es gibt einen wachsenden Mangel an Talenten mit den erforderlichen Ausbildungen, um diese spezialisierten Positionen besetzen zu können. Dieser Fachkräftemangel hat mehrere Gründe: Einige Fachberufe sind zwar stark nachgefragt, aber bieten nicht genügend Attraktivität, um ausreichend Interessierte anzuziehen. Dieses Phänomen ist insbesondere im Bereich der Pflege zu beobachten. <br><br>
-                        <strong>Bevölkerungsstruktur</strong><br>
-                        Ein weiterer Grund für den Fachkräftemangel ist die fortlaufende Digitalisierung. Immer mehr Jobs benötigen einen soliden IT-Background, jedoch wird in der Ausbildung noch zu wenig Wert auf diese Fähigkeiten gelegt. Ein weiteres Problem ist die Alterspyramide in den meisten westlichen Nationen: Die "Babyboomer-Generation" erreicht das Pensionierungsalter und viele Fachkräfte verlassen den Arbeitsmarkt auf der anderen Seite kommen aufgrund der seit längerer Zeit geringen Geburtenrate weniger neue Arbeitskräfte nach. Diese Lücke wird versucht durch Immigration zu schliessen. Dies gelingt aber nur bedingt, da ganz Europa mit demselben Problem zu kämpfen hat und das Problem sich so nur verlagert und nicht löst.
+                        <strong>Ein schwer greifbares Risiko</strong><br>
+                        Glücklicherweise sind grosse Naturkatastrophen relativ selten. Dies kann jedoch auch ein Problem sein, da sie dadurch sehr schwer als Risiko greifbar sind. Oft werden diese Risiken aufgrund ihrer geringen Eintrittswahrscheinlichkeit vernachlässigt, obwohl sie, falls sie dann eintreten, oft einen Totalschaden verursachen. Daher ist es wichtig, sich auch auf solche Risiken vorzubereiten, obwohl oft davon ausgegangen werden kann, dass sie während einer Managementkarriere nie eintreten werden.<br><br>
+
+                        <strong>Mehrdimensionale Auswirkungen</strong><br>
+                        Ein sehr gefährlicher Aspekt grosser Naturkatastrophen ist, dass Sie grosse Auswirkungen auf ein Unternehmen haben können, ohne dass man selbst direkt betroffen ist. Zerstört ein Erdbeben oder ein Tsunami einen wichtigen Hafen, können Rohwaren, Hilfsstoffe und Halbfabrikate nicht geliefert werden und zu einem Produktionsrückgang oder sogar -stopp führen.<br><br>
+                        Vulkanausbrüche können den Flugverkehr auf ganzen Kontinenten lahmlegen, da die ausgeworfene Asche die Triebwerke zerstören würde. Unternehmen, die auf den Tourismus angewiesen sind, verlieren so auf einen Schlag Ihre Haupteinnahmequelle. Da neben Passagieren auch viele, teils sehr wertvolle, Produkte per Luftfracht transportiert werden hat dies direkt einen grossen Einfluss auf einzelne Unternehmen.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -72,7 +74,7 @@
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
                 <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
-                <canvas id="entwicklung-fachkraeftemangel"></canvas>
+                <canvas id="entwicklung-naturkatastrophen"></canvas>
                 <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
@@ -83,7 +85,7 @@
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
                     <h1>Title</h1>
-                    <p>folgt</p>
+                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
                     <p class="grafiktitle">Grafik Title </p>
                     <canvas id="..."></canvas>
                     <p class="dquelle">Source:</p>
@@ -154,7 +156,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="fachkraeftemangel.js"></script>
+    <script src="naturkatastrophen.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>
