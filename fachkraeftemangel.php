@@ -82,11 +82,15 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>folgt</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <h1>Der globale Fachkräftemangel erreicht den höchsten Stand seit 17 Jahren</h1>
+                    <p>Weltweit beklagen immer mehr Arbeitgeber, dass Sie ihre ausgeschriebenen Stellen nicht adäquat besetzen können. Im Jahr 2023 haben beinahe 4 von 5 befragten Arbeitgeber angegeben, dass Sie Mühe hatten eine passende Fachkraft zu finden.</p>
+                    <canvas id="fachkraeftemangel-grafik-01"></canvas>
+                    <p class="dquelle">Quelle: ManpowerGroup</p>
+                </div>
+                <div class="fakten bg">
+                    <h1>Folgende Fähigkeiten werden bei der Rekrutierung am weltweit meisten gesucht</h1>
+                    <canvas id="fachkraeftemangel-grafik-02"></canvas>
+                    <p class="dquelle">Quelle: ManpowerGroup</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->

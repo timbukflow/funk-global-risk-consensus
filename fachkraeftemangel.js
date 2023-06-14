@@ -48,4 +48,115 @@ $(document).ready(function() {
 
   // Interessante Fakten
  
+  const dataGrafik01 = {
+    labels: ["2014","2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    datasets: [{
+      label: "Globaler Fachkräftemangel",
+      data: [35, 36, 38, 50, 45, 54, 69, 75, 77],
+      backgroundColor: "#5487A6",
+      maxBarThickness: 20,
+      minBarLength: 2,
+    }]
+  };
+  
+  const optionsGrafik01 = {
+    scales: {
+      y: {
+        beginAtZero: true,
+        ticks: {
+          callback: function(value) {
+            return value + "%";
+          }
+        }
+      }
+    },
+    plugins: {
+      legend: {
+        display: true
+      },
+      tooltip: {
+        callbacks: {
+          title: function(context) {
+            var title = context[0].label || "";
+            return title;
+          },
+          label: function(context) {
+            var value = context.parsed.y;
+            return value + "%";
+          }
+        },
+        cornerRadius: 5,
+        displayColors: false,
+        titleFont: {
+          size: 14
+        },
+        bodyFont: {
+          size: 14
+        }
+      }
+    }
+  };
+  
+  const grafik01 = document.getElementById("fachkraeftemangel-grafik-01").getContext("2d");
+  new Chart(grafik01, {
+    type: "bar",
+    data: dataGrafik01,
+    options: optionsGrafik01
+  });
+
+
+  const dataGrafik02 = {
+    labels: ["IT & Datenverarbeitung", "Maschinenbau/Ingenieur", "Verkauf & Marketing", "Betrieb & Logistik", "Kundenbetreuung"],
+    datasets: [{
+      label: "Gesuchte Fachkräfte",
+      data: [27, 22, 20, 19, 17],
+      backgroundColor: "#5487A6",
+      maxBarThickness: 20,
+      minBarLength: 2,
+    }]
+  };
+  
+  const optionsGrafik02 = {
+    indexAxis: "y",
+    scales: {
+      x: {
+        beginAtZero: true,
+        ticks: {
+          callback: function(value) {
+            return value + "%";
+          }
+        }
+      }
+    },
+    plugins: {
+      legend: {
+        display: true
+      },
+      tooltip: {
+        callbacks: {
+          
+          label: function(context) {
+            var value = context.parsed.x;
+            return value + "%";
+          }
+        },
+        cornerRadius: 5,
+        displayColors: false,
+        titleFont: {
+          size: 14
+        },
+        bodyFont: {
+          size: 14
+        }
+      }
+    }
+  };
+  
+  const grafik02 = document.getElementById("fachkraeftemangel-grafik-02").getContext("2d");
+  new Chart(grafik02, {
+    type: "bar",
+    data: dataGrafik02,
+    options: optionsGrafik02
+  });
+
 });
