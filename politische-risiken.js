@@ -7,7 +7,7 @@ $(document).ready(function() {
       data: [40, 10, 20, 18, 11, 0, 4],
       borderColor: "#005092",
       backgroundColor: "#005092",
-      borderWidth: 2,
+      borderWidth: 1,
       pointRadius: 2,
     }]
   };

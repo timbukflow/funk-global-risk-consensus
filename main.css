@@ -16,7 +16,7 @@
 
   --fontsmall: 16px;
   --fontmedium: 21px;
-  --fontlarge: 26px;
+  --fontlarge: 25px;
   --fontbig: 45px;
 }
 
@@ -157,7 +157,7 @@ li:last-child {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: 50%;
   padding: 20px;
   background-color: white;
   border-radius: 5px;
@@ -165,14 +165,19 @@ li:last-child {
   z-index: 999;
 }
 
-.fade-in-panel h2 {
+.fade-in-panel h2, .fade-in-panel p  {
   margin-top: 0;
+}
+.fade-in-panel strong {
+  display: block;
+  padding-bottom: 16px;
 }
 
 .close-button {
-  position: absolute;
-  top: 10px;
-  right: 10px;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1px;
 }
 
 #overlay {

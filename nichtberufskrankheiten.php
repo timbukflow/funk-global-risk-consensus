@@ -82,11 +82,16 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <h1>Geleistete Arbeitsstunden</h1>
+                    <p>Die folgende Grafik zeigt die Entwicklung der Jahresarbeitsleistung der Schweiz zwischen 1993 und 2022. Während der allgemeine Trend nach oben zeigt (Wirtschaftswachstum), ist der Einbruch der Arbeitszeit im Jahr 2020 ganz klar auf Covid-19 und die dadurch verursachten Krankheitsbedingten Absenzen zurückzuführen. Die folgende Grafik zeigt die Entwicklung der Jahresarbeitsleistung der Schweiz zwischen 1993 und 2022. Während der allgemeine Trend nach oben zeigt (Wirtschaftswachstum), ist der Einbruch der Arbeitszeit im Jahr 2020 ganz klar auf Covid-19 und die dadurch verursachten Krankheitsbedingten Absenzen zurückzuführen.</p>
+                    <canvas id="nbk-grafik-01"></canvas>
+                    <p class="dquelle info-btn" data-target="nbk-grafik-info">Quelle: BFS <span class="material-symbols-outlined ibtn">info</span></p>
+                </div>
+                <div id="nbk-grafik-info" class="fade-in-panel">
+                    <p>
+                        <strong>Allgemeine Anmerkung zu den Ergebnissen der Arbeitsvolumenstatistik (AVOL)</strong>Von 1991 bis 2009 wurde die Schweizerische Arbeitskräfteerhebung (SAKE; Hauptquelle der AVOL) jeweils im zweiten Quartal durchgeführt. Seit 2010 werden die Daten der SAKE vierteljährlich erhoben (kontinuierliche Erhebung). Für eine bessere Gewichtung wurden im Jahr 2017 für den Zeitraum 2010-2016 bei der Kalibrierung Sozialversicherungsdaten herangezogen. Durch die Berücksichtigung dieser neuen Dimension steigt die statistische Genauigkeit, insbesondere in Bezug auf den Arbeitsmarktstatus (erwerbstätig/erwerbslos gemäss ILO/nichterwerbstätig). Die Änderung der Periodizität sowie die Verbesserung der Gewichtung des SAKE führen bei einem Teil der Ergebnisse zu einem Bruch in der Zeitreihe zwischen 2009 und 2010; dieser Bruch zeigt sich ebenfalls bei der AVOL.
+                    </p>
+                    <button class="close-button">Schliessen</button>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->

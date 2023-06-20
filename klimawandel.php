@@ -86,11 +86,10 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <h1>Atmosphärentemperatur</h1>
+                    <p>Die folgende Grafik zeigt die jährliche Atmosphärentemperatur in Relation zur Durchschnittstemperatur zwischen 1901 und 2000.</p>
+                    <canvas id="kw-grafik-01"></canvas>
+                    <p class="dquelle">Quelle: NOAA</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->

@@ -83,11 +83,10 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <h1>Teleheimarbeit</h1>
+                    <p>....</p>
+                    <canvas id="nt-grafik-01"></canvas>
+                    <p class="dquelle">Quelle BFS</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->

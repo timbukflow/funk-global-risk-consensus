@@ -77,7 +77,7 @@
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
                 <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
-                <canvas id="entwicklung-makrooekonomische-veraenderungen"></canvas>
+                <canvas id="entwicklung-mv"></canvas>
                 <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
@@ -87,11 +87,10 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <h1>Leitzinse der Zentralbanken</h1>
+                    <p>In der folgenden Grafik sind die Leitzinse der wichtigsten Zentralbanken im Jahr 2020 und im Jahr 2023 abgebildet.</p>
+                    <canvas id="mv-grafik-01"></canvas>
+                    <p class="dquelle">Quelle: ???</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->

@@ -6,7 +6,7 @@ $(document).ready(function() {
       label: "Entwicklung",
       data: [0, 16, 15, 18, 16, 14, 15],
       borderColor: "#005092",
-      borderWidth: 2,
+      borderWidth: 1,
       backgroundColor: "#005092",
       pointRadius: 2  
     }]

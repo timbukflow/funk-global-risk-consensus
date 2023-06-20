@@ -7,7 +7,7 @@ $(document).ready(function() {
       data: [0, 0, 0, 1, 3, 7, 17],
       borderColor: "#005092",
       backgroundColor: "#005092",
-      borderWidth: 2,
+      borderWidth: 1,
       pointRadius: 2,
     }]
   };
@@ -39,7 +39,7 @@ $(document).ready(function() {
     }
   };
 
-  const ctx = document.getElementById("entwicklung-makrooekonomische-veraenderungen").getContext("2d");
+  const ctx = document.getElementById("entwicklung-mv").getContext("2d");
   new Chart(ctx, {
     type: 'line',
     data: data,
@@ -47,5 +47,58 @@ $(document).ready(function() {
   });
 
   // Interessante Fakten
+
+  const grafik01 = document.getElementById('mv-grafik-01').getContext('2d');
+  new Chart(grafik01, {
+      type: 'bar',
+      data: {
+        labels: ['FED (United States)', 'BoE (Great Britain)', 'EZB (Europe)', 'SNB (Switzerland)'],
+        datasets: [
+          {
+            label: 'Zinssatz 2020',
+            data: [0.25, 0.10, 0, -0.75],
+            backgroundColor: "rgb(104, 192, 181)",
+          },
+          {
+            label: 'Zinssatz 2023',
+            data: [5.25, 4.50, 3.75, 1.50],
+            backgroundColor: '#5487A6',
+          }
+        ]
+      },
+      options: {
+        scales: {
+          y: {
+            min: -2,
+            ticks: {
+              callback: function(value) {
+                return value + '%';
+              }
+            }
+          }
+        },
+        plugins: {
+          legend: {
+            display: true
+          },
+          tooltip: {
+            cornerRadius: 5,
+            displayColors: false,
+            titleFont: {
+              size: 14
+            },
+            bodyFont: {
+              size: 14
+            },
+            callbacks: {
+              label: function(tooltipItem) {
+                const value = tooltipItem.formattedValue;
+                return value + '%';
+              }
+            } 
+          }
+        }
+      }
+    });
  
 });

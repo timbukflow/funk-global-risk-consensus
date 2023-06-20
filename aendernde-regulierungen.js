@@ -7,7 +7,7 @@ $(document).ready(function() {
       data: [0, 17, 18, 25, 25, 19, 10],
       borderColor: "#005092",
       backgroundColor: "#005092",
-      borderWidth: 2,
+      borderWidth: 1,
       pointRadius: 2,
     }]
   };
@@ -69,7 +69,7 @@ $(document).ready(function() {
           ],
           borderColor: "rgba(169, 151, 127, 0.5)",
           backgroundColor: "rgba(169, 151, 127, 0.5)",
-          borderWidth: 2,
+          borderWidth: 1,
           pointRadius: 2,
           fill: false
       },
@@ -85,7 +85,7 @@ $(document).ready(function() {
           ],
           borderColor: "rgba(169, 151, 127, 1)",
           backgroundColor: "rgba(169, 151, 127, 1)",
-          borderWidth: 2,
+          borderWidth: 1,
           pointRadius: 2,
           fill: false
       },
@@ -101,7 +101,7 @@ $(document).ready(function() {
           ],
           borderColor: "rgba(84, 135, 166, 0.5)",
           backgroundColor: "rgba(84, 135, 166, 0.5)",
-          borderWidth: 2,
+          borderWidth: 1,
           pointRadius: 2,
           fill: false
       },
@@ -117,7 +117,7 @@ $(document).ready(function() {
           ],
           borderColor: "rgba(84, 135, 166, 1)",
           backgroundColor: "rgba(84, 135, 166, 1)",
-          borderWidth: 2,
+          borderWidth: 1,
           pointRadius: 2,
           fill: false
       }
@@ -143,7 +143,7 @@ var servicesData = {
             ],
             borderColor: "rgba(169, 151, 127, 0.5)",
             backgroundColor: "rgba(169, 151, 127, 0.5)",
-            borderWidth: 2,
+            borderWidth: 1,
             pointRadius: 2,
             fill: false
         },
@@ -156,7 +156,7 @@ var servicesData = {
             ],
             borderColor: "rgba(169, 151, 127, 1)",
             backgroundColor: "rgba(169, 151, 127, 1)",
-            borderWidth: 2,
+            borderWidth: 1,
             pointRadius: 2,
             fill: false
         },
@@ -169,7 +169,7 @@ var servicesData = {
             ],
             borderColor: "rgba(84, 135, 166, 0.5)",
             backgroundColor: "rgba(84, 135, 166, 0.5)",
-            borderWidth: 2,
+            borderWidth: 1,
             pointRadius: 2,
             fill: false
         },
@@ -182,7 +182,7 @@ var servicesData = {
             ],
             borderColor: "rgba(84, 135, 166, 1)",
             backgroundColor: "rgba(84, 135, 166, 1)",
-            borderWidth: 2,
+            borderWidth: 1,
             pointRadius: 2,
             fill: false
         }
