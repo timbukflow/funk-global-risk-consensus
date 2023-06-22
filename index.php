@@ -47,7 +47,7 @@
 
     <div class="navyearscont">
         <div class="navyears">
-        <div class="navglobal">
+        <div class="navglobal time">
             <button class="menuBtn bg">
                 <span id="icon-menu" class="material-symbols-outlined ">menu</span>
                 <span id="icon-close" class="material-symbols-outlined ">close</span>

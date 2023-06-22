@@ -83,11 +83,10 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <h1>Folgt</h1>
+                    <p>Folgt</p>
+                    <canvas id="ume-grafik-01"></canvas>
+                    <p class="dquelle">Data extracted on 05 Jun 2023 14:04 UTC (GMT) from OECD.Stat</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->

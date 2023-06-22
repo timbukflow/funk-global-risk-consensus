@@ -48,4 +48,43 @@ $(document).ready(function() {
 
   // Interessante Fakten
  
+  var grafik01 = document.getElementById('vmvk-grafik-01').getContext('2d');
+  new Chart(grafik01, {
+      type: 'bar',
+      data: {
+        labels: ["Tshernobyl, Ukraine (1986)", "Deepwater Horizon, USA (2010)", "Exxon Valdez, USA (1989)", "Brumadinho, Brasilien (2019)", "Costa Concordia, Italien (2012)"],
+        datasets: [
+          {
+            label: 'Gesammtschadensumme [in Mrd. $]',
+            data: [700, 144.9, 6.8, 3.66, 2],
+            backgroundColor: "#5487A6",
+          }
+        ]
+      },
+      options: {
+        indexAxis: "y",
+        plugins: {
+          legend: {
+            display: true
+          },
+          tooltip: {
+            callbacks: {
+              
+              label: function(context) {
+                var value = context.parsed.x;
+                return value + " Mrd $";
+              }
+            },
+            cornerRadius: 5,
+            displayColors: false,
+            titleFont: {
+              size: 14
+            },
+            bodyFont: {
+              size: 14
+            }
+          }
+        }
+      }
+    });
 });

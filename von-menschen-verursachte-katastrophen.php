@@ -81,10 +81,9 @@
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
                     <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
-                    <p class="dquelle">Source:</p>
+                    <p>...</p>
+                    <canvas id="vmvk-grafik-01"></canvas>
+                    <p class="dquelle">Source: ???</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->
@@ -93,20 +92,66 @@
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg" alt="funk-global-risk-consensus-globale-events-covid-19-pandemie">
+                            <img src="img/funk-global-risk-consensus-event-tjanjin-hafenexplosion-2015.jpg" alt="funk-global-risk-consensus-event-tjanjin-hafenexplosion-2015">
                         </div>
-                        <div class="eventtitle globalevent ">
-                            <h1>Covid-19</h1>
-                            <a href="globale-events-wannacry">
-                                <button class="geBtn">
-                                    <span class="material-symbols-outlined">chevron_right</span>Global Event
-                                </button>
-                            </a>
+                        <div class="eventtitle">
+                            <h1>Tjanjin Hafenexplosion (2015)</h1>
+                            <p class="hidden-text">
+                                Die Explosion im Hafen von Tianjin war eine der schwersten Industriekatastrophen in der jüngeren chinesischen Geschichte und führte zu einer verstärkten Sensibilisierung für die Notwendigkeit angemessener Sicherheitsmaßnahmen und Vorschriften bei der Lagerung gefährlicher Materialien. Die Auswirkungen der Explosion waren verheerend. Mindestens 173 Menschen wurden getötet, darunter Feuerwehrleute und andere Rettungskräfte, die bei den Löscharbeiten waren. Tausende von Menschen wurden verletzt, einige davon schwer.    
+                            </p>
+                            <button class="bBtn" data-open="true">Bericht</button>
+                        </div>
+                    </div>
+                    <div class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-event-bhopal-katastrophe-1984.jpg" alt="funk-global-risk-consensus-event-bhopal-katastrophe-1984">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Bhopal-Katastrophe (1984)</h1>
+                            <p class="hidden-text">
+                            Eine Gasleckage in einer Chemiefabrik in Bhopal, Indien, führte zur Freisetzung von giftigem Methylisocyanat. Tausende Menschen starben und Zehntausende erlitten Verletzungen.    
+                            </p>
+                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
                     <!-- hidden events -->
                     <div class="hidden-events">
-                        ...
+                        <div class="event bg">
+                            <div class="eventimg">
+                                <img src="img/funk-global-risk-consensus-event-tschernobyl-Katastrophe-1986.jpg" alt="funk-global-risk-consensus-event-tschernobyl-Katastrophe-1986">
+                            </div>
+                            <div class="eventtitle">
+                                <h1>Tschernobyl-Katastrophe (1986)</h1>
+                                <p class="hidden-text">
+                                    Eine Kernschmelze im Kernkraftwerk Tschernobyl in der Ukraine führte zu einer massiven Freisetzung von Radioaktivität. Es gilt als das schwerste Atomkraftwerkunglück in der Geschichte.    
+                                </p>
+                                <button class="bBtn" data-open="true">Bericht</button>
+                            </div>
+                        </div>
+                        <div class="event bg">
+                            <div class="eventimg">
+                                <img src="img/funk-global-risk-consensus-event-Exxon-valdez-oelkatastrophe-1989.jpg" alt="funk-global-risk-consensus-event-Exxon-valdez-oelkatastrophe-1989">
+                            </div>
+                            <div class="eventtitle">
+                                <h1>Exxon-Valdez-Ölkatastrophe (1989)</h1>
+                                <p class="hidden-text">
+                                    Der Öltanker Exxon Valdez lief vor der Küste von Alaska auf Grund und verursachte eine massive Ölverschmutzung, die erhebliche Auswirkungen auf die Umwelt hatte.    
+                                </p>
+                                <button class="bBtn" data-open="true">Bericht</button>
+                            </div>
+                        </div>
+                        <div class="event bg">
+                            <div class="eventimg">
+                                <img src="img/funk-global-risk-consensus-event-deepwater-horizon-oelkatastrophe-2010.jpg" alt="funk-global-risk-consensus-event-deepwater-horizon-oelkatastrophe-2010">
+                            </div>
+                            <div class="eventtitle">
+                                <h1>Deepwater Horizon-Ölkatastrophe (2010)</h1>
+                                <p class="hidden-text">
+                                    Eine Explosion auf der Ölbohrplattform Deepwater Horizon im Golf von Mexiko führte zu einer massiven Ölkatastrophe. Über Wochen hinweg strömten Millionen von Barrel Öl ins Meer und verursachten schwere Umweltschäden.    
+                                </p>
+                                <button class="bBtn" data-open="true">Bericht</button>
+                            </div>
+                        </div>
                     </div>
                     <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>

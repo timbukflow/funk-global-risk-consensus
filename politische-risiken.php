@@ -77,7 +77,7 @@
                 <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
-
+        
         <div class="rdcontainer">
             <!-- Interessante Fakten -->
             <div class="rdcfakten">
@@ -86,6 +86,7 @@
                     <h1>Title</h1>
                     <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
                     <p class="grafiktitle">Grafik Title </p>
+                    <div class="transparencyEmbed" data-year="2022"></div>
                     <canvas id="..."></canvas>
                     <p class="dquelle">Source:</p>
                 </div>
@@ -156,6 +157,7 @@
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="politische-risiken.js"></script>
+    <script src="https://transparency.org/assets/dist/embed-generator.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

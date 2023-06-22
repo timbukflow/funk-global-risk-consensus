@@ -50,6 +50,7 @@ $(document).ready(function() {
     }
 
     $('.supernavcontainer').stop(true, true).fadeToggle(1000);
+    $('body').toggleClass('supernavsc');
   });
 
 
