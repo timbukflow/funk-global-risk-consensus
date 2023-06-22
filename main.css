@@ -166,7 +166,7 @@ li:last-child {
 
 .fade-in-panel {
   display: none;
-  position: sticky;
+  position: absolute;
   left: 50%;
   transform: translate(-50%);
   width: 50%;
@@ -183,6 +183,12 @@ li:last-child {
 .fade-in-panel strong {
   display: block;
   padding-bottom: 16px;
+}
+.fade-in-panel p span, .fade-in-panel a {
+  text-decoration: underline;
+}
+#kontakt {
+  width: 350px;
 }
 
 .close-button {

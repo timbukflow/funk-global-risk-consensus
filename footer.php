@@ -2,7 +2,7 @@
     <ul>
       <li><strong>Information</strong></li>
       <li class="info-btn" data-target="methode">Methode</li>
-      <li class="info-btn" data-target="quellen">Quellen</li>
+      <li class="info-btn" data-target="studien">Studien</li>
       <li class="info-btn" data-target="impressum">Impressum</li>
     </ul>
     <ul>
@@ -12,31 +12,61 @@
       <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">www.funk-gruppe.ch</a></li>
     </ul>
     <ul>
-      <li><a href="https://www.funk-gruppe.ch/de/" target="_blank"><strong>Die beste Empfehlung. Funk.</strong></a></li>
+      <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">Die beste Empfehlung. Funk.</a></li>
     </ul>
 </footer>
 
 <div class="info-container">
   <div id="kontakt" class="fade-in-panel">
-      <p>
-          Funk Zürich <br>
-          Hagenholzstrasse 56 <br>
-          CH-8050 Zürich <br>
-      </p>
+    <h2>Kontakt</h2>  
+    <p>
+      Funk Zürich <br>
+      Hagenholzstrasse 56 <br>
+      CH-8050 Zürich <br><br>
       <a href="tel:041583110500">T +41 (0)58 311 05 00</a><br>
       <a href="mailto:info@funk-gruppe.ch" target="_top">info@funk-gruppe.ch</a><br>
       <a href="https://www.funk-gruppe.ch/de/" target="_blank">www.funk-gruppe.ch</a>
-    <button class="close-button">Schliessen</button>
+    </p>
+    <button class="close-button">
+      <span class="material-symbols-outlined ">close</span>
+    </button>
   </div>
 
   <div id="methode" class="fade-in-panel">
-    <h2>methode</h2>
-    <button class="close-button">Schließen</button>
+    <h2>Methode</h2>
+    <p>
+      Damit der Funk Global Risk Consensus so neutral wie möglich ist, werden die erfassten Risiken aus fünf ausgewählten <span class="info-btn" data-target="studien">Studien</span> in eine Rangliste gebracht. Alle fünf Studien basieren auf Befragungen von Führungskräften. Die Auswahl ist dabei Global um eine möglich weitreichende und umfassende Erhebung zu haben. Da in jeder Studie bereits eine Bewertung aufgrund der Anzahl Nennungen vorhanden ist, benutzt Funk ein einfaches Punktesystem, um die Risiken zu bewerten. Ist ein Risiko bei einer Studie auf Platz eins, wird es mit 10 Punkten bewertet, ist es auf Platz 10 mit einem Punkt. Danach werden die Punkte der Risiken von allen Studien zusammengezählt. Dadurch entsteht eine neutrale Rangliste im Funk Global Risk Consensus, da so nur Risiken, die in mehreren Studien auf den vorderen Plätzen genannt werden es auch im Funk Global Risk Consensus in die vorderen Plätze schaffen.
+    </p>
+    <button class="close-button">
+      <span class="material-symbols-outlined ">close</span>
+    </button>
   </div>
 
-  <div id="quellen" class="fade-in-panel">
-    <h2>quellen</h2>
-    <button class="close-button">Schließen</button>
+  <div id="studien" class="fade-in-panel">
+    <h2>Studien</h2>
+    <p>
+      <strong>AGCS (Allianz Global Corporate Solutions)</strong>
+      Allianz Risk Barometer – Befragung von ca. 3.000 Risikomanagement Expert*innen aus 100 Ländern. Ziel ist es, die wichtigsten Betriebsrisiken zu bestimmen.
+    </p>
+    <p>
+      <strong>WEF (World Economic Forum)</strong>
+      (World Economic Forum mit Beratungs- und Versicherungspartnern, National University of Singapore, Oxford Martin School -  University of Oxford, Wharton Risk Management and Decision Processes Center - University of Pennsylvania): The Global Risks Report - Als Grundlage dient die Global Risks Perception Survey welche die rund 800 Mitglieder des WEF ausgefüllt haben. Zusätzlich wurden noch gut 200 Mitglieder der Global Sharpers Community befragt. Das Ziel ist, aufgrund der Antworten gemeinsam nachhaltige Lösungen für die wichtigsten Risiken zu finden.
+    </p>
+    <p>
+      <strong>BCI (Business Continuity Institute)</strong>
+      BCI Horizon Risk Scan - Das BCI hat über 9.000 Mitglieder in über 100 Ländern, welche für den Horizon Risk Scan befragt werden. Das Ziel ist, Firmen widerstandsfähiger zu machen.
+    </p> 
+    <p>
+      <strong>PwC (PricewaterhouseCoopers)</strong>
+      Annual Global CEO Survey - über 5.000 CEOs aus 100 Ländern werden für die jeweilige Ausgabe befragt.
+    </p>
+    <p>
+      <strong>NC State University und Protiviti</strong>
+      (Research conducted by NC State University's ERM initiative and Protiviti): Executive Perspective on Top Risks - Befragung von ca. 1.100 Board Members und Executives weltweit. Das Ziel ist es, Firmen eine vereinfachte Handhabung von Risiken zu ermöglich.
+    </p>
+    <button class="close-button">
+      <span class="material-symbols-outlined ">close</span>
+    </button>
   </div>
 
   <div id="impressum" class="fade-in-panel">
@@ -53,8 +83,8 @@
     <h2>Konzept, Design und Code</h2>
     <p>
         Schwizer Design GmbH<br>
-        <a class="ssweb" href="https://goo.gl/maps/bBmLDGMJSYqbwbmj8">Gallusstrasse 43, 9000 St. Gallen</a><br>
-        <a class="ssweb" href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
+        Gallusstrasse 43, 9000 St. Gallen<br>
+        <a href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
       </p>
     <h2>Handelsregistereintrag</h2>
     <p>

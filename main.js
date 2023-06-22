@@ -27,11 +27,12 @@ $(document).ready(function() {
       $('.fade-in-panel').fadeOut();
     });
   
-    $('.info-container').click(function() {
-      $('body').removeClass('supernavsc');
-      $('.info-container').fadeOut();
-      $('.fade-in-panel').fadeOut();
-    });
+    // closer on full container
+    // $('.info-container').click(function() {
+    //   $('body').removeClass('supernavsc');
+    //   $('.info-container').fadeOut();
+    //   $('.fade-in-panel').fadeOut();
+    // });
   }
   
   
