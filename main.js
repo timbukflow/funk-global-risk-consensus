@@ -17,22 +17,23 @@ $(document).ready(function() {
   });
   
   function fadeInPanel(panel) {
-    $('#overlay').fadeIn();
+    $('body').addClass('supernavsc');
+    $('.info-container').fadeIn();
     panel.fadeIn();
   
     panel.find('.close-button').click(function() {
-      fadeOutPanel(panel);
+      $('body').removeClass('supernavsc');
+      $('.info-container').fadeOut();
+      $('.fade-in-panel').fadeOut();
     });
   
-    $('#overlay').click(function() {
-      fadeOutPanel(panel);
+    $('.info-container').click(function() {
+      $('body').removeClass('supernavsc');
+      $('.info-container').fadeOut();
+      $('.fade-in-panel').fadeOut();
     });
   }
   
-  function fadeOutPanel(panel) {
-    $('#overlay').fadeOut();
-    panel.fadeOut();
-  }
   
   
 
