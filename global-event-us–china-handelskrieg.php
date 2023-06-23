@@ -88,8 +88,8 @@
                                 <span class="nummbers">-1.311,41 Mrd. US$</span>
                             </li>
                             <li>
-                                <strong>Europäische Union:</strong> <br> Handelsbilanz <br> im Güterhandel 2022 
-                                <span class="nummbers">-450,96 Mrd. US$</span>
+                                <strong>China:</strong> <br> Handelsbilanz <br> im Güterhandel 2022 
+                                <span class="nummbers">877,6 Mrd. US$</span>
                             </li>
                         </ul>
                     </div>

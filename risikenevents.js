@@ -39,25 +39,15 @@ const data = {
           "link": "global-event-ukrainekrieg"
         },
         {
+          "name": "US-China Handelskrieges",
+          "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
+          "link": "global-event-us–china-handelskrieg"
+        },
+        {
           "name": "Coronapandemie",
           "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
           "link": "global-event-coronapandemie"
         },
-        {
-          "name": "Massiver Zinsanstieg",
-          "image": "img/funk-global-risk-consensus-globale-events-massiver-zinsanstieg.jpg",
-          "link": "globale-events-massiver-zinsanstieg"
-        },
-        {
-        "name": "US-China Handelskrieges",
-        "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "globale-events-us-china-handelskrieg"
-        },
-        {
-          "name": "Bankenkrise",
-          "image": "img/funk-global-risk-consensus-globale-events-bankenkrise.jpg",
-          "link": "globale-events-bankenkrise"
-        }
     ],
   },
   "2022": {
@@ -94,26 +84,21 @@ const data = {
         }
     ],
     "events": [
-        {
-          "name": "Covid-19 Pandemie",
-          "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
-          "link": "globale-events-covid-19-pandemie"
-        },
-        {
-          "name": "Ukrainekrieg",
-          "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
-          "link": "globale-events-ukrainekrieg"
-        },
-        {
-          "name": "Massiver Anstieg der Inflation",
-          "image": "img/funk-global-risk-consensus-globale-events-massiver-anstieg-der-inflation.jpg",
-          "link": "globale-events-massiver-anstieg-der-inflation"
-        },
-        {
+      {
+        "name": "Coronapandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
+        "link": "global-event-coronapandemie"
+      },
+      {
         "name": "US-China Handelskrieges",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "globale-events-us-china-handelskrieg"
-        }
+        "link": "global-event-us–china-handelskrieg"
+      },
+      {
+        "name": "Ukrainekrieg",
+        "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
+        "link": "global-event-ukrainekrieg"
+      },
     ],
   },
   "2021": {
@@ -151,14 +136,19 @@ const data = {
     ],
     "events": [
       {
-        "name": "EU und US Handelskonflikt",
-        "image": "img/funk-global-risk-consensus-globale-events-eu-us-handelskonflikt.jpg",
-        "link": "globale-events-eu-us-handelskonflikt"
+        "name": "Coronapandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
+        "link": "global-event-coronapandemie"
       },
       {
-        "name": "Covid-19 Pandemie",
-        "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
-        "link": "globale-events-covid-19-pandemie"
+        "name": "US-China Handelskrieges",
+        "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
+        "link": "global-event-us–china-handelskrieg"
+      },
+      {
+        "name": "US-EU Handelskrieges",
+        "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
+        "link": "global-event-us–eu-handelskrieg"
       }
     ],
   },
@@ -197,19 +187,19 @@ const data = {
     ],
     "events": [
       {
-        "name": "EU und US Handelskonflikt",
-        "image": "img/funk-global-risk-consensus-globale-events-eu-us-handelskonflikt.jpg",
-        "link": "globale-events-eu-us-handelskonflikt"
-      },
-      {
-        "name": "Covid-19 Pandemie",
-        "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
-        "link": "globale-events-covid-19-pandemie"
+        "name": "Coronapandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
+        "link": "global-event-coronapandemie"
       },
       {
         "name": "US-China Handelskrieges",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "globale-events-us-china-handelskrieg"
+        "link": "global-event-us–china-handelskrieg"
+      },
+      {
+        "name": "US-EU Handelskrieges",
+        "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
+        "link": "global-event-us–eu-handelskrieg"
       }
     ],
   },
@@ -248,19 +238,19 @@ const data = {
     ],
     "events": [
       {
-        "name": "EU und US Handelskonflikt",
-        "image": "img/funk-global-risk-consensus-globale-events-eu-us-handelskonflikt.jpg",
-        "link": "globale-events-eu-us-handelskonflikt"
-      },
-      {
-        "name": "Covid-19 Pandemie",
-        "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
-        "link": "globale-events-covid-19-pandemie"
+        "name": "Coronapandemie",
+        "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
+        "link": "global-event-coronapandemie"
       },
       {
         "name": "US-China Handelskrieges",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "globale-events-us-china-handelskrieg"
+        "link": "global-event-us–china-handelskrieg"
+      },
+      {
+        "name": "US-EU Handelskrieges",
+        "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
+        "link": "global-event-us–eu-handelskrieg"
       }
     ],
   },
@@ -301,12 +291,17 @@ const data = {
       {
         "name": "DSGVO",
         "image": "img/funk-global-risk-consensus-globale-events-dsgvo.jpg",
-        "link": "globale-events-dsgvo"
+        "link": "global-event-dsgvo"
       },
       {
         "name": "US-China Handelskrieges",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "globale-events-us-china-handelskrieg"
+        "link": "global-event-us–china-handelskrieg"
+      },
+      {
+        "name": "US-EU Handelskrieges",
+        "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
+        "link": "global-event-us–eu-handelskrieg"
       }
     ],
   },
@@ -347,12 +342,12 @@ const data = {
         {
           "name": "Brexit",
           "image": "img/funk-global-risk-consensus-globale-events-brexit.jpg",
-          "link": "globale-events-brexit"
+          "link": "global-event-brexit"
         },
         {
           "name": "WannaCry Ransomware",
           "image": "img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg",
-          "link": "globale-events-wannacry-ransomware"
+          "link": "global-event-wannacry-ransomware"
         }
       ],
   },
@@ -402,12 +397,12 @@ $(document).ready(() => {
     var $items = $('.gevent');
     var $geventsweitereBtn = $('#gewBtn');
   
-    if ($items.length > 2) {
-      $items.slice(0, 2).slideDown(1000);
-      $items.slice(2).hide();
+    if ($items.length > 3) {
+      $items.slice(0, 3).slideDown(1000);
+      $items.slice(3).hide();
   
       $geventsweitereBtn.on('click', function() {
-        $items.slice(2).slideToggle(1000);
+        $items.slice(3).slideToggle(1000);
         
         var currentText = $(this).text();
         var newText = (currentText === 'Mehr Events') ? 'Weniger Events' : 'Mehr Events';
