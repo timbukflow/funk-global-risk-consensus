@@ -17,12 +17,12 @@
             <li><a href="von-menschen-verursachte-katastrophen">Von Menschen verursachte Katastrophen</a></li>
         </ul>
         <ul class="bg">
-            <li><span class="title">Global Events 2023</span></li>
-            <li><a href="#">Covid-19 Pandemie</a></li>
-            <li><a href="#">Ukrainekrieg</a></li>
-            <li><a href="#">Massiver Zinsanstieg</a></li>
-            <li><a href="#">Handelskrieg</a></li>
-            <li><a href="#">Bankenkrise</a></li>
+            <li><span class="title">Global Events</span></li>
+            <li><a href="global-event-ukrainekrieg">Ukrainekrieg</a></li>
+            <li><a href="global-event-coronapandemie">Coronapandemie</a></li>
+            <li><a href="global-event-brexit">Brexit</a></li>
+            <li><a href="#">...</a></li>
+            <li><a href="#">...</a></li>
             <li><span class="title"></span></li>
             <li><span class="title">Trend 2024</span></li>
             <li><a href="#">Funk Vorhersage</a></li>

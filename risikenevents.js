@@ -36,7 +36,12 @@ const data = {
         {
           "name": "Ukrainekrieg",
           "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
-          "link": "globale-events-ukrainekrieg"
+          "link": "global-event-ukrainekrieg"
+        },
+        {
+          "name": "Coronapandemie",
+          "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
+          "link": "global-event-coronapandemie"
         },
         {
           "name": "Massiver Zinsanstieg",
@@ -52,11 +57,6 @@ const data = {
           "name": "Bankenkrise",
           "image": "img/funk-global-risk-consensus-globale-events-bankenkrise.jpg",
           "link": "globale-events-bankenkrise"
-        },
-        {
-          "name": "Ende Covid-19 Pandemie",
-          "image": "img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg",
-          "link": "globale-events-covid-19-pandemie"
         }
     ],
   },
