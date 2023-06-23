@@ -97,7 +97,8 @@
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
     
-    <?php require_once 'script.php'; ?>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="main.js"></script>
     <script src="risikenevents.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
