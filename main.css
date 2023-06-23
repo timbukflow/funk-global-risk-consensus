@@ -42,7 +42,7 @@ h1, h2, h3, a, li {
   letter-spacing: 0.3px;
 }
 p, button, .supernav li, .supernav a, .date, .fade-in-panel a,
-.globaleventfacts li  {
+.globaleventfacts li, .globaleventmain li  {
   font-family: 'Noto Sans', sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
@@ -772,26 +772,44 @@ canvas {
 .globaleventmain {
   flex-basis: 75%;
 }
+.globaleventmain h2{
+  margin-top: 50px;
+}
+.globaleventmain ul{
+  padding-left: 0px;
+}
+.globaleventmain li{
+  padding: 10px 0;
+}
+.globaleventmain span{
+  font-weight: bold;
+  display: block;
+}
+
 .globaleventfacts {
   flex-basis: 25%;
 }
 .globaleventfacts ul,
 .globaleventfacts li {
-  text-align: left;
   list-style: none;
   margin: 0 auto;
   padding: 0;
 }
 
 .globaleventfacts li {
-  padding: 12px 0px;
+  padding: 20px 0px;
   border-bottom: 1px rgba(71, 71, 71, 0.25) solid;
 }
 .globaleventfacts li span {
-  opacity: 0.5;
+  opacity: 0.75;
   display: block;
   font-size: 14px;
-
+}
+.globaleventfacts li span.nummbers {
+  opacity: 1;
+  display: block;
+  font-size: 25px;
+  padding-top: 10px;
 }
 
 .azrcontainer {

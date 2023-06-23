@@ -58,20 +58,30 @@
                     <div class="globaleventmain">
                         <h1>Coronapandemie</h1>
                         <p>
+                        <strong>Start - Dezember 2019</strong><br>
                         Die Coronapandemie begann Ende des Jahres 2019 in der chinesischen Stadt Wuhan, als eine unbekannte Atemwegserkrankung bei mehreren Personen festgestellt wurde. Im Januar 2020 identifizierte China das neuartige Coronavirus als Ursache der Krankheit und teilte diese Information der Weltgesundheitsorganisation (WHO) mit.
                         <br><br>
+                        <strong>Februar 2020</strong><br>
                         Im Februar 2020 breitete sich das Virus auch ausserhalb von China stark aus und infizierte Menschen in verschiedenen Ländern. Die WHO erklärte am 11. März 2020 die Ausbreitung des Coronavirus offiziell zur Pandemie, da es sich mittlerweile in zahlreichen Ländern weltweit verbreitet hatte.
                         <br><br>
+                        <strong>März bis Mai 2020</strong><br>
                         In den Monaten März bis Mai 2020 wurden viele Länder von einer ersten Welle der Infektionen getroffen. Daraufhin wurden umfangreiche Massnahmen ergriffen, um die Ausbreitung des Virus einzudämmen. Dazu gehörten Lockdowns, Reisebeschränkungen, die Schliessung von Schulen und Unternehmen sowie die Förderung von Hygienemassnahmen wie Händewaschen und das Tragen von Masken.
                         <br><br>
+                        <strong>Juni bis Herbst 2020</strong><br>
                         Im Sommer und Herbst 2020 wurden in einigen Regionen Lockerungen der Massnahmen vorgenommen, da die Infektionszahlen zurückgingen. Allerdings führte dies in einigen Fällen zu einer zweiten Welle von Infektionen worauf viele Länder gezwungen waren, erneut strenge Massnahmen zu ergreifen.
                         <br><br>
+                        <strong>Jahr 2021</strong><br>
                         Im Jahr 2021 gab es weltweit eine Mischung aus Fortschritten in Bezug auf Impfstoffe und Herausforderungen durch neue Virusvarianten. Impfkampagnen wurden gestartet, um die Bevölkerung zu immunisieren und die Ausbreitung des Virus einzudämmen. Dennoch blieb die Situation in vielen Ländern aufgrund der geringen Impfquoten und des Auftretens neuer Virusvarianten unsicher.
                         <br><br>
+                        <strong>Jahr 2022</strong><br>
                         Im Jahr 2022 setzte sich die Bekämpfung der Pandemie fort, wobei alle Länder unterschiedliche Strategien anwandten. Einige entschieden sich für eine umfassende Impfung und die schrittweise Aufhebung von Beschränkungen, während andere mit neuen Wellen von Infektionen und Herausforderungen zu kämpfen hatten.
                         <br><br>
+                        <strong>Jahr 2023</strong><br>
                         Auch im Jahr 2023 bleibt das Coronavirus weiterhin aktiv und es treten immer wieder neue Varianten auf, die bei Wissenschaftlern Besorgnis auslösen. Allerdings konnte dank der vergleichsweise hohen Impfquote und der Tatsache, dass bisher keine Variante eine Immunität gegen die Impfungen entwickelt hat, in den meisten Ländern eine erneute Welle von Infektionen bisher vermieden werden.   
                         </p>
+                        <p class="grafiktitle">Die Grafik zeigt den Zeitverlauf der weltweiten Infektionszahlen.</p>
+                        <canvas id="coronapandemie-grafik-01"></canvas>
+                        <p class="dquelle">Quelle: WHO Covid-19 </p>
                     </div>
                     <div class="globaleventfacts">
                         <p><strong>Interessante <br> Fakten</strong></p>
@@ -112,6 +122,8 @@
     <?php require_once 'footer.php'; ?>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="global-event-coronapandemie.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Brexit </title>
+    <title>Funk Global Risk Consensus | US – EU Handelskrieg </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content=".........">
@@ -17,7 +17,7 @@
     <meta http-equiv="pragma" content="no-cache" />
 
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Brexit">
+    <meta property="og:title" content="Funk Global Risk Consensus | US – EU Handelskrieg">
     <meta property="og:description" content=".........">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
@@ -25,7 +25,7 @@
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Brexit">
+    <meta name="twitter:title" content="Funk Global Risk Consensus | US – EU Handelskrieg">
     <meta name="twitter:description" content=".........">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
@@ -52,29 +52,36 @@
         <div class="rdeinleitung">
             <div class="bg">
                 <div class="globaleventimg">
-                      <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
+                      <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
-                        <h1>Brexit</h1>
+                        <h1>US – EU Handelskrieg</h1>
                         <p>
-                        Brexit ist die Abkürzung für "British Exit" und bezieht sich auf den Austritt des Vereinigten Königreichs (UK) aus der Europäischen Union (EU). Der Brexit-Prozess begann, nachdem eine Mehrheit der britischen Wählerinnen und Wähler am 23. Juni 2016 in einem Referendum für den Austritt aus der EU gestimmt hatten. Nach dem Referendum leitete die britische Regierung unter Premierminister David Cameron den Austrittsprozess ein, indem er offiziell den EU-Austritt nach Artikel 50 des Vertrags über die Europäische Union erklärte.
-                        <br><br>
-                        Am 31. Januar 2020 trat das Vereinigte Königreich offiziell aus der Europäischen Union aus. Es begann eine Übergangsphase, die bis zum 31. Dezember 2020 dauerte. Während dieser Zeit blieben die meisten EU-Regeln und -Vorschriften noch in Kraft, und das Vereinigte Königreich und die EU bemühten sich um den Abschluss eines umfassenden Handelsabkommens. Der Brexit hat weitreichende Auswirkungen auf das Vereinigte Königreich, die EU und die internationale Politik. Er hat zu Veränderungen in den Bereichen Handel, Reisen, Arbeitsmigration und Zusammenarbeit geführt.
-                        <br><br>
-                        Der Brexit hat bei vielen Unternehmen und Privatpersonen zu einem erhöhten Verwaltungsaufwand und einem reduzierten Angebot geführt. Aufgrund der zusätzlichen Regulierungen und der fehlenden Gleichschaltung der Vorschriften zwischen der EU und Grossbritannien haben Händler ihr Angebot reduziert oder sogar eingestellt. Der Zugang zu Grossbritannien ist nicht mehr so einfach geregelt wie zuvor. Die hohen Kosten für Versand und Zollabwicklungen haben es Unternehmen erschwert, im Wettbewerb des Marktes konkurrenzfähig zu bleiben. Die zusätzlichen Zertifizierungen und Kontrollen führen zu zusätzlichen Kosten. Insbesondere bei Frischwaren kommt es zu Verzögerungen, da der gestiegene Kontrollbedarf die Abfertigung an den Häfen verlangsamt und sie dort teilweise stundenlang auf ihre Abwicklung warten müssen.
-                        <br><br>
-                        Einige Probleme sind bis heute noch nicht abschliessend adressiert und es herrscht weiterhin grosse Unsicherheit bei den Firmen. Zudem ist im Bereich Servicezusammenarbeit noch kein abschliessender Handelsvertrag vorhanden und es wird immer noch mit einer Übergangsperiode gearbeitet.
+                            Der Handelskonflikt zwischen der Europäischen Union (EU) und den Vereinigten Staaten von Amerika (USA) begann im Jahr 2018, als die USA unter der Regierung von Präsident Donald Trump zusätzliche Zölle auf Stahl- und Aluminiumimporte aus der EU verhängten. Diese Massnahme basierte auf der Begründung, dass die Stahl- und Aluminiumimporte die nationale Sicherheit der USA gefährden könnten.
+                            <br><br>
+                            Die EU reagierte prompt auf diese Zölle und verhängte ihrerseits Vergeltungszölle auf eine Reihe von US-Importen, darunter landwirtschaftliche Produkte wie Bourbon-Whiskey und Erdnussbutter. Dadurch entstand ein Handelskonflikt, der zu einer Eskalation der Spannungen und Unsicherheiten in den transatlantischen Handelsbeziehungen führte.
+                            <br><br>
+                            Der Konflikt weitete sich auf weitere Bereiche aus, einschliesslich des Technologiesektors. Die USA erhoben auch Zölle auf chinesische Waren, was zu einer Umleitung des Handels führte und die EU dazu veranlasste, Massnahmen zu ergreifen, um den Schutz europäischer Unternehmen vor unfairen Handelspraktiken zu gewährleisten.
+                            <br><br>
+                            Während der Handelskonflikt zwischen der EU und den USA unter der neuen Regierung von Präsident Joe Biden anhält, hat sich der Ton etwas verändert. Beide Seiten haben signalisiert, dass sie eine Verbesserung der Handelsbeziehungen anstreben und den Dialog suchen, um die strittigen Themen zu diskutieren.
+                            <br><br>
+                            Im Jahr 2021 einigten sich die EU und die USA vorläufig auf eine Aussetzung der Zölle auf Stahl und Aluminium sowie auf eine Zusammenarbeit zur Lösung strittiger Fragen im Zusammenhang mit dem Handel. Es wurden auch Arbeitsgruppen eingerichtet, um Bereiche wie den Technologie- und den Luftfahrtsektor zu diskutieren.
+                            <br><br>
+                            Es bleibt jedoch abzuwarten, wie sich der Handelskonflikt zwischen der EU und den USA weiterentwickeln wird. Es gibt nach wie vor strittige Themen wie staatliche Unterstützung für Flugzeughersteller oder digitale Dienstleistungen, die einer Lösung bedürfen. Die Entwicklungen in den bilateralen Handelsbeziehungen zwischen der EU und den USA haben Auswirkungen auf den globalen Handel und können eine wichtige Rolle in der Gestaltung der internationalen Handelsordnung spielen.
                         </p>
                     </div>
                     <div class="globaleventfacts">
                         <p><strong>Interessante <br> Fakten</strong></p>
                         <ul>
-                            <li>Über 4'000 EU-Gesetze müssen im UK-Gesetzbuch angepasst, übernommen oder gestrichen werden</li>
-                            <li>Vermehrt lange Wartezeiten für Facht und Passagiere an den Fährhäfen Calais und Dover</li>
-                            <li>Investitionsabfluss aus Grossbritannien, speziell im Bereich Automobil-Industrie, da Automobile unter Umständen nicht mehr zollfrei in die EU eingeführt werden können.</li>
-                            <li>Verlust des Freedom of Services führt zu Mehraufwand und Kosten für Dienstleister</li>
-                            <li>Laut Bloomberg kostet Brexit Grossbritannien bis zu 100 Milliarden pro Jahr</li>
+                            <li>
+                                <strong>USA:</strong> <br> Handelsbilanz <br> im Güterhandel 2022 
+                                <span class="nummbers">-1.311,41 Mrd. US$</span>
+                            </li>
+                            <li>
+                                <strong>Europäische Union:</strong> <br> Handelsbilanz <br> im Güterhandel 2022 
+                                <span class="nummbers">-450,96 Mrd. US$</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
