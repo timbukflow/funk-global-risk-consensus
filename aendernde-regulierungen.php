@@ -95,58 +95,34 @@
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
                 <div class="rdevents" id="container">
+                    <a href="global-event-brexit" class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
+                        </div>
+                        <div class="eventtitle globalevent">
+                            <h1>Brexit <br> 2016 - 2020</h1>
+                        </div>
+                    </a>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-brexit.jpg" alt="event-brexit">
+                            <img src="img/funk-global-risk-consensus-event-oecd-mindeststeuer-2021.jpg" alt="funk-global-risk-consensus-event-oecd-mindeststeuer-2021">
                         </div>
                         <div class="eventtitle">
-                            <h1>Brexit</h1>
+                            <h1>OECD-Mindeststeuer <br> 2021 </h1>
                             <p class="hidden-text">
-                                folgt    
+                                Die OECD-Mindeststeuer bezieht sich auf einen Vorschlag der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) zur Bekämpfung der Steuervermeidung multinationaler Unternehmen. Das Ziel dieser Initiative ist es, sicherzustellen, dass Unternehmen einen angemessenen Beitrag zu den Steuersystemen der Länder leisten, in denen sie tätig sind, und Steuerlücken zu schließen.
+                                <br><br>
+                                Die OECD-Mindeststeuer basiert auf zwei Säulen: <br>
+                                1. Säule: Verteilung der Besteuerungsrechte Diese Säule zielt darauf ab, das Besteuerungsrecht zwischen Ländern neu zu verteilen, insbesondere in Bezug auf digitale Unternehmen und Unternehmen mit signifikanter wirtschaftlicher Präsenz in einem Land, aber ohne physische Präsenz. Sie soll sicherstellen, dass Gewinne angemessen auf die Länder verteilt werden, in denen die Unternehmen tätig sind.
+                                <br><br>
+                                2. Säule: Globale Mindeststeuer Diese Säule soll sicherstellen, dass Unternehmen unabhängig von ihrer Unternehmensstruktur oder ihrem Tätigkeitsbereich einen Mindeststeuersatz zahlen. Der genaue Mindeststeuersatz wurde noch nicht festgelegt, aber die OECD schlägt einen Satz von mindestens 15 Prozent vor.
+                                <br><br>
+                                Die Idee hinter der globalen Mindeststeuer besteht darin, Steueroasen und aggressive Steuerplanung zu bekämpfen, bei der Unternehmen ihre Gewinne in Niedrigsteuerländer verlagern, um ihre Steuerlast zu reduzieren. Indem ein Mindeststeuersatz festgelegt wird, sollen Unternehmen davon abgehalten werden, in Steuerparadiesen oder Niedrigsteuerländern Gewinne zu verschieben und so die Steuerbasis anderer Länder zu untergraben.
+                                <br><br>
+                                Der Vorschlag der OECD-Mindeststeuer wurde von vielen Ländern und internationalen Organisationen unterstützt. Im Oktober 2021 erzielte die G20-Gruppe der führenden Industrie- und Schwellenländer eine politische Einigung auf die Einführung einer globalen Mindeststeuer. Es wird erwartet, dass weitere Details und die Umsetzung in den kommenden Jahren festgelegt werden.
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-handelskrieg.jpg" alt="event-handelskrieg">
-                        </div>
-                        <div class="eventtitle">
-                            <h1>Handelskrieg</h1>
-                            <p class="hidden-text">
-                                folgt    
-                            </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
-                        </div>
-                    </div>
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-sanktionen.jpg" alt="event-sanktionen">
-                        </div>
-                        <div class="eventtitle">
-                            <h1>Sanktionen</h1>
-                            <p class="hidden-text">
-                                folgt    
-                            </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
-                        </div>
-                    </div>
-                    <!-- hidden events -->
-                    <div class="hidden-events">
-                        <div class="event bg">
-                            <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-oecd-mindeststeuer.jpg" alt="event-oecd-mindeststeuer">
-                            </div>
-                            <div class="eventtitle">
-                                <h1>OECD Mindeststeuer</h1>
-                                <p class="hidden-text">
-                                    folgt    
-                                </p>
-                                <button class="bBtn" data-open="true">Bericht</button>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>
             </div>    
         </div>

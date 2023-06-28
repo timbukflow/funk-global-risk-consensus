@@ -76,9 +76,9 @@
         </div>
         <div class="cgeventstrends">
             <div class="cgevents">
-                <h2>Global Events</h2>
+                <h2>Globale Events</h2>
                 <div class="gevents"></div>
-                <button id="gewBtn">Mehr Events</button>
+                <button class="gewBtn">Mehr Events</button>
             </div>
             <div class="ctrends">
                 <h2>Trend 2024</h2>

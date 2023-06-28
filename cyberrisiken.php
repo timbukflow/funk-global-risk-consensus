@@ -98,53 +98,43 @@
             <!-- Abhängigkeit zu Events -->
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
-                <div class="rdevents" id="container">
-                    <div class="event bg">
+                <div class="rdevents">
+                    <a href="global-event-wannacry-ransomware" class="event bg">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" alt="globale-events-wannacry-ransomware">
                         </div>
-                        <div class="eventtitle globalevent ">
-                            <h1>Wanna Cry - 2017</h1>
-                            <a href="globale-events-wannacry">
-                                <button class="geBtn">
-                                    <span class="material-symbols-outlined">chevron_right</span>Global Event
-                                </button>
-                            </a>
+                        <div class="eventtitle globalevent">
+                            <h1>WannaCry <br> Ransomware - 2017</h1>
                         </div>
-                    </div>
+                    </a>
                     <div class="event bg">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-event-microsoft-exchange-exploit-2021.jpg" alt="event-microsoft-exchange-exploit-2021">
                         </div>
                         <div class="eventtitle">
-                            <h1>Microsoft Exchange Exploit - 2021</h1>
+                            <h1>Microsoft Exchange <br> Exploit - 2021</h1>
                             <p class="hidden-text">
                                 Das Ausmaß der Microsoft Exchange-Lücke, auch bekannt als ProxyLogon-Schwachstelle, war weitreichend und hatte erhebliche Auswirkungen auf Unternehmen und Organisationen weltweit. Obwohl es schwierig ist, genaue Zahlen zu nennen, sind Tausende von Exchange-Servern weltweit von dieser Sicherheitslücke betroffen gewesen.<br><br>
                                 Die Ausnutzung der Schwachstelle ermöglichte es Angreifern, auf vertrauliche Informationen zuzugreifen, E-Mails abzufangen, Benutzerkonten zu übernehmen und sogar Ransomware oder andere bösartige Software auf den betroffenen Servern zu installieren. Dies hatte potenziell schwerwiegende Folgen für die Privatsphäre, die Datensicherheit und den Betrieb der betroffenen Unternehmen.<br><br>
                                 Es wurde berichtet, dass verschiedene Hackergruppen, darunter staatlich unterstützte Akteure, die ProxyLogon-Schwachstelle ausgenutzt haben. Insbesondere die Gruppe Hafnium, die angeblich Verbindungen zu China hat, wurde mit den Angriffen in Verbindung gebracht. Es ist jedoch anzumerken, dass es auch andere Akteure gab, die die Schwachstelle ausnutzten.    
+                            </p>  
+                        </div>
+                    </div>
+                    <div class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-event-solarwinds-luecke-2020.jpg" alt="event-solarwinds-luecke-2020">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>SolarWinds Lücke - 2020</h1>
+                            <p class="hidden-text">
+                                Die SolarWinds-Lücke, auch bekannt als Sunburst-Angriff oder Solorigate-Angriff, bezieht sich auf eine massive Sicherheitsverletzung, die im Dezember 2020 entdeckt wurde. Diese Lücke hatte weitreichende Auswirkungen auf Unternehmen, Regierungsbehörden und Organisationen auf der ganzen Welt.<br><br>
+                                Der Angriff begann, als Angreifer in das interne Netzwerk des Softwareunternehmens SolarWinds eindrangen. Die Angreifer manipulierten dann eine Softwarekomponente namens Orion, die von SolarWinds entwickelt und von zahlreichen Kunden verwendet wird. Durch diese Manipulation konnten die Angreifer schädlichen Code in das Softwareupdate einschleusen, das an die Kunden verteilt wurde.<br><br>
+                                Unzählige Organisationen, darunter Regierungsbehörden, Unternehmen und andere Institutionen, haben dieses infizierte Update installiert und somit den schädlichen Code unbewusst auf ihren Systemen ausgeführt. Dies ermöglichte den Angreifern den Zugriff auf die Netzwerke der betroffenen Organisationen.<br><br>
+                                Der genaue Umfang der SolarWinds-Lücke ist schwer zu quantifizieren, da es sich um eine ausgeklügelte und gezielte Attacke handelte. Es wird geschätzt, dass Tausende von Organisationen in über 100 Ländern betroffen waren, darunter auch Regierungen und große Technologieunternehmen.<br><br>
+                                Die Angreifer hatten Zugriff auf sensible Informationen, E-Mails, Kommunikationsdaten und andere vertrauliche Daten der betroffenen Organisationen. Darüber hinaus besteht die Möglichkeit, dass die Angreifer auch weitere Schadsoftware in den Netzwerken installiert haben, um langfristigen Zugriff und Überwachung zu ermöglichen.
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
-                    <div class="hidden-events">
-                        <div class="event bg">
-                            <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-solarwinds-luecke-2020.jpg" alt="event-solarwinds-luecke-2020">
-                            </div>
-                            <div class="eventtitle">
-                                <h1>SolarWinds Lücke <br> 2020</h1>
-                                <p class="hidden-text">
-                                    Die SolarWinds-Lücke, auch bekannt als Sunburst-Angriff oder Solorigate-Angriff, bezieht sich auf eine massive Sicherheitsverletzung, die im Dezember 2020 entdeckt wurde. Diese Lücke hatte weitreichende Auswirkungen auf Unternehmen, Regierungsbehörden und Organisationen auf der ganzen Welt.<br><br>
-                                    Der Angriff begann, als Angreifer in das interne Netzwerk des Softwareunternehmens SolarWinds eindrangen. Die Angreifer manipulierten dann eine Softwarekomponente namens Orion, die von SolarWinds entwickelt und von zahlreichen Kunden verwendet wird. Durch diese Manipulation konnten die Angreifer schädlichen Code in das Softwareupdate einschleusen, das an die Kunden verteilt wurde.<br><br>
-                                    Unzählige Organisationen, darunter Regierungsbehörden, Unternehmen und andere Institutionen, haben dieses infizierte Update installiert und somit den schädlichen Code unbewusst auf ihren Systemen ausgeführt. Dies ermöglichte den Angreifern den Zugriff auf die Netzwerke der betroffenen Organisationen.<br><br>
-                                    Der genaue Umfang der SolarWinds-Lücke ist schwer zu quantifizieren, da es sich um eine ausgeklügelte und gezielte Attacke handelte. Es wird geschätzt, dass Tausende von Organisationen in über 100 Ländern betroffen waren, darunter auch Regierungen und große Technologieunternehmen.<br><br>
-                                    Die Angreifer hatten Zugriff auf sensible Informationen, E-Mails, Kommunikationsdaten und andere vertrauliche Daten der betroffenen Organisationen. Darüber hinaus besteht die Möglichkeit, dass die Angreifer auch weitere Schadsoftware in den Netzwerken installiert haben, um langfristigen Zugriff und Überwachung zu ermöglichen.
-                                </p>
-                                <button class="bBtn" data-open="true">Bericht</button>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>
             </div>    
         </div>

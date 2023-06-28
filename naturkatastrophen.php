@@ -99,7 +99,7 @@
                             <img src="img/funk-global-risk-consensus-event-erdbeben-tsunami-indonesien-2018.jpg" alt="funk-global-risk-consensus-event-erdbeben-tsunami-indonesien-2018">
                         </div>
                         <div class="eventtitle">
-                            <h1>Erdbeben und Tsunami in Indonesien (2018)</h1>
+                            <h1>Erdbeben und Tsunami in Indonesien - 2018</h1>
                             <p class="hidden-text">
                                 Im September 2018 wurde die indonesische Insel Sulawesi von einem verheerenden Erdbeben und Tsunami getroffen. Am 28. September ereignete sich vor der Küste der Stadt Palu ein Erdbeben mit einer Stärke von 7,5 auf der Richterskala.
                                 <br><br>
@@ -107,7 +107,6 @@
                                 <br><br>
                                 Die Auswirkungen des Erdbebens und Tsunamis waren verheerend: Zahlreiche Gebäude, darunter Wohnhäuser, Geschäfte, Krankenhäuser und Regierungsgebäude, wurden schwer beschädigt oder komplett zerstört. Ganze Stadtviertel wurden von der Welle weggespült. Es wird geschätzt, dass mehr als 4'300 Menschen getötet und tausende verletzt wurden.    
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
                     <div class="event bg">
@@ -115,7 +114,7 @@
                             <img src="img/funk-global-risk-consensus-event-erdbeben-italien-2016.jpg" alt="funk-global-risk-consensus-event-erdbeben-italien-2016">
                         </div>
                         <div class="eventtitle">
-                            <h1>Erdbeben in Italien (2016)</h1>
+                            <h1>Erdbeben in Italien - 2016</h1>
                             <p class="hidden-text">
                                 Am 24. August 2016 ereignete sich ein Erdbeben der Stärke 6,2 in der Region Amatrice in Mittelitalien. Die betroffene Region umfasste mehrere Dörfer und Städte, darunter Amatrice, Accumoli und Pescara del Tronto. Das Beben führte zu erheblichen Zerstörungen, wobei zahlreiche Gebäude einstürzten und viele Menschen unter den Trümmern begraben wurden. Mehr als 290 Menschen kamen ums Leben und Hunderte wurden verletzt.
                                 <br><br>
@@ -123,7 +122,6 @@
                                 <br><br>
                                 Die beiden Erdbeben von 2016 hatten schwerwiegende Auswirkungen auf die betroffenen Gemeinden und die gesamte italienische Bevölkerung. Tausende von Menschen wurden obdachlos und mussten in Notunterkünften untergebracht werden. Die Erdbeben verursachten erhebliche Schäden an historischen Gebäuden, Infrastruktur und Wirtschaftssektoren wie Tourismus und Landwirtschaft.
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
                     <!-- hidden events -->
@@ -133,7 +131,7 @@
                                 <img src="img/funk-global-risk-consensus-event-ausbruch-eyjafjallajoekull-2010.jpg" alt="funk-global-risk-consensus-event-ausbruch-eyjafjallajoekull-2010">
                             </div>
                             <div class="eventtitle">
-                                <h1>Ausbruch des Eyjafjallajökull (2010)</h1>
+                                <h1>Ausbruch des Eyjafjallajökull - 2010</h1>
                                 <p class="hidden-text">
                                     Der Ausbruch begann am 20. März 2010, als sich erste Anzeichen von erhöhter seismischer Aktivität zeigten. Am 14. April 2010 erreichte der Ausbruch seinen Höhepunkt. Eine massive Aschewolke wurde in die Atmosphäre geschleudert und weite Teile des europäischen Luftraums lahmlegte.
                                     <br><br>
@@ -145,7 +143,6 @@
                                     <br><br>
                                     Insgesamt war der Vulkanausbruch des Eyjafjallajökull ein Ereignis von globaler Bedeutung, welches die Verwundbarkeit der modernen Gesellschaft gegenüber Naturphänomenen verdeutlichte und den Fokus auf die Notwendigkeit einer effektiven Krisenbewältigung und -planung lenkte.
                                 </p>
-                                <button class="bBtn" data-open="true">Bericht</button>
                             </div>
                         </div>
                     </div>

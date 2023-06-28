@@ -105,48 +105,45 @@
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" alt="">
-                        </div>
-                        <div class="eventtitle">
-                        <h1>Buschfeuer in Australien <br> 2019-2020</h1>
-                        <p class="hidden-text">
-                            Die Buschfeuer in Australien 2019-2020 waren eine der schlimmsten Feuerkatastrophen in der Geschichte des Landes. Die Brände begannen im Oktober 2019 und dauerten bis Februar 2020 an. 
-                            <br><br>
-                            Die Feuer breiteten sich in vielen Teilen des Landes aus, insbesondere in den Bundesstaaten New South Wales und Victoria, und zerstörten große Flächen von Wäldern, Buschland und Nationalparks. Es wird geschätzt, dass mehr als 10 Millionen Hektar Land verbrannt wurden, was ungefähr der Größe von Island entspricht. Viele Tierarten wurden durch die Feuer aus ihren Lebensräumen vertrieben und es wird angenommen, dass Hunderte von Millionen Tieren durch die Brände ums Leben gekommen sind. 
-                            <br><br>
-                            Die Feuer hatten auch schwerwiegende Auswirkungen auf die Gesundheit der Menschen in den betroffenen Gebieten. Die Luftqualität war in vielen Regionen aufgrund des Rauchs und der Asche stark beeinträchtigt, was zu gesundheitlichen Problemen bei der Bevölkerung führte.
-                        </p>
-                        <button class="bBtn" data-open="true">Bericht</button>
-                        </div>
-                    </div>
-                    <div class="event bg">
-                        <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021.jpg" alt="">
-                        </div>
-                        <div class="eventtitle">
-                        <h1>Jahrhunderthochwasser in Deutschland - 2021</h1>
-                        <p class="hidden-text">
-                            Im Juli 2021 kam es in Teilen Deutschlands aufgrund starker Regenfälle zu einem verheerenden Hochwasser. Die Überschwemmungen trafen vor allem die Bundesländer Nordrhein-Westfalen und Rheinland-Pfalz, aber auch andere Regionen wie Bayern, Sachsen und Sachsen-Anhalt waren betroffen.
-                            <br><br>
-                            Die Flüsse Rhein, Mosel und deren Nebenflüsse sowie die Zuflüsse der Elbe führten aufgrund der Regenfälle ungewöhnlich viel Wasser, das teilweise weit über die Ufer trat und zahlreiche Ortschaften und Städte in den betroffenen Regionen überflutete.<br><br>
-                            Die Schäden durch das Hochwasser waren enorm. Häuser, Straßen und Brücken wurden beschädigt oder zerstört, Autos und andere Fahrzeuge wurden fortgespült und es gab zahlreiche Tote und Verletzte.
-                        </p>
-                        <button class="bBtn" data-open="true">Bericht</button>
-                        </div>
-                    </div>
-                    <div class="hidden-events">
-                        <div class="event bg">
-                            <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" alt="">
-                            </div>
-                            <div class="eventtitle">
-                            <h1>Hurricane Ian <br> 2022</h1>
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Hurricane Ian - 2022</h1>
                             <p class="hidden-text">
                                 Hurricane Ian wütete vom 23.-30 September 2022 in der Karibik und richtete grossflächige Zerstörung an. Die Windgeschwindigkeit erreichte bis 260km/h und somit war Ian ein Hurricane der Kategorie 5. Neben den starken Winden war die Sturmflut gepaart mit den sehr starken Niederschlägen und der langsamen Wanderung für die massiven Schäden verantwortlich. 
                                 <br><br>
                                 Insgesamt sind mindestens 160 Menschen ums Leben gekommen, 149 davon in Florida und Ian richtete Schäden von über 113 Milliarden Dollar an. Es war der tödlichste Hurricane in Florida seit 1935.
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
+                        </div>
+                    </div>  
+                    <div class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021.jpg" alt="funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Jahrhunderthochwasser in Deutschland - 2021</h1>
+                            <p class="hidden-text">
+                                Im Juli 2021 kam es in Teilen Deutschlands aufgrund starker Regenfälle zu einem verheerenden Hochwasser. Die Überschwemmungen trafen vor allem die Bundesländer Nordrhein-Westfalen und Rheinland-Pfalz, aber auch andere Regionen wie Bayern, Sachsen und Sachsen-Anhalt waren betroffen.
+                                <br><br>
+                                Die Flüsse Rhein, Mosel und deren Nebenflüsse sowie die Zuflüsse der Elbe führten aufgrund der Regenfälle ungewöhnlich viel Wasser, das teilweise weit über die Ufer trat und zahlreiche Ortschaften und Städte in den betroffenen Regionen überflutete.<br><br>
+                                Die Schäden durch das Hochwasser waren enorm. Häuser, Straßen und Brücken wurden beschädigt oder zerstört, Autos und andere Fahrzeuge wurden fortgespült und es gab zahlreiche Tote und Verletzte.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="hidden-events">
+                        <div class="event bg">
+                            <div class="eventimg">
+                                <img src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" alt="funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020">
+                                </div>
+                            <div class="eventtitle">
+                                <h1>Buschfeuer in Australien <br> 2019 - 2020</h1>
+                                <p class="hidden-text">
+                                    Die Buschfeuer in Australien 2019-2020 waren eine der schlimmsten Feuerkatastrophen in der Geschichte des Landes. Die Brände begannen im Oktober 2019 und dauerten bis Februar 2020 an. 
+                                    <br><br>
+                                    Die Feuer breiteten sich in vielen Teilen des Landes aus, insbesondere in den Bundesstaaten New South Wales und Victoria, und zerstörten große Flächen von Wäldern, Buschland und Nationalparks. Es wird geschätzt, dass mehr als 10 Millionen Hektar Land verbrannt wurden, was ungefähr der Größe von Island entspricht. Viele Tierarten wurden durch die Feuer aus ihren Lebensräumen vertrieben und es wird angenommen, dass Hunderte von Millionen Tieren durch die Brände ums Leben gekommen sind. 
+                                    <br><br>
+                                    Die Feuer hatten auch schwerwiegende Auswirkungen auf die Gesundheit der Menschen in den betroffenen Gebieten. Die Luftqualität war in vielen Regionen aufgrund des Rauchs und der Asche stark beeinträchtigt, was zu gesundheitlichen Problemen bei der Bevölkerung führte.
+                                </p>
                             </div>
                         </div>
                     </div>

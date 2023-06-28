@@ -95,65 +95,27 @@
                             <img src="img/funk-global-risk-consensus-event-tjanjin-hafenexplosion-2015.jpg" alt="funk-global-risk-consensus-event-tjanjin-hafenexplosion-2015">
                         </div>
                         <div class="eventtitle">
-                            <h1>Tjanjin Hafenexplosion (2015)</h1>
+                            <h1>China Tjanjin <br> Hafenexplosion - 2015</h1>
                             <p class="hidden-text">
                                 Die Explosion im Hafen von Tianjin war eine der schwersten Industriekatastrophen in der jüngeren chinesischen Geschichte und führte zu einer verstärkten Sensibilisierung für die Notwendigkeit angemessener Sicherheitsmaßnahmen und Vorschriften bei der Lagerung gefährlicher Materialien. Die Auswirkungen der Explosion waren verheerend. Mindestens 173 Menschen wurden getötet, darunter Feuerwehrleute und andere Rettungskräfte, die bei den Löscharbeiten waren. Tausende von Menschen wurden verletzt, einige davon schwer.    
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-bhopal-katastrophe-1984.jpg" alt="funk-global-risk-consensus-event-bhopal-katastrophe-1984">
+                            <img src="img/funk-global-risk-consensus-event-deepwater-horizon-oelkatastrophe-2010.jpg" alt="funk-global-risk-consensus-event-deepwater-horizon-oelkatastrophe-2010">
                         </div>
                         <div class="eventtitle">
-                            <h1>Bhopal-Katastrophe (1984)</h1>
+                            <h1>Deepwater Horizon-Ölkatastrophe - 2010</h1>
                             <p class="hidden-text">
-                            Eine Gasleckage in einer Chemiefabrik in Bhopal, Indien, führte zur Freisetzung von giftigem Methylisocyanat. Tausende Menschen starben und Zehntausende erlitten Verletzungen.    
+                                Bei einem Unfall auf der Plattform brach ein Feuer aus, gefolgt von mehreren Explosionen, die zur Zerstörung der Plattform führten. Die Explosionen verursachten einen Riss in der Bohrleitung, durch den grosse Mengen an Erdöl in den Golf von Mexiko strömten. Der austretende Ölteppich erstreckte sich über mehrere Monate hinweg und verursachte eine der schlimmsten Ölkatastrophen in der Geschichte der Vereinigten Staaten. Es wird geschätzt, dass während des Vorfalls rund 4,9 Millionen Barrel Rohöl ins Meer gelangten. Die Umweltauswirkungen waren verheerend. Der Ölteppich erstreckte sich über Tausende von Quadratkilometern und verschmutzte die Küsten von Louisiana, Mississippi, Alabama und Florida. Es kam zu schweren Schäden für die marine Tierwelt, einschliesslich Fischen, Meeresschildkröten, Seevögeln und Korallenriffen. Die Küstenlebensräume und das Ökosystem erlitten erheblichen Schaden.
+                                <br><br>
+                                Es dauerte 87 Tage, bis die Leckage vollständig gestoppt werden konnte. Währenddessen unternahmen BP und andere Unternehmen zahlreiche Bemühungen, das austretende Öl einzudämmen und aufzufangen. Es wurden Kontrollbohrungen durchgeführt, Unterwasserroboter eingesetzt und Barrieren errichtet, um die Ausbreitung des Öls zu begrenzen.
+                                <br><br>
+                                Die wirtschaftlichen Auswirkungen der Katastrophe waren ebenfalls beträchtlich. Die Fischerei- und Tourismusindustrie in der Region wurden schwer getroffen, da viele Strände und Gewässer aufgrund der Ölverschmutzung gesperrt werden mussten.    
                             </p>
-                            <button class="bBtn" data-open="true">Bericht</button>
                         </div>
                     </div>
-                    <!-- hidden events -->
-                    <div class="hidden-events">
-                        <div class="event bg">
-                            <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-tschernobyl-Katastrophe-1986.jpg" alt="funk-global-risk-consensus-event-tschernobyl-Katastrophe-1986">
-                            </div>
-                            <div class="eventtitle">
-                                <h1>Tschernobyl-Katastrophe (1986)</h1>
-                                <p class="hidden-text">
-                                    Eine Kernschmelze im Kernkraftwerk Tschernobyl in der Ukraine führte zu einer massiven Freisetzung von Radioaktivität. Es gilt als das schwerste Atomkraftwerkunglück in der Geschichte.    
-                                </p>
-                                <button class="bBtn" data-open="true">Bericht</button>
-                            </div>
-                        </div>
-                        <div class="event bg">
-                            <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-Exxon-valdez-oelkatastrophe-1989.jpg" alt="funk-global-risk-consensus-event-Exxon-valdez-oelkatastrophe-1989">
-                            </div>
-                            <div class="eventtitle">
-                                <h1>Exxon-Valdez-Ölkatastrophe (1989)</h1>
-                                <p class="hidden-text">
-                                    Der Öltanker Exxon Valdez lief vor der Küste von Alaska auf Grund und verursachte eine massive Ölverschmutzung, die erhebliche Auswirkungen auf die Umwelt hatte.    
-                                </p>
-                                <button class="bBtn" data-open="true">Bericht</button>
-                            </div>
-                        </div>
-                        <div class="event bg">
-                            <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-deepwater-horizon-oelkatastrophe-2010.jpg" alt="funk-global-risk-consensus-event-deepwater-horizon-oelkatastrophe-2010">
-                            </div>
-                            <div class="eventtitle">
-                                <h1>Deepwater Horizon-Ölkatastrophe (2010)</h1>
-                                <p class="hidden-text">
-                                    Eine Explosion auf der Ölbohrplattform Deepwater Horizon im Golf von Mexiko führte zu einer massiven Ölkatastrophe. Über Wochen hinweg strömten Millionen von Barrel Öl ins Meer und verursachten schwere Umweltschäden.    
-                                </p>
-                                <button class="bBtn" data-open="true">Bericht</button>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>
             </div>    
         </div>

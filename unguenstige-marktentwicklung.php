@@ -92,23 +92,33 @@
             <!-- Abhängigkeit zu Events -->
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
-                <div class="rdevents" id="container">
-                    <div class="event bg">
+                <div class="rdevents">
+                    <a href="global-event-ukrainekrieg" class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg" alt="funk-global-risk-consensus-globale-events-covid-19-pandemie">
+                            <img src="img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg" alt="funk-global-risk-consensus-globale-events-ukrainekrieg">
                         </div>
-                        <div class="eventtitle globalevent ">
-                            <h1>Covid-19</h1>
-                            <a href="globale-events-wannacry">
-                                <button class="geBtn">
-                                    <span class="material-symbols-outlined">chevron_right</span>Global Event
-                                </button>
-                            </a>
+                        <div class="eventtitle globalevent">
+                            <h1>Ukraine Krieg <br> 2022 - 2023</h1>
                         </div>
-                    </div>
+                    </a>
+                    <a href="global-event-coronapandemie" class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
+                        </div>
+                        <div class="eventtitle globalevent">
+                            <h1>Coronapandemie <br> 2019 - 2023</h1>
+                        </div>
+                    </a>
                     <!-- hidden events -->
                     <div class="hidden-events">
-                        ...
+                        <a href="global-event-brexit" class="event bg">
+                            <div class="eventimg">
+                                <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
+                            </div>
+                            <div class="eventtitle globalevent">
+                                <h1>Brexit <br> 2016 - 2020</h1>
+                            </div>
+                        </a>
                     </div>
                     <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>

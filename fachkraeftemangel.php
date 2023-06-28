@@ -97,24 +97,14 @@
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
                 <div class="rdevents" id="container">
-                    <div class="event bg">
+                    <a href="global-event-coronapandemie" class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg" alt="funk-global-risk-consensus-globale-events-covid-19-pandemie">
+                            <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
                         </div>
-                        <div class="eventtitle globalevent ">
-                            <h1>Covid-19</h1>
-                            <a href="globale-events-wannacry">
-                                <button class="geBtn">
-                                    <span class="material-symbols-outlined">chevron_right</span>Global Event
-                                </button>
-                            </a>
+                        <div class="eventtitle globalevent">
+                            <h1>Coronapandemie <br> 2019 - 2023</h1>
                         </div>
-                    </div>
-                    <!-- hidden events -->
-                    <div class="hidden-events">
-                        ...
-                    </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
+                    </a>
                 </div>
             </div>    
         </div>

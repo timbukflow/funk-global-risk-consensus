@@ -150,6 +150,7 @@ nav li:last-child {
 }
 
 /* Kontakt Methode Quelle Impressum */
+
 .info-btn {
   cursor: pointer;
 }
@@ -210,7 +211,7 @@ nav li:last-child {
   Basic
 -----------------------------------*/
 
-.bg, #gewBtn, .ewBtn {
+.bg, .gewBtn, .ewBtn {
   background-color: white;
   border-radius: 5px;
   overflow: hidden;
@@ -219,11 +220,17 @@ nav li:last-child {
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
 }
 
-.ewBtn {
+.gewBtn, .ewBtn {
   width: 180px;
+  transition: background-color 0.5s ease;
 }
+
+.gewBtn:hover, .ewBtn:hover {
+  background-color: var(--funkhover);
+} 
+
 /* morebtn */
-.mBtn, .bBtn, .geBtn {
+.mBtn, .geBtn {
   color: var(--funkblue);
   transition: opacity 0.3s ease ;
   border-radius: 0;
@@ -231,7 +238,7 @@ nav li:last-child {
   background-color: transparent;
 }
 
-.mBtn:hover, .bBtn:hover {
+.mBtn:hover {
   opacity: 0.5;
 }
 
@@ -275,8 +282,6 @@ canvas {
   border: 2px solid;
   border-color: var(--chart-line-color);
 }
-
-
 
 /*----------------------------------
   Navigation Years
@@ -486,7 +491,8 @@ canvas {
   display: flex;
   flex-direction: column;
   flex-basis: calc(100% / 2 - 15px);
-  transition: box-shadow 0.3s;
+  top: 0;
+  transition: box-shadow 0.3s, top 0.3s ease-in-out;
   cursor: pointer;
   height: 220px;
 }
@@ -499,7 +505,6 @@ canvas {
   display: flex;
   align-items: center;
 }
-
 
 .cgeventstrends {
   display: flex;
@@ -523,7 +528,8 @@ canvas {
 
 .gevent {
   flex-direction: column;
-  transition: box-shadow 0.3s;
+  top: 0;
+  transition: box-shadow 0.3s, top 0.3s ease-in-out;
   cursor: pointer;
   height: 220px;
   display: flex;
@@ -533,7 +539,8 @@ canvas {
 .trend {
   display: flex;
   flex-direction: column;
-  transition: box-shadow 0.3s;
+  top: 0;
+  transition: box-shadow 0.3s, top 0.3s ease-in-out;
   cursor: pointer;
   height: 94px;
 }
@@ -554,12 +561,11 @@ canvas {
   background-color: #225c49;
 }
 
-.risk:hover, .gevent:hover, .trend:hover, .azr:hover {
-  -webkit-box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.3); 
-  box-shadow: 2px 5px 20px 0px rgba(0,0,0,0.3);
+.risk:hover, .gevent:hover, .trend:hover, .azr:hover, .event:hover {
+  top: -5px;
+  -webkit-box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.2); 
+  box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.2);
 }
-
-
 
 
 /*----------------------------------
@@ -682,6 +688,9 @@ canvas {
 .event {
   width: 100%;
   margin-bottom: 30px;
+  top: 0;
+  cursor: pointer;
+  transition: box-shadow 0.3s, top 0.3s ease-in-out;
 }
 .eventimg {
   overflow: hidden;
@@ -697,17 +706,12 @@ canvas {
   margin: 0 auto;
 }
 .eventtitle {
-  padding: 30px;
+  padding: 25px 30px 10px;
 }
 .eventtitle.globalevent {
   background-color: var(--funkgreenlight);
 }
 .eventtitle.globalevent h1 {
-  color: white;
-}
-.eventtitle.globalevent .geBtn,
-.eventtitle.globalevent .geBtn .material-symbols-outlined
- {
   color: white;
 }
 
@@ -829,7 +833,8 @@ canvas {
 }
 .azr {
   flex-basis: 50%;
-  transition: box-shadow 0.3s;
+  top: 0;
+  transition: box-shadow 0.3s, top 0.3s ease-in-out;
 }
 .azr img {
   width: 100%;
