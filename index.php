@@ -47,13 +47,15 @@
 
     <div class="navyearscont">
         <div class="navyears">
-        <div class="navglobal time">
+        <div class="navglobal start">
             <button class="menuBtn bg">
                 <span id="icon-menu" class="material-symbols-outlined ">menu</span>
                 <span id="icon-close" class="material-symbols-outlined ">close</span>
             </button>
         </div>
-            <button class="arrow-button left "><img src="img/funk-arrow-left.svg" alt="menu" width="8px"></button>
+            <button class="arrow-button left bg">
+                <span id="icon-menu" class="material-symbols-outlined ">chevron_left</span>
+            </button>
             <div class="buttons years">
                 <button data-year="2017">2017</button>
                 <button data-year="2018">2018</button>
@@ -63,7 +65,7 @@
                 <button data-year="2022">2022</button>
                 <button data-year="2023" class="active">2023</button>
             </div>
-            <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button>
+            <!-- <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button> -->
             <?php require_once 'supernav.php'; ?>
         </div> 
     </div>
