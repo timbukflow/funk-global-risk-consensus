@@ -67,8 +67,8 @@ $(document).ready(function() {
   // Bericht Button
   $('.event').click(function() {
     const openevent = $(this).find('.hidden-text');
-    $('.hidden-text').not(openevent).slideUp(700);
-    $(openevent).slideToggle(700);
+    $('.hidden-text').slideUp(700);
+    $(openevent).slideDown(700);
   });
 
   // $('.bBtn').click(function() {

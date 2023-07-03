@@ -1,4 +1,5 @@
 <footer>
+  <div>
     <ul>
       <li><strong>Information</strong></li>
       <li class="info-btn" data-target="methode">Methode</li>
@@ -14,6 +15,7 @@
     <ul>
       <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">Die beste Empfehlung. Funk.</a></li>
     </ul>
+  </div>
 </footer>
 
 <div class="info-container">

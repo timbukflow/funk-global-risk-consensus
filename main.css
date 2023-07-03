@@ -509,7 +509,7 @@ canvas {
 .cgeventstrends {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 25px;
   width: 30%;
 }
 .cgevents, .ctrends {
@@ -851,16 +851,20 @@ canvas {
 -----------------------------------*/
 footer {
   background-color: var(--funkblue);
-  padding: 30px 70px;
   width: 100%;
   z-index: 100;
   position: absolute;
   left: 0;
   right: 0;
+}
+footer div{
+  padding: 30px 70px;
   display: flex;
   justify-content: flex-start;
   flex-direction: row;
   align-items: flex-end;
+  margin: 0 auto;
+  max-width: 1600px;
   gap: 100px;
 }
 
@@ -900,7 +904,10 @@ footer a {
 -----------------------------------*/
 
 
-@media (max-width: 700px) {
+@media (max-width: 940px) {
+  /* nav */
+  nav ul {padding: 0 35px ;}
+  /* year nav */
   .arrow-button { 
     display: inline-block;
   }
@@ -910,4 +917,13 @@ footer a {
     scroll-behavior: smooth;
     padding: 10px;
   }
+  /* start risk */
+  body {padding: 0;}
+  .riskseventstrends {flex-direction: column;}
+  .crisks, .cgeventstrends {width: 100%; gap: 10px;}
+  .risks, .gevents {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
+  .risk, .gevent {min-width: 300px;}
+  .riskseventstrends h2 {padding-left: 35px;}
+  
+
 }
