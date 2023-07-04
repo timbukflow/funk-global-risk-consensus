@@ -935,7 +935,7 @@ footer a {
   }
   /* start risk */
   body {padding: 0;}
-  .riskseventstrends {flex-direction: column; margin: 180px auto 30px; gap: 0px;}
+  .riskseventstrends {flex-direction: column; margin: 160px auto 30px; gap: 0px;}
   .crisks, .cgeventstrends {width: 100%; gap: 0px;}
   .risks, .gevents, .trends {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
   .risk, .gevent {min-width: 300px;}
