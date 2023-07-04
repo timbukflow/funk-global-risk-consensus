@@ -351,7 +351,7 @@ canvas {
 .arrow-button {
   padding: 10px;
   font-size: 20px;
-  width: 60px;
+  min-width: 60px;
   height: 60px;
   z-index: 1;
   display: none;
@@ -372,6 +372,7 @@ canvas {
 }
 .navglobal.start {
   position: sticky;
+  top: 0;
 }
 
 .menuBtn, .backBtn {
@@ -907,12 +908,19 @@ footer a {
 
 @media (max-width: 940px) {
   /* nav */
-  nav ul {padding: 0 25px ;}
+  .navyears {top: 65px; gap: 0;}
+  nav ul {padding: 0 25px;}
+  nav li:first-child {min-width: 230px;}
+  .navglobal.start {margin-right: 15px;}
   .time {display: none;}
+  /* supernav */
+  .supernavcontainer {z-index: 100;}
+  .supernav {flex-direction: column; gap: 0; padding: 0; margin: 50px 0 0 0;}
+  .supernav ul {width: 100%; border-radius: 0px;}
 
   /* year nav */
   .navyears {padding: 0 0 0 25px;}
-  .arrow-button { display: inline-block;}
+  .arrow-button {display: inline-block;}
 
   .buttons {
     overflow-x: scroll;
