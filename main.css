@@ -884,6 +884,9 @@ footer li {
   padding: 3px 0;
   text-align: left !important;
 }
+footer li:first-child {
+  opacity: 0.75;
+}
 
 footer a {
   color: white;
@@ -932,11 +935,13 @@ footer a {
   }
   /* start risk */
   body {padding: 0;}
-  .riskseventstrends {flex-direction: column;}
-  .crisks, .cgeventstrends {width: 100%; gap: 10px;}
-  .risks, .gevents {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
+  .riskseventstrends {flex-direction: column; margin: 180px auto 30px; gap: 0px;}
+  .crisks, .cgeventstrends {width: 100%; gap: 0px;}
+  .risks, .gevents, .trends {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
   .risk, .gevent {min-width: 300px;}
-  .riskseventstrends h2 {padding-left: 35px;}
+  .gevent {margin-bottom: 0;}
+  .riskseventstrends h2 {padding-left: 35px; margin-top: 20px;}
+  .cgevents h2, .ctrends h2 {margin-bottom: 0;}
   
   /* footer */
   footer div {

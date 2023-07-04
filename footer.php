@@ -1,13 +1,13 @@
 <footer>
   <div>
     <ul>
-      <li><strong>Information</strong></li>
+      <li>Information</li>
       <li class="info-btn" data-target="methode">Methode</li>
       <li class="info-btn" data-target="studien">Studien</li>
       <li class="info-btn" data-target="impressum">Impressum</li>
     </ul>
     <ul>
-      <li><strong>Kontakt</strong></li>
+      <li>Kontakt</li>
       <li>Funk Gruppe</li>
       <li><a href="mailto:info@funk-gruppe.ch" target="_top">info@funk-gruppe.ch</a></li>
       <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">www.funk-gruppe.ch</a></li>
