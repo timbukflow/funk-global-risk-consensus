@@ -40,6 +40,9 @@ h1, h2, h3, a, li {
   color: #474747;
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0.3px;
+  hyphens: auto;
+  -webkit-hyphens: auto; 
+  -ms-hyphens: auto; 
 }
 p, button, .supernav li, .supernav a, .date, .fade-in-panel a,
 .globaleventfacts li, .globaleventmain li  {
@@ -64,9 +67,6 @@ h2 {
   font-size: var(--fontmedium);
   line-height: 125%;
   margin: 0;
-  hyphens: auto;
-  -webkit-hyphens: auto; 
-  -ms-hyphens: auto; 
 }
 
 p { 
