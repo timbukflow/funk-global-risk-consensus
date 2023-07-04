@@ -253,15 +253,13 @@ nav li:last-child {
   display: none;
 }
 
-.anfrageBtn, .mailBtn {
+.anfrageBtn {
   color: white;
   background-color: var(--funkgreen);
   transition: opacity 0.3s ease ;
 }
-.mailBtn {
-  background-color: var(--funkblue);
-}
-.anfrageBtn:hover, .mailBtn:hover {
+
+.anfrageBtn:hover {
   opacity: 0.5;
 }
 
@@ -739,6 +737,7 @@ canvas {
 .rdsolution {
   padding: 30px;
   background-color: #e7eee1;
+  margin-bottom: 20px;
 }
 .rdsolution h1 {
   color: var(--funkgreen);
@@ -749,14 +748,18 @@ canvas {
   flex-direction: column;
 }
 .rdcontact {
-  padding: 35px 30px;
+  display: flex;
+  flex-direction: column;
 }
 .contactimg {
-  width: 200px;
-  height: 200px;
+  height: 220px;
+  overflow: hidden;
 }
 .contactimg img {
  width: 100%;
+}
+.contactdata {
+  padding: 15px 30px;
 }
 
 /*----------------------------------
@@ -958,12 +961,17 @@ footer a {
   /* risk */
   .rdmain {padding: 10px; margin-top: 90px; margin-bottom: 50px;}
   .rdeinleitung, .rdcontainer {flex-direction: column; gap: 20px;}
-  .rdcontainer {margin-top: 50px;}
+  .rdcontainer {margin-top: 40px;}
   .rdcontainer h2 {margin-left: 25px;}
-  .item60, .item40, .rdcfakten {width: 100%}
+  .item60, .item40, .rdcfakten, .rdcevents, .rdCsolution, .rdCcontact {width: 100%}
   .rdimg {align-items: stretch;}
+  .fakten, .event {margin-bottom: 20px;}
+  .event:last-child {margin-bottom: 0;}
   .mchartscont {width: calc(100% + 30px); overflow-x: scroll;}
   .mcharts{width: 500px; padding-right: 30px;}
+  canvas {margin: 20px 0 10px;}
+  .dquelle {margin-top: 10px;}
+  
   
   /* footer */
   footer div {
