@@ -187,7 +187,7 @@ nav li:last-child {
   display: block;
   padding-bottom: 16px;
 }
-.fade-in-panel p span, .fade-in-panel a {
+.fade-in-panel p span {
   text-decoration: underline;
 }
 #kontakt {
@@ -914,6 +914,7 @@ footer a {
 @media (max-width: 940px) {
   /* nav */
   .navyears {top: 65px; gap: 0;}
+  .navyearscont {top: 54px; height: 105px;}
   nav ul {padding: 0 25px;}
   nav li:first-child {min-width: 230px;}
   .navglobal.start {margin-right: 15px;}
@@ -950,6 +951,9 @@ footer a {
     padding: 30px 25px;
     gap: 25px;  
   }
+  .info-container {padding-top: 95px;}
+  .fade-in-panel {padding: 70px 30px 50px; width: 325px;}
+  #kontakt {padding: 70px 30px 10px; width: 325px;}
   
 
 }

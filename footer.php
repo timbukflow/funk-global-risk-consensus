@@ -79,7 +79,6 @@
       Hagenholzstrasse 56 <br>
       8050 Zürich <br><br>
       T +41 (0)58 311 05 00 <br>
-      F +41 (0)58 311 05 50 <br>
       <a href="mailto:info@funk-gruppe.ch" target="_top">info@funk-gruppe.ch</a>
     </p>
     <h2>Konzept, Design und Code</h2>
