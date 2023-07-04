@@ -48,6 +48,8 @@ p, button, .supernav li, .supernav a, .date, .fade-in-panel a,
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0.3px;
   hyphens: auto;
+  -webkit-hyphens: auto; 
+  -ms-hyphens: auto; 
 }
 
 h1 {
@@ -63,7 +65,8 @@ h2 {
   line-height: 125%;
   margin: 0;
   hyphens: auto;
-  -webkit-hyphens: auto;
+  -webkit-hyphens: auto; 
+  -ms-hyphens: auto; 
 }
 
 p { 
