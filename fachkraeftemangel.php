@@ -84,7 +84,11 @@
                 <div class="fakten bg">
                     <h1>Der globale Fachkräftemangel erreicht den höchsten Stand seit 17 Jahren</h1>
                     <p>Weltweit beklagen immer mehr Arbeitgeber, dass Sie ihre ausgeschriebenen Stellen nicht adäquat besetzen können. Im Jahr 2023 haben beinahe 4 von 5 befragten Arbeitgeber angegeben, dass Sie Mühe hatten eine passende Fachkraft zu finden.</p>
-                    <canvas id="fachkraeftemangel-grafik-01"></canvas>
+                    <div class="mchartscont">
+                        <div class="mcharts">
+                            <canvas id="fachkraeftemangel-grafik-01"></canvas>
+                        </div>
+                    </div>
                     <p class="dquelle">Quelle: ManpowerGroup</p>
                 </div>
                 <div class="fakten bg">

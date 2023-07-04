@@ -17,7 +17,7 @@
             <li><a href="von-menschen-verursachte-katastrophen">Von Menschen verursachte Katastrophen</a></li>
         </ul>
         <ul class="bg">
-            <li><span class="title">Global Events</span></li>
+            <li><span class="title">Globale Events</span></li>
             <li><a href="global-event-ukrainekrieg">Ukrainekrieg</a></li>
             <li><a href="global-event-coronapandemie">Coronapandemie</a></li>
             <li><a href="global-event-brexit">Brexit</a></li>

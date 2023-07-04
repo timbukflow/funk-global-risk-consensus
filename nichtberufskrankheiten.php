@@ -54,7 +54,7 @@
                       <img src="img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg" alt="funk-global-risk-consensus-risiko-nichtberufskrankheiten">
                 </div>
                 <div class="rdcontent">
-                    <h1>Nichtberufskrankheiten</h1>
+                    <h1 class="break-word">Nichtberufs<wbr>-<wbr>krankheiten</h1>
                     <p>
                         <strong>Was sind Nichtberufskrankheiten</strong><br>
                         Nichtberufskrankheiten, auch als nicht arbeitsbedingte Krankheiten oder nicht-berufsbedingte Krankheiten bezeichnet, sind Erkrankungen oder Gesundheitsprobleme, die nicht direkt mit der beruflichen Tätigkeit einer Person in Verbindung stehen. Diese Krankheiten entstehen in der Regel nicht durch arbeitsbedingte Expositionen oder spezifische Arbeitsumgebungen.
