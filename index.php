@@ -65,7 +65,6 @@
                 <button data-year="2022">2022</button>
                 <button data-year="2023" class="active">2023</button>
             </div>
-            <!-- <button class="arrow-button right "><img src="img/funk-arrow-right.svg" alt="menu" width="8px"></button> -->
             <?php require_once 'supernav.php'; ?>
         </div> 
     </div>

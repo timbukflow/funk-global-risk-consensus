@@ -428,21 +428,14 @@ $(document).ready(() => {
   updateContent("2023");
 
   // Buttons Year
-
   const buttonsContainer = document.querySelector('.buttons');
   buttonsContainer.scrollLeft = buttonsContainer.scrollWidth;
 
   document.querySelector('.arrow-button.left').addEventListener('click', scrollLeft);
-  // document.querySelector('.arrow-button.right').addEventListener('click', scrollRight);
 
   function scrollLeft() {
     const buttonsContainer = document.querySelector('.buttons');
     buttonsContainer.scrollLeft -= buttonsContainer.offsetWidth;
   }
-
-  // function scrollRight() {
-  //   const buttonsContainer = document.querySelector('.buttons');
-  //   buttonsContainer.scrollLeft += buttonsContainer.offsetWidth;
-  // }
 
 });

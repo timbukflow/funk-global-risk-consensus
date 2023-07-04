@@ -430,6 +430,9 @@ canvas {
   display: inline-block;
   opacity: 0.5;
 }
+.supernav .sngap {
+  padding-top: 30px;
+}
 .supernav li a {
   padding: 12px 10px;
   margin: 0 10px;
@@ -854,7 +857,6 @@ canvas {
 footer {
   background-color: var(--funkblue);
   width: 100%;
-  z-index: 100;
   position: absolute;
   left: 0;
   right: 0;
@@ -916,7 +918,8 @@ footer a {
   /* supernav */
   .supernavcontainer {z-index: 100;}
   .supernav {flex-direction: column; gap: 0; padding: 0; margin: 50px 0 0 0;}
-  .supernav ul {width: 100%; border-radius: 0px;}
+  .supernav ul {width: 100%; border-radius: 0px; padding: 20px 0 0;}
+  .supernav ul:last-child {padding-bottom: 100px;}
 
   /* year nav */
   .navyears {padding: 0 0 0 25px;}

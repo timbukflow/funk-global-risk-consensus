@@ -25,8 +25,7 @@
             <li><a href="global-event-dsgvo">DSGVO</a></li>
             <li><a href="global-event-us–eu-handelskrieg">US – EU Handelskrieg</a></li>
             <li><a href="global-event-us–china-handelskrieg">US – China Handelskrieg</a></li>
-            <li><span class="title"></span></li>
-            <li><span class="title">Trend 2024</span></li>
+            <li><span class="title sngap">Trend 2024</span></li>
             <li><a href="#">Funk Vorhersage</a></li>
         </ul>
     </div>
