@@ -40,7 +40,7 @@ $(document).ready(function() {
   };
 
   const ctx = document.getElementById("entwicklung-ew").getContext("2d");
-  const myLineChart = new Chart(ctx, {
+  new Chart(ctx, {
     type: 'line',
     data: data,
     options: options
@@ -53,11 +53,6 @@ $(document).ready(function() {
     hoverOffset: 10,
     borderWidth: 1,
     cutout: '70%',
-    font: {
-      family: "'Noto Serif', serif",
-      size: 16,
-      weight: 'normal'
-    },
     tooltip: {
       cornerRadius: 5,
       displayColors: false,
@@ -98,7 +93,10 @@ $(document).ready(function() {
         display: true,
         text: ['Wirtschaftliche Schäden','509 Mrd. EUR'],
         align: 'start',
-        font: pieStyle.font
+        font: {
+          weight: '400',
+          size: '13'
+        }
       },
       tooltip: pieStyle.tooltip,
     },
@@ -108,7 +106,7 @@ $(document).ready(function() {
   };
 
   const ctxPieEconomicLosses = document.getElementById('pie-economic-losses').getContext('2d');
-  const PieEconomicLosses = new Chart(ctxPieEconomicLosses, {
+  new Chart(ctxPieEconomicLosses, {
     type: 'doughnut',
     data: dataPieEconomicLosses,
     options: optionsPieEconomicLosses
@@ -137,7 +135,10 @@ $(document).ready(function() {
         display: true,
         text: ['Versicherte wirtschaftliche Schäden','116 Mrd. EUR'],
         align: 'start',
-        font: pieStyle.font
+        font: {
+          weight: '400',
+          size: '13'
+        }
       },
       tooltip: pieStyle.tooltip,
     },
@@ -147,7 +148,7 @@ $(document).ready(function() {
   };
 
   const ctxPieInsuredEconomicLosses = document.getElementById('pie-insured-economic-losses').getContext('2d');
-  const PieInsuredEconomicLosses = new Chart(ctxPieInsuredEconomicLosses, {
+  new Chart(ctxPieInsuredEconomicLosses, {
     type: 'doughnut',
     data: dataPieInsuredEconomicLosses,
     options: optionsPieInsuredEconomicLosses
@@ -176,7 +177,10 @@ $(document).ready(function() {
         display: true,
         text: ['Todesopfer','142 Mrd.'],
         align: 'start',
-        font: pieStyle.font
+        font: {
+          weight: '400',
+          size: '13'
+        }
       },
       tooltip: pieStyle.tooltip,
     },
@@ -186,13 +190,10 @@ $(document).ready(function() {
   };
 
   const ctxPieFatalities = document.getElementById('pie-fatalities').getContext('2d');
-  const PieFatalities = new Chart(ctxPieFatalities, {
+  new Chart(ctxPieFatalities, {
     type: 'doughnut',
     data: dataPieFatalities,
     options: optionsPieFatalities
   });
-
-
-  // More Events
 
 });

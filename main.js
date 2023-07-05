@@ -67,19 +67,9 @@ $(document).ready(function() {
   // Bericht Button
   $('.event').click(function() {
     const openevent = $(this).find('.hidden-text');
-    $('.hidden-text').slideUp(700);
-    $(openevent).slideDown(700);
+    $('.hidden-text').not(openevent).slideUp(700);
+    $(openevent).slideToggle(700);
   });
-
-  // $('.bBtn').click(function() {
-  //   const isOpen = $(this).attr('data-open') === 'true';
-  //   const newText = isOpen ? 'schliessen' : 'Bericht';
-
-  //   $(this).text(newText);
-  //   $(this).attr('data-open', !isOpen);
-
-  //   $(this).prev('.hidden-text').slideToggle(700);
-  // });
 
   // Events Weitere Button
   $('.ewBtn').click(function() {

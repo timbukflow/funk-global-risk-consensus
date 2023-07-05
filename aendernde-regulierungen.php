@@ -85,9 +85,17 @@
                     <h1>Keine Erholung auf Vor-Covid-Niveau nach Markt-Trennung</h1>
                     <p>Die folgende Grafik zeigt die Entwicklung des Aussenhandels aus Sicht Grossbritanniens mit der EU und dem Rest der Welt. Der Handel mit der EU hat sich nie mehr auf das Vor-Covid-Niveau erholt, da durch die Trennung der Märkte viele neue Regulierungen eingeführt wurden.</p>
                     <p class="grafiktitle">Goods trade EU and non-EU </p>
-                    <canvas id="aer-grafik-01"></canvas>
+                    <div class="mchartscont">
+                        <div class="mchartsbig">
+                            <canvas id="aer-grafik-01"></canvas>
+                        </div>
+                    </div>
                     <p class="grafiktitle">Services trade EU and non-EU </p>
-                    <canvas id="aer-grafik-02"></canvas>
+                    <div class="mchartscont">
+                        <div class="mchartsbig">
+                            <canvas id="aer-grafik-02"></canvas>
+                        </div>
+                    </div>
                     <p class="dquelle">Note: Goods excludes unspecified goods. Services data is only available to the third quarter of 2021 <br> Source: ONS</p>
                 </div>
             </div>
@@ -100,7 +108,7 @@
                             <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
                         </div>
                         <div class="eventtitle globalevent">
-                            <h1>Brexit <br> 2016 - 2020</h1>
+                            <h1>Brexit 2016 - 2020</h1>
                         </div>
                     </a>
                     <div class="event bg">
@@ -108,7 +116,7 @@
                             <img src="img/funk-global-risk-consensus-event-oecd-mindeststeuer-2021.jpg" alt="funk-global-risk-consensus-event-oecd-mindeststeuer-2021">
                         </div>
                         <div class="eventtitle">
-                            <h1>OECD-Mindeststeuer <br> 2021 </h1>
+                            <h1>OECD-Mindeststeuer - 2021 </h1>
                             <p class="hidden-text">
                                 Die OECD-Mindeststeuer bezieht sich auf einen Vorschlag der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) zur Bekämpfung der Steuervermeidung multinationaler Unternehmen. Das Ziel dieser Initiative ist es, sicherzustellen, dass Unternehmen einen angemessenen Beitrag zu den Steuersystemen der Länder leisten, in denen sie tätig sind, und Steuerlücken zu schließen.
                                 <br><br>
@@ -140,24 +148,7 @@
                 </div>
             </div>
             <!-- Kontakt -->
-            <div class="rdCcontact">
-                <h2>Ihr Risikospezialist</h2> 
-                <div class="rdcontact bg">
-                    <div class="contactimg">
-                        <img src="img/funk-stefan-braendli.png" alt="">
-                    </div>
-                    <div class="contactdata">
-                        <p>
-                            <strong>Stefan Brändli</strong><br>
-                            Risk Analyst, MSc ERDW ETHZ <br>
-                            <a href="tel:+41583110579">Telefon +41 58 311 05 79</a><br>
-                        </p>
-                        <a href="mailto:stefan.braendli@funk-gruppe.ch">
-                            <button class="mailBtn">Mail</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
+            <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>
     </div>
 

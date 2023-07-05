@@ -85,7 +85,11 @@
                 <div class="fakten bg">
                     <h1>Folgt</h1>
                     <p>Folgt</p>
-                    <canvas id="ume-grafik-01"></canvas>
+                    <div class="mchartscont">
+                        <div class="mchartsbig">
+                            <canvas id="ume-grafik-01"></canvas>
+                        </div>
+                    </div>
                     <p class="dquelle">Data extracted on 05 Jun 2023 14:04 UTC (GMT) from OECD.Stat</p>
                 </div>
             </div>
@@ -138,24 +142,7 @@
                 </div>
             </div>
             <!-- Kontakt -->
-            <div class="rdCcontact">
-                <h2>Ihr Risikospezialist</h2> 
-                <div class="rdcontact bg">
-                    <div class="contactimg">
-                        <img src="img/funk-stefan-braendli.png" alt="">
-                    </div>
-                    <div class="contactdata">
-                        <p>
-                            <strong>Stefan Brändli</strong><br>
-                            Risk Analyst, MSc ERDW ETHZ <br>
-                            <a href="tel:+41583110579">Telefon +41 58 311 05 79</a><br>
-                        </p>
-                        <a href="mailto:stefan.braendli@funk-gruppe.ch">
-                            <button class="mailBtn">Mail</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
+            <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>
     </div>
 

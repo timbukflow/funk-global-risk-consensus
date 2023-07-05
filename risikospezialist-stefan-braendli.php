@@ -9,9 +9,8 @@
                 <strong>Stefan Brändli</strong><br>
                 Risk Analyst, MSc ERDW ETHZ <br>
                 <a href="tel:+41583110579">Telefon +41 58 311 05 79</a><br>
-                <a href="mailto:stefan.braendli@funk-gruppe.ch">stefan.braendli@funk-gruppe.chZ</a>
+                <a href="mailto:stefan.braendli@funk-gruppe.ch">stefan.braendli@funk-gruppe.ch</a>
             </p>
-            
         </div>
     </div>
 </div>

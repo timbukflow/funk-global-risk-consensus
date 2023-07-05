@@ -80,21 +80,21 @@
             <!-- Interessante Fakten -->
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
-                <div class="item100 bg">
+                <div class="fakten bg">
                     <h1>500 Milliarden Schaden</h1>
                     <p>Extreme Wetterereignisse haben in den letzten 40 Jahren (1980-2020) in Europa (EEA-32 Länder) über 500 Milliarden Schäden verursacht, wovon nur 116 Milliarden versichert waren. Ungefähr 142 tausend Menschen sind diesen Events zum Opfer gefallen.</p>
                     <div class="piecontainer">
-                        <div class="pietest"><canvas id="pie-economic-losses"></canvas></div>
-                        <div class="pietest"><canvas id="pie-insured-economic-losses"></canvas></div>
-                        <div class="pietest"><canvas id="pie-fatalities"></canvas></div>
+                        <div class="pie"><canvas id="pie-economic-losses"></canvas></div>
+                        <div class="pie"><canvas id="pie-insured-economic-losses"></canvas></div>
+                        <div class="pie"><canvas id="pie-fatalities"></canvas></div>
                     </div>
                     <div class="piedescription">
-                        <p> 
-                            <span style='background-color:#60A3D9;'></span> Hydrologische Ereignisse
-                            <span style='background-color:#5487A6;'></span> Meteorologische Ereignisse
-                            <span style='background-color:#A9977F;'></span> Klimatologische Ereignisse - Hitzewelle
-                            <span style='background-color:#BFBFBF;'></span> Klimatologische Ereignisse - Andere
-                        </p>
+                        <div> 
+                            <p><span style='background-color:#60A3D9;'></span> Hydrologische Ereignisse</p>
+                            <p><span style='background-color:#5487A6;'></span> Meteorologische Ereignisse</p>
+                            <p><span style='background-color:#A9977F;'></span> Klimatologische Ereignisse - Hitzewelle</p>
+                            <p><span style='background-color:#BFBFBF;'></span> Klimatologische Ereignisse - Andere</p>
+                        </div>
                         <p>Hydrologische Events beschreiben Hochwasser und Überschwemmungen, meteorologische Events sind Stürme, klimatologische Events sind Hitzewellen und andere klimatologische Events beschreiben Dürren, Kältewellen und extreme Feuchtperioden.</p>
                     </div>
                 </div>
@@ -167,39 +167,16 @@
                 </div>
             </div>
             <!-- Kontakt -->
-            <div class="rdCcontact">
-                <h2>Ihr Risikospezialist</h2> 
-                <div class="rdcontact bg">
-                    <div class="contactimg">
-                        <img src="img/funk-stefan-braendli.png" alt="">
-                    </div>
-                    <div class="contactdata">
-                        
-                        <p>
-                            <strong>Stefan Brändli</strong><br>
-                            Risk Analyst, MSc ERDW ETHZ <br>
-                            <a href="tel:+41583110579">Telefon +41 58 311 05 79</a><br>
-                        </p>
-                        <a href="mailto:stefan.braendli@funk-gruppe.ch">
-                            <button class="mailBtn">Mail</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
+            <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>
     </div>
-  
-    
-
-            
+      
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="extreme-wetterereignisse.js"></script>
-
-    
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

@@ -88,7 +88,11 @@
                 <div class="fakten bg">
                     <h1>Atmosphärentemperatur</h1>
                     <p>Die folgende Grafik zeigt die jährliche Atmosphärentemperatur in Relation zur Durchschnittstemperatur zwischen 1901 und 2000.</p>
-                    <canvas id="kw-grafik-01"></canvas>
+                    <div class="mchartscont">
+                        <div class="mchartsbig">
+                        <canvas id="kw-grafik-01"></canvas>
+                        </div>
+                    </div>
                     <p class="dquelle">Quelle: NOAA</p>
                 </div>
             </div>
@@ -98,22 +102,36 @@
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-covid-19-pandemie.jpg" alt="funk-global-risk-consensus-globale-events-covid-19-pandemie">
+                            <img src="img/funk-global-risk-consensus-event-gletscherschwund.jpg" alt="funk-global-risk-consensus-event-gletscherschwund">
                         </div>
-                        <div class="eventtitle globalevent ">
-                            <h1>Covid-19</h1>
-                            <a href="globale-events-wannacry">
-                                <button class="geBtn">
-                                    <span class="material-symbols-outlined">chevron_right</span>Global Event
-                                </button>
-                            </a>
+                        <div class="eventtitle">
+                            <h1>Gletscherschwund</h1>
+                            <p class="hidden-text">
+                                Der Rückgang der Gletscher in der Schweiz ist ein bedeutendes Beispiel für den globalen Gletscherschwund. Seit Ende des 19. Jahrhunderts haben die Gletscher der Schweizer Alpen kontinuierlich an Masse und Fläche verloren. Der Hauptgrund für diesen Rückgang ist der Klimawandel, der zu einer Erhöhung der Temperaturen führt.
+                                <br><br>
+                                Laut Studien haben die Schweizer Gletscher seit 1850 etwa 60% ihrer Fläche verloren. Besonders dramatisch ist der Rückgang seit den 1980er Jahren. Einige Gletscher sind bereits komplett verschwunden, und andere schrumpfen rapide. Zum Beispiel hat der Rhonegletscher, einer der bekanntesten Gletscher in der Schweiz, in den letzten Jahrzehnten dramatische Verluste erlitten.
+                                <br><br>
+                                Der Rückgang der Gletscher in der Schweiz hat weitreichende Auswirkungen. Er beeinflusst die Wasserversorgung in den Alpentälern, da schmelzende Gletscher eine wichtige Quelle für Trinkwasser und Bewässerung sind. Zudem erhöht sich das Risiko von Naturgefahren wie Gletscherabbrüchen und Murgängen, wenn das Eis schmilzt und sich in Seen sammelt.
+                                <br><br>
+                                Die Schweiz ist sich der Bedeutung des Gletscherschwunds bewusst und unternimmt Maßnahmen, um die Auswirkungen zu mindern. Sie engagiert sich im Rahmen des Pariser Abkommens für die Reduzierung von Treibhausgasemissionen und arbeitet an der Anpassung an die Folgen des Klimawandels. Zudem werden wissenschaftliche Untersuchungen durchgeführt, um den Gletscherschwund besser zu verstehen und seine Auswirkungen zu bewältigen.
+                            </p>
                         </div>
                     </div>
-                    <!-- hidden events -->
-                    <div class="hidden-events">
-                        ...
+                    <div class="event bg">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-event-meeresspiegelanstieg.jpg" alt="funk-global-risk-consensus-event-meeresspiegelanstieg">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Meeresspiegelanstieg</h1>
+                            <p class="hidden-text">
+                                Der Meeresspiegelanstieg bezieht sich auf die Zunahme des durchschnittlichen Niveaus der Weltmeere im Laufe der Zeit. Er wird hauptsächlich durch zwei Faktoren verursacht: das Abschmelzen von Gletschern und Eisschilden sowie die thermische Ausdehnung des Meerwassers aufgrund der Erwärmung der Ozeane.
+                                <br><br>
+                                Der Klimawandel ist der Haupttreiber des Meeresspiegelanstiegs. Durch den Anstieg der globalen Durchschnittstemperaturen schmelzen Gletscher und Eisschilde. Insbesondere das Schmelzen der Eisschilde in Grönland und der Antarktis tragen massgeblich zum Meeresspiegelanstieg bei.
+                                <br><br>
+                                Der Meeresspiegelanstieg hat weitreichende Auswirkungen auf Küstenregionen weltweit. Küstenstädte und -gemeinden sind zunehmend von Überschwemmungen, Küstenerosion und Salzwassereintritt in Grundwasserreservoirs bedroht. Die Auswirkungen können auch auf Inseln und tiefliegende Gebiete dramatisch sein, da sie einem erhöhten Risiko von Sturmfluten und Landverlust ausgesetzt sind.
+                            </p>
+                        </div>
                     </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
                 </div>
             </div>    
         </div>
@@ -131,24 +149,7 @@
                 </div>
             </div>
             <!-- Kontakt -->
-            <div class="rdCcontact">
-                <h2>Ihr Risikospezialist</h2> 
-                <div class="rdcontact bg">
-                    <div class="contactimg">
-                        <img src="img/funk-stefan-braendli.png" alt="">
-                    </div>
-                    <div class="contactdata">
-                        <p>
-                            <strong>Stefan Brändli</strong><br>
-                            Risk Analyst, MSc ERDW ETHZ <br>
-                            <a href="tel:+41583110579">Telefon +41 58 311 05 79</a><br>
-                        </p>
-                        <a href="mailto:stefan.braendli@funk-gruppe.ch">
-                            <button class="mailBtn">Mail</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
+            <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>
     </div>
 

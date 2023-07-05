@@ -117,4 +117,11 @@
     </p>
     <button class="close-button"><span class="material-symbols-outlined ">close</span></button>
   </div>
+
+  <div id="nbk-grafik-info" class="fade-in-panel">
+      <p>
+        <strong>Allgemeine Anmerkung zu den Ergebnissen der Arbeitsvolumenstatistik (AVOL)</strong>Von 1991 bis 2009 wurde die Schweizerische Arbeitskräfteerhebung (SAKE; Hauptquelle der AVOL) jeweils im zweiten Quartal durchgeführt. Seit 2010 werden die Daten der SAKE vierteljährlich erhoben (kontinuierliche Erhebung). Für eine bessere Gewichtung wurden im Jahr 2017 für den Zeitraum 2010-2016 bei der Kalibrierung Sozialversicherungsdaten herangezogen. Durch die Berücksichtigung dieser neuen Dimension steigt die statistische Genauigkeit, insbesondere in Bezug auf den Arbeitsmarktstatus (erwerbstätig/erwerbslos gemäss ILO/nichterwerbstätig). Die Änderung der Periodizität sowie die Verbesserung der Gewichtung des SAKE führen bei einem Teil der Ergebnisse zu einem Bruch in der Zeitreihe zwischen 2009 und 2010; dieser Bruch zeigt sich ebenfalls bei der AVOL.
+      </p>
+      <button class="close-button"><span class="material-symbols-outlined ">close</span></button>
+    </div>
 </div>
