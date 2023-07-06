@@ -26,13 +26,6 @@ $(document).ready(function() {
       $('.info-container').fadeOut();
       $('.fade-in-panel').fadeOut();
     });
-  
-    // closer on full container
-    // $('.info-container').click(function() {
-    //   $('body').removeClass('supernavsc');
-    //   $('.info-container').fadeOut();
-    //   $('.fade-in-panel').fadeOut();
-    // });
   }
   
   // Suppernav
@@ -50,6 +43,7 @@ $(document).ready(function() {
 
     $('.supernavcontainer').stop(true, true).fadeToggle(1000);
     $('body').toggleClass('supernavsc');
+    $('.backBtn').stop(true, true).fadeToggle(500);
   });
 
 

@@ -272,6 +272,9 @@ nav li:last-child {
 /*----------------------------------
   Charts
 -----------------------------------*/
+.mchartscont {
+  width: 100%
+}
 
 canvas {
   margin: 40px 0 25px;
@@ -908,6 +911,7 @@ footer a {
 /*----------------------------------
   Cookie
 -----------------------------------*/
+
 #cookiebanner {
   background-color: white;
   padding: 15px 15px;
@@ -924,74 +928,107 @@ footer a {
 -----------------------------------*/
 
 
-@media (max-width: 940px) {
-  /* font */
-  :root {
-    --fontbig: 28px;
-  }
+@media (max-width: 1200px) {
   /* nav */
   .navyears {top: 65px; gap: 0;}
   .navyearscont {top: 54px; height: 105px;}
+  .navglobal.start {margin-right: 15px;}
   nav ul {padding: 0 25px;}
   nav li:first-child {min-width: 230px;}
-  .navglobal.start {margin-right: 15px;}
-  .time {display: none;}
+  
   /* supernav */
-  .supernavcontainer {z-index: 100;}
-  .supernav {flex-direction: column; gap: 0; padding: 0; margin: 50px 0 0 0;}
-  .supernav ul {width: 100%; border-radius: 0px; padding: 20px 0 0;}
-  .supernav ul:last-child {padding-bottom: 100px;}
+  .supernav {margin-top: 75px; padding-left: 105px; gap: 20px;}
+  .supernav ul {width: 380px;}
   /* navglobal */
   .navglobal {left: 25px; top: 75px; flex-direction: row; width: auto;}
   /* year nav */
   .navyears {padding: 0 0 0 25px;}
-  .arrow-button {display: inline-block;}
+  .buttons { overflow-x: scroll; scroll-behavior: smooth; padding: 10px 25px 10px 10px;}
 
-  .buttons {
-    overflow-x: scroll;
-    scroll-behavior: smooth;
-    padding: 10px 25px 10px 10px;
-  }
   /* home */
   body {padding: 0;}
   .riskseventstrends {flex-direction: column; margin: 160px auto 30px; gap: 0px;}
   .crisks, .cgeventstrends {width: 100%; gap: 0px;}
   .risks, .gevents, .trends {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
-  .risk, .gevent {min-width: 300px;}
+  .risk, .gevent {min-width: 330px;}
+  .trend {width: 50%;}
   .gevent {margin-bottom: 0;}
   .riskseventstrends h2 {padding-left: 35px; margin-top: 20px;}
   .cgevents h2, .ctrends h2 {margin-bottom: 0;}
 
   /* risk */
-  .rdmain {padding: 10px; margin-top: 90px; margin-bottom: 50px;}
-  .rdeinleitung, .rdcontainer {flex-direction: column; gap: 20px;}
+  .rdmain {padding: 10px 50px; margin-top: 90px; margin-bottom: 20px;}
+  .rdeinleitung, .rdcontainer {gap: 20px;}
   .rdcontainer {margin-top: 40px;}
   .rdcontainer:last-child {margin-top: 20px;}
   .rdcontainer h2 {margin-left: 25px;}
+  .fakten, .event {margin-bottom: 20px;}
+  .item60, .rdcfakten, .rdCsolution {width: 65%}
+  .item40, .rdcevents, .rdCcontact {width: 35%}
+  .ewBtn{margin-bottom: 20px;}
+  .dquelle {margin-top: 10px;}
+
+  /* globale events  */
+  .globaleventcontent {flex-direction: column;}
+  .globalfakten {display: flex; width: 100%; flex-direction: column;}
+  .azrcontainer {margin-top: 40px;}
+  .azrcontainer h2 {margin-left: 25px;}
+  .azrmain {gap: 20px;}
+
+  /* footer */
+  footer div {padding: 30px 25px;}
+}
+
+@media (max-width: 960px) {
+  /* font */
+  :root {
+    --fontbig: 28px;
+  }
+  /* nav */
+  .time {display: none;}
+
+  /* supernav */
+  .supernavcontainer {z-index: 100;}
+  .supernav {flex-direction: column; gap: 0; padding: 0; margin: 50px 0 0 0;}
+  .supernav ul {width: 100%; border-radius: 0px; padding: 20px 0 0;}
+  .supernav ul:last-child {padding-bottom: 100px;}
+
+  /* home */
+  .risk, .gevent {min-width: 300px;}
+  .trend {width: 100%;}
+
+  /* risk */
+  .rdeinleitung, .rdcontainer {flex-direction: column;}
   .item60, .item40, .rdcfakten, .rdcevents, .rdCsolution, .rdCcontact {width: 100%}
   .rdimg {align-items: stretch;}
-  .fakten, .event {margin-bottom: 20px;}
-  .ewBtn{margin-bottom: 20px;}
   .mchartscont {width: calc(100% + 30px); overflow-x: scroll;}
-  .mcharts{width: 500px; padding-right: 30px;}
-  .mchartsbig{width: 700px; padding-right: 30px;}
+  .mcharts{width: 600px; padding-right: 30px;}
+  .mchartsbig{width: 800px; padding-right: 30px;}
   canvas {margin: 20px 0 10px;}
-  .dquelle {margin-top: 10px;}
   /* pie */
   .piecontainer { flex-direction: column;}
   .pie {width: auto;}
   
-  
+  /* globale events  */
+  .globaleventimg{height: 250px;}
+  .globaleventcontent {padding:30px; gap:20px;}
+  .azrmain {flex-direction: column;}
+
   /* footer */
   footer div {
     flex-direction: column;
     align-items: flex-start;
-    padding: 30px 25px;
     gap: 25px;  
   }
   .info-container {padding-top: 95px;}
   .fade-in-panel {padding: 70px 30px 50px; width: 325px;}
   #kontakt {padding: 70px 30px 10px; width: 325px;}
-  
+}
 
+@media (max-width: 800px) {
+  .arrow-button {display: inline-block;}
+}
+
+@media (max-width: 700px) {
+  .rdmain {padding: 10px;}
 }

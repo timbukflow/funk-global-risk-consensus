@@ -50,7 +50,7 @@
 
     <div class="rdmain">
         <div class="rdeinleitung">
-            <div class="bg">
+            <div class="bg globalfakten">
                 <div class="globaleventimg">
                       <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
                 </div>
@@ -80,7 +80,11 @@
                         Auch im Jahr 2023 bleibt das Coronavirus weiterhin aktiv und es treten immer wieder neue Varianten auf, die bei Wissenschaftlern Besorgnis auslösen. Allerdings konnte dank der vergleichsweise hohen Impfquote und der Tatsache, dass bisher keine Variante eine Immunität gegen die Impfungen entwickelt hat, in den meisten Ländern eine erneute Welle von Infektionen bisher vermieden werden.   
                         </p>
                         <p class="grafiktitle">Die Grafik zeigt den Zeitverlauf der weltweiten Infektionszahlen.</p>
-                        <canvas id="coronapandemie-grafik-01"></canvas>
+                        <div class="mchartscont">
+                            <div class="mchartsbig">
+                                <canvas id="coronapandemie-grafik-01"></canvas>
+                            </div>
+                        </div>
                         <p class="dquelle">Quelle: WHO Covid-19 </p>
                     </div>
                     <div class="globaleventfacts">

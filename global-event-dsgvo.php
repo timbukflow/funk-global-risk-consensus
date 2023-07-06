@@ -50,7 +50,7 @@
 
     <div class="rdmain">
         <div class="rdeinleitung">
-            <div class="bg">
+            <div class="bg globalfakten">
                 <div class="globaleventimg">
                       <img src="img/funk-global-risk-consensus-globale-events-dsgvo.jpg" alt="funk-global-risk-consensus-globale-events-dsgvo">
                 </div>
@@ -75,7 +75,11 @@
                         <p class="grafiktitle">
                             Die Grafik zeigt die Implementierungskosten aller DSGVO-Anforderungen aufgeteilt nach Branchen.
                         </p>
-                        <canvas id="dsgvo-grafik-01"></canvas>
+                        <div class="mchartscont">
+                            <div class="mchartsbig">
+                                <canvas id="dsgvo-grafik-01"></canvas>
+                            </div>
+                        </div>
                         <p class="dquelle">Quelle: Statista</p>
                     </div>
                     <div class="globaleventfacts">

@@ -50,7 +50,7 @@
 
     <div class="rdmain">
         <div class="rdeinleitung">
-            <div class="bg">
+            <div class="bg globalfakten">
                 <div class="globaleventimg">
                       <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
                 </div>
