@@ -985,6 +985,7 @@ footer a {
     --fontbig: 28px;
   }
   /* nav */
+  .navyearscont {height: 95px;}
   .time {display: none;}
 
   /* supernav */
