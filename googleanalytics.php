@@ -1,16 +1,16 @@
-<div id="cookiebanner">
+<div id="cookiebanner" class="bg">
   <p>Wir verwenden Cookies, um Ihnen das beste Online-Erlebnis zu bieten. Mit Ihrer Zustimmung akzeptieren Sie die Verwendung von Cookies.</p>
   <button id="acceptBtn">Okay</button>
   <button id="declineBtn">Nein, danke</button>
 </div>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2N5XW0GKCX"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
-    const trackingID = 'G-XXXXXXXXXX';
+    const trackingID = 'G-2N5XW0GKCX';
     const disableString = 'ga-disable-' + trackingID;
     const cookiebanner = document.getElementById('cookiebanner');
     const acceptBtn = document.getElementById('acceptBtn');

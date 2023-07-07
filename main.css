@@ -904,14 +904,63 @@ footer a {
   Cookie
 -----------------------------------*/
 
+
+/*----------------------------------
+    Cookiebanner
+-----------------------------------*/
+
 #cookiebanner {
-  background-color: white;
-  padding: 15px 15px;
-  width: 250px;
-  z-index: 100;
   position: fixed;
+  bottom: -300px;
+  left: 40px;
   border-radius: 5px;
-  bottom: 25px;
+  width: 350px;
+  background-color: white;
+  padding: 15px;
+  z-index: 9999;
+  transition: bottom 0.5s cubic-bezier(0.2, 0.8, 0.3, 2);
+}
+
+#cookiebanner p {
+  color: var(--funkblue);
+  margin: 0;
+}
+
+#cookiebanner.visible {
+  bottom: 40px;
+}
+
+#cookiebanner button {
+  
+  letter-spacing: 0;
+  text-decoration: none; 
+}
+
+#declineBtn, #acceptBtn {
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#declineBtn {
+  padding: 10px 20px;
+  background:none;
+  border: 1px solid var(--funkblue); 
+  color: var(--funkblue);
+  opacity: 0.5;
+}
+
+#acceptBtn {
+  border: none;
+  padding: 10px 40px;
+  background: var(--funkblue);
+  color: white;
+  margin-right: 5px;
+}
+
+#acceptBtn:hover,
+#declineBtn:hover {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0.75; ;
 }
 
 
@@ -1024,4 +1073,7 @@ footer a {
 
 @media (max-width: 700px) {
   .rdmain {padding: 10px;}
+
+  #cookiebanner {width: calc(100% - 70px); left: 20px;}
+  #cookiebanner.visible {bottom: 60px;}
 }
