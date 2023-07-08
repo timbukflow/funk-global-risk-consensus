@@ -1,13 +1,11 @@
+<div id="cookiebanner" class="bg">
+  <p>Wir verwenden Cookies, um Ihnen das beste Online-Erlebnis zu bieten. Mit Ihrer Zustimmung akzeptieren Sie die Verwendung von Cookies.</p>
+  <button id="acceptBtn">Okay</button>
+  <button id="declineBtn">Nein, danke</button>
+</div>
 
-
-<div id="cookiebanner">
-    <p>Cookies verbessern dein <span class="no-break">Weberlebnis.</span></p>
-    <button id="acceptBtn" onclick="accept()">Okay</button>
-    <button id="declineBtn" onclick="decline()">Nein, danke</button>
-  </div>
-
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2N5XW0GKCX"></script>
-  <script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2N5XW0GKCX"></script>
+<script>
     window.dataLayer = window.dataLayer || [];
     function gtag() {
         dataLayer.push(arguments);
@@ -18,7 +16,8 @@
     var disableString = 'ga-disable-' + trackingID;
 
     function accept() {
-        var expirationDate = new Date('July 1, 2099');
+        var expirationDate = new Date();
+        expirationDate.setDate(expirationDate.getDate() + 365);
         document.cookie = 'accepted=yes, i accept google analytics; expires=' + expirationDate.toUTCString() + '; path=/; SameSite=None; Secure';
         document.getElementById('cookiebanner').remove();
         gtag('config', trackingID, {
@@ -29,7 +28,8 @@
     }
 
     function decline() {
-        var expirationDate = new Date('July 1, 2099');
+        var expirationDate = new Date();
+        expirationDate.setDate(expirationDate.getDate() + 365);
         document.cookie = disableString + '=true; expires=' + expirationDate.toUTCString() + '; path=/; SameSite=None; Secure';
         document.getElementById('cookiebanner').remove();
     }
@@ -39,6 +39,9 @@
         banner.classList.add('visible');
     }
 
+    document.getElementById('acceptBtn').addEventListener('click', accept);
+    document.getElementById('declineBtn').addEventListener('click', decline);
+
     if (document.cookie.indexOf(disableString + '=true') > -1) {
         window[disableString] = true;
         document.getElementById('cookiebanner').remove();
@@ -47,7 +50,8 @@
     } else {
         setTimeout(showBanner, 3500);
     }
-  </script>
+</script>
+
 <!-- 
 
 <div id="cookiebanner" class="bg">
