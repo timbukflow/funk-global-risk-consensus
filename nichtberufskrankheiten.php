@@ -6,7 +6,7 @@
     <title>Funk Global Risk Consensus | Nichtberufskrankheiten </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content=".........">
+    <meta name="description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/nichtberufskrankheiten" />
     
@@ -18,7 +18,7 @@
 
 
     <meta property="og:title" content="Funk Global Risk Consensus | Nichtberufskrankheiten">
-    <meta property="og:description" content=".........">
+    <meta property="og:description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Nichtberufskrankheiten">
-    <meta name="twitter:description" content=".........">
+    <meta name="twitter:description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">

@@ -6,7 +6,7 @@
     <title>Funk Global Risk Consensus | Naturkatastrophen </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content=".........">
+    <meta name="description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/naturkatastrophen" />
     
@@ -18,7 +18,7 @@
 
 
     <meta property="og:title" content="Funk Global Risk Consensus | Naturkatastrophen">
-    <meta property="og:description" content=".........">
+    <meta property="og:description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Naturkatastrophen">
-    <meta name="twitter:description" content=".........">
+    <meta name="twitter:description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">

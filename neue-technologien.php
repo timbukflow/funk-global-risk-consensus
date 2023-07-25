@@ -6,7 +6,7 @@
     <title>Funk Global Risk Consensus | Neue Technologien </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content=".........">
+    <meta name="description" content="Die Entwicklung der digitalen Technologien beschleunigt sich Jahr für Jahr. Neue Tools und Technologien bringen, neben ihren Vorteilen, aber auch viele Risiken mit sich. ">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/neue-technologien" />
     
@@ -18,7 +18,7 @@
 
 
     <meta property="og:title" content="Funk Global Risk Consensus | Neue Technologien">
-    <meta property="og:description" content=".........">
+    <meta property="og:description" content="Die Entwicklung der digitalen Technologien beschleunigt sich Jahr für Jahr. Neue Tools und Technologien bringen, neben ihren Vorteilen, aber auch viele Risiken mit sich. ">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Neue Technologien">
-    <meta name="twitter:description" content=".........">
+    <meta name="twitter:description" content="Die Entwicklung der digitalen Technologien beschleunigt sich Jahr für Jahr. Neue Tools und Technologien bringen, neben ihren Vorteilen, aber auch viele Risiken mit sich. ">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">

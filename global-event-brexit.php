@@ -6,7 +6,7 @@
     <title>Funk Global Risk Consensus | Brexit </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content=".........">
+    <meta name="description" content="Der Austritt des Vereinigten Königreichs aus der EU. Ein historischer Schritt mit weitreichenden politischen, wirtschaftlichen und sozialen Folgen.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/global-event-brexit" />
     
@@ -18,7 +18,7 @@
 
 
     <meta property="og:title" content="Funk Global Risk Consensus | Brexit">
-    <meta property="og:description" content=".........">
+    <meta property="og:description" content="Der Austritt des Vereinigten Königreichs aus der EU. Ein historischer Schritt mit weitreichenden politischen, wirtschaftlichen und sozialen Folgen.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Brexit">
-    <meta name="twitter:description" content=".........">
+    <meta name="twitter:description" content="Der Austritt des Vereinigten Königreichs aus der EU. Ein historischer Schritt mit weitreichenden politischen, wirtschaftlichen und sozialen Folgen.">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">

@@ -6,7 +6,7 @@
     <title>Funk Global Risk Consensus | Ungünstige Marktentwicklung </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content=".........">
+    <meta name="description" content="Es gibt eine Vielzahl von möglichen Auslösern für eine negative Marktentwicklung. Sich auf jedes Szenario vorzubereiten ist nicht immer möglich. Daher ist es sinnvoll, dass sich Unternehmen im Allgemeinen auf eine schwierigere Marktsituation vorbereiten.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/unguenstige-marktentwicklung" />
     
@@ -18,7 +18,7 @@
 
 
     <meta property="og:title" content="Funk Global Risk Consensus | Ungünstige Marktentwicklung">
-    <meta property="og:description" content=".........">
+    <meta property="og:description" content="Es gibt eine Vielzahl von möglichen Auslösern für eine negative Marktentwicklung. Sich auf jedesSze-nario vorzubereiten ist nicht immer möglich. Daher ist es sinnvoll, dass sich Unternehmen im Allgemei-nen uf eine schwierigere Marktsituation vorbereiten.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Ungünstige Marktentwicklung">
-    <meta name="twitter:description" content=".........">
+    <meta name="twitter:description" content="Es gibt eine Vielzahl von möglichen Auslösern für eine negative Marktentwicklung. Sich auf jedesSze-nario vorzubereiten ist nicht immer möglich. Daher ist es sinnvoll, dass sich Unternehmen im Allgemei-nen uf eine schwierigere Marktsituation vorbereiten.">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">

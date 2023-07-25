@@ -6,7 +6,7 @@
     <title>Funk Global Risk Consensus | Ändernde Regulierungen </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content=".........">
+    <meta name="description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/aendernde-regulierungen" />
     
@@ -18,7 +18,7 @@
 
 
     <meta property="og:title" content="Funk Global Risk Consensus | Ändernde Regulierungen">
-    <meta property="og:description" content=".........">
+    <meta property="og:description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -26,7 +26,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Ändernde Regulierungen">
-    <meta name="twitter:description" content=".........">
+    <meta name="twitter:description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
