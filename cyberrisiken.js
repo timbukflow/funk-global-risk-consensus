@@ -106,7 +106,7 @@ $(document).ready(function() {
     labels: ["2022", "2021", "2020", "2019", "2018"],
     datasets: [
       {
-        label: "Manufacturing",
+        label: "Herstellende Industrie",
         data: [24.8, 23.2, 17.7, 8, 10],
         borderColor: "rgba(169, 151, 127, 0.5)",
         backgroundColor: "rgba(169, 151, 127, 0.5)",
@@ -115,7 +115,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Finance and insurance",
+        label: "Finanz- und Versicherungsindustrie",
         data: [18.9, 22.4, 23, 17, 19],
         borderColor: "rgba(169, 151, 127, 1)",
         backgroundColor: "rgba(169, 151, 127, 1)",
@@ -124,7 +124,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Professional, business and consumer services",
+        label: "Dienstleistungsindustrie",
         data: [14.6, 12.7, 8.7, 10, 12],
         borderColor: "rgba(84, 135, 166, 0.5)",
         backgroundColor: "rgba(84, 135, 166, 0.5)",
@@ -133,7 +133,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Energy",
+        label: "Energiesektor",
         data: [10.7, 8.2, 11.1, 6, 6],
         borderColor: "rgba(84, 135, 166, 1)",
         backgroundColor: "rgba(84, 135, 166, 1)",
@@ -142,7 +142,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Retail and wholesale",
+        label: "Einzel- und Grosshandel",
         data: [8.7, 7.3, 10.2, 16, 11],
         borderColor: "rgba(104, 192, 181, 0.5)",
         backgroundColor: "rgba(104, 192, 181, 0.5)",
@@ -151,7 +151,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Education",
+        label: "Bildungswesen",
         data: [7.3, 2.8, 4, 8, 6],
         borderColor: "rgba(104, 192, 181, 1)",
         backgroundColor: "rgba(104, 192, 181, 1)",
@@ -160,7 +160,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Healthcare",
+        label: "Gesundheitswesen",
         data: [5.8, 5.1, 6.6, 3, 6],
         borderColor: "rgba(117, 184, 69, 0.5)",
         backgroundColor: "rgba(117, 184, 69, 0.5)",
@@ -169,7 +169,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Government",
+        label: "Verwaltung",
         data: [4.8, 2.8, 7.9, 8, 8],
         borderColor: "rgba(117, 184, 69, 1)",
         backgroundColor: "rgba(117, 184, 69, 1)",
@@ -178,7 +178,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Transportation",
+        label: "Transportwesen",
         data: [3.9, 4, 5.1, 13, 13],
         borderColor: "rgba(44, 120, 95, 0.5)",
         backgroundColor: "rgba(44, 120, 95, 0.5)",
@@ -187,7 +187,7 @@ $(document).ready(function() {
         fill: false
       },
       {
-        label: "Media and telecom",
+        label: "Medien und Telekommunikation",
         data: [0.5, 2.5, 5.7, 10, 8],
         borderColor: "rgba(44, 120, 95, 1)",
         backgroundColor: "rgba(44, 120, 95, 1)",

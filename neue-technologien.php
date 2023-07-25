@@ -84,7 +84,7 @@
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
                     <h1>Teleheimarbeit</h1>
-                    <p>....</p>
+                    <p>Die folgende Grafik zeigt den Anteil geleisteter Arbeitsstunden im Home-Office an der Gesamtarbeitszeit.</p>
                     <div class="mchartscont">
                         <div class="mcharts">
                             <canvas id="nt-grafik-01"></canvas>

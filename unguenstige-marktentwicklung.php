@@ -83,8 +83,8 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Folgt</h1>
-                    <p>Folgt</p>
+                    <h1>Die Achterbahn der Wirtschaft</h1>
+                    <p>Die wirtschaftliche Instabilität zeigt sich in der folgenden Grafik durch die unbeständige Entwicklung des Bruttoinlandproduktes nach der Corona-Pandemie.</p>
                     <div class="mchartscont">
                         <div class="mchartsbig">
                             <canvas id="ume-grafik-01"></canvas>

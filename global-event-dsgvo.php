@@ -109,6 +109,16 @@
                         </div>
                     </a>
                 </div>
+                <div class="azr bg">
+                    <a href="aendernde-regulierungen">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" alt="funk-global-risk-consensus-risiko-aendernde-regulierungen">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Ändernde Regulierungen</h1>
+                        </div>
+                    </a>
+                </div>
             </div>      
         </div>
 

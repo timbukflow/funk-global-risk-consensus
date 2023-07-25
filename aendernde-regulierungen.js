@@ -58,7 +58,7 @@ $(document).ready(function() {
   ],
   datasets: [
       {
-          label: "EU Exports",
+          label: "Exporte in die EU",
           data: [
               93.5, 94.1, 94.0, 96.8, 96.5, 96.6, 94.9, 94.5, 95.6, 94.0, 95.3, 96.1,
               98.3, 98.4, 99.3, 99.7, 100.6, 101.6, 103.1, 103.1, 102.8, 101.8, 102.2, 102.3,
@@ -74,7 +74,7 @@ $(document).ready(function() {
           fill: false
       },
       {
-          label: "Non-EU Exports",
+          label: "Exporte in übrige Länder",
           data: [
               87.8, 88.7, 88.9, 91.8, 92.1, 93.1, 88.3, 87.5, 85.8, 88.3, 88.3, 90.7,
               92.2, 94.5, 95.1, 97.7, 99.7, 99.2, 96.9, 95.0, 96.5, 97.8, 98.6, 98.2,
@@ -90,7 +90,7 @@ $(document).ready(function() {
           fill: false
       },
       {
-          label: "EU Imports",
+          label: "Importe aus der EU",
           data: [
               93.0, 93.3, 93.4, 95.8, 95.6, 97.0, 95.4, 96.0, 96.7, 96.2, 97.7, 98.2,
               99.7, 98.9, 98.7, 98.9, 98.7, 98.4, 98.2, 98.8, 98.6, 98.7, 97.9, 97.9,
@@ -106,7 +106,7 @@ $(document).ready(function() {
           fill: false
       },
       {
-          label: "Non-EU Imports",
+          label: "Importe aus übrigen Ländern",
           data: [
               95.7, 96.4, 97.0, 100.5, 98.8, 97.9, 93.8, 96.2, 97.3, 98.0, 97.2, 98.0,
               100.3, 99.9, 101.1, 101.2, 103.3, 102.8, 103.0, 102.0, 102.2, 100.8, 101.2, 98.8,
@@ -135,7 +135,7 @@ var servicesData = {
     ],
     datasets: [
         {
-            label: "EU Exports",
+            label: "Exporte in die EU",
             data: [
                 78.6, 81.4, 84.0, 87.5, 88.6, 90.6, 96.3, 94.1,
                 98.4, 98.6, 96.3, 103.6, 94.5, 99.8, 101.6, 104.1,
@@ -148,7 +148,7 @@ var servicesData = {
             fill: false
         },
         {
-            label: "Non-EU Exports",
+            label: "Exporte in übrige Länder",
             data: [
                 78.4, 80.6, 84.0, 88.4, 87.9, 87.9, 87.8, 86.0,
                 90.7, 90.2, 93.8, 98.3, 95.8, 97.5, 102.5, 104.2,
@@ -161,7 +161,7 @@ var servicesData = {
             fill: false
         },
         {
-            label: "EU Imports",
+            label: "Importe aus der EU",
             data: [
                 75.2, 76.1, 82.6, 84.8, 84.2, 86.3, 87.8, 86.8,
                 94.8, 98.2, 96.4, 104.5, 95.9, 97.9, 101.7, 104.5,
@@ -174,7 +174,7 @@ var servicesData = {
             fill: false
         },
         {
-            label: "Non-EU Imports",
+            label: "Importe aus übrigen Ländern",
             data: [
                 73.2, 73.7, 79.2, 85.0, 82.6, 84.0, 84.1, 84.1,
                 88.4, 88.3, 91.3, 96.4, 93.3, 100.0, 102.6, 104.0,

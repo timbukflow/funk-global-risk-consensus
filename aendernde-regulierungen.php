@@ -84,13 +84,13 @@
                 <div class="fakten bg">
                     <h1>Keine Erholung auf Vor-Covid-Niveau nach Markt-Trennung</h1>
                     <p>Die folgende Grafik zeigt die Entwicklung des Aussenhandels aus Sicht Grossbritanniens mit der EU und dem Rest der Welt. Der Handel mit der EU hat sich nie mehr auf das Vor-Covid-Niveau erholt, da durch die Trennung der Märkte viele neue Regulierungen eingeführt wurden.</p>
-                    <p class="grafiktitle">Goods trade EU and non-EU </p>
+                    <p class="grafiktitle">Importe und Exporte von Gütern des Vereinigten Königreichs </p>
                     <div class="mchartscont">
                         <div class="mchartsbig">
                             <canvas id="aer-grafik-01"></canvas>
                         </div>
                     </div>
-                    <p class="grafiktitle">Services trade EU and non-EU </p>
+                    <p class="grafiktitle">Service Trade EU non EU in Importe und Exporte von Dienstleistungen des Vereinigten Königreichs</p>
                     <div class="mchartscont">
                         <div class="mchartsbig">
                             <canvas id="aer-grafik-02"></canvas>

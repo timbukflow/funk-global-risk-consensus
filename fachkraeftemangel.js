@@ -51,7 +51,7 @@ $(document).ready(function() {
   const dataGrafik01 = {
     labels: ["2014","2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
     datasets: [{
-      label: "Globaler Fachkräftemangel",
+      label: "Globaler Fachkräftemangel in Firmen die Mühe haben Fachkräfte zu finden",
       data: [35, 36, 38, 50, 45, 54, 69, 75, 77],
       backgroundColor: "#5487A6",
       maxBarThickness: 20,
@@ -108,7 +108,7 @@ $(document).ready(function() {
   const dataGrafik02 = {
     labels: ["IT & Datenverarbeitung", "Maschinenbau/Ingenieur", "Verkauf & Marketing", "Betrieb & Logistik", "Kundenbetreuung"],
     datasets: [{
-      label: "Gesuchte Fachkräfte",
+      label: "Gesuchte Fachkräfte in Meistgesuchte Fähigkeiten",
       data: [27, 22, 20, 19, 17],
       backgroundColor: "#5487A6",
       maxBarThickness: 20,
