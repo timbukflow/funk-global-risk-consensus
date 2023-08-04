@@ -86,7 +86,7 @@
                     <h1>Title</h1>
                     <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
                     <p class="grafiktitle">Grafik Title </p>
-                    <canvas id="..."></canvas>
+                    <div class="transparencyEmbed" data-year="2022"></div><script src="https://transparency.org/assets/dist/embed-generator.js"></script>
                     <p class="dquelle">Source:</p>
                 </div>
             </div>
