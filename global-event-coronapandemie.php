@@ -1,9 +1,17 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Coronapandemie </title>
+    <title>Funk Global Risk Consensus | COVID-19 Pandemie </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Die Coronapandemie hat die Welt im Jahr 2020 erfasst und zu einer globalen Gesundheitskrise geführt. Sie hat das tägliche Leben vieler Menschen beeinflusst und zu weitreichenden wirtschaftlichen und sozialen Auswirkungen geführt.">
@@ -16,11 +24,18 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Coronapandemie">
     <meta property="og:description" content="Die Coronapandemie hat die Welt im Jahr 2020 erfasst und zu einer globalen Gesundheitskrise geführt. Sie hat das tägliche Leben vieler Menschen beeinflusst und zu weitreichenden wirtschaftlichen und sozialen Auswirkungen geführt.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/global-event-coronapandemie">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -56,7 +71,7 @@
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
-                        <h1>Coronapandemie</h1>
+                        <h1>COVID-19 Pandemie</h1>
                         <p>
                         <strong>Start - Dezember 2019</strong><br>
                         Die Coronapandemie begann Ende des Jahres 2019 in der chinesischen Stadt Wuhan, als eine unbekannte Atemwegserkrankung bei mehreren Personen festgestellt wurde. Im Januar 2020 identifizierte China das neuartige Coronavirus als Ursache der Krankheit und teilte diese Information der Weltgesundheitsorganisation (WHO) mit.
@@ -109,12 +124,66 @@
             <h2>Abhängigkeit zum Risiko</h2>
             <div class="azrmain">
                 <div class="azr bg">
+                    <a href="inflation">
+                        <div class="eventimg">
+                        <img src="img/funk-global-risk-consensus-risiko-inflation.jpg" alt="funk-global-risk-consensus-risiko-inflation.jpg">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Inflation</h1>
+                        </div>
+                    </a>
+                </div>
+                <div class="azr bg">
+                    <a href="fachkraeftemangel">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" alt="funk-global-risk-consensus-risiko-fachkraeftemangel">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Fachkräftemangel</h1>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="azrmain">
+                <div class="azr bg">
+                    <a href="makrooekonomische-veraenderungen">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg" alt="funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Makroökonomische Veränderungen</h1>
+                        </div>
+                    </a>
+                </div>
+                <div class="azr bg">
                     <a href="nichtberufskrankheiten">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg" alt="funk-global-risk-consensus-risiko-nichtberufskrankheiten">
                         </div>
                         <div class="eventtitle">
                             <h1>Nichtberufskrankheiten</h1>
+                        </div>
+                    </a>
+                </div>
+            </div> 
+            <div class="azrmain">
+                <div class="azr bg">
+                    <a href="neue-technologien">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-risiko-neue-technologien.jpg" alt="funk-global-risk-consensus-risiko-neue-technologien">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Neue Technologien</h1>
+                        </div>
+                    </a>
+                </div>
+                <div class="azr bg">
+                    <a href="unguenstige-marktentwicklung">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg" alt="funk-global-risk-consensus-risiko-unguenstige-marktentwicklung">
+                        </div>
+                        <div class="eventtitle">
+                            <h1>Ungünstige Marktentwicklung</h1>
                         </div>
                     </a>
                 </div>

@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -6,8 +14,7 @@
     <title>Funk Global Risk Consensus | US – China Handelskrieg </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.
-">
+    <meta name="description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.ch/global-event-us–china-handelskrieg" />
     
@@ -17,10 +24,16 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Funk Global Risk Consensus | US – China Handelskrieg">
-    <meta property="og:description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.
-">
+    <meta property="og:description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
@@ -28,8 +41,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | US – China Handelskrieg">
-    <meta name="twitter:description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.
-">
+    <meta name="twitter:description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.">
     <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">

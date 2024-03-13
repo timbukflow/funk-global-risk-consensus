@@ -24,8 +24,13 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
-    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
     <meta property="og:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">

@@ -24,8 +24,13 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
-    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Nichtberufskrankheiten">
     <meta property="og:description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
@@ -114,7 +119,7 @@ Version 1.0
                             <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
                         </div>
                         <div class="eventtitle globalevent">
-                            <h1>Coronapandemie <br> 2019 - 2023</h1>
+                            <h1>COVID-19 Pandemie <br> 2019 - 2023</h1>
                         </div>
                     </a>
                 </div>

@@ -78,7 +78,8 @@ Version 1.0
                 <button data-year="2020">2020</button>
                 <button data-year="2021">2021</button>
                 <button data-year="2022">2022</button>
-                <button data-year="2023" class="active">2023</button>
+                <button data-year="2023">2023</button>
+                <button data-year="2024" class="active">2024</button>
             </div>
             <?php require_once 'supernav.php'; ?>
         </div> 
@@ -96,7 +97,7 @@ Version 1.0
                 <div class="gevents"></div>
                 <button class="gewBtn">Mehr Events</button>
             </div>
-            <div class="ctrends">
+            <!-- <div class="ctrends">
                 <h2>Trend 2024</h2>
                 <div class="trends">
                     <a href="trend" class="trend bg">
@@ -105,7 +106,7 @@ Version 1.0
                         </div>
                     </a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 

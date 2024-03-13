@@ -1,4 +1,50 @@
 const data = {
+  "2024": {
+    "risks": [
+        {
+          "name": "Cyber-risiken",
+          "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+          "link": "cyber-risiken"
+        },
+        {
+          "name": "Inflation",
+          "image": "img/funk-global-risk-consensus-risiko-inflation.jpg",
+          "link": "inflation"
+        },
+        {
+          "name": "Extreme Wetterereignisse",
+          "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
+          "link": "extreme-wetterereignisse"
+        },
+        {
+          "name": "Makroökonomische Veränderungen",
+          "image": "img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg",
+          "link": "makrooekonomische-veraenderungen"
+        },
+        {
+          "name": "Supply Chain Risiken",
+          "image": "img/funk-global-risk-consensus-risiko-supply-chain-risiken.jpg",
+          "link": "supply-chain-risiken"
+        },
+        {
+          "name": "Ändernde Regulierungen",
+          "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+          "link": "aendernde-regulierungen"
+        }
+    ],
+    "events": [
+        {
+          "name": "Ukrainekrieg",
+          "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
+          "link": "global-event-ukrainekrieg"
+        },
+        {
+          "name": "US-China Handelskrieg",
+          "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
+          "link": "global-event-us–china-handelskrieg"
+        }
+    ],
+  },
   "2023": {
     "risks": [
         {
@@ -44,7 +90,7 @@ const data = {
           "link": "global-event-us–china-handelskrieg"
         },
         {
-          "name": "Coronapandemie",
+          "name": "COVID-19 Pandemie",
           "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
           "link": "global-event-coronapandemie"
         },
@@ -85,7 +131,7 @@ const data = {
     ],
     "events": [
       {
-        "name": "Coronapandemie",
+        "name": "COVID-19 Pandemie",
         "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
         "link": "global-event-coronapandemie"
       },
@@ -136,7 +182,7 @@ const data = {
     ],
     "events": [
       {
-        "name": "Coronapandemie",
+        "name": "COVID-19 Pandemie",
         "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
         "link": "global-event-coronapandemie"
       },
@@ -187,7 +233,7 @@ const data = {
     ],
     "events": [
       {
-        "name": "Coronapandemie",
+        "name": "COVID-19 Pandemie",
         "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
         "link": "global-event-coronapandemie"
       },
@@ -238,7 +284,7 @@ const data = {
     ],
     "events": [
       {
-        "name": "Coronapandemie",
+        "name": "COVID-19 Pandemie",
         "image": "img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
         "link": "global-event-coronapandemie"
       },
@@ -425,7 +471,7 @@ $(document).ready(() => {
     updateContent(year);
   });
 
-  updateContent("2023");
+  updateContent("2024");
 
   // Buttons Year
   const buttonsContainer = document.querySelector('.buttons');
