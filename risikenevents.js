@@ -2,7 +2,7 @@ const data = {
   "2024": {
     "risks": [
         {
-          "name": "Cyber-risiken",
+          "name": "Cyber-Risiken",
           "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
           "link": "cyber-risiken"
         },
@@ -48,7 +48,7 @@ const data = {
   "2023": {
     "risks": [
         {
-          "name": "Cyber-risiken",
+          "name": "Cyber-Risiken",
           "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
           "link": "cyber-risiken"
         },
@@ -99,9 +99,9 @@ const data = {
   "2022": {
     "risks": [
         {
-          "name": "Cyberrisiken",
+          "name": "Cyber-Risiken",
           "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-          "link": "cyberrisiken"
+          "link": "cyber-risiken"
         },
         {
           "name": "Nichtberufskrankheiten",
@@ -150,9 +150,9 @@ const data = {
   "2021": {
     "risks": [
       {
-        "name": "Cyberrisiken",
+        "name": "Cyber-Risiken",
         "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-        "link": "cyberrisiken"
+        "link": "cyber-risiken"
       },
       {
         "name": "Nichtberufskrankheiten",
@@ -201,9 +201,9 @@ const data = {
   "2020": {
     "risks": [
       {
-        "name": "Cyberrisiken",
+        "name": "Cyber-Risiken",
         "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-        "link": "cyberrisiken"
+        "link": "cyber-risiken"
       },
       {
         "name": "Ändernde Regulierungen",
@@ -252,9 +252,9 @@ const data = {
   "2019": {
     "risks": [
       {
-        "name": "Cyberrisiken",
+        "name": "Cyber-Risiken",
         "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-        "link": "cyberrisiken"
+        "link": "cyber-risiken"
       },
       {
         "name": "Fachkräftemangel",
@@ -303,9 +303,9 @@ const data = {
   "2018": {
     "risks": [
       {
-        "name": "Cyberrisiken",
+        "name": "Cyber-Risiken",
         "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-        "link": "cyberrisiken"
+        "link": "cyber-risiken"
       },
       {
         "name": "Neue Technologien",
@@ -354,9 +354,9 @@ const data = {
   "2017": {
       "risks": [
         {
-          "name": "Cyberrisiken",
+          "name": "Cyber-Risiken",
           "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-          "link": "cyberrisiken"
+          "link": "cyber-risiken"
         },
         {
           "name": "Ungünstige Marktentwicklung",

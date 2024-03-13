@@ -2,7 +2,7 @@
     <div class="supernav">
         <ul class="bg">
             <li><span class="title">Risiken</span></li>
-            <li><a href="cyber-risiken">Cyber-risiken</a></li>
+            <li><a href="cyber-risiken">Cyber-Risiken</a></li>
             <li><a href="inflation">Inflation</a></li>
             <li><a href="fachkraeftemangel">Fachkräftemangel</a></li>
             <li><a href="makrooekonomische-veraenderungen">Makroökonomische Veränderungen</a></li>
