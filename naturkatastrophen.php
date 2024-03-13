@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Naturkatastrophen">
     <meta property="og:description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/naturkatastrophen">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -61,7 +71,8 @@
                     </p>
                     <p class="hidden-text">
                         <strong>Ein schwer greifbares Risiko</strong><br>
-                        Glücklicherweise sind grosse Naturkatastrophen relativ selten. Dies kann jedoch auch ein Problem sein, da sie dadurch sehr schwer als Risiko greifbar sind. Oft werden diese Risiken aufgrund ihrer geringen Eintrittswahrscheinlichkeit vernachlässigt, obwohl sie, falls sie dann eintreten, oft einen Totalschaden verursachen. Daher ist es wichtig, sich auch auf solche Risiken vorzubereiten, obwohl oft davon ausgegangen werden kann, dass sie während einer Managementkarriere nie eintreten werden.<br><br>
+                        Glücklicherweise sind grosse Naturkatastrophen relativ selten. Dies kann jedoch auch ein Problem sein, da sie dadurch sehr schwer als Risiko greifbar sind. Oft werden diese Risiken aufgrund ihrer geringen Eintrittswahrscheinlichkeit vernachlässigt, obwohl sie, falls sie dann eintreten, oft einen Totalschaden verursachen. Daher ist es wichtig, sich auch auf solche Risiken vorzubereiten, obwohl oft davon ausgegangen werden kann, dass sie während einer Managementkarriere nie eintreten werden.
+                        <br><br>
 
                         <strong>Mehrdimensionale Auswirkungen</strong><br>
                         Ein sehr gefährlicher Aspekt grosser Naturkatastrophen ist, dass Sie grosse Auswirkungen auf ein Unternehmen haben können, ohne dass man selbst direkt betroffen ist. Zerstört ein Erdbeben oder ein Tsunami einen wichtigen Hafen, können Rohwaren, Hilfsstoffe und Halbfabrikate nicht geliefert werden und zu einem Produktionsrückgang oder sogar -stopp führen.<br><br>
@@ -156,17 +167,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

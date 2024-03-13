@@ -1,10 +1,10 @@
 $(document).ready(function() {
   // Risiko Entwicklung
   const data = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
     datasets: [{
       label: "Entwicklung",
-      data: [48, 41, 36, 38, 36, 31, 29],
+      data: [48, 41, 36, 38, 36, 31, 29, 42],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 1,
@@ -49,10 +49,10 @@ $(document).ready(function() {
   // Grafik 01 - Barchart
 
   const dataGrafik01 = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
     datasets: [{
       label: "Durchschnittliche Kosten eines Datenschutzvorfalls",
-      data: [3620000, 3860000, 3920000, 3860000, 4240000, 4350000],
+      data: [3620000, 3860000, 3920000, 3860000, 4240000, 4350000, 4450000 ],
       backgroundColor: "#5487A6",
       maxBarThickness: 20,
       minBarLength: 2,
@@ -103,11 +103,11 @@ $(document).ready(function() {
   // Grafik 02 - Linechart
 
   const dataGrafik02 = {
-    labels: ["2022", "2021", "2020", "2019", "2018"],
+    labels: ["2018", "2019", "2020", "2021", "2022", "2023"],
     datasets: [
       {
-        label: "Herstellende Industrie",
-        data: [24.8, 23.2, 17.7, 8, 10],
+        label: "Verarbeitende Industrie",
+        data: [10, 8, 17.7, 23.2, 24.8, 25.7],
         borderColor: "rgba(169, 151, 127, 0.5)",
         backgroundColor: "rgba(169, 151, 127, 0.5)",
         borderWidth: 2,
@@ -116,7 +116,7 @@ $(document).ready(function() {
       },
       {
         label: "Finanz- und Versicherungsindustrie",
-        data: [18.9, 22.4, 23, 17, 19],
+        data: [19, 17, 23, 22.4, 18.9, 18.2],
         borderColor: "rgba(169, 151, 127, 1)",
         backgroundColor: "rgba(169, 151, 127, 1)",
         borderWidth: 2,
@@ -125,7 +125,7 @@ $(document).ready(function() {
       },
       {
         label: "Dienstleistungsindustrie",
-        data: [14.6, 12.7, 8.7, 10, 12],
+        data: [12, 10, 8.7, 12.7, 14.6, 15.4],
         borderColor: "rgba(84, 135, 166, 0.5)",
         backgroundColor: "rgba(84, 135, 166, 0.5)",
         borderWidth: 2,
@@ -134,7 +134,7 @@ $(document).ready(function() {
       },
       {
         label: "Energiesektor",
-        data: [10.7, 8.2, 11.1, 6, 6],
+        data: [6, 6, 11.1, 8.2, 10.7, 11.1],
         borderColor: "rgba(84, 135, 166, 1)",
         backgroundColor: "rgba(84, 135, 166, 1)",
         borderWidth: 2,
@@ -143,7 +143,7 @@ $(document).ready(function() {
       },
       {
         label: "Einzel- und Grosshandel",
-        data: [8.7, 7.3, 10.2, 16, 11],
+        data: [11, 16, 10.2, 7.3, 8.7, 10.7],
         borderColor: "rgba(104, 192, 181, 0.5)",
         backgroundColor: "rgba(104, 192, 181, 0.5)",
         borderWidth: 2,
@@ -152,7 +152,7 @@ $(document).ready(function() {
       },
       {
         label: "Bildungswesen",
-        data: [7.3, 2.8, 4, 8, 6],
+        data: [6, 8, 4, 2.8, 7.3, 2.8],
         borderColor: "rgba(104, 192, 181, 1)",
         backgroundColor: "rgba(104, 192, 181, 1)",
         borderWidth: 2,
@@ -161,7 +161,7 @@ $(document).ready(function() {
       },
       {
         label: "Gesundheitswesen",
-        data: [5.8, 5.1, 6.6, 3, 6],
+        data: [6, 3, 6.6, 5.1, 5.8, 6.3],
         borderColor: "rgba(117, 184, 69, 0.5)",
         backgroundColor: "rgba(117, 184, 69, 0.5)",
         borderWidth: 2,
@@ -170,7 +170,7 @@ $(document).ready(function() {
       },
       {
         label: "Verwaltung",
-        data: [4.8, 2.8, 7.9, 8, 8],
+        data: [8, 8, 7.9, 2.8, 4.8, 4.3],
         borderColor: "rgba(117, 184, 69, 1)",
         backgroundColor: "rgba(117, 184, 69, 1)",
         borderWidth: 2,
@@ -179,7 +179,7 @@ $(document).ready(function() {
       },
       {
         label: "Transportwesen",
-        data: [3.9, 4, 5.1, 13, 13],
+        data: [13, 13, 5.1, 4, 3.9, 4.3],
         borderColor: "rgba(44, 120, 95, 0.5)",
         backgroundColor: "rgba(44, 120, 95, 0.5)",
         borderWidth: 2,
@@ -188,7 +188,7 @@ $(document).ready(function() {
       },
       {
         label: "Medien und Telekommunikation",
-        data: [0.5, 2.5, 5.7, 10, 8],
+        data: [8, 10, 5.7, 2.5, 0.5, 1.2],
         borderColor: "rgba(44, 120, 95, 1)",
         backgroundColor: "rgba(44, 120, 95, 1)",
         borderWidth: 2,
@@ -196,7 +196,7 @@ $(document).ready(function() {
         fill: false
       }
     ]
-  };
+  };  
   
   const optionsGrafik02 = {
     scales: {

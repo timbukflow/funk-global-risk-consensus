@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Nichtberufskrankheiten">
     <meta property="og:description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/nichtberufskrankheiten">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -60,7 +70,8 @@
                         Nichtberufskrankheiten, auch als nicht arbeitsbedingte Krankheiten oder nicht-berufsbedingte Krankheiten bezeichnet, sind Erkrankungen oder Gesundheitsprobleme, die nicht direkt mit der beruflichen Tätigkeit einer Person in Verbindung stehen. Diese Krankheiten entstehen in der Regel nicht durch arbeitsbedingte Expositionen oder spezifische Arbeitsumgebungen.
                     </p>
                     <p class="hidden-text">
-                        Nichtberufskrankheiten können verschiedene Ursachen haben, wie genetische Veranlagung, Umweltfaktoren, ungesunde Lebensgewohnheiten (z.B. Rauchen, schlechte Ernährung, Bewegungsmangel) und oder Infektionen. Beispiele für nichtberufliche Krankheiten sind Herz-Kreislauf-Erkrankungen wie Herzinfarkt und Schlaganfall, Krebs, Diabetes, Atemwegserkrankungen, neurologische Störungen wie Alzheimer und Parkinson, psychische Erkrankungen wie Depressionen und Angststörungen, sowie Erkrankungen des Verdauungssystems.<br><br>
+                        Nichtberufskrankheiten können verschiedene Ursachen haben, wie genetische Veranlagung, Umweltfaktoren, ungesunde Lebensgewohnheiten (z.B. Rauchen, schlechte Ernährung, Bewegungsmangel) und oder Infektionen. Beispiele für nichtberufliche Krankheiten sind Herz-Kreislauf-Erkrankungen wie Herzinfarkt und Schlaganfall, Krebs, Diabetes, Atemwegserkrankungen, neurologische Störungen wie Alzheimer und Parkinson, psychische Erkrankungen wie Depressionen und Angststörungen, sowie Erkrankungen des Verdauungssystems.
+                        <br><br>
 
                         <strong>Bedeutung und Auswirkungen von Nichtberufskrankheiten</strong><br>
                         Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen. Durch die hohe Übertragungsrate und der vielen gleichzeitig Infizierten, sind sehr viele Menschen krankheitsbedingt der Arbeit ferngeblieben. Zudem mussten aufgrund der Schutzkonzepte Firmen vorübergehen schliessen und auch gesunde Arbeitnehmer konnten nicht arbeiten. Dadurch ist bei vielen Firmen die Produktivität massiv gesunken.
@@ -111,17 +122,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

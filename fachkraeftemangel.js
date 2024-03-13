@@ -1,10 +1,10 @@
 $(document).ready(function() {
   // Risiko Entwicklung
   const data = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
     datasets: [{
       label: "Entwicklung",
-      data: [19, 11, 26, 19, 5, 13, 23],
+      data: [19, 11, 26, 19, 5, 13, 23, 10],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 1,
@@ -49,7 +49,7 @@ $(document).ready(function() {
   // Interessante Fakten
  
   const dataGrafik01 = {
-    labels: ["2014","2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    labels: ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
     datasets: [{
       label: "Globaler Fachkräftemangel in Firmen die Mühe haben Fachkräfte zu finden",
       data: [35, 36, 38, 50, 45, 54, 69, 75, 77],

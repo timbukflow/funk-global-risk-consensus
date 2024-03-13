@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Klimawandel">
     <meta property="og:description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/klimawandel">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -58,13 +68,15 @@
                     <p>
                         <strong>Weltweites Phänomen</strong><br>
                         Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Da der Klimawandel ein langsames, aber kontinuierliches Phänomen ist, ist es schwierig das Risiko greifbar zu machen.
+                        <br><br>
+                        Global ändern sich durch den Klimawandel Niederschlagsmengen, Temperaturen und viele weitere Umweltfaktoren. Der Meeresspiegel steigt an, ganze Klimazonen verwüsten, während andere nie dagewesene Feuchtigkeit sehen. Klimatische Wettereffekte werden intensiviert, andere verschwinden ganz.
                     </p>
                     <p class="hidden-text">
-                        Global ändern sich durch den Klimawandel Niederschlagsmengen, Temperaturen und viele weitere Umweltfaktoren. Der Meeresspiegel steigt an, ganze Klimazonen verwüsten, während andere nie dagewesene Feuchtigkeit sehen. Klimatische Wettereffekte werden intensiviert, andere verschwinden ganz.<br><br>
-
                         <strong>Lieferketten genau beobachten</strong><br>
-                        An einem bestimmten Standort mag es den Anschein haben, dass die Auswirkungen des Klimawandels nicht spürbar sind und das Risiko ignoriert werden kann. Jedoch könnte eine Fabrik eines Lieferanten aufgrund des steigenden Meeresspiegels bald von Überschwemmungen betroffen sein.<br><br>
-                        In der Nahrungsmittelindustrie stellt der Klimawandel ein besonders hohes Risiko dar. Durch die Verschiebung der Klimazonen verändern sich das Niederschlagsverhalten und die Temperaturen in bestimmten Regionen. Dadurch kann es vorkommen, dass eine Region nicht mehr für die Zucht bestimmter Arten geeignet ist. Dies führt dazu, dass die gesamte Lieferkette umgestellt werden muss oder im schlimmsten Fall zusammenbricht.<br><br>
+                        An einem bestimmten Standort mag es den Anschein haben, dass die Auswirkungen des Klimawandels nicht spürbar sind und das Risiko ignoriert werden kann. Jedoch könnte eine Fabrik eines Lieferanten aufgrund des steigenden Meeresspiegels bald von Überschwemmungen betroffen sein.
+                        <br><br>
+                        In der Nahrungsmittelindustrie stellt der Klimawandel ein besonders hohes Risiko dar. Durch die Verschiebung der Klimazonen verändern sich das Niederschlagsverhalten und die Temperaturen in bestimmten Regionen. Dadurch kann es vorkommen, dass eine Region nicht mehr für die Zucht bestimmter Arten geeignet ist. Dies führt dazu, dass die gesamte Lieferkette umgestellt werden muss oder im schlimmsten Fall zusammenbricht.
+                        <br><br>
 
                         <strong>Intensivierung von extremen Wetterereignissen</strong><br>
                         Auf lange Sicht führt der Klimawandel dazu, dass die Risiken bei den extremen Wetterereignissen weiter zunehmen. Höhere Luft- und Meerestemperaturen führen zu höheren energetischen Zuständen. Dies bedeutet, dass sich mehr Energie in Wettersystemen befinden, sei es Niederschlag (warme Luft kann mehr Feuchtigkeit speichern) oder stärkere Winde, da die Temperaturgradienten ausgeprägter sind.
@@ -137,17 +149,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

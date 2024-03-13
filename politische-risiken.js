@@ -1,10 +1,10 @@
 $(document).ready(function() {
   // Risiko Entwicklung
   const data = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
     datasets: [{
       label: "Entwicklung",
-      data: [40, 10, 20, 18, 11, 0, 4],
+      data: [40, 10, 20, 18, 11, 0, 4, 3],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 1,
@@ -45,7 +45,5 @@ $(document).ready(function() {
     data: data,
     options: options
   });
-
-  // Interessante Fakten
  
 });

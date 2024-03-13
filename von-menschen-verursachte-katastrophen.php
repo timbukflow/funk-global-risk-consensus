@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Von Menschen verursachte Katastrophen">
     <meta property="og:description" content="Industrieunfälle können weitreichende Auswirkungen auf Unternehmen und Wirtschaftszweige haben.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/von-menschen-verursachte-katastrophen">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -60,7 +70,8 @@
                         Wenn Fehler auftreten oder bestimmte Risiken teilweise bewusst in Kauf genommen werden, besteht die Gefahr von grösseren Katastrophen. Ein solcher Vorfall kann für ein bestimmtes Unternehmen verheerend sein, zum Beispiel wenn die Produktionshalle abbrennt oder ein Tank mit Chemikalien ausläuft. Allerdings stellen solche Industrieunfälle auch ein Risiko für andere Unternehmen dar, selbst wenn sie nicht direkt mit dem betroffenen Unternehmen in Verbindung stehen. Die Auswirkungen können sich auf die gesamte Industrie oder sogar auf benachbarte Wirtschaftszweige erstrecken.
                     </p>
                     <p class="hidden-text">
-                        Es ist erstaunlich, wie viele Industrieunfälle weitreichende Folgen haben, aber oft werden die sekundären Effekte der Allgemeinheit nicht bewusst gemacht. Wenn beispielsweise ein Feuer in einem Hafen ausbricht, werden in der Regel die verlorenen Güter in den Vordergrund gerückt, während die Tatsache, dass der Hafen möglicherweise für Monate unbenutzbar ist und alternative Transportrouten für Unternehmen hohe Kosten verursachen, oft vernachlässigt wird. Wenn Öl ins Meer gelangt, ist der Umweltschaden immens, aber es betrifft auch alle, die diesen Meeresbereich für ihre wirtschaftlichen Aktivitäten benötigen. Die Auswirkungen solcher Ereignisse gehen also über die unmittelbar betroffenen Unternehmen hinaus und haben weitreichende Konsequenzen für verschiedene Akteure.<br><br>
+                        Es ist erstaunlich, wie viele Industrieunfälle weitreichende Folgen haben, aber oft werden die sekundären Effekte der Allgemeinheit nicht bewusst gemacht. Wenn beispielsweise ein Feuer in einem Hafen ausbricht, werden in der Regel die verlorenen Güter in den Vordergrund gerückt, während die Tatsache, dass der Hafen möglicherweise für Monate unbenutzbar ist und alternative Transportrouten für Unternehmen hohe Kosten verursachen, oft vernachlässigt wird. Wenn Öl ins Meer gelangt, ist der Umweltschaden immens, aber es betrifft auch alle, die diesen Meeresbereich für ihre wirtschaftlichen Aktivitäten benötigen. Die Auswirkungen solcher Ereignisse gehen also über die unmittelbar betroffenen Unternehmen hinaus und haben weitreichende Konsequenzen für verschiedene Akteure.
+                        <br><br>
                         Nach solchen Katastrophen werden häufig die regulatorischen Anforderungen für alle Unternehmen in derselben Branche erhöht, obwohl das betroffene Unternehmen sich nicht an die bestehenden Regeln gehalten hat. Dies führt zu höheren Kosten für alle beteiligten Unternehmen.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
@@ -80,8 +91,7 @@
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>...</p>
+                    <h1>Gesamtschadenssumme ausgewählter Katastrophenereignisse</h1>
                     <div class="mchartscont">
                         <div class="mchartsbig">
                             <canvas id="vmvk-grafik-01"></canvas>
@@ -125,17 +135,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

@@ -6,10 +6,10 @@
         </div>
         <div class="contactdata">
             <p>
-                <strong>Stefan Brändli</strong><br>
-                Risk Analyst, MSc ERDW ETHZ <br>
-                <a href="tel:+41583110579">Telefon +41 58 311 05 79</a><br>
-                <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus">stefan.braendli@funk-gruppe.ch</a>
+                <strong>Max Keller</strong><br>
+                Lead Funk RiskLab, MAS Digital Business <br>
+                <a href="tel:+41583110579">Telefon +41 58 311 05 51</a><br>
+                <a href="mailto:max.keller@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus">max.keller@funk-gruppe.ch</a>
             </p>
         </div>
     </div>

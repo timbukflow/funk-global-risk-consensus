@@ -2,9 +2,9 @@ const data = {
   "2023": {
     "risks": [
         {
-          "name": "Cyberrisiken",
+          "name": "Cyber-risiken",
           "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
-          "link": "cyberrisiken"
+          "link": "cyber-risiken"
         },
         {
           "name": "Inflation",

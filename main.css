@@ -218,6 +218,9 @@ nav li:last-child {
   -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1); 
   box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.1);
 }
+.bg.green {
+  background-color: var(--funkgreenlight);
+}
 
 .gewBtn, .ewBtn {
   width: 180px;
@@ -646,6 +649,10 @@ canvas {
   display: flex;
   flex-direction: column;
 }
+.rdcevents.full {
+  width: 100%;
+}
+
 .fakten {
   width: 100%;
   margin-bottom: 30px;
@@ -693,6 +700,11 @@ canvas {
   display: flex;
   flex-direction: column;
 }
+.rdevents.full {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
 .event {
   width: 100%;
   margin-bottom: 30px;
@@ -736,10 +748,20 @@ canvas {
 .rdsolution {
   padding: 30px;
   background-color: #e7eee1;
-  margin-bottom: 20px;
 }
 .rdsolution h1 {
   color: var(--funkgreen);
+}
+.rbm {
+  margin-bottom: 30px;
+}
+.rbm ul {
+  padding-left: 20px;
+}
+.rbm li {
+  list-style: disc;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--funkgrey);
 }
 .rdCcontact {
   width: 30%;
@@ -749,10 +771,6 @@ canvas {
 .rdcontact {
   display: flex;
   flex-direction: column;
-}
-.contactimg {
-  height: 220px;
-  overflow: hidden;
 }
 .contactimg img {
  width: 100%;
@@ -1055,6 +1073,9 @@ footer a {
   .globaleventimg{height: 250px;}
   .globaleventcontent {padding:30px; gap:20px;}
   .azrmain {flex-direction: column;}
+
+  /* events */
+  .rdevents.full {flex-direction: column;gap: 0px;}
 
   /* footer */
   footer div {

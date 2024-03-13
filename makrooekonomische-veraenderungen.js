@@ -1,10 +1,10 @@
 $(document).ready(function() {
   // Risiko Entwicklung
   const data = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
     datasets: [{
       label: "Entwicklung",
-      data: [0, 0, 0, 1, 3, 7, 17],
+      data: [0, 0, 0, 1, 3, 7, 17, 16],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 1,
@@ -56,12 +56,17 @@ $(document).ready(function() {
         datasets: [
           {
             label: 'Zinssatz 2020',
-            data: [0.25, 0.10, 0, -0.75],
-            backgroundColor: "rgb(104, 192, 181)",
+            data: [0.25, 0.10, 0, -0.25],
+            backgroundColor: 'rgba(117, 184, 69, 0.5)',
           },
           {
             label: 'Zinssatz 2023',
             data: [5.25, 4.50, 3.75, 1.50],
+            backgroundColor: 'rgba(117, 184, 69, 1)',
+          },
+          {
+            label: 'Zinssatz 2024',
+            data: [5.5, 5.25, 4.5, 1.75],
             backgroundColor: '#5487A6',
           }
         ]

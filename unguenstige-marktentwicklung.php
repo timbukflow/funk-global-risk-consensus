@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Ungünstige Marktentwicklung">
     <meta property="og:description" content="Es gibt eine Vielzahl von möglichen Auslösern für eine negative Marktentwicklung. Sich auf jedesSze-nario vorzubereiten ist nicht immer möglich. Daher ist es sinnvoll, dass sich Unternehmen im Allgemei-nen uf eine schwierigere Marktsituation vorbereiten.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/unguenstige-marktentwicklung">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -61,7 +71,8 @@
                     </p>
                     <p class="hidden-text">
                         <strong>Allgemeine Vorbereitung, gezielte Antwort</strong><br>
-                        Wenn ein Unternehmen auf eine mögliche Verschlechterung des Marktes vorbereitet ist und über Resilienz verfügt, hat es im Ernstfall ausreichend Zeit, eine Bewältigungsstrategie für die spezifische Ursache der ungünstigen Marktentwicklung zu erarbeiten und umzusetzen. Im Gegensatz dazu hat ein unvorbereitetes Unternehmen kaum Zeit, eine gezielte Strategie zu verfolgen. Es kämpft dann oft von Tag zu Tag ums Überleben und verbringt seine Zeit mit der Bewältigung von Symptomen anstelle der Bekämpfung der Ursachen.<br><br>
+                        Wenn ein Unternehmen auf eine mögliche Verschlechterung des Marktes vorbereitet ist und über Resilienz verfügt, hat es im Ernstfall ausreichend Zeit, eine Bewältigungsstrategie für die spezifische Ursache der ungünstigen Marktentwicklung zu erarbeiten und umzusetzen. Im Gegensatz dazu hat ein unvorbereitetes Unternehmen kaum Zeit, eine gezielte Strategie zu verfolgen. Es kämpft dann oft von Tag zu Tag ums Überleben und verbringt seine Zeit mit der Bewältigung von Symptomen anstelle der Bekämpfung der Ursachen.
+                        <br><br>
 
                         <strong>Antizyklisches Risiko</strong><br>
                         Die ungünstige Marktentwicklung ist immer dann ein dominierendes Risiko, wenn es dem Markt und den Unternehmen gut geht und sie nicht mit spezifischen Risiken konfrontiert sind. Treten spezifische Risiken ein, welche ein Unternehmen bedrohen, ersetzen diese die allgemeine ungünstige Marktentwicklung.
@@ -130,17 +141,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

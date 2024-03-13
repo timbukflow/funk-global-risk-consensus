@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Politische Risiken">
     <meta property="og:description" content="Politische Risiken können die Stabilität von Ländern und Märkten beeinträchtigen. Instabilität, Konflikte oder politische Entscheidungen können zu Unsicherheit und wirtschaftlichen Auswirkungen führen.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/politische-risiken">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -61,10 +71,11 @@
                     </p>
                     <p class="hidden-text">
                         <strong>Wirtschaftskriege, Abschottung, Verbote</strong><br>
-                        Um die Popularität gewisser politischer Strömungen hochzuhalten, werden oft Gesetze, Vorschriften und Richtlinien erlassen, die bei gewissen Personen bejubelt werden, der Wirtschaft im Ganzen und bestimmten Firmen im Besonderen jedoch massiv schaden können. Diese Risiken sind oft schwierig abzuschätzen und greifbar zu machen, da das politische Klima sehr schnell ändern kann und Änderungen auch sehr schnell implementiert werden können. Ein Beispiel dafür sind die Strafzölle auf Stahl- und Aluminiumimporte in die USA aus dem Jahr 2018 die innerhalb kurzer Zeit zu einem Wirtschaftskonflikt anwuchsen.<br><br>
+                        Um die Popularität gewisser politischer Strömungen hochzuhalten, werden oft Gesetze, Vorschriften und Richtlinien erlassen, die bei gewissen Personen bejubelt werden, der Wirtschaft im Ganzen und bestimmten Firmen im Besonderen jedoch massiv schaden können. Diese Risiken sind oft schwierig abzuschätzen und greifbar zu machen, da das politische Klima sehr schnell ändern kann und Änderungen auch sehr schnell implementiert werden können. Ein Beispiel dafür sind die Strafzölle auf Stahl- und Aluminiumimporte in die USA aus dem Jahr 2018 die innerhalb kurzer Zeit zu einem Wirtschaftskonflikt anwuchsen.
+                        <br><br>
 
                         <strong>Bevorzugung von Nahestehenden Unternehmen</strong><br>
-                        Kommen neue Kräfte an die Macht, kann dies auch Folgen bei der auftragsvergabe von Regierungsaufträgen haben, da unter Umständen bestimme Firmen mit guten Verbindungen zu der neuen Regierung bevorteilt werden. Im schlimmsten Fall können Unternehmen auch unter unhaltbaren Gründen enteignet werden oder ihnen kann der Marktzugang erschwert oder sogar unmöglich gemacht werden, um einheimische oder von der Regierung nahestehende Unternehmen zu bevorzugen.
+                        Kommen neue Kräfte an die Macht, kann dies auch Folgen bei der Auftragsvergabe von Regierungsaufträgen haben, da unter Umständen bestimme Firmen mit guten Verbindungen zu der neuen Regierung bevorteilt werden. Im schlimmsten Fall können Unternehmen auch unter unhaltbaren Gründen enteignet werden oder ihnen kann der Marktzugang erschwert oder sogar unmöglich gemacht werden, um einheimische oder von der Regierung nahestehende Unternehmen zu bevorzugen.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -79,22 +90,11 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Interessante Fakten -->
-            <div class="rdcfakten">
-                <h2>Interessante Fakten</h2>
-                <div class="fakten bg">
-                    <h1>Title</h1>
-                    <p>Übersicht über die Entwicklung der Inflation in ausgewählten Ländern. Quelle: OECD</p>
-                    <p class="grafiktitle">Grafik Title </p>
-                    <div class="transparencyEmbed" data-year="2022"></div><script src="https://transparency.org/assets/dist/embed-generator.js"></script>
-                    <p class="dquelle">Source:</p>
-                </div>
-            </div>
             <!-- Abhängigkeit zu Events -->
-            <div class="rdcevents">
+            <div class="rdcevents full">
                 <h2>Abhängigkeit zu Events</h2>
-                <div class="rdevents">
-                    <a href="global-event-us–china-handelskrieg" class="event bg">
+                <div class="rdevents full">
+                    <a href="global-event-us–china-handelskrieg" class="event bg green">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-china-handelskrieg">
                         </div>
@@ -102,7 +102,7 @@
                             <h1>US-China Handelskrieg <br> 2018 - 2023</h1>
                         </div>
                     </a>
-                    <a href="global-event-us–eu-handelskrieg" class="event bg">
+                    <a href="global-event-us–eu-handelskrieg" class="event bg green">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
                         </div>
@@ -110,18 +110,14 @@
                             <h1>US-EU Handelskrieg <br> 2018 - 2021</h1>
                         </div>
                     </a>
-                    <!-- hidden events -->
-                    <div class="hidden-events">
-                        <a href="global-event-brexit" class="event bg">
-                            <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
-                            </div>
-                            <div class="eventtitle globalevent">
-                                <h1>Brexit <br> 2016 - 2020</h1>
-                            </div>
-                        </a>
-                    </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
+                    <a href="global-event-brexit" class="event bg green">
+                         <div class="eventimg">
+                             <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
+                         </div>
+                         <div class="eventtitle globalevent">
+                             <h1>Brexit <br> 2016 - 2020</h1>
+                         </div>
+                    </a>
                 </div>
             </div>     
         </div>
@@ -131,11 +127,13 @@
             <div class="rdCsolution">
                 <h2>Lösungen</h2>
                 <div class="rdsolution bg">
-                    <h1>Folgt</h1>
+                    <h1>Risiko Reports – Politische Risikoszenarien der Funk Stiftung</h1>
                     <p>
-                        Folgt
+                        Durch die Risikoreports sind Unternehmen in der Lage Auswirkungen auf die Attraktivität der ausländischen Standorte zu bewerten. Dadurch kann die unternehmerische Entscheidungsfindung über Direktinvestitionen oder Handelsgeschäfte beeinflusst und erleichtert werden.
                     </p>
-                    <button class="anfrageBtn">Anfragen</button>
+                    <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Politische%20Risiken">
+                        <button class="anfrageBtn">Anfragen</button>
+                    </a>
                 </div>
             </div>
             <!-- Kontakt -->

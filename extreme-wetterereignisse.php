@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Extreme Wetterereignisse">
     <meta property="og:description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/extreme-wetterereignisse">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -58,11 +68,11 @@
                     <h1>Extreme Wetterereignisse</h1>
                     <p>
                         <strong>Globale Katastrophen</strong><br>
-                        Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, Ihr Zuhause oder sogar Ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa oder sogar in der Schweiz gibt es immer wieder extreme Wetterereignisse die Tod und Zerstörung mit sich bringen.
+                        Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe, die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, ihr Zuhause oder sogar ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa gibt es immer wieder extreme Wetterereignisse, die Tod und Zerstörung mit sich bringen.
                     </p>
                     <p class="hidden-text">
                         <strong>Weitreichende Konsequenzen</strong><br>
-                        Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu, wodurch immer mehr Menschen und Firmenbetroffen sind.
+                        Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu, wodurch immer mehr Menschen und Firmen betroffen sind.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -82,7 +92,7 @@
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
                     <h1>500 Milliarden Schaden</h1>
-                    <p>Extreme Wetterereignisse haben in den letzten 40 Jahren (1980-2020) in Europa (EEA-32 Länder) über 500 Milliarden Schäden verursacht, wovon nur 116 Milliarden versichert waren. Ungefähr 142 tausend Menschen sind diesen Events zum Opfer gefallen.</p>
+                    <p>Extreme Wetterereignisse haben in den letzten 40 Jahren (1980-2020) in Europa (EEA-32 Länder) über 500 Milliarden Schäden verursacht, wovon nur 116 Milliarden versichert waren. Ungefähr 142'000 Menschen sind diesen Events zum Opfer gefallen.</p>
                     <div class="piecontainer">
                         <div class="pie"><canvas id="pie-economic-losses"></canvas></div>
                         <div class="pie"><canvas id="pie-insured-economic-losses"></canvas></div>
@@ -160,10 +170,10 @@
                     <h1>Naturgefahren Risiko Analyse.</h1>
                     <p>
                         Funk untersucht Firmenstandorte auf Ihre Gefährdung durch Naturgefahren und die Wahrscheinlichkeit von Events. Aus den Firmenkennzahlen und Prozessen gemischt mit den Eintrittswahrscheinlichkeiten von Naturgefahren sowie derer Intensität können Höchstschadenssummen abgeleitet werden.
-                        <br><br>
-                        <strong>BU-Analyse.</strong> <br> Mit der BU-Analyse können die Umsatzeinbussen und Unterbrechungszeiten aufgrund von Naturgefahren und anderen Risiken ermittelt werden.
                     </p>
-                    <button class="anfrageBtn">Anfragen</button>
+                    <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Extreme%20Wetterereignisse">
+                        <button class="anfrageBtn">Anfragen</button>
+                    </a>
                 </div>
             </div>
             <!-- Kontakt -->

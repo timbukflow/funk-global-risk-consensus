@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,11 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Neue Technologien">
     <meta property="og:description" content="Die Entwicklung der digitalen Technologien beschleunigt sich Jahr für Jahr. Neue Tools und Technologien bringen, neben ihren Vorteilen, aber auch viele Risiken mit sich. ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/neue-technologien">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -61,10 +71,11 @@
                     </p>
                     <p class="hidden-text">
                         <strong>Überhastete Implementierung und Konzeptlosigkeit</strong><br>
-                        Eine saubere Implementierung neuer Technologien kann zu einem enormen Produktivitätsgewinn führen. Gleichzeitig besteht jedoch ein erhebliches Risiko, dass die Prozesse nicht mehr wie gewohnt funktionieren, wenn die neuen Technologien nicht nahtlos in die vertraute Arbeitsumgebung integriert werden. Schlecht geschützte IoT-Geräte stellen oft Einfallstore für Hacker dar. Nicht funktionierende oder nicht wie gewünscht funktionierende Tools verlangsamen Prozesse und führen nicht nur zu Effizienzverlusten, sondern erfordern häufig auch unerwartete Investitionen zur Problemlösung. Eine Ursache für das Auftreten solcher Risiken liegt in der großen kulturellen Kluft zwischen Entscheidungsträgern und den IT-Abteilungen. Daher ist es wichtig, dass das Verständnis für neue Technologien bis in die obersten Ebenen der Unternehmensstruktur durchdringt.<br><br>
+                        Eine saubere Implementierung neuer Technologien kann zu einem enormen Produktivitätsgewinn führen. Gleichzeitig besteht jedoch ein erhebliches Risiko, dass die Prozesse nicht mehr wie gewohnt funktionieren, wenn die neuen Technologien nicht nahtlos in die vertraute Arbeitsumgebung integriert werden. Schlecht geschützte IoT-Geräte stellen oft Einfallstore für Hacker dar. Nicht funktionierende oder nicht wie gewünscht funktionierende Tools verlangsamen Prozesse und führen nicht nur zu Effizienzverlusten, sondern erfordern häufig auch unerwartete Investitionen zur Problemlösung. Eine Ursache für das Auftreten solcher Risiken liegt in der großen kulturellen Kluft zwischen Entscheidungsträgern und den IT-Abteilungen. Daher ist es wichtig, dass das Verständnis für neue Technologien bis in die obersten Ebenen der Unternehmensstruktur durchdringt.
+                        <br><br>
 
                         <strong>Covid 19 als Treiber des Wandels</strong><br>
-                        Die Eintretenswahrscheinlichkeit dieses Risikos hat mit der Corona Pandemie verringert. Dies liegt hauptsächlich daran, dass durch die Lockdown Massnahmen der Wandel zum Home-Office und zur digitalen Kommunikation erzwungen wurde. Darüber hinaus hat sich das Home-Office als gängige Praxis etabliert und wird auch nach der Pandemie weiterhin genutzt. Das Risiko im Zusammenhang mit neuen Technologien und dem Verpassen des Wandels ist daher nicht mehr so groß wie zuvor, jedoch haben sich die Cyberrisiken um weitere Nuancen erweitert.
+                        Die Eintretenswahrscheinlichkeit dieses Risikos hat mit der Corona Pandemie verringert. Dies liegt hauptsächlich daran, dass durch die Lockdown Massnahmen der Wandel zum Home-Office und zur digitalen Kommunikation erzwungen wurde. Darüber hinaus hat sich das Home-Office als gängige Praxis etabliert und wird auch nach der Pandemie weiterhin genutzt. Das Risiko im Zusammenhang mit neuen Technologien und dem Verpassen des Wandels ist daher nicht mehr so groß wie zuvor, jedoch haben sich die Cyber-Risiken um weitere Nuancen erweitert.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -110,17 +121,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

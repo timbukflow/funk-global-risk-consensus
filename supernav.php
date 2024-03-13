@@ -2,10 +2,11 @@
     <div class="supernav">
         <ul class="bg">
             <li><span class="title">Risiken</span></li>
-            <li><a href="cyberrisiken">Cyberrisiken</a></li>
+            <li><a href="cyber-risiken">Cyber-risiken</a></li>
             <li><a href="inflation">Inflation</a></li>
             <li><a href="fachkraeftemangel">Fachkräftemangel</a></li>
             <li><a href="makrooekonomische-veraenderungen">Makroökonomische Veränderungen</a></li>
+            <li><a href="supply-chain-risiken">Supply Chain Risiken</a></li>
             <li><a href="extreme-wetterereignisse">Extreme Wetterereignisse</a></li>
             <li><a href="nichtberufskrankheiten">Nichtberufskrankheiten</a></li>
             <li><a href="aendernde-regulierungen">Ändernde Regulierungen</a></li>

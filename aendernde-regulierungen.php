@@ -16,11 +16,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Ändernde Regulierungen">
     <meta property="og:description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/aendernde-regulierungen">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
@@ -57,12 +59,14 @@
                     <h1>Ändernde Regulierungen</h1>
                     <p>
                         <strong>Firmen wollen Kontinuität</strong><br>
-                        Viele Firmen sind sich der Bedeutung von "Red Tape" bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.<br><br>
+                        Viele Firmen sind sich der Bedeutung von "Red Tape" bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.
+                        <br><br>
                         Was oft jedoch unterschätzt wird und noch viel grössere Kopfschmerzen verursacht sind konstant ändernde Regulierungen. Wenn Prozesse und Dokumentationen andauernd angepasst werden müssen, weil sich die Anforderungen ändern, geht viel Effizienz und so Produktivität verloren. Im schlimmsten Fall muss sogar auf die Teilnahme an einem bestimmten Markt verzichtet werden, da die Kosten für Compliance höher sind als der erwartete Ertrag.
                     </p>
                     <p class="hidden-text">
                         <strong>Brexit und die Folgen</strong><br>
-                        Weil ändernde Regulierungen ein konstantes Risiko darstellen und in allen Märkten und Rechtsräumen vorkommen, hat der Brexit und die daraus resultierenden Folgen für den EU-Binnenmarkt das Risiko greifbar gemacht. Innerhalb von 3.5 Jahren ist der UK-Markt bis Ende 2020 aus dem EU-Binnenmarkt gelöst worden, was grosse Verwerfungen nach sich zog. Nach dem Austritt mussten Produkte, die zuvor nur für den Binnenmarkt zertifiziert waren, zusätzlich nochmals für den UK-Markt zertifiziert werden, um den Verkauf in beiden Märkten zu ermöglichen. Das bedeutet mehr Aufwand und mehr Kosten. Zudem müssen Produkte beim Import und Export nach Grossbritannien jetzt auch auf ihre Zertifizierung geprüft werden. Dies führt zu mehr Aufwand und Kosten bei der Zulassung und dem Handel von Produkten.<br><br>
+                        Weil ändernde Regulierungen ein konstantes Risiko darstellen und in allen Märkten und Rechtsräumen vorkommen, hat der Brexit und die daraus resultierenden Folgen für den EU-Binnenmarkt das Risiko greifbar gemacht. Innerhalb von 3.5 Jahren ist der UK-Markt bis Ende 2020 aus dem EU-Binnenmarkt gelöst worden, was grosse Verwerfungen nach sich zog. Nach dem Austritt mussten Produkte, die zuvor nur für den Binnenmarkt zertifiziert waren, zusätzlich nochmals für den UK-Markt zertifiziert werden, um den Verkauf in beiden Märkten zu ermöglichen. Das bedeutet mehr Aufwand und mehr Kosten. Zudem müssen Produkte beim Import und Export nach Grossbritannien jetzt auch auf ihre Zertifizierung geprüft werden. Dies führt zu mehr Aufwand und Kosten bei der Zulassung und dem Handel von Produkten.
+                        <br><br>
                         Je mehr solche verschiedenen Märkte vorhanden sind, desto grösser ist das Risiko einer Änderung der Regulierungen in einem der Märkte. Unter Umständen kann dies die gesamte Produktion betreffen, da es kostspielig wäre, speziell für jeden Markt zu produzieren. Daher müsste die gesamte Produktion umgestellt werden, um den Anforderungen einer Marktregulierung gerecht zu werden. Dies reduziert die Produktivität und so die Wettbewerbsfähigkeit der Firmen.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
@@ -84,7 +88,7 @@
                 <div class="fakten bg">
                     <h1>Keine Erholung auf Vor-Covid-Niveau nach Markt-Trennung</h1>
                     <p>Die folgende Grafik zeigt die Entwicklung des Aussenhandels aus Sicht Grossbritanniens mit der EU und dem Rest der Welt. Der Handel mit der EU hat sich nie mehr auf das Vor-Covid-Niveau erholt, da durch die Trennung der Märkte viele neue Regulierungen eingeführt wurden.</p>
-                    <p class="grafiktitle">Importe und Exporte von Gütern des Vereinigten Königreichs </p>
+                    <p class="grafiktitle">Importe und Exporte von Gütern des Vereinigten Königreichs</p>
                     <div class="mchartscont">
                         <div class="mchartsbig">
                             <canvas id="aer-grafik-01"></canvas>
@@ -136,17 +140,6 @@
         </div>
         
         <div class="rdcontainer">
-            <!-- Lösungen -->
-            <div class="rdCsolution">
-                <h2>Lösungen</h2>
-                <div class="rdsolution bg">
-                    <h1>Folgt</h1>
-                    <p>
-                        Folgt
-                    </p>
-                    <button class="anfrageBtn">Anfragen</button>
-                </div>
-            </div>
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>
