@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.com/global-event-us–china-handelskrieg" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/global-event-us-china-handelskrieg" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,7 +35,7 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | US – China Handelskrieg">
     <meta property="og:description" content="Ein intensiver und langanhaltender Konflikt zwischen den USA und China, der von gegenseitigen Strafzöllen und Handelsbeschränkungen geprägt ist. Er hat weitreichende Auswirkungen auf die globale Wirtschaft und kann zu Spannungen zwischen den beiden grössten Volkswirtschaften führen.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-us–china-handelskrieg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-us-china-handelskrieg">
     <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 

@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Ein Konflikt zwischen den USA und der EU, der durch gegenseitige Strafzölle und Handelsbeschränkungen entstanden ist. Er hat negative Auswirkungen auf die Wirtschaft beider Seiten und erschwert den internationalen Handel.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.com/global-event-us–eu-handelskrieg" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/global-event-us-eu-handelskrieg" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,7 +35,7 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | US – EU Handelskrieg">
     <meta property="og:description" content="Ein Konflikt zwischen den USA und der EU, der durch gegenseitige Strafzölle und Handelsbeschränkungen entstanden ist. Er hat negative Auswirkungen auf die Wirtschaft beider Seiten und erschwert den internationalen Handel.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-us–eu-handelskrieg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-us-eu-handelskrieg">
     <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 

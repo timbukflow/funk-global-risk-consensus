@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -16,8 +24,13 @@
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
-    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Ändernde Regulierungen">
     <meta property="og:description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
@@ -107,6 +120,22 @@
             <div class="rdcevents">
                 <h2>Abhängigkeit zu Events</h2>
                 <div class="rdevents" id="container">
+                    <a href="global-event-us-china-handelskrieg" class="event bg green">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-china-handelskrieg">
+                        </div>
+                        <div class="eventtitle globalevent">
+                            <h1>US-China Handelskrieg <br> 2018 - 2023</h1>
+                        </div>
+                    </a>
+                    <a href="global-event-us-eu-handelskrieg" class="event bg green">
+                        <div class="eventimg">
+                            <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
+                        </div>
+                        <div class="eventtitle globalevent">
+                            <h1>US-EU Handelskrieg <br> 2018 - 2021</h1>
+                        </div>
+                    </a>
                     <a href="global-event-brexit" class="event bg">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">

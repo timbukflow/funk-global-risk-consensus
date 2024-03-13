@@ -115,12 +115,12 @@ Version 1.0
             <h2>Abhängigkeit zum Risiko</h2>
             <div class="azrmain">
                 <div class="azr bg">
-                    <a href="cyberrisiken">
+                    <a href="cyber-risiken">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-risiko-cyberrisiken.jpg" alt="funk-global-risk-consensus-risiko-cyberrisiken">
                         </div>
                         <div class="eventtitle">
-                            <h1>Cyberrisiken</h1>
+                            <h1>Cyber-Risiken</h1>
                         </div>
                     </a>
                 </div>

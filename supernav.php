@@ -20,12 +20,12 @@
         <ul class="bg">
             <li><span class="title">Globale Events</span></li>
             <li><a href="global-event-ukrainekrieg">Ukrainekrieg</a></li>
-            <li><a href="global-event-coronapandemie">Coronapandemie</a></li>
+            <li><a href="global-event-coronapandemie">COVID-19 Pandemie</a></li>
             <li><a href="global-event-brexit">Brexit</a></li>
             <li><a href="global-event-wannacry-ransomware">WannaCry</a></li>
             <li><a href="global-event-dsgvo">DSGVO</a></li>
-            <li><a href="global-event-us–eu-handelskrieg">US – EU Handelskrieg</a></li>
-            <li><a href="global-event-us–china-handelskrieg">US – China Handelskrieg</a></li>
+            <li><a href="global-event-us-eu-handelskrieg">US – EU Handelskrieg</a></li>
+            <li><a href="global-event-us-china-handelskrieg">US – China Handelskrieg</a></li>
             <!-- <li><span class="title sngap">Trend 2024</span></li>
             <li><a href="#">Funk Vorhersage</a></li> -->
         </ul>

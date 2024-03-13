@@ -41,7 +41,7 @@ const data = {
         {
           "name": "US-China Handelskrieg",
           "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-          "link": "global-event-us–china-handelskrieg"
+          "link": "global-event-us-china-handelskrieg"
         }
     ],
   },
@@ -87,7 +87,7 @@ const data = {
         {
           "name": "US-China Handelskrieg",
           "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-          "link": "global-event-us–china-handelskrieg"
+          "link": "global-event-us-china-handelskrieg"
         },
         {
           "name": "COVID-19 Pandemie",
@@ -138,7 +138,7 @@ const data = {
       {
         "name": "US-China Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "global-event-us–china-handelskrieg"
+        "link": "global-event-us-china-handelskrieg"
       },
       {
         "name": "Ukrainekrieg",
@@ -189,12 +189,12 @@ const data = {
       {
         "name": "US-China Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "global-event-us–china-handelskrieg"
+        "link": "global-event-us-china-handelskrieg"
       },
       {
         "name": "US-EU Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
-        "link": "global-event-us–eu-handelskrieg"
+        "link": "global-event-us-eu-handelskrieg"
       }
     ],
   },
@@ -240,12 +240,12 @@ const data = {
       {
         "name": "US-China Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "global-event-us–china-handelskrieg"
+        "link": "global-event-us-china-handelskrieg"
       },
       {
         "name": "US-EU Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
-        "link": "global-event-us–eu-handelskrieg"
+        "link": "global-event-us-eu-handelskrieg"
       }
     ],
   },
@@ -291,12 +291,12 @@ const data = {
       {
         "name": "US-China Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "global-event-us–china-handelskrieg"
+        "link": "global-event-us-china-handelskrieg"
       },
       {
         "name": "US-EU Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
-        "link": "global-event-us–eu-handelskrieg"
+        "link": "global-event-us-eu-handelskrieg"
       }
     ],
   },
@@ -342,12 +342,12 @@ const data = {
       {
         "name": "US-China Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg",
-        "link": "global-event-us–china-handelskrieg"
+        "link": "global-event-us-china-handelskrieg"
       },
       {
         "name": "US-EU Handelskrieg",
         "image": "img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
-        "link": "global-event-us–eu-handelskrieg"
+        "link": "global-event-us-eu-handelskrieg"
       }
     ],
   },

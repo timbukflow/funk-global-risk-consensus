@@ -99,7 +99,7 @@ Version 1.0
             <div class="rdcevents full">
                 <h2>Abhängigkeit zu Events</h2>
                 <div class="rdevents full">
-                    <a href="global-event-us–china-handelskrieg" class="event bg green">
+                    <a href="global-event-us-china-handelskrieg" class="event bg green">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-china-handelskrieg">
                         </div>
@@ -107,7 +107,7 @@ Version 1.0
                             <h1>US-China Handelskrieg <br> 2018 - 2023</h1>
                         </div>
                     </a>
-                    <a href="global-event-us–eu-handelskrieg" class="event bg green">
+                    <a href="global-event-us-eu-handelskrieg" class="event bg green">
                         <div class="eventimg">
                             <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
                         </div>
