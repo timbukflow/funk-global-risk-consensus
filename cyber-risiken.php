@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Hacker-Angriffe und Ausfälle der IT können heutzutage schwere Folgen haben. Viele Firmen unterschätzen die Gefahr, die von Cyber-Risiken ausgehen. Unternehmen sollten deshalb ganzheitlich denken und handeln.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/cyber-risiken" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/cyber-risiken" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,14 +35,14 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | Cyber-Risiken">
     <meta property="og:description" content="Hacker-Angriffe und Ausfälle der IT können heutzutage schwere Folgen haben. Viele Firmen unterschätzen die Gefahr, die von Cyber-Risiken ausgehen. Unternehmen sollten deshalb ganzheitlich denken und handeln.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.ch/cyber-risiken">
-    <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensuscomh/cyber-risiken">
+    <meta property="og:image" content="https://funk-global-risk-consensuscomh/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Cyber-Risiken">
     <meta name="twitter:description" content="Hacker-Angriffe und Ausfälle der IT können heutzutage schwere Folgen haben. Viele Firmen unterschätzen die Gefahr, die von Cyber-Risiken ausgehen. Unternehmen sollten deshalb ganzheitlich denken und handeln.">
-    <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensuscomh/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">

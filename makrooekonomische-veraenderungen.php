@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Neben dem direkten Anstieg der Kosten für Kredite, führen die höheren Leitzinse auch zu weitreichenderen Folgen für die Kreditnehmer.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/makrooekonomische-veraenderungen" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/makrooekonomische-veraenderungen" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,14 +35,14 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | Makroökonomische Veränderungen">
     <meta property="og:description" content="Neben dem direkten Anstieg der Kosten für Kredite, führen die höheren Leitzinse auch zu weitreichenderen Folgen für die Kreditnehmer.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.ch/makrooekonomische-veraenderungen">
-    <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/makrooekonomische-veraenderungen">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Makroökonomische Veränderungen">
     <meta name="twitter:description" content="Neben dem direkten Anstieg der Kosten für Kredite, führen die höheren Leitzinse auch zu weitreichenderen Folgen für die Kreditnehmer.">
-    <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">

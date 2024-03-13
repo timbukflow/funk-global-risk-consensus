@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Der Funk Global Risk Consensus ist eine Zusammenstellung von fünf jährlich wiederkehrenden Studien und Risikoreporten, die eine Bewertung der globalen Risiken für Unternehmen bieten. Diese neutrale Bewertung der globalen Unternehmensrisiken dient Risikomanagern als Vergleich mit ihrer eigenen Risikoerfahrung und unterstützt sie bei zukünftigen Risikobewertungen.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,14 +35,14 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus">
     <meta property="og:description" content="Der Funk Global Risk Consensus ist eine Zusammenstellung von fünf jährlich wiederkehrenden Studien und Risikoreporten, die eine Bewertung der globalen Risiken für Unternehmen bieten. Diese neutrale Bewertung der globalen Unternehmensrisiken dient Risikomanagern als Vergleich mit ihrer eigenen Risikoerfahrung und unterstützt sie bei zukünftigen Risikobewertungen.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
-    <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus">
     <meta name="twitter:description" content="Der Funk Global Risk Consensus ist eine Zusammenstellung von fünf jährlich wiederkehrenden Studien und Risikoreporten, die eine Bewertung der globalen Risiken für Unternehmen bieten. Diese neutrale Bewertung der globalen Unternehmensrisiken dient Risikomanagern als Vergleich mit ihrer eigenen Risikoerfahrung und unterstützt sie bei zukünftigen Risikobewertungen.">
-    <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">

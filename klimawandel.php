@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/klimawandel" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/klimawandel" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,14 +35,14 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | Klimawandel">
     <meta property="og:description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.ch/klimawandel">
-    <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/klimawandel">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Klimawandel">
     <meta name="twitter:description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
-    <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">

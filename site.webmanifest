@@ -1,6 +1,28 @@
 {
-    "name": "Funk-GRC",
+    "name": "Funk Global Risk Consensus",
     "short_name": "Funk-GRC",
+    "description": "Der Funk Global Risk Consensus bietet neutrale Bewertungen globaler Unternehmensrisiken, die Risikomanagern als Referenz für ihre eigenen Risikobewertungen dienen.",
+    "author": {
+        "name": "Funk Gruppe",
+        "email": "info@funk-gruppe.ch",
+        "url": "https://funk-global-risk-consensus.com"
+    },
+    "categories": [
+        "Cyber-risiken",
+        "Inflation",
+        "Fachkräftemangel",
+        "Makroökonomische Veränderungen",
+        "Supply Chain Risiken",
+        "Extreme Wetterereignisse",
+        "Nichtberufskrankheiten",
+        "Ändernde Regulierungen",
+        "Klimawandel",
+        "Naturkatastrophen",
+        "Politische Risiken",
+        "Neue Technologien",
+        "Ungünstige Marktentwicklung",
+        "Von Menschen verursachte Katastrophen"
+    ],
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +35,36 @@
             "type": "image/png"
         }
     ],
+    "shortcuts": [
+        {
+            "name": "Cyber-Risiken",
+            "short_name": "Cyber-Risiken",
+            "description": "Schwere Folgen von Hacker-Angriffen und IT-Ausfällen können Unternehmen unterschätzen. Ganzheitliches Handeln ist daher wichtig.",
+            "url": "https://funk-global-risk-consensus.com/cyber-risiken"
+        },
+        {
+            "name": "Inflation",
+            "short_name": "Inflation",
+            "description": "Staatliche Massnahmen und externe Faktoren beeinflussen Inflation. Nachfrage- und Kostenfaktoren spielen dabei eine Rolle.",
+            "url": "https://funk-global-risk-consensus.com/inflation"
+        },
+        {
+            "name": "Extreme Wetterereignisse",
+            "short_name": "Extreme Wetterereignisse",
+            "description": "Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Häufigkeit solcher Ereignisse nimmt global zu.",
+            "url": "https://funk-global-risk-consensus.com/extreme-wetterereignisse"
+        },
+        {
+            "name": "Makroökonomische Veränderungen",
+            "short_name": "Makroökonomische Veränderungen",
+            "description": "Höhere Leitzinsen haben weitreichende Folgen für Kreditnehmer. Direkte Kostensteigerungen sind eine mögliche Konsequenz.",
+            "url": "https://funk-global-risk-consensus.com/makrooekonomische-veraenderungen"
+        }
+    ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "lang": "de-CH",
+    "dir": "ltr",
+    "version": "1.0"
 }

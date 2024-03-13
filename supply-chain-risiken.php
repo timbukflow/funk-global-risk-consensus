@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/supply-chain-risiken" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/supply-chain-risiken" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,14 +35,14 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
     <meta property="og:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.ch/supply-chain-risiken">
-    <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/supply-chain-risiken">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
     <meta name="twitter:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
-    <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">

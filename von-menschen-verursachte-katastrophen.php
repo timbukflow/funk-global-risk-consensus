@@ -16,7 +16,7 @@ Version 1.0
 
     <meta name="description" content="Industrieunfälle können weitreichende Auswirkungen auf Unternehmen und Wirtschaftszweige haben.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.ch/von-menschen-verursachte-katastrophen" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/von-menschen-verursachte-katastrophen" />
     
     <meta name="robots" content="index, follow" /> 
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -35,14 +35,14 @@ Version 1.0
     <meta property="og:title" content="Funk Global Risk Consensus | Von Menschen verursachte Katastrophen">
     <meta property="og:description" content="Industrieunfälle können weitreichende Auswirkungen auf Unternehmen und Wirtschaftszweige haben.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.ch/von-menschen-verursachte-katastrophen">
-    <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/von-menschen-verursachte-katastrophen">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Von Menschen verursachte Katastrophen">
     <meta name="twitter:description" content="Industrieunfälle können weitreichende Auswirkungen auf Unternehmen und Wirtschaftszweige haben.">
-    <meta name="twitter:image" content="https://www.funk-global-risk-consensus.ch/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">
