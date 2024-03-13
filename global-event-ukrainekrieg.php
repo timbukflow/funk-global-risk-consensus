@@ -1,3 +1,11 @@
+<!-- 
+
+Made by Schwizer Design GmbH
+Say hello @ schwizerdesign.ch
+Version 1.0
+
+-->
+
 <!DOCTYPE html>
 <html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
@@ -20,7 +28,7 @@
     <meta property="og:title" content="Funk Global Risk Consensus | Ukrainekrieg">
     <meta property="og:description" content="Der Ukraine-Krieg begann 2014 und hat zu erheblichen politischen und humanitären Folgen geführt. Ein komplexer Konflikt mit internationalen Auswirkungen und anhaltender Unsicherheit.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.funk-global-risk-consensus.ch">
+    <meta property="og:url" content="https://funk-global-risk-consensus.ch/global-event-ukrainekrieg">
     <meta property="og:image" content="https://www.funk-global-risk-consensus.ch/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
