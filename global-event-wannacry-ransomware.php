@@ -146,20 +146,13 @@ Version 1.0
             <div class="azrmain">
                 <div class="azr bg">
                     <div class="rdsolution bg">
-                        <h1>Patchmanagement</h1>
-                        <p>
-                            Funk berechnet aus Firmenkennzahlen das Cyber-Restrisiko Ihres Unternehmens. Zusätzlich wird das IT-Sicherheitsdispositiv analysiert und mögliche Lösungsvorschläge aufgezeigt.
-                        </p>
-                        <button class="anfrageBtn">Anfragen</button>
-                    </div>
-                </div>
-                <div class="azr bg">
-                    <div class="rdsolution bg">
                         <h1>Dienstleistung CRC/CRD</h1>
                         <p>
                             Funk berechnet aus Firmenkennzahlen das Cyber-Restrisiko Ihres Unternehmens. Zusätzlich wird das IT-Sicherheitsdispositiv analysiert und mögliche Lösungsvorschläge aufgezeigt.
                         </p>
-                        <button class="anfrageBtn">Anfragen</button>
+                        <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Dienstleistung%20CRC/CRD">
+                            <button class="anfrageBtn">Anfragen</button>
+                        </a>
                     </div>
                 </div>
             </div>      
