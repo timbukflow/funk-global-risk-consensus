@@ -68,7 +68,7 @@ $(document).ready(function() {
       right: 10,
       bottom: 10,
       left: 10
-    }
+    },
   };
 
   // Pie - Economic losses
@@ -159,7 +159,7 @@ $(document).ready(function() {
   const dataPieFatalities = {
     labels: ['Hydrologische Ereignisse', 'Meteorologische Ereignisse', 'Klimatologische Ereignisse - Hitzewelle', 'Klimatologische Ereignisse - Andere'],
     datasets: [{
-      label: 'Mio',
+      label: '',
       data: [5225, 4246, 129848, 2782],
       backgroundColor: pieStyle.backgroundColor,
       hoverOffset: pieStyle.hoverOffset,
@@ -175,7 +175,7 @@ $(document).ready(function() {
       },
       title: {
         display: true,
-        text: ['Todesopfer','142 Mrd.'],
+        text: ['Todesopfer','142000'],
         align: 'start',
         font: {
           weight: '400',

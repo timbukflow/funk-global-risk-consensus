@@ -118,7 +118,7 @@ Version 1.0
                             <img src="img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg" alt="funk-global-risk-consensus-globale-events-ukrainekrieg">
                         </div>
                         <div class="eventtitle globalevent">
-                            <h1>Ukraine Krieg <br> 2022 - 2023</h1>
+                            <h1>Ukraine Krieg <br> 2022 - 2024</h1>
                         </div>
                     </a>
                     <a href="global-event-coronapandemie" class="event bg">

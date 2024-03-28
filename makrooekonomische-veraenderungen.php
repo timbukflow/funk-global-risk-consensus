@@ -86,7 +86,7 @@ Version 1.0
                         <br><br>
 
                         <strong>Privatkonsum</strong><br>
-                        Höhere Leitzinsen reduzieren den Privatkonsum, da die Kosten für Wohnen wie oben beschrieben ansteigen. Zusätzlich steigen aber auch die Kosten für Privatkredite und eventuell die Mobilität (Leasing) an. Werden die höheren Zinsen von den Banken weitergegeben, erhöht sich auch die Sparquote. Dies führt zu einer geringeren Nachfrage, was zwar der Inflation entgegenwirkt, jedoch bei Unternehmen zu Umsatzrückgängen führt, da weniger Güter konsumiert und gekauft werden.
+                        Höhere Leitzinsen reduzieren den Privatkonsum, da die Kosten für Wohnen, Privatkredite und die Mobilität (Leasing) an. Werden die höheren Zinsen von den Banken weitergegeben, erhöht sich auch die Sparquote. Dies führt zu einer geringeren Nachfrage, was der Inflation entgegenwirkt, jedoch bei Unternehmen zu Umsatzrückgängen führt, da weniger Güter konsumiert werden.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -123,7 +123,7 @@ Version 1.0
                         <img src="img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg" alt="funk-global-risk-consensus-globale-events-ukrainekrieg">
                     </div>
                     <div class="eventtitle globalevent">
-                        <h1>Ukraine Krieg <br> 2022 - 2023</h1>
+                        <h1>Ukraine Krieg <br> 2022 - 2024</h1>
                     </div>
                 </a>
                 <a href="global-event-coronapandemie" class="event bg">

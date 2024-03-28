@@ -14,7 +14,7 @@ Version 1.0
     <title>Funk Global Risk Consensus | Supply Chain Risiken </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
+    <meta name="description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.com/supply-chain-risiken" />
     
@@ -33,7 +33,7 @@ Version 1.0
     <meta name="theme-color" content="#ffffff">
 
     <meta property="og:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
-    <meta property="og:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
+    <meta property="og:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/supply-chain-risiken">
     <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
@@ -41,7 +41,7 @@ Version 1.0
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
-    <meta name="twitter:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschließungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
+    <meta name="twitter:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -71,16 +71,16 @@ Version 1.0
                 <div class="rdcontent">
                     <h1>Supply Chain Risiken</h1>
                     <p>
-                        Durch die sehr starke Vernetzung zwischen Produzenten und Zulieferern aber auch die immer stärkere Zerstückelung (Outsourcing) von Produktionsketten steigen auch die Risken, dass bei einem Ausfall eines Zulieferers die Wertschöpfung in der ganzen Kette zum Erliegen kommt. Die Tendenz weniger Lagerhaltung zu betreiben und die Produktion im Lean-Verfahren zu betreiben spart kosten, es kann aber dazu führen, dass beim Ausfall eines Lieferanten die Produktion stillsteht, da ein Bauteil nicht verfügbar ist.
+                        Durch die sehr starke Vernetzung zwischen Produzenten und Zulieferern aber auch die immer stärkere Zerstückelung (Outsourcing) von Produktionsketten steigen auch die Risken, dass bei einem Ausfall eines Zulieferers die Wertschöpfung in der ganzen Kette zum Erliegen kommt. Die Tendenz zu weniger Lagerhaltung die Produktion im Lean-Verfahren zu betreiben spart kosten, kann aber dazu führen, dass bei einem Ausfall eines Lieferanten die Produktion stillsteht, da Rohstoffe oder Bauteile nicht verfügbar sind.
                     </p>
                     <p class="hidden-text">
                         Nicht nur ein Lieferantenausfall ist ein Risiko in der Supply Chain, vermehrt ist auch die Logistik, also der Transport von Waren und Rohstoffen ein Problem. Blockierte Wasserstrassen, reduzierte Kapazitäten aufgrund von Niedrigwasser oder geschlossene Häfen führen zu Verzögerungen und Lieferausfällen. Die Unberechenbarkeit in den Lieferketten führt zu Mehrkosten und Planungsunsicherheit.
                         <br><br>
 
-                        Ein drittes und immer grösser werdendes Risiko sind IT- und Cyber-Risiken, die aus der Lieferkette entstehen. Ein immer grösser werdender Teil der Zulieferer liefern Software und Cloudlösungen. Wenn diese Lieferanten ausfallen, sind die gelieferten Applikationen auch beim Bezüger nicht mehr verfügbar, was zu Produktionsausfällen und Unterbrüchen in der Wertschöpfung führt.
+                        Ein drittes und immer grösser werdendes Risiko sind IT- und Cyber-Risiken, die aus der Lieferkette entstehen. Mehr und mehr Zulieferer liefern Software und Cloudlösungen zur Datenverarbeitung sowie Applikationen um die IoT-Fähigen Teil- und Endprodukte zu steuern. Wenn diese Lieferanten ausfallen, sind die gelieferten Applikationen auch beim Bezüger nicht mehr verfügbar, was zu Produktionsausfällen und Unterbrüchen in der Wertschöpfung führt.
                         <br><br>
 
-                        Betriebsschliessungen während der Pandemie führten auch zu massiven Ausfällen in der Lieferkette, wodurch die globale Produktion während der Pandemie stark zusammengebrochen ist. Die folgenden Entlassungen während dieser Zeit haben bis heute eine Nachwirkung auf die Betriebe, da es schwierig ist das jetzt benötigte Personal für die Produktion wieder einzustellen. Zudem wurde während der Pandemie oft ein Investitionsstopp verhängt und viele Betriebe haben auch Schulden während dieser Zeit angehäuft. Dadurch hinkt die vor Covid geplante Kapazität der aktuell möglichen Kapazität weit hinterher und bereits kleine Vorfälle, welche die Produktion beeinträchtigen führen zu grossen Auswirkungen bei den Endproduzenten.
+                        Betriebsschliessungen während der Pandemie führten auch zu massiven Ausfällen in der Lieferkette, wodurch die globale Produktion während der Pandemie stark zusammengebrochen ist. Die Entlassungen während dieser Zeit haben bis heute eine Nachwirkung auf die Betriebe, da es schwierig ist das jetzt benötigte Personal für die Produktion wieder einzustellen. Zudem wurde während der Pandemie oft ein Investitionsstopp verhängt und viele Betriebe haben Schulden angehäuft um das Fortbestehen des Betriebes zu gewährleisten. Dadurch hinkt die vor Covid geplante Kapazität der aktuell möglichen Kapazität weit hinterher und bereits kleine Vorfälle, welche die Produktion beeinträchtigen führen zu grossen Auswirkungen bei den Endproduzenten.
                     </p>
                     <button class="mBtn" data-open="true">mehr</button>      
                 </div>
@@ -122,7 +122,7 @@ Version 1.0
                                 <br><br>
                                 Die Havarie des Schiffs blockierte den Verkehr in beide Richtungen entlang des Kanals und führte zu einem massiven Stau von Schiffen, die darauf warteten, passieren zu können. Die Bemühungen, die Ever Given zu befreien, umfassten Schlepper, Bagger und Aushubgeräte, die daran arbeiteten, das Schiff von den sandigen Ufern des Kanals zu befreien. Es dauerte sechs Tage, bis das Schiff erfolgreich wieder flott gemacht und der Kanal für den Verkehr geöffnet wurde.
                                 <br><br>
-                                Der Vorfall verdeutlichte die Verwundbarkeit globaler Handelsrouten gegenüber Störungen und die potenziellen Auswirkungen auf Lieferketten. Er löste auch Diskussionen über die Notwendigkeit verbesserter Sicherheitsmaßnahmen für die Navigation in wichtigen Wasserstraßen wie dem Suezkanal aus. Die Havarie der Ever Given führte zu erheblichen Verzögerungen im globalen Schiffsverkehr und löste Bedenken hinsichtlich der Knappheit von Gütern und der gestiegenen Kosten für Unternehmen aus, die auf eine rechtzeitige Lieferung von Waren per Seetransport angewiesen sind.die bei den Löscharbeiten waren. Tausende von Menschen wurden verletzt, einige davon schwer.   
+                                Der Vorfall verdeutlichte die Verwundbarkeit globaler Handelsrouten gegenüber Störungen und die potenziellen Auswirkungen auf Lieferketten. Er löste auch Diskussionen über die Notwendigkeit verbesserter Sicherheitsmassnahmen für die Navigation in wichtigen Wasserstrassen wie dem Suezkanal aus. Die Havarie der Ever Given führte zu erheblichen Verzögerungen im globalen Schiffsverkehr und löste Bedenken hinsichtlich der Knappheit von Gütern und der gestiegenen Kosten für Unternehmen aus, die auf eine rechtzeitige Lieferung von Waren per Seetransport angewiesen sind.die bei den Löscharbeiten waren. Tausende von Menschen wurden verletzt, einige davon schwer.   
                             </p>  
                         </div>
                     </div>
@@ -133,7 +133,7 @@ Version 1.0
                         <div class="eventtitle">
                             <h1>Wassermangel beim <br> Panamakanal - 2023</h1>
                             <p class="hidden-text">
-                                Aufgrund geringer Niederschläge kann der Panamakanal nur mit reduzierter Beladung durchfahren werden. Dies liegt daran, dass das natürliche Wasserreservoir, von dem aus der Kanal gespiesen wird, nicht ausreichend gefüllt ist. Dies führt dazu, dass weniger Fracht pro Schiff befördert werden kann, was zu Kapazitätsengpässen führt, da zum einen nicht unlimitiert Frachtkapazität vorhanden ist und der Kanal auch nicht mehr Schiffe mit verteilter Fracht aufnehmen kann.
+                                Aufgrund geringer Niederschläge kann der Panamakanal nur mit reduzierter Beladung durchfahren werden. Dies liegt daran, dass das natürliche Wasserreservoir, von dem aus der Kanal gespiesen wird, nicht ausreichend gefüllt ist. Dadurch kann weniger Fracht pro Schiff befördert werden kann, was zu Kapazitätsengpässen führt, da zum einen nicht unlimitiert Frachtkapazität vorhanden ist und der Kanal auch nicht mehr Schiffe mit verteilter Fracht aufnehmen kann.
                             </p>
                         </div>
                     </div>

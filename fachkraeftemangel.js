@@ -49,15 +49,16 @@ $(document).ready(function() {
   // Interessante Fakten
  
   const dataGrafik01 = {
-    labels: ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    labels: ["2014", "2015", "2016", "2018", "2019", "2021", "2022", "2023", "2024"],
     datasets: [{
-      label: "Globaler Fachkräftemangel in Firmen die Mühe haben Fachkräfte zu finden",
-      data: [35, 36, 38, 50, 45, 54, 69, 75, 77],
+      label: "Firmen die Mühe haben Fachkräfte zu finden",
+      data: [36, 38, 40, 45, 54, 69, 75, 77, 75],
       backgroundColor: "#5487A6",
       maxBarThickness: 20,
       minBarLength: 2,
     }]
   };
+
   
   const optionsGrafik01 = {
     scales: {
@@ -108,7 +109,7 @@ $(document).ready(function() {
   const dataGrafik02 = {
     labels: ["IT & Datenverarbeitung", "Maschinenbau/Ingenieur", "Verkauf & Marketing", "Betrieb & Logistik", "Kundenbetreuung"],
     datasets: [{
-      label: "Gesuchte Fachkräfte in Meistgesuchte Fähigkeiten",
+      label: "Folgende Fähigkeiten werden am Arbeitsmarkt am häufigsten gesucht",
       data: [27, 22, 20, 19, 17],
       backgroundColor: "#5487A6",
       maxBarThickness: 20,

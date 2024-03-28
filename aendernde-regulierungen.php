@@ -107,7 +107,7 @@ Version 1.0
                             <canvas id="aer-grafik-01"></canvas>
                         </div>
                     </div>
-                    <p class="grafiktitle">Service Trade EU non EU in Importe und Exporte von Dienstleistungen des Vereinigten Königreichs</p>
+                    <p class="grafiktitle">Importe und Exporte von Dienstleistungen des Vereinigten Königreichs</p>
                     <div class="mchartscont">
                         <div class="mchartsbig">
                             <canvas id="aer-grafik-02"></canvas>

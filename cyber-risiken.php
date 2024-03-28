@@ -139,7 +139,7 @@ Version 1.0
                         <div class="eventtitle">
                             <h1>Microsoft Exchange <br> Exploit - 2021</h1>
                             <p class="hidden-text">
-                                Das Ausmaß der Microsoft Exchange-Lücke, auch bekannt als ProxyLogon-Schwachstelle, war weitreichend und hatte erhebliche Auswirkungen auf Unternehmen und Organisationen weltweit. Obwohl es schwierig ist, genaue Zahlen zu nennen, sind Tausende von Exchange-Servern weltweit von dieser Sicherheitslücke betroffen gewesen.<br><br>
+                                Das Ausmass der Microsoft Exchange-Lücke, auch bekannt als ProxyLogon-Schwachstelle, war weitreichend und hatte erhebliche Auswirkungen auf Unternehmen und Organisationen weltweit. Obwohl es schwierig ist, genaue Zahlen zu nennen, sind Tausende von Exchange-Servern weltweit von dieser Sicherheitslücke betroffen gewesen.<br><br>
                                 Die Ausnutzung der Schwachstelle ermöglichte es Angreifern, auf vertrauliche Informationen zuzugreifen, E-Mails abzufangen, Benutzerkonten zu übernehmen und sogar Ransomware oder andere bösartige Software auf den betroffenen Servern zu installieren. Dies hatte potenziell schwerwiegende Folgen für die Privatsphäre, die Datensicherheit und den Betrieb der betroffenen Unternehmen.<br><br>
                                 Es wurde berichtet, dass verschiedene Hackergruppen, darunter staatlich unterstützte Akteure, die ProxyLogon-Schwachstelle ausgenutzt haben. Insbesondere die Gruppe Hafnium, die angeblich Verbindungen zu China hat, wurde mit den Angriffen in Verbindung gebracht. Es ist jedoch anzumerken, dass es auch andere Akteure gab, die die Schwachstelle ausnutzten.    
                             </p>  

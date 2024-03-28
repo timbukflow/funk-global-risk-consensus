@@ -86,7 +86,7 @@ Version 1.0
                         <p><strong>Interessante <br> Fakten</strong></p>
                         <ul>
                             <li>Über 4'000 EU-Gesetze müssen im UK-Gesetzbuch angepasst, übernommen oder gestrichen werden</li>
-                            <li>Vermehrt lange Wartezeiten für Facht und Passagiere an den Fährhäfen Calais und Dover</li>
+                            <li>Vermehrt lange Wartezeiten für Fracht und Passagiere an den Fährhäfen Calais und Dover</li>
                             <li>Investitionsabfluss aus Grossbritannien, speziell im Bereich Automobil-Industrie, da Automobile unter Umständen nicht mehr zollfrei in die EU eingeführt werden können.</li>
                             <li>Verlust des Freedom of Services führt zu Mehraufwand und Kosten für Dienstleister</li>
                             <li>Laut Bloomberg kostet Brexit Grossbritannien bis zu 100 Milliarden pro Jahr</li>

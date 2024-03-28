@@ -75,7 +75,7 @@ Version 1.0
                         Nichtberufskrankheiten, auch als nicht arbeitsbedingte Krankheiten oder nicht-berufsbedingte Krankheiten bezeichnet, sind Erkrankungen oder Gesundheitsprobleme, die nicht direkt mit der beruflichen Tätigkeit einer Person in Verbindung stehen. Diese Krankheiten entstehen in der Regel nicht durch arbeitsbedingte Expositionen oder spezifische Arbeitsumgebungen.
                     </p>
                     <p class="hidden-text">
-                        Nichtberufskrankheiten können verschiedene Ursachen haben, wie genetische Veranlagung, Umweltfaktoren, ungesunde Lebensgewohnheiten (z.B. Rauchen, schlechte Ernährung, Bewegungsmangel) und oder Infektionen. Beispiele für nichtberufliche Krankheiten sind Herz-Kreislauf-Erkrankungen wie Herzinfarkt und Schlaganfall, Krebs, Diabetes, Atemwegserkrankungen, neurologische Störungen wie Alzheimer und Parkinson, psychische Erkrankungen wie Depressionen und Angststörungen, sowie Erkrankungen des Verdauungssystems.
+                        Nichtberufskrankheiten können verschiedene Ursachen haben, wie genetische Veranlagung, Umweltfaktoren, ungesunde Lebensgewohnheiten (z.B. Rauchen, schlechte Ernährung, Bewegungsmangel) oder bakterielle und virale Infektionen. Beispiele für nichtberufliche Krankheiten sind Herz-Kreislauf-Erkrankungen wie Herzinfarkt und Schlaganfall, Krebs, Diabetes, Atemwegserkrankungen, neurologische Störungen wie Alzheimer und Parkinson, psychische Erkrankungen wie Depressionen und Angststörungen, sowie Erkrankungen des Verdauungssystems.
                         <br><br>
 
                         <strong>Bedeutung und Auswirkungen von Nichtberufskrankheiten</strong><br>
@@ -100,7 +100,7 @@ Version 1.0
                 <div class="fakten bg">
                     <h1>Geleistete Arbeitsstunden</h1>
                     <p>
-                        Die folgende Grafik zeigt die Entwicklung der Jahresarbeitsleistung der Schweiz zwischen 1993 und 2022. Während der allgemeine Trend nach oben zeigt (Wirtschaftswachstum), ist der Einbruch der Arbeitszeit im Jahr 2020 ganz klar auf Covid-19 und die dadurch verursachten Krankheitsbedingten Absenzen zurückzuführen. Die folgende Grafik zeigt die Entwicklung der Jahresarbeitsleistung der Schweiz zwischen 1993 und 2022. Während der allgemeine Trend nach oben zeigt (Wirtschaftswachstum), ist der Einbruch der Arbeitszeit im Jahr 2020 ganz klar auf Covid-19 und die dadurch verursachten Krankheitsbedingten Absenzen zurückzuführen.
+                        Die folgende Grafik zeigt die Entwicklung der Jahresarbeitsleistung der Schweiz zwischen 1993 und 2022. Während der allgemeine Trend nach oben zeigt (Wirtschaftswachstum), ist der Einbruch der Arbeitszeit im Jahr 2020 ganz klar auf Covid-19 und die dadurch verursachten Krankheitsbedingten Absenzen zurückzuführen.
                     </p>
                     <div class="mchartscont">
                         <div class="mchartsbig">

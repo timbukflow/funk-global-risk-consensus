@@ -102,7 +102,7 @@ Version 1.0
                             <canvas id="vmvk-grafik-01"></canvas>
                         </div>
                     </div> 
-                    <p class="dquelle">Source: ???</p>
+                    <p class="dquelle">Quelle: Wikipedia</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->
