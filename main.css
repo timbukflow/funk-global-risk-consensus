@@ -893,14 +893,19 @@ footer {
   left: 0;
   right: 0;
 }
-footer div{
+
+footer .maincontainer {
+  display: flex;
+  justify-content: space-between;
   padding: 30px 70px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+footer .container {
   display: flex;
   justify-content: flex-start;
   flex-direction: row;
   align-items: flex-end;
-  margin: 0 auto;
-  max-width: 1600px;
   gap: 100px;
 }
 
@@ -924,10 +929,15 @@ footer a {
   color: white;
 }
 
-/*----------------------------------
-  Cookie
------------------------------------*/
+footer .logo{
+  display: flex;
+  align-items: flex-end;
+  gap: 30px;
+}
 
+footer .logo img {
+  width: 100px;
+}
 
 /*----------------------------------
     Cookiebanner
@@ -1041,7 +1051,7 @@ footer a {
   .azrmain {gap: 20px;}
 
   /* footer */
-  footer div {padding: 30px 25px;}
+  footer .maincontainer {padding: 30px 25px;}
 }
 
 @media (max-width: 960px) {
@@ -1083,12 +1093,6 @@ footer a {
   /* events */
   .rdevents.full {flex-direction: column;gap: 0px;}
 
-  /* footer */
-  footer div {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 25px;  
-  }
   .info-container {padding-top: 95px;}
   .fade-in-panel {padding: 70px 30px 50px; width: 325px;}
   #kontakt {padding: 70px 30px 10px; width: 325px;}
@@ -1096,10 +1100,27 @@ footer a {
 
 @media (max-width: 800px) {
   .arrow-button {display: inline-block;}
+  
+  /* footer */
+  footer .maincontainer {
+    flex-direction: column;
+    gap: 25px;  
+  }
 }
 
 @media (max-width: 700px) {
   .rdmain {padding: 10px;}
+
+  /* footer */
+  footer .container {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: flex-start;
+  } 
+  footer .logo img{
+    width: 90px;
+  }
 
   #cookiebanner {width: calc(100% - 40px); left: 20px;}
   #cookiebanner.visible {bottom: 30px;}

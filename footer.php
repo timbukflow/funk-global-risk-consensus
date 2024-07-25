@@ -1,21 +1,26 @@
 <footer>
-  <div>
-    <ul>
-      <li>Information</li>
-      <li class="info-btn" data-target="methode">Methode</li>
-      <li class="info-btn" data-target="studien">Studien</li>
-      <li class="info-btn" data-target="impressum">Impressum</li>
-    </ul>
-    <ul>
-      <li>Kontakt</li>
-      <li>Funk Gruppe</li>
-      <li><a href="mailto:info@funk-gruppe.ch" target="_top">info@funk-gruppe.ch</a></li>
-      <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">www.funk-gruppe.ch</a></li>
-    </ul>
-    <ul>
-      <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">Die beste Empfehlung. Funk.</a></li>
-    </ul>
-  </div>
+  <div class="maincontainer">
+    <div class="container">
+      <ul>
+        <li>Information</li>
+        <li class="info-btn" data-target="methode">Methode</li>
+        <li class="info-btn" data-target="studien">Studien</li>
+        <li class="info-btn" data-target="impressum">Impressum</li>
+      </ul>
+      <ul>
+        <li>Kontakt</li>
+        <li>Funk Gruppe</li>
+        <li><a href="mailto:info@funk-gruppe.ch" target="_top">info@funk-gruppe.ch</a></li>
+        <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">www.funk-gruppe.ch</a></li>
+      </ul>
+    </div> 
+    <div class="container"> 
+      <ul class="logo">
+        <li><a href="https://www.funk-gruppe.ch/de/" target="_blank">Die beste Empfehlung. Funk.</a></li>
+        <li><a href="https://www.funk-gruppe.ch/de/" target="_blank"><img src="img/funk-logo.svg" alt="funk logo"></a></li>
+      </ul>
+    </div>
+  </div> 
 </footer>
 
 <div class="info-container">
