@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Supply Chain Risiken </title>
+    <title>Supply Chain | Funk Global Risk Consensus </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
+    <meta property="og:title" content="Supply Chain | Funk Global Risk Consensus">
     <meta property="og:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/supply-chain-risiken">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Supply Chain Risiken">
+    <meta name="twitter:title" content="Supply Chain | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,118 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Supply Chain Risiken erkennen & steuern | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/supply-chain-risiken",
+        "description": "Globale Lieferketten stehen unter Druck: Naturereignisse, Engpässe, IT-Störungen oder geopolitische Konflikte erhöhen die Ausfallrisiken. Funk zeigt Wege auf, Lieferketten resilienter zu gestalten.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Supply Chain Risiken – Globale Lieferketten im Stresstest",
+            "articleBody": "Supply Chain Risiken umfassen Störungen in der Beschaffung, Logistik oder bei IT-Dienstleistern. Ereignisse wie die Ever Given-Blockade oder Engpässe im Panamakanal verdeutlichen, wie anfällig Lieferketten auf externe Schocks reagieren. Pandemiebedingte Betriebsschliessungen, Cyber-Angriffe auf Zulieferer oder der Ausfall kritischer Transportwege können die gesamte Wertschöpfungskette lahmlegen.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Supply Chain Risiken",
+            "Lieferkettenstörung",
+            "Cyber-Risiken",
+            "Logistik",
+            "Funk Global Risk Consensus",
+            "Suezkanal Blockade",
+            "Panamakanal Trockenheit",
+            "Risikomanagement"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-supply-chain-risiken.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Supply Chain Risiken",
+            "item": "https://funk-global-risk-consensus.com/supply-chain-risiken"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Was versteht man unter Supply Chain Risiken?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Supply Chain Risiken bezeichnen Unterbrechungen in Lieferketten – z.B. durch Produktionsausfälle, Naturkatastrophen, IT-Störungen, Transportprobleme oder politische Konflikte."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche Beispiele gibt es für kritische Supply Chain Vorfälle?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Beispiele sind die Blockade des Suezkanals durch die Ever Given (2021), die Trockenheit im Panamakanal (2023) oder Corona-bedingte Betriebsschliessungen weltweit."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie kann man sich gegen Supply Chain Risiken absichern?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Möglichkeiten sind: Multi-Sourcing, transparente Lieferketten, Notfallpläne, Business Continuity Management (BCM), Versicherungen und digitale Risikofrüherkennung."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -66,23 +177,41 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-supply-chain-risiken.jpg" alt="funk-global-risk-consensus-risiko-cyberrisiken">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-supply-chain-risiken.jpg" 
+                        alt="Lieferkettenrisiken als zentrales Thema im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Supply Chain Risiken</h1>
+                    <h1>Supply Chain Risiken: Komplexität, Abhängigkeit und Ausfallgefahren</h1>
+
+                    <h2>Ausfall von Zulieferern und Lean-Produktionsrisiken</h2>
                     <p>
-                        Durch die sehr starke Vernetzung zwischen Produzenten und Zulieferern aber auch die immer stärkere Zerstückelung (Outsourcing) von Produktionsketten steigen auch die Risken, dass bei einem Ausfall eines Zulieferers die Wertschöpfung in der ganzen Kette zum Erliegen kommt. Die Tendenz zu weniger Lagerhaltung die Produktion im Lean-Verfahren zu betreiben spart kosten, kann aber dazu führen, dass bei einem Ausfall eines Lieferanten die Produktion stillsteht, da Rohstoffe oder Bauteile nicht verfügbar sind.
+                        Durch die sehr starke Vernetzung zwischen Produzenten und Zulieferern, aber auch die immer stärkere Zerstückelung (Outsourcing) von Produktionsketten, steigen auch die Risiken, dass bei einem Ausfall eines Zulieferers die Wertschöpfung in der ganzen Kette zum Erliegen kommt. Die Tendenz zu weniger Lagerhaltung und zur Produktion im Lean-Verfahren spart Kosten, kann aber dazu führen, dass bei einem Ausfall eines Lieferanten die Produktion stillsteht, da Rohstoffe oder Bauteile nicht verfügbar sind.
                     </p>
-                    <p class="hidden-text">
-                        Nicht nur ein Lieferantenausfall ist ein Risiko in der Supply Chain, vermehrt ist auch die Logistik, also der Transport von Waren und Rohstoffen ein Problem. Blockierte Wasserstrassen, reduzierte Kapazitäten aufgrund von Niedrigwasser oder geschlossene Häfen führen zu Verzögerungen und Lieferausfällen. Die Unberechenbarkeit in den Lieferketten führt zu Mehrkosten und Planungsunsicherheit.
-                        <br><br>
 
-                        Ein drittes und immer grösser werdendes Risiko sind IT- und Cyber-Risiken, die aus der Lieferkette entstehen. Mehr und mehr Zulieferer liefern Software und Cloudlösungen zur Datenverarbeitung sowie Applikationen um die IoT-Fähigen Teil- und Endprodukte zu steuern. Wenn diese Lieferanten ausfallen, sind die gelieferten Applikationen auch beim Bezüger nicht mehr verfügbar, was zu Produktionsausfällen und Unterbrüchen in der Wertschöpfung führt.
-                        <br><br>
-
-                        Betriebsschliessungen während der Pandemie führten auch zu massiven Ausfällen in der Lieferkette, wodurch die globale Produktion während der Pandemie stark zusammengebrochen ist. Die Entlassungen während dieser Zeit haben bis heute eine Nachwirkung auf die Betriebe, da es schwierig ist das jetzt benötigte Personal für die Produktion wieder einzustellen. Zudem wurde während der Pandemie oft ein Investitionsstopp verhängt und viele Betriebe haben Schulden angehäuft um das Fortbestehen des Betriebes zu gewährleisten. Dadurch hinkt die vor Covid geplante Kapazität der aktuell möglichen Kapazität weit hinterher und bereits kleine Vorfälle, welche die Produktion beeinträchtigen führen zu grossen Auswirkungen bei den Endproduzenten.
+                    <h2>Logistikprobleme als wachsendes Risiko</h2>
+                    <p>
+                        Nicht nur ein Lieferantenausfall ist ein Risiko in der Supply Chain – vermehrt ist auch die Logistik, also der Transport von Waren und Rohstoffen, ein Problem. Blockierte Wasserstrassen, reduzierte Kapazitäten aufgrund von Niedrigwasser oder geschlossene Häfen führen zu Verzögerungen und Lieferausfällen. Die Unberechenbarkeit in den Lieferketten führt zu Mehrkosten und Planungsunsicherheit.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
+
+                    <div class="hidden-text">
+                        <h2>IT- und Cyber-Risiken in der Lieferkette</h2>
+                        <p>
+                        Ein drittes und immer grösser werdendes Risiko sind IT- und Cyber-Risiken, die aus der Lieferkette entstehen. Mehr und mehr Zulieferer liefern Software und Cloudlösungen zur Datenverarbeitung sowie Applikationen, um die IoT-fähigen Teil- und Endprodukte zu steuern. Wenn diese Lieferanten ausfallen, sind die gelieferten Applikationen auch beim Bezüger nicht mehr verfügbar, was zu Produktionsausfällen und Unterbrüchen in der Wertschöpfung führt.
+                        </p>
+
+                        <h2>Folgen der Pandemie auf globale Lieferketten</h2>
+                        <p>
+                        Betriebsschliessungen während der Pandemie führten ebenfalls zu massiven Ausfällen in der Lieferkette, wodurch die globale Produktion stark eingebrochen ist. Die Entlassungen während dieser Zeit wirken bis heute nach, da es schwierig ist, das jetzt benötigte Personal wieder einzustellen. Zudem wurde häufig ein Investitionsstopp verhängt, und viele Betriebe haben Schulden angehäuft, um das Fortbestehen zu sichern.
+                        </p>
+
+                        <p>
+                        Dadurch hinkt die vor Covid geplante Kapazität der aktuell möglichen Kapazität weit hinterher. Bereits kleine Vorfälle, die die Produktion beeinträchtigen, führen heute zu grossen Auswirkungen bei den Endproduzenten.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
                 </div>
             </div>
             <div class="item40 bg">
@@ -113,7 +242,10 @@ Version 1.0
                 <div class="rdevents">
                     <div class="event bg">
                         <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-event-ever-given-2021.jpg" alt="funk-global-risk-consensus-event-ever-given-2021">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-ever-given-2021.jpg" 
+                                alt="Blockade des Suezkanals durch die Ever Given 2021 als globales Lieferkettenereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Blockade des Suezkanals durch die "Ever Given" - 2021</h1>
@@ -128,7 +260,10 @@ Version 1.0
                     </div>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-panamakanal-2023.jpg" alt="funk-global-risk-consensus-event-panamakanal-2023">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-panamakanal-2023.jpg" 
+                                alt="Einschränkungen am Panamakanal 2023 als globales Logistikereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Wassermangel beim <br> Panamakanal - 2023</h1>

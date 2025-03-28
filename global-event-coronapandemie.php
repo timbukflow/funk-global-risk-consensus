@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | COVID-19 Pandemie </title>
+    <title>COVID-19 Pandemie | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Die Coronapandemie hat die Welt im Jahr 2020 erfasst und zu einer globalen Gesundheitskrise geführt. Sie hat das tägliche Leben vieler Menschen beeinflusst und zu weitreichenden wirtschaftlichen und sozialen Auswirkungen geführt.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | COVID-19 Pandemie">
+    <meta property="og:title" content="COVID-19 Pandemie | Funk Global Risk Consensus">
     <meta property="og:description" content="Die Coronapandemie hat die Welt im Jahr 2020 erfasst und zu einer globalen Gesundheitskrise geführt. Sie hat das tägliche Leben vieler Menschen beeinflusst und zu weitreichenden wirtschaftlichen und sozialen Auswirkungen geführt.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-coronapandemie">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | COVID-19 Pandemie">
+    <meta name="twitter:title" content="COVID-19 Pandemie | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Die Coronapandemie hat die Welt im Jahr 2020 erfasst und zu einer globalen Gesundheitskrise geführt. Sie hat das tägliche Leben vieler Menschen beeinflusst und zu weitreichenden wirtschaftlichen und sozialen Auswirkungen geführt.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,118 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "COVID-19 Pandemie | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/global-event-coronapandemie",
+        "description": "Die COVID-19 Pandemie hat seit 2020 weltweit tiefgreifende gesundheitliche, wirtschaftliche und gesellschaftliche Auswirkungen verursacht – und prägt globale Risiken bis heute.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "COVID-19 Pandemie und ihre globalen Auswirkungen seit 2020",
+            "articleBody": "Die Coronapandemie begann Ende 2019 in Wuhan und entwickelte sich schnell zu einer weltweiten Gesundheitskrise. Sie führte zu massiven Einschnitten in das öffentliche Leben, der Weltwirtschaft, dem Arbeitsmarkt und der globalen Lieferkette. Trotz Impfkampagnen und Fortschritten bleibt COVID-19 auch 2023 ein relevantes globales Risiko.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "COVID-19",
+            "Coronapandemie",
+            "globale Gesundheitskrise",
+            "Lockdown",
+            "Wirtschaftskrise",
+            "Impfkampagne",
+            "Virusvarianten",
+            "Pandemiefolgen"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-coronapandemie.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "COVID-19 Pandemie",
+            "item": "https://funk-global-risk-consensus.com/global-event-coronapandemie"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Wann begann die COVID-19 Pandemie?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Die Pandemie begann Ende 2019 in Wuhan (China) und wurde am 11. März 2020 von der WHO offiziell als weltweite Pandemie eingestuft."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche wirtschaftlichen Folgen hatte die Pandemie?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Massive Produktionsausfälle, gestörte Lieferketten, einbrechende Märkte und globale Inflation – viele Folgen wirken bis heute nach."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie wird COVID-19 heute eingeordnet?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Trotz besserer Impfquoten und weniger Einschränkungen bleibt COVID-19 ein relevantes Risiko – insbesondere durch neue Virusvarianten und Langzeitfolgen."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body class="gebg">
@@ -67,7 +178,10 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="bg globalfakten">
                 <div class="globaleventimg">
-                      <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
+                    <img 
+                        src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" 
+                        alt="Coronapandemie als globales Gesundheitsrisiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
@@ -126,7 +240,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="inflation">
                         <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-risiko-inflation.jpg" alt="funk-global-risk-consensus-risiko-inflation.jpg">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-inflation.jpg" 
+                                alt="Inflation als wirtschaftliches Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Inflation</h1>
@@ -136,7 +253,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="fachkraeftemangel">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" alt="funk-global-risk-consensus-risiko-fachkraeftemangel">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" 
+                                alt="Fachkräftemangel als wirtschaftliches Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Fachkräftemangel</h1>
@@ -148,7 +268,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="makrooekonomische-veraenderungen">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg" alt="funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg" 
+                                alt="Makroökonomische Veränderungen als strategisches Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Makroökonomische Veränderungen</h1>
@@ -158,7 +281,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="nichtberufskrankheiten">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg" alt="funk-global-risk-consensus-risiko-nichtberufskrankheiten">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg" 
+                                alt="Nichtberufskrankheiten als Gesundheitsrisiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Nichtberufskrankheiten</h1>
@@ -170,7 +296,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="neue-technologien">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-neue-technologien.jpg" alt="funk-global-risk-consensus-risiko-neue-technologien">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-neue-technologien.jpg" 
+                                alt="Neue Technologien als potenzielles Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Neue Technologien</h1>
@@ -180,7 +309,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="unguenstige-marktentwicklung">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg" alt="funk-global-risk-consensus-risiko-unguenstige-marktentwicklung">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-unguenstige-marktentwicklung.jpg" 
+                                alt="Ungünstige Marktentwicklungen als wirtschaftliches Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Ungünstige Marktentwicklung</h1>

@@ -1,10 +1,10 @@
 $(document).ready(function() {
   // Risiko Entwicklung
   const data = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"],
     datasets: [{
       label: "Entwicklung",
-      data: [48, 41, 36, 38, 36, 31, 29, 42],
+      data: [48, 41, 36, 38, 36, 31, 29, 42, 37],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 1,
@@ -49,10 +49,10 @@ $(document).ready(function() {
   // Grafik 01 - Barchart
 
   const dataGrafik01 = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
     datasets: [{
       label: "Durchschnittliche Kosten eines Datenschutzvorfalls",
-      data: [3620000, 3860000, 3920000, 3860000, 4240000, 4350000, 4450000 ],
+      data: [3620000, 3860000, 3920000, 3860000, 4240000, 4350000, 4450000, 4880000 ],
       backgroundColor: "#5487A6",
       maxBarThickness: 20,
       minBarLength: 2,

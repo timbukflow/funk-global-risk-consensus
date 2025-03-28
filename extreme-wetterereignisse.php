@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Extreme Wetterereignisse</title>
+    <title>Extreme Wetterereignisse | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Extreme Wetterereignisse">
+    <meta property="og:title" content="Extreme Wetterereignisse | Funk Global Risk Consensus">
     <meta property="og:description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/extreme-wetterereignisse">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Extreme Wetterereignisse">
+    <meta name="twitter:title" content="Extreme Wetterereignisse | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,118 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+            "@type": "WebPage",
+            "name": "Extreme Wetterereignisse | Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com/extreme-wetterereignisse",
+            "description": "Extreme Wetterereignisse nehmen weltweit zu: Dürren, Überschwemmungen und Hitzewellen verursachen massive Schäden und stellen Unternehmen vor neue Herausforderungen.",
+            "inLanguage": "de-CH",
+            "author": {
+                "@type": "Organization",
+                "name": "Funk Gruppe",
+                "url": "https://funk-gruppe.ch"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Funk Gruppe",
+                "logo": {
+                "@type": "ImageObject",
+                "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+                "width": 200,
+                "height": 200
+                }
+            },
+            "mainEntity": {
+                "@type": "Article",
+                "headline": "Extreme Wetterereignisse als Folge des Klimawandels",
+                "articleBody": "Extreme Wetterereignisse wie Dürren, Überschwemmungen und Hitzewellen treten weltweit häufiger und intensiver auf. Regionen wie Mitteleuropa sind zunehmend betroffen. Unternehmen sehen sich mit klimabedingten Schäden, Produktionsausfällen und steigenden Regulierungskosten konfrontiert. Nachhaltige Strategien und resiliente Strukturen sind unverzichtbar.",
+                "author": {
+                "@type": "Organization",
+                "name": "Funk Gruppe"
+                },
+                "editor": {
+                "@type": "Person",
+                "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+                },
+                "datePublished": "2025-03-28",
+                "dateModified": "2025-03-28",
+                "keywords": [
+                "Extreme Wetterereignisse",
+                "Klimawandel",
+                "Hitzewellen",
+                "Überschwemmungen",
+                "Dürren",
+                "Klimarisiken",
+                "CO2-Bepreisung",
+                "Resiliente Lieferketten"
+                ],
+                "image": {
+                "@type": "ImageObject",
+                "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
+                "width": 1200,
+                "height": 800
+                },
+                "isPartOf": {
+                "@type": "WebSite",
+                "name": "Funk Global Risk Consensus",
+                "url": "https://funk-global-risk-consensus.com"
+                }
+            }
+            },
+            {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Dashboard Risiken 2025",
+                "item": "https://funk-global-risk-consensus.com"
+                },
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Extreme Wetterereignisse",
+                "item": "https://funk-global-risk-consensus.com/extreme-wetterereignisse"
+                }
+            ]
+            },
+            {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "Welche wirtschaftlichen Folgen haben extreme Wetterereignisse?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sie führen zu Schäden an Infrastruktur, Produktionsausfällen, Ernteverlusten und erhöhen durch neue Klimaschutzrichtlinien auch regulatorische Kosten für Unternehmen."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Welche Regionen sind besonders betroffen?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Neben traditionellen Risikozonen geraten auch bisher wenig betroffene Regionen wie Mitteleuropa zunehmend in den Fokus – z. B. durch Hitzewellen oder Starkregen."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "Wie können sich Unternehmen gegen klimabedingte Risiken wappnen?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Durch resiliente Lieferketten, nachhaltige Produktionsprozesse, Notfallpläne und die frühzeitige Anpassung an neue regulatorische Anforderungen."
+                }
+                }
+            ]
+            }
+        ]
+        }
+        </script>
 </head>
 
 <body>
@@ -67,20 +178,38 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg" alt="funk-global-risk-consensus-risiko-extreme-wetterereignisse">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg" 
+                        alt="Extreme Wetterereignisse als Umwelt- und Klimarisiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Extreme Wetterereignisse</h1>
+                    <h1>Extreme Wetterereignisse: Wirtschaftliche Folgen des Klimawandels</h1>
+
+                    <h2>Extreme Wetterereignisse nehmen zu</h2>
                     <p>
-                        <strong>Globale Katastrophen</strong><br>
-                        Starkregen, Dürren, Hurricanes, etc. Wir hören fast jeden Tag von einer Katastrophe, die sich irgendwo auf der Welt ereignet. Menschen verlieren Ihre Lebensgrundlage, ihr Zuhause oder sogar ihr Leben. Das Wetter spielt aber nicht nur irgendwo auf der Welt verrückt, auch bei uns in Europa gibt es immer wieder extreme Wetterereignisse, die Tod und Zerstörung mit sich bringen.
+                        Im Jahr 2024 sind die Auswirkungen des Klimawandels deutlicher denn je. Extreme Wetterereignisse nehmen an Häufigkeit und Intensität weiter zu und verursachen massive wirtschaftliche und soziale Schäden.
                     </p>
-                    <p class="hidden-text">
-                        <strong>Weitreichende Konsequenzen</strong><br>
-                        Betroffen sind aber nicht nur Privatpersonen, auch Firmen werden mit diesen Gefahren konfrontiert. Innert Minuten steht die Fabrikhalle unter Wasser, eine Schlammlawine reisst das Bürogebäude mit oder nach einem Blitzschlag brennt die Lagerhalle ab. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu, wodurch immer mehr Menschen und Firmen betroffen sind.
+
+                    <h2>Rekordtemperaturen und Naturkatastrophen weltweit</h2>
+                    <p>
+                        In den letzten Jahren haben Rekordtemperaturen in Europa zu verheerenden Dürren geführt, während Überschwemmungen in Asien Millionen Menschen obdachlos gemacht haben. Besorgniserregend ist die Zunahme von Wetterextremen in Regionen, die bisher nicht in diesem Ausmass betroffen waren. In Mitteleuropa häufen sich Hitzewellen mit Temperaturen über 40 Grad. Die wirtschaftlichen Schäden sind immens: Die Landwirtschaft leidet unter Ernteausfällen, extreme Wetterereignisse belasten die Infrastruktur und zerstören Gebäude, Strassen und Versorgungssysteme. Das liegt vor allem daran, dass diese Regionen auf Extremwetterereignisse nicht vorbereitet sind, da sie in der Vergangenheit nicht in diesem Ausmass aufgetreten sind.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
-                </div>
+
+                    <div class="hidden-text">
+                        <h2>Auswirkungen auf Unternehmen und Industrie</h2>
+                        <p>
+                        Unternehmen sind in mehrfacher Hinsicht betroffen. Produktionsanlagen können durch Überschwemmungen oder Stürme beschädigt werden, während anhaltende Hitzewellen die Arbeitsproduktivität senken. Zudem erhöhen neue Klimaschutzrichtlinien den regulatorischen Druck auf Unternehmen. Viele Länder führen eine strengere CO₂-Bepreisung ein, die zusätzliche Kosten verursacht. Langfristig sind Unternehmen gezwungen, nachhaltigere Strategien zu entwickeln, um klimabedingte Risiken zu minimieren.
+                        </p>
+
+                        <h2>Notwendige Anpassungen und Zukunftsperspektiven</h2>
+                        <p>
+                        Resiliente Lieferketten, nachhaltige Produktionsmethoden und umfassende Katastrophenvorsorge werden zu entscheidenden Faktoren, um den Herausforderungen des Klimawandels zu begegnen.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
+                    </div>
             </div>
 
             <div class="item40 bg">
@@ -120,7 +249,10 @@ Version 1.0
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" alt="">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" 
+                                alt="Hurrikan Ian 2022 als Naturkatastrophe mit globaler Relevanz im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Hurricane Ian - 2022</h1>
@@ -133,7 +265,10 @@ Version 1.0
                     </div>  
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021.jpg" alt="funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021.jpg" 
+                                alt="Jahrhunderthochwasser in Deutschland 2021 als prägendes Umweltereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Jahrhunderthochwasser in Deutschland - 2021</h1>
@@ -148,7 +283,10 @@ Version 1.0
                     <div class="hidden-events">
                         <div class="event bg">
                             <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" alt="funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020">
+                                <img 
+                                    src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" 
+                                    alt="Buschfeuer in Australien 2019/2020 als extremes Klimaereignis im Funk Global Risk Consensus" 
+                                    loading="lazy">
                                 </div>
                             <div class="eventtitle">
                                 <h1>Buschfeuer in Australien <br> 2019 - 2020</h1>

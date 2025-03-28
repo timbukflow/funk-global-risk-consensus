@@ -1,6 +1,6 @@
 /* 
   Titel: Funk Global Risk Consensus
-  Version: 1.0
+  Version: 1.1
   Autor: Ivo Schwizer - Schwizer Design GmbH
 */
 
@@ -241,9 +241,12 @@ nav li:last-child {
 .mBtn, .geBtn {
   color: var(--funkblue);
   transition: opacity 0.3s ease ;
-  border-radius: 0;
+  border-radius: 5px;
   padding: 0px;
   background-color: transparent;
+  border: 1px solid;
+  padding: 6px 12px;
+  margin-top: 20px;
 }
 
 .mBtn:hover {
@@ -470,7 +473,7 @@ canvas {
   flex-direction: row;
   gap: 60px;
   max-width: 1800px;
-  margin: 250px auto 150px;
+  margin: 250px auto 50px;
 }
 
 .riskseventstrends h1 {
@@ -558,6 +561,26 @@ canvas {
   cursor: pointer;
 }
 
+.download {
+  display: inline-block;
+  top: 0;
+  transition: box-shadow 0.3s, top 0.3s ease-in-out;
+  cursor: pointer;
+  padding: 20px 25px;
+  margin-bottom: 50px;
+  background-color: var(--funkgreen);
+}
+
+.download h2 {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: white;
+}
+.download h2 span {
+  color: white;
+}
+
 .gevent h1 {
   color: white;
   transition: background-color 0.3s;
@@ -574,7 +597,7 @@ canvas {
   background-color: #225c49;
 }
 
-.risk:hover, .gevent:hover, .trend:hover, .azr:hover, .event:hover {
+.risk:hover, .gevent:hover, .trend:hover, .azr:hover, .event:hover, .download:hover {
   top: -5px;
   -webkit-box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.2); 
   box-shadow: 2px 2px 20px 0px rgba(0,0,0,0.2);
@@ -630,6 +653,10 @@ canvas {
 }
 .rdcontent {
   padding: 30px;
+}
+
+.rdcontent h2 {
+  padding-top: 30px;
 }
 
 .rdcontainer {

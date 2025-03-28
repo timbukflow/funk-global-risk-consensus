@@ -2,7 +2,10 @@
     <h2>Ihr Risikospezialist</h2> 
     <div class="rdcontact bg">
         <div class="contactimg">
-            <img src="img/funk-risikospezialist-max-keller.jpg" alt="funk-risikospezialist-max-keller">
+            <img 
+                src="img/funk-risikospezialist-max-keller.jpg" 
+                alt="Max Keller, Risikospezialist bei Funk" 
+                loading="lazy">
         </div>
         <div class="contactdata">
             <p>

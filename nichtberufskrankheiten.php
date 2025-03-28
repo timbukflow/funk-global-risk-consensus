@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Nichtberufskrankheiten </title>
+    <title>Nichtberufskrankheiten | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Nichtberufskrankheiten">
+    <meta property="og:title" content="Nichtberufskrankheiten | Funk Global Risk Consensus">
     <meta property="og:description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/nichtberufskrankheiten">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Nichtberufskrankheiten">
+    <meta name="twitter:title" content="Nichtberufskrankheiten | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen – diese können verschiedene Ursachen haben.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,116 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Nichtberufskrankheiten & wirtschaftliche Risiken | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/nichtberufskrankheiten",
+        "description": "Nichtberufskrankheiten wie Covid-19 können zu massiven Produktivitätsverlusten führen. Erfahren Sie, welche Risiken für Unternehmen daraus entstehen und wie sie sich wappnen können.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Nichtberufskrankheiten – unterschätzte Risiken für Unternehmen",
+            "articleBody": "Nichtberufskrankheiten umfassen gesundheitliche Beeinträchtigungen, die ausserhalb des beruflichen Kontexts entstehen – etwa durch Infektionen, Lebensstil oder genetische Veranlagung. Die Covid-19-Pandemie hat gezeigt, wie stark diese Krankheiten die Arbeitsfähigkeit von Belegschaften und die Produktivität von Unternehmen beeinträchtigen können. Besonders bei gleichzeitigen Ausfällen steigen wirtschaftliche Risiken, etwa durch Betriebsunterbrechungen, Zusatzkosten oder Reputationsverlust. Unternehmen sind gefordert, frühzeitig Präventions- und Reaktionsstrategien zu etablieren.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Nichtberufskrankheiten",
+            "Covid-19",
+            "Krankheitsbedingte Absenzen",
+            "Produktivitätsverlust",
+            "Betriebsunterbrechung",
+            "Funk Global Risk Consensus"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Nichtberufskrankheiten",
+            "item": "https://funk-global-risk-consensus.com/nichtberufskrankheiten"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Was sind Nichtberufskrankheiten?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nichtberufskrankheiten sind Erkrankungen, die nicht im direkten Zusammenhang mit beruflichen Tätigkeiten stehen – z.B. Herz-Kreislauf-Erkrankungen, psychische Erkrankungen oder virale Infektionen wie Covid-19."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche Auswirkungen haben sie auf Unternehmen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sie können zu massiven Arbeitsausfällen führen, die Produktivität beeinträchtigen und zu Betriebsunterbrechungen oder finanziellen Belastungen führen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie können Unternehmen Risiken durch Nichtberufskrankheiten minimieren?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mögliche Massnahmen sind Investitionen in betriebliche Gesundheitsförderung, flexible Arbeitszeitmodelle, verbesserte Prävention sowie Notfall- und Ausfallstrategien."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -66,22 +175,32 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg" alt="funk-global-risk-consensus-risiko-nichtberufskrankheiten">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-nichtberufskrankheiten.jpg" 
+                        alt="Nichtberufskrankheiten als Gesundheitsrisiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Nichtberufskrankheiten</h1>
+                    <h1>Nichtberufskrankheiten: Gesundheitliche Risiken abseits des Arbeitsplatzes</h1>
+
+                    <h2>Was sind Nichtberufskrankheiten?</h2>
                     <p>
-                        <strong>Was sind Nichtberufskrankheiten</strong><br>
                         Nichtberufskrankheiten, auch als nicht arbeitsbedingte Krankheiten oder nicht-berufsbedingte Krankheiten bezeichnet, sind Erkrankungen oder Gesundheitsprobleme, die nicht direkt mit der beruflichen Tätigkeit einer Person in Verbindung stehen. Diese Krankheiten entstehen in der Regel nicht durch arbeitsbedingte Expositionen oder spezifische Arbeitsumgebungen.
                     </p>
-                    <p class="hidden-text">
-                        Nichtberufskrankheiten können verschiedene Ursachen haben, wie genetische Veranlagung, Umweltfaktoren, ungesunde Lebensgewohnheiten (z.B. Rauchen, schlechte Ernährung, Bewegungsmangel) oder bakterielle und virale Infektionen. Beispiele für nichtberufliche Krankheiten sind Herz-Kreislauf-Erkrankungen wie Herzinfarkt und Schlaganfall, Krebs, Diabetes, Atemwegserkrankungen, neurologische Störungen wie Alzheimer und Parkinson, psychische Erkrankungen wie Depressionen und Angststörungen, sowie Erkrankungen des Verdauungssystems.
-                        <br><br>
 
-                        <strong>Bedeutung und Auswirkungen von Nichtberufskrankheiten</strong><br>
-                        Mit der Covid-19 Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen. Durch die hohe Übertragungsrate und der vielen gleichzeitig Infizierten, sind sehr viele Menschen krankheitsbedingt der Arbeit ferngeblieben. Zudem mussten aufgrund der Schutzkonzepte Firmen vorübergehen schliessen und auch gesunde Arbeitnehmer konnten nicht arbeiten. Dadurch ist bei vielen Firmen die Produktivität massiv gesunken.
+                    <h2>Ursachen und Beispiele</h2>
+                    <p>
+                        Nichtberufskrankheiten können verschiedene Ursachen haben, wie genetische Veranlagung, Umweltfaktoren, ungesunde Lebensgewohnheiten (z.B. Rauchen, schlechte Ernährung, Bewegungsmangel) oder bakterielle und virale Infektionen. Beispiele für nichtberufliche Krankheiten sind Herz-Kreislauf-Erkrankungen wie Herzinfarkt und Schlaganfall, Krebs, Diabetes, Atemwegserkrankungen, neurologische Störungen wie Alzheimer und Parkinson, psychische Erkrankungen wie Depressionen und Angststörungen sowie Erkrankungen des Verdauungssystems.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
+
+                    <div class="hidden-text">
+                        <h2>Bedeutung und Auswirkungen von Nichtberufskrankheiten</h2>
+                        <p>
+                        Mit der Covid-19-Pandemie hat die Bedeutung von Nichtberufskrankheiten stark zugenommen. Durch die hohe Übertragungsrate und der vielen gleichzeitig Infizierten sind sehr viele Menschen krankheitsbedingt der Arbeit ferngeblieben. Zudem mussten aufgrund der Schutzkonzepte Firmen vorübergehend schliessen, und auch gesunde Arbeitnehmer konnten nicht arbeiten. Dadurch ist bei vielen Firmen die Produktivität massiv gesunken.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
                 </div>
             </div>
 
@@ -116,7 +235,10 @@ Version 1.0
                 <div class="rdevents" id="container">
                     <a href="global-event-coronapandemie" class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
+                            <img 
+                                src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" 
+                                alt="Coronapandemie als globales Gesundheitsrisiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
                             <h1>COVID-19 Pandemie <br> 2019 - 2023</h1>

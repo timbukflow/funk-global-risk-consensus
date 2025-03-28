@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Inflation </title>
+    <title>Inflation | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Inflation kann durch Nachfrage- oder Kostenfaktoren verursacht werden. Staatliche Massnahmen und externe Faktoren können beide Arten von Inflation beeinflussen.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
     
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Inflation">
+    <meta property="og:title" content="Inflation | Funk Global Risk Consensus">
     <meta property="og:description" content="Inflation kann durch Nachfrage- oder Kostenfaktoren verursacht werden. Staatliche Massnahmen und externe Faktoren können beide Arten von Inflation beeinflussen.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/inflation">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Inflation">
+    <meta name="twitter:title" content="Inflation | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Inflation kann durch Nachfrage- oder Kostenfaktoren verursacht werden. Staatliche Massnahmen und externe Faktoren können beide Arten von Inflation beeinflussen.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,120 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Inflation | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/inflation",
+        "description": "Die Inflation hat sich 2024 zwar abgeschwächt, bleibt aber durch geopolitische Krisen, hohe Produktionskosten und unklare Geldpolitik eine zentrale wirtschaftliche Herausforderung.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Inflation 2024: Abschwächung, Unsicherheit und neue Risiken",
+            "articleBody": "Die globale Inflation ist nach 2023 rückläufig, bleibt jedoch aufgrund geopolitischer Spannungen, steigender Lohn- und Produktionskosten sowie unklarer geldpolitischer Strategien eine zentrale Herausforderung. Energiepreise, Lieferengpässe und ESG-Auflagen treiben die Teuerung weiter an.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Inflation",
+            "Zinspolitik",
+            "Produktion",
+            "Geldpolitik",
+            "Energiepreise",
+            "ESG-Kosten",
+            "geopolitische Unsicherheit",
+            "Zentralbanken",
+            "Fed",
+            "EZB"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-inflation.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Inflation",
+            "item": "https://funk-global-risk-consensus.com/inflation"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Warum bleibt die Inflation trotz Zinssenkungen hoch?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weil geopolitische Unsicherheiten, steigende Löhne und ESG-Kosten weiterhin preistreibend wirken, insbesondere bei Energie, Rohstoffen und Dienstleistungen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie reagieren Zentralbanken auf die Inflation?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Die Zentralbanken setzen auf eine vorsichtige Zinspolitik. Während die EZB erste Zinssenkungen vorgenommen hat, bleibt die US-Notenbank zurückhaltend."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Was bedeutet die Inflation 2024 für Unternehmen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unternehmen müssen sich auf steigende Produktionskosten, höhere Löhne, volatile Energiepreise und komplexe Lieferkettenrisiken einstellen."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -67,35 +180,41 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-inflation.jpg" alt="funk-global-risk-consensus-risiko-inflation.jpg">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-inflation.jpg" 
+                        alt="Inflation als wirtschaftliches Risiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Inflation</h1>
+                    <h1>Inflation: Abschwächung mit anhaltenden wirtschaftlichen Risiken</h1>
+
+                    <h2>Abschwächung der Inflation, aber anhaltende Herausforderungen</h2>
                     <p>
-                        <strong>Kosteninflation, Nachfrageinflation oder sogar beides?</strong><br>
-                        Es gibt verschiedene Arten und Ursachen von Inflation. Häufig sind Volkswirtschaften mit einer Nachfrageinflation konfrontiert, bei der die Gesamtnachfrage nach Gütern und Dienstleistungen die Gesamtkapazität des Angebots übersteigt. Staatliche Massnahmen wie eine expansive Fiskalpolitik können diese Inflationsart auslösen. Wenn der Staat seine Ausgaben erhöht, indem er beispielsweise öffentliche Projekte finanziert oder Steuern senkt, steigt die Nachfrage nach Gütern und Dienstleistungen, was zu Preissteigerungen führen kann. Ähnliches gilt für Zinssenkungen oder die Ausweitung der Geldmenge durch die Zentralbank.
+                        Die globale Inflation hat sich nach den Höchstständen in den Jahren 2022 und 2023 abgeschwächt, bleibt aber eine der grössten wirtschaftlichen Herausforderungen. Während in den Jahren nach der COVID-19-Pandemie vor allem Versorgungsengpässe und steigende Energiepreise die Inflation anheizten, werden 2024 mehrheitlich hohe Lohnkosten, geopolitische Unsicherheiten und eine volatile Geldpolitik die Teuerung beeinflussen.
                     </p>
-                    <p class="hidden-text">
-                        Eine weitere Art der Inflation ist die sogenannte Kosteninflation, bei der die Produktionskosten in Unternehmen steigen und sie diese Kosten an die Verbraucher weitergeben. Die Kostensteigerungen können unterschiedliche Gründe haben. Gestiegene Rohstoff- oder Energiepreise, signifikante Lohnsteigerungen, höhere Steuern, Zunahme von Regulierung (z.B. ESG) und Angebotsschocks wie Kriege, Naturkatastrophen oder längere Transportwege können alle ursächlich für die Kosteninflation sein. Geben Unternehmen die gestiegenen Kosten nicht an die Verbraucher weiter, reduzieren sie damit ihre Gewinnmargen.
-                        <br><br>
 
-                        <strong>Folgen der COVID-19-Pandemie</strong><br>
-                        In den letzten Jahren litt der Grossteil der Weltwirtschaft an beiden Arten der Inflation. Während der COVID-19 Pandemie mussten viele produzierende Betriebe ihre Produktion aufgrund von Lockdowns herunterfahren und zeitweise komplett einstellten. Dies führte zu einer Verknappung des Angebots, wodurch die Preise anstiegen. Ergänzend dazu haben Regierungen rund um den Globus Kredite, Steuersenkungen sowie weitere unterstützende Massnahem ergriffen, um die Wirtschaft während der Pandemie zu stützen. Die wirtschaftliche Erholung nach den Lockdowns und Einschränkungen der Pandemie führte zu einem starken Anstieg der Nachfrage nach Gütern und Dienstleistungen. Da die Produktionskapazitäten nicht sofort angepasst werden konnten, entstanden Engpässe, die die Preise nach oben trieben.
-                        <br><br>
-
-                        <strong>Expansive Geldpolitik</strong><br>
-                        Seit 2008 herrschte weltweit eine Niedrigzinspolitik und eine enorme Expansion der Geldmenge. Dank dieser Strategie konnte die Wirtschaft nach der Finanzkrise stabilisiert und der Wachstumspfad geebnet werden. Dieses Kapital verstärkte die inflationären Tendenzen der letzten Jahre weiter.
-                        <br><br>
-
-                        <strong>Ukrainekrieg</strong><br>
-                        Der Ausbruch des Krieges in der Ukraine hat einen weiteren Faktor hinzugefügt, der die Inflation anheizte. Die Ukraine ist einer der größten Produzenten von Agrarprodukten wie Getreide und Speiseölen. Die Angebotsverknappung aufgrund des Krieges führte zur Verdoppelung der Preise. Ergänzend dazu führten die globalen Sanktionen gegen Russland zur Verknappung des Energieangebots und zu hohen Energiepreisen. Beide Faktoren resultieren in der Erhöhung der Produktionskosten und befeuerten die Kosteninflation.<br><br>
-
-                        <strong>Aktuelle Lage</strong><br>
-                        Die Kombination aus Nachfrage- und Kosteninflation hat innerhalb weniger Monate in den grössten Industrienationen zu einer Inflation von über 10% geführt - das ist mehr als fünfmal höher als das angestrebte Ziel von etwa 2%. Insbesondere die Inflation bei Lebensmitteln und Energieprodukten ist stark angestiegen, was dazu führt, dass vielen Menschen weniger Geld für andere Ausgaben zur Verfügung steht. Dies wiederum führt zu einer geringeren Nachfrage. Unternehmen, die essentielle Konsumgüter wie Nahrungsmittel und Energieprodukte produzieren, haben in der Regel keine Probleme, diese Preiserhöhungen, ohne einen starken Einbruch in der Nachfrage umzusetzen. Im Gegensatz dazu befinden sich Hersteller von Luxus- und Gebrauchsgütern in einer prekären Situation, da Verbraucher in Zeiten knapper Budgets zuerst auf solche Produkte verzichten.
-                        <br><br>
-                        Infolge der restriktiveren Geldpolitik der Zentralbanken ist die Inflation in den Vereinigten Staaten und in der Europäischen Union zurückgegangen. Parallel dazu hat sich das Wirtschaftswachstum in wichtigen Branchen und Märkten verlangsamt. Die Weltwirtschaft wurde durch die anhaltende Stärke des Dienstleistungssektors im Jahr 2023 gestützt, während das verarbeitende Gewerbe schrumpfte. In der Europäischen Union stagniert das Wirtschaftswachstum in 2023 mit 0.6%. Trotz der weit verbreiteten Vorhersagen einer Rezession im Jahr 2023 scheint sich die Vorstellung einer "weichen Landung" durchzusetzen. Dennoch ist die Situation sehr labil. Jeder weitere Schock, vor allem im Bereich der Supply-Chain-Risiken könnte zu erneuten Preissteigerungen und damit zur Verstärkung der Kosteninflation führen.
+                    <h2>Massnahmen der Zentralbanken und ihre Auswirkungen</h2>
+                    <p>
+                        Die Zentralbanken, allen voran die US-Notenbank (Fed) und die Europäische Zentralbank (EZB), haben mit aggressiven Zinserhöhungen versucht, die Inflation einzudämmen. Dies führte zu einer Abkühlung der Konjunktur, insbesondere im Immobilien- und Konsumsektor. Dennoch bleiben die Preise in vielen Bereichen hoch, vor allem bei Lebensmitteln, Energie und Dienstleistungen.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
+
+                    <div class="hidden-text">
+                        <h2>Geopolitische Spannungen als Preistreiber</h2>
+                        <p>
+                        Ein besonders kritischer Faktor ist die geopolitische Situation. Der anhaltende Krieg in der Ukraine sowie Spannungen im Nahen Osten und im Südchinesischen Meer bedrohen globale Lieferketten und treiben die Preise für Rohstoffe und Energie weiter in die Höhe. Besonders problematisch ist die zunehmende Unsicherheit der weltweiten Öl- und Gasversorgung, die auch 2024 stark von geopolitischen Konflikten abhängen wird.
+                        </p>
+
+                        <h2>Steigende Produktionskosten belasten Unternehmen</h2>
+                        <p>
+                        Gleichzeitig sehen sich die Unternehmen mit steigenden Produktionskosten konfrontiert. Steigende Mindestlöhne, strengere Umweltauflagen und ESG-Anforderungen zwingen die Unternehmen, ihre Kostenstrukturen anzupassen. Während grosse Konzerne diese Kosten oft weitergeben können, stehen kleinere Unternehmen vor erheblichen wirtschaftlichen Herausforderungen.
+                        </p>
+
+                        <h2>Unklare Zukunft der Geldpolitik</h2>
+                        <p>
+                        Die Entwicklung der Geldpolitik bleibt abzuwarten. In Europa wurden die Leitzinsen bereits gesenkt. Während einige Experten eine weitere Zinssenkung im Laufe des Jahres erwarten, warnen andere davor, dass eine zu schnelle Lockerung der Geldpolitik die Inflation wieder anheizen könnte. In den USA sind weitere Zinssenkungen bereits ausgeschlossen worden, da es zu einem neuen Aufheizen der Inflation kommen könnte.
+                        </p>
+                    </div>
+                    <button class="mBtn" data-open="true">mehr</button>
                 </div>
             </div>
             <div class="item40 bg">
@@ -127,15 +246,21 @@ Version 1.0
                 <h2>Abhängigkeit zu Events</h2>
                 <a href="global-event-ukrainekrieg" class="event bg">
                     <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg" alt="funk-global-risk-consensus-globale-events-ukrainekrieg">
+                        <img 
+                            src="img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg" 
+                            alt="Ukrainekrieg als geopolitisches Schlüsselereignis im Funk Global Risk Consensus" 
+                            loading="lazy">
                     </div>
                     <div class="eventtitle globalevent">
-                        <h1>Ukraine Krieg <br> 2022 - 2024</h1>
+                        <h1>Ukraine Krieg <br> 2022 - 2025</h1>
                     </div>
                 </a>
                 <a href="global-event-coronapandemie" class="event bg">
                     <div class="eventimg">
-                        <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
+                        <img 
+                            src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" 
+                            alt="Coronapandemie als globales Gesundheitsrisiko im Funk Global Risk Consensus" 
+                            loading="lazy">
                     </div>
                     <div class="eventtitle globalevent">
                         <h1>COVID-19 Pandemie <br> 2019 - 2023</h1>

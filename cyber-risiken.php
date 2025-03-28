@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Cyber-Risiken </title>
+    <title>Cyber-Risiken | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Hacker-Angriffe und Ausfälle der IT können heutzutage schwere Folgen haben. Viele Firmen unterschätzen die Gefahr, die von Cyber-Risiken ausgehen. Unternehmen sollten deshalb ganzheitlich denken und handeln.">
@@ -24,25 +24,24 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Cyber-Risiken">
+    <meta property="og:title" content="Cyber-Risiken | Funk Global Risk Consensus">
     <meta property="og:description" content="Hacker-Angriffe und Ausfälle der IT können heutzutage schwere Folgen haben. Viele Firmen unterschätzen die Gefahr, die von Cyber-Risiken ausgehen. Unternehmen sollten deshalb ganzheitlich denken und handeln.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensuscomh/cyber-risiken">
-    <meta property="og:image" content="https://funk-global-risk-consensuscomh/img/og-image.jpg">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/cyber-risiken">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Cyber-Risiken">
+    <meta name="twitter:title" content="Cyber-Risiken | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Hacker-Angriffe und Ausfälle der IT können heutzutage schwere Folgen haben. Viele Firmen unterschätzen die Gefahr, die von Cyber-Risiken ausgehen. Unternehmen sollten deshalb ganzheitlich denken und handeln.">
-    <meta name="twitter:image" content="https://funk-global-risk-consensuscomh/img/twitter-image.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">
@@ -56,6 +55,118 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Cyber-Risiken | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/cyber-risiken",
+        "description": "Cyber-Risiken nehmen rasant zu: KI-gestützte Angriffe, Deepfakes und Ransomware bedrohen Unternehmen, Behörden und Privatpersonen – inklusive kritischer Infrastrukturen.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Cyber-Risiken und ihre neuen Dimensionen durch KI und geopolitische Konflikte",
+            "articleBody": "Cyber-Risiken betreffen zunehmend Unternehmen, Behörden und Privatpersonen. Mit dem Einsatz von künstlicher Intelligenz und Deepfake-Technologien haben sich die Angriffsmethoden weiterentwickelt. Neue Formen wie Double-Extortion-Ransomware und gezielte Angriffe auf kritische Infrastrukturen erfordern umfassende technische und organisatorische Schutzmassnahmen.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Cyber-Risiken",
+            "Ransomware",
+            "KI-Angriffe",
+            "Deepfakes",
+            "kritische Infrastrukturen",
+            "Double-Extortion",
+            "Zero Trust",
+            "NIS2-Richtlinie"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cyber-Risiken",
+            "item": "https://funk-global-risk-consensus.com/cyber-risiken"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Was sind aktuelle Trends bei Cyber-Risiken?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "KI-gestützte Phishing-Angriffe, Deepfakes, Double-Extortion-Ransomware sowie gezielte Attacken auf kritische Infrastrukturen zählen zu den dominierenden Cyber-Bedrohungen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Was ist ein Double-Extortion-Angriff?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bei Double-Extortion werden Daten verschlüsselt und gleichzeitig gestohlen. Wird das Lösegeld nicht gezahlt, drohen Angreifer mit Veröffentlichung der sensiblen Informationen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie können sich Unternehmen gegen Cyber-Risiken schützen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unternehmen sollten Zero-Trust-Architekturen umsetzen, Mitarbeitende regelmässig schulen, Notfallpläne aktualisieren und regulatorische Vorgaben wie NIS2 einhalten."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -66,26 +177,38 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-cyberrisiken.jpg" alt="funk-global-risk-consensus-risiko-cyberrisiken">
+                <img 
+                    src="img/funk-global-risk-consensus-risiko-cyberrisiken.jpg" 
+                    alt="Cyberrisiken als zentrales Thema im Funk Global Risk Consensus" 
+                    loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Cyber-Risiken</h1>
+                    <h1>Cyber-Risiken: Neue Bedrohungen durch KI, Ransomware und geopolitische Angriffe</h1>
+
+                    <h2>Steigende Cyber-Risiken für Unternehmen und Privatpersonen</h2>
                     <p>
-                        <strong>Cyber-Risiken haben viele Formen</strong><br>
-                        Ransomware, Datendiebstähle, Zero Day-Sicherheitslücken, Supply Chain-Angriffe, DDoS-Angriffe, Phishing und Social Engineering: Jeden Tag sind Unternehmen wie auch Privatpersonen unzähligen Gefahren aus dem Netz ausgesetzt. Die Palette der möglichen Techniken und Taktiken von Cyber-Kriminellen ist sehr breit und anpassungsfähig, weshalb sie den Sicherheitsmassnahmen oft einen Schritt voraus sind. Darum ist es wichtig nicht nur eine solide, präventive Cyber-Abwehr zu haben, sondern auch eine dokumentierte und geübte Organisation der reaktiven Sicherheitsmassnahmen, wie Disaster Recovery, Business Continuity und Incident Response Planning. Die zahlreichen nationalen und internationalen Cyber-Vorfälle zeigen, dass es auch gut geschützte Unternehmen treffen kann und früher oder später jedes Unternehmen treffen wird.
+                        Cyber-Risiken haben in den letzten Jahren exponentiell zugenommen und betreffen nicht mehr nur Grosskonzerne, sondern auch mittelständische Unternehmen, Behörden und Privatpersonen. Insbesondere durch den verstärkten Einsatz von künstlicher Intelligenz (KI) und maschinellem Lernen bei Cyber-Angriffen haben die Bedrohungen eine neue Dimension erreicht. KI-gestützte Phishing-Kampagnen ermöglichen es Cyberkriminellen, personalisierte und schwer erkennbare Angriffe durchzuführen. Auch Deepfake-Technologien werden vermehrt eingesetzt, um CEO-Fraud oder Identitätsdiebstahl zu betreiben, bei dem Audio- und Videoimitationen von Entscheidungsträgern eingesetzt werden, um Mitarbeitende zu täuschen.
                     </p>
-                    <p class="hidden-text">
-                        <strong>Die unterschätzte Gefahr</strong><br>
-                        Viele Firmen unterschätzen immer noch die Gefahren, die von Cyber-Risiken ausgehen. Die Abhängigkeit von der eigenen IT wird oft als nicht allzu hoch wahrgenommen und dies, obwohl die Digitalisierung der Geschäftsmodelle und -prozesse seit Jahren voranschreitet. Der Ausfall kritischer Applikationen wie ERP oder CRM kann auch bei grösstenteils "analogen" Firmen zu Störungen in der Wertschöpfungsprozessen führen. Ergänzend dazu, gehen die meisten Ransomware-Angriffe mit Datendiebstählen einher, was zu einer Vertraulichkeitsverletzung oder je nach Art und Sensibilität der verarbeiteten Daten zu Datenschutzverletzung und damit rechtlichen Folgen für ein Unternehmen führen kann.
-                        <br><br>
-                        <strong>Insider Threat</strong><br>
-                        Die internen Informationssicherheitsrisiken werden oft unbeachtet gelassen. Eines davon ist das so genannte Insider Threat. Etwa 50% aller Datenschutz- und Vertraulichkeitsverletzungen sind auf eigene oder ehemalige Mitarbeitende und damit auf Insider Threats zurückzuführen. Dazu gehören nicht nur böswillig motivierte Datendiebstähle, sondern auch fahrlässige (unabsichtliche oder unwissentliche) Offenlegungen von Daten seitens der Angestellten. Weniger bekannt, aber ebenso weit verbreitet sind auch Fehlbedienungen von IT-Systemen durch Mitarbeitende (z.B. Fehlkonfigurationen), die ungewollte IT-Systemausfälle nach sich ziehen oder Daten im Internet exponieren können. All diese Risiken führen genauso wie Cyber-Angriffe zu erheblichen Schäden in Unternehmen.
-                        <br><br>
-                        <strong>Weitreichende Konsequenzen</strong><br>
-                        In einer Geschäftswelt, die zunehmend digitalisierter wird, kann der Ausfall einer oder im schlimmsten Fall mehrerer Anwendungen schnell ernsthafte Folgen haben. Die genauen Auswirkungen sind dabei sehr individuell und hängen vom Geschäftsmodell des betroffenen Unternehmens ab. Bei Produktionsunternehmen ist ein DDoS Angriff auf die Webseite weit weniger schlimm als der Ausfall der Fertigungsmaschinen. Bei einem Onlineshop sieht dies ganz anders aus. Ebenso hätte ein Datendiebstahl bei einem Produktionsunternehmen mit B2B-Geschäftsbeziehungen mildere Auswirkungen als bei einem Unternehmen, welches sich auf Endkonsumenten fokussiert und die Personendaten dieser strukturiert erfasst. Es ist daher essenziell die Auswirkungen von Cyber-Risiken zu verstehen. Nur dann kann ein angemessener Schutzbedarf abgeleitet, die notwendige Management-Attention geschaffen und die notwendigen Investitionen in Cyber-Security gesprochen und getätigt werden.
-                    </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
-                </div>
+
+                    <div class="hidden-text">
+                        <h2>Neue Dimension von Ransomware und Double-Extortion-Angriffen</h2>
+                        <p>
+                            Neben klassischen Ransomware-Angriffen, bei denen Unternehmensdaten verschlüsselt und erst gegen Zahlung eines Lösegelds wieder freigegeben werden, nimmt auch die Bedrohung durch sogenannte Double-Extortion-Angriffe zu. Dabei werden Daten nicht nur verschlüsselt, sondern auch gestohlen und veröffentlicht, wenn das Opfer nicht zahlt. Auf diese Weise wird das Backup-System umgangen, denn auch nach der Wiederherstellung der Daten besteht die Gefahr, dass schutzwürdige Daten veröffentlicht werden. Laut Berichten von IT-Sicherheitsfirmen haben sich diese Angriffe in den Jahren 2023 und 2024 weiter professionalisiert, mit neuen Akteuren und noch ausgefeilteren Methoden.
+                        </p>
+
+                        <h2>Gefahr für kritische Infrastrukturen durch Cyberangriffe</h2>
+                        <p>
+                        Ein weiteres Risiko stellen Angriffe auf kritische Infrastrukturen dar. Krankenhäuser, Wasserversorger und Energienetze geraten zunehmend ins Visier staatlich unterstützter Cyber-Gruppen. Staaten wie Russland, China und Nordkorea nutzen Cyberware zunehmend als Instrument der geopolitischen Auseinandersetzung.
+                        </p>
+
+                        <h2>Regulatorische Entwicklungen und Schutzmassnahmen</h2>
+                        <p>
+                        Auch die regulatorische Landschaft verändert sich: Die Europäische Union hat mit der NIS2-Richtlinie neue Vorgaben zur Cybersicherheit erlassen, die Unternehmen zu strengeren Sicherheitsmassnahmen verpflichten. Ähnliches gilt für die USA, wo Unternehmen mit kritischer Infrastruktur verstärkt zur Einhaltung von Cybersicherheitsstandards verpflichtet werden. Unternehmen müssen daher nicht nur ihre technischen Schutzmassnahmen verbessern, sondern auch ihre Notfallpläne und Incident-Response-Strategien regelmässig aktualisieren. Zero-Trust-Architekturen und umfassende Mitarbeiterschulungen sind unerlässlich, um der wachsenden Bedrohungslage zu begegnen.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
+                    </div>
             </div>
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
@@ -107,7 +230,7 @@ Version 1.0
                             <canvas id="cr-grafik-02"></canvas>
                         </div>
                     </div>
-                    <p class="dquelle">Source IBM X-Force Threat Intelligence Index 2023</p>
+                    <p class="dquelle">Source IBM X-Force Threat Intelligence Index 2024</p>
                 </div>
                 <div class="fakten bg">
                     <h1>Datenschutzvorfälle</h1>
@@ -117,7 +240,7 @@ Version 1.0
                             <canvas id="cr-grafik-01"></canvas>
                         </div>
                     </div>
-                    <p class="dquelle">Source IBM Security: Cost of a Data Breach Report 2023</p>
+                    <p class="dquelle">Source IBM Security: Cost of a Data Breach Report 2024</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->
@@ -126,7 +249,10 @@ Version 1.0
                 <div class="rdevents">
                     <a href="global-event-wannacry-ransomware" class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" alt="globale-events-wannacry-ransomware">
+                            <img 
+                                src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" 
+                                alt="WannaCry-Ransomware als globales Event im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
                             <h1>WannaCry <br> Ransomware - 2017</h1>
@@ -134,7 +260,10 @@ Version 1.0
                     </a>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-microsoft-exchange-exploit-2021.jpg" alt="event-microsoft-exchange-exploit-2021">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-microsoft-exchange-exploit-2021.jpg" 
+                                alt="Microsoft Exchange Exploit 2021 als sicherheitsrelevantes Event im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Microsoft Exchange <br> Exploit - 2021</h1>
@@ -147,7 +276,10 @@ Version 1.0
                     </div>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-solarwinds-luecke-2020.jpg" alt="event-solarwinds-luecke-2020">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-solarwinds-luecke-2020.jpg" 
+                                alt="SolarWinds-Sicherheitslücke 2020 als globales IT-Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>SolarWinds Lücke - 2020</h1>

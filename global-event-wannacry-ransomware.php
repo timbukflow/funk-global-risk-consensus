@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | WannaCry Ransomware </title>
+    <title>WannaCry Ransomware | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Eine gefährliche Ransomware, die im Jahr 2017 weltweit für Chaos sorgte. Sie verschlüsselte Daten und forderte Lösegeldzahlungen. Ein Weckruf für Cybersicherheit.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | WannaCry Ransomware">
+    <meta property="og:title" content="WannaCry Ransomware | Funk Global Risk Consensus">
     <meta property="og:description" content="Eine gefährliche Ransomware, die im Jahr 2017 weltweit für Chaos sorgte. Sie verschlüsselte Daten und forderte Lösegeldzahlungen. Ein Weckruf für Cybersicherheit.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-wannacry-ransomware">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | WannaCry Ransomware">
+    <meta name="twitter:title" content="WannaCry Ransomware | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Eine gefährliche Ransomware, die im Jahr 2017 weltweit für Chaos sorgte. Sie verschlüsselte Daten und forderte Lösegeldzahlungen. Ein Weckruf für Cybersicherheit.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,121 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "WannaCry Ransomware | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/global-event-wannacry-ransomware",
+        "description": "WannaCry verursachte 2017 einen weltweiten Cyber-Notstand. Die Ransomware legte Systeme lahm, verschlüsselte Daten und verursachte Milliardenschäden – ein Wendepunkt der IT-Sicherheit.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "WannaCry Ransomware: Die globale Cyberattacke von 2017",
+            "articleBody": "Im Mai 2017 verbreitete sich WannaCry rasant über Windows-Systeme und verschlüsselte weltweit Daten. Betroffen waren unter anderem Krankenhäuser, Logistikunternehmen und Infrastrukturen in über 150 Ländern. Die Schadsoftware forderte Bitcoin-Zahlungen zur Datenfreigabe und verursachte Schäden in Milliardenhöhe. Als mutmassliche Urheber gilt die nordkoreanische Lazarus-Gruppe.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "WannaCry",
+            "Ransomware",
+            "Cyberangriff",
+            "Lazarus Gruppe",
+            "Cyber-Sicherheit",
+            "IT-Bedrohung",
+            "Bitcoin Erpressung",
+            "globale Cyberattacke",
+            "Sicherheitslücke SMB",
+            "Microsoft Patch"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg",
+            "width": 1410,
+            "height": 940
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "WannaCry Ransomware",
+            "item": "https://funk-global-risk-consensus.com/global-event-wannacry-ransomware"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Was ist WannaCry?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "WannaCry ist eine Ransomware, die sich 2017 weltweit über eine Windows-Sicherheitslücke verbreitete und Daten auf infizierten Geräten verschlüsselte."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie verbreitete sich WannaCry?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Die Malware nutzte eine Schwachstelle im SMB-Protokoll von Windows und konnte sich automatisch im Netzwerk weiterverbreiten."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wer steckte hinter WannaCry?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Die Angriffe wurden mutmasslich von der nordkoreanischen Hackergruppe Lazarus durchgeführt, laut mehreren Geheimdiensten und Sicherheitsexperten."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
+
 </head>
 
 <body class="gebg">
@@ -67,7 +181,10 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="bg globalfakten">
                 <div class="globaleventimg">
-                      <img src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" alt="funk-global-risk-consensus-globale-events-wannacry-ransomware">
+                    <img 
+                        src="img/funk-global-risk-consensus-globale-events-wannacry-ransomware.jpg" 
+                        alt="WannaCry-Ransomware als globales Event im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
@@ -130,7 +247,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="cyber-risiken">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-cyberrisiken.jpg" alt="funk-global-risk-consensus-risiko-cyberrisiken">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-cyberrisiken.jpg" 
+                                alt="Cyberrisiken als zentrales Thema im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Cyber-Risiken</h1>

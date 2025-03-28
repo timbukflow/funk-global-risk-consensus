@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Brexit </title>
+    <title>Brexit | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Der Austritt des Vereinigten Königreichs aus der EU. Ein historischer Schritt mit weitreichenden politischen, wirtschaftlichen und sozialen Folgen.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Brexit">
+    <meta property="og:title" content="Brexit | Funk Global Risk Consensus">
     <meta property="og:description" content="Der Austritt des Vereinigten Königreichs aus der EU. Ein historischer Schritt mit weitreichenden politischen, wirtschaftlichen und sozialen Folgen.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-brexit">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Brexit">
+    <meta name="twitter:title" content="Brexit | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Der Austritt des Vereinigten Königreichs aus der EU. Ein historischer Schritt mit weitreichenden politischen, wirtschaftlichen und sozialen Folgen.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,118 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Brexit | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/global-event-brexit",
+        "description": "Der Brexit – ein historischer Schritt mit weitreichenden wirtschaftlichen, politischen und sozialen Folgen für Unternehmen, Handel und Gesellschaft.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Brexit und seine wirtschaftlichen und politischen Auswirkungen",
+            "articleBody": "Der Brexit bezeichnet den Austritt des Vereinigten Königreichs aus der Europäischen Union. Seit dem offiziellen Austritt am 31. Januar 2020 hat sich vieles verändert: Handelsabkommen, Regulierungen, Zölle, Lieferketten und Unternehmensstrategien. Unternehmen kämpfen mit Mehraufwand, Unsicherheit und zusätzlichen Kosten.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Brexit",
+            "EU-Austritt",
+            "Handelsabkommen",
+            "Zollregulierungen",
+            "Grossbritannien",
+            "wirtschaftliche Folgen",
+            "Dienstleistungsfreiheit",
+            "Lieferketten"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-brexit.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Brexit",
+            "item": "https://funk-global-risk-consensus.com/global-event-brexit"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Was bedeutet Brexit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brexit steht für den Austritt des Vereinigten Königreichs aus der EU – ein Prozess, der 2016 durch ein Referendum eingeleitet und 2020 offiziell vollzogen wurde."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche wirtschaftlichen Folgen hat der Brexit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unternehmen sehen sich mit höheren Zollkosten, regulatorischen Hürden, längeren Lieferzeiten und einem Rückgang der Dienstleistungsfreiheit konfrontiert."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche Herausforderungen bestehen weiterhin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Einige Handelsregelungen, vor allem im Dienstleistungsbereich, sind noch nicht abschliessend geklärt. Es herrscht weiterhin Unsicherheit bei vielen Unternehmen."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body class="gebg">
@@ -67,7 +178,10 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="bg globalfakten">
                 <div class="globaleventimg">
-                      <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
+                    <img 
+                        src="img/funk-global-risk-consensus-globale-events-brexit.jpg" 
+                        alt="Brexit als geopolitisches Ereignis im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
@@ -103,7 +217,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="aendernde-regulierungen">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" alt="funk-global-risk-consensus-risiko-aendernde-regulierungen">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" 
+                                alt="Ändernde Regulierungen als rechtliches Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Ändernde Regulierungen</h1>
@@ -113,7 +230,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="politische-risiken">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-politische-risiken.jpg" alt="funk-global-risk-consensus-risiko-politische-risiken">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-politische-risiken.jpg" 
+                                alt="Politische Risiken im Fokus des Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Politische Risiken</h1>

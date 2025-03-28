@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | US – EU Handelskrieg </title>
+    <title>US–EU Handelskrieg | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Ein Konflikt zwischen den USA und der EU, der durch gegenseitige Strafzölle und Handelsbeschränkungen entstanden ist. Er hat negative Auswirkungen auf die Wirtschaft beider Seiten und erschwert den internationalen Handel.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | US – EU Handelskrieg">
+    <meta property="og:title" content="US–EU Handelskrieg | Funk Global Risk Consensus">
     <meta property="og:description" content="Ein Konflikt zwischen den USA und der EU, der durch gegenseitige Strafzölle und Handelsbeschränkungen entstanden ist. Er hat negative Auswirkungen auf die Wirtschaft beider Seiten und erschwert den internationalen Handel.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-us-eu-handelskrieg">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | US – EU Handelskrieg">
+    <meta name="twitter:title" content="US–EU Handelskrieg | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Ein Konflikt zwischen den USA und der EU, der durch gegenseitige Strafzölle und Handelsbeschränkungen entstanden ist. Er hat negative Auswirkungen auf die Wirtschaft beider Seiten und erschwert den internationalen Handel.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,119 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "US–EU Handelskrieg | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/global-event-us-eu-handelskrieg",
+        "description": "Der US–EU Handelskrieg wurde durch Strafzölle ausgelöst und belastet seit 2018 die transatlantischen Beziehungen. Trotz Dialog bleiben zentrale Handelsfragen offen.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "US–EU Handelskonflikt: Strafzölle, Technologie und diplomatische Spannungen",
+            "articleBody": "Seit 2018 sind die Handelsbeziehungen zwischen den USA und der EU angespannt. Strafzölle auf Stahl und Aluminium sowie Vergeltungsmassnahmen auf europäische Exporte wie Whiskey oder Erdnussbutter sorgten für eine neue Phase transatlantischer Spannungen. Zwar gibt es unter Präsident Biden Dialoginitiativen, viele Handelsfragen wie Subventionen, Digitalsteuer und Luftfahrtkonkurrenz bleiben jedoch ungelöst.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "US-EU Handelskrieg",
+            "Strafzölle",
+            "transatlantische Beziehungen",
+            "Stahlzölle",
+            "Technologiepolitik",
+            "politische Risiken",
+            "digitaler Handel",
+            "Handelskonflikt USA EU"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg",
+            "width": 1410,
+            "height": 940
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "US–EU Handelskrieg",
+            "item": "https://funk-global-risk-consensus.com/global-event-us-eu-handelskrieg"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Was ist der Ursprung des US–EU Handelskriegs?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Die USA verhängten 2018 unter Präsident Trump Zölle auf Stahl- und Aluminiumimporte aus der EU, was zu Gegenmassnahmen der EU führte."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche Produkte waren betroffen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unter anderem europäischer Stahl, Aluminium, aber auch US-Produkte wie Whiskey, Motorräder, Orangensaft oder Erdnussbutter."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Gibt es eine Lösung des Konflikts?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Es gab Annäherungen und temporäre Aussetzungen der Zölle, doch viele Themen wie digitale Steuern und Industriesubventionen sind weiterhin strittig."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
+
 </head>
 
 <body class="gebg">
@@ -67,7 +179,10 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="bg globalfakten">
                 <div class="globaleventimg">
-                      <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
+                    <img 
+                        src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" 
+                        alt="US-EU-Handelskrieg als globales wirtschaftliches Ereignis im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
@@ -110,7 +225,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="aendernde-regulierungen">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" alt="funk-global-risk-consensus-risiko-aendernde-regulierungen">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" 
+                                alt="Ändernde Regulierungen als rechtliches Risiko im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Ändernde Regulierungen</h1>
@@ -120,7 +238,10 @@ Version 1.0
                 <div class="azr bg">
                     <a href="politische-risiken">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-risiko-politische-risiken.jpg" alt="funk-global-risk-consensus-risiko-politische-risiken">
+                            <img 
+                                src="img/funk-global-risk-consensus-risiko-politische-risiken.jpg" 
+                                alt="Politische Risiken im Fokus des Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Politische Risiken</h1>

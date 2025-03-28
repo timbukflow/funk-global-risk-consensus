@@ -1,10 +1,10 @@
 $(document).ready(function() {
   // Risiko Entwicklung
   const data = {
-    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"],
+    labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"],
     datasets: [{
       label: "Entwicklung",
-      data: [0, 16, 15, 18, 16, 14, 15, 19],
+      data: [0, 16, 15, 18, 16, 14, 15, 19, 18],
       borderColor: "#005092",
       borderWidth: 1,
       backgroundColor: "#005092",

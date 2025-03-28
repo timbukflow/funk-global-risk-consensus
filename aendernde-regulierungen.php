@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Ändernde Regulierungen </title>
+    <title>Ändernde Regulierungen | Funk Global Risk Consensus </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Ändernde Regulierungen">
+    <meta property="og:title" content="Ändernde Regulierungen | Funk Global Risk Consensus">
     <meta property="og:description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/aendernde-regulierungen">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Ändernde Regulierungen">
+    <meta name="twitter:title" content="Ändernde Regulierungen | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Viele Firmen sind sich der Bedeutung von Red Tape bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,117 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Regulatorische Veränderungen & Compliance-Risiken | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/aendernde-regulierungen",
+        "description": "Regulatorische Veränderungen wie CSRD, EUDR oder Brexit-Vorgaben erhöhen den Druck auf Unternehmen. Lesen Sie, wie Firmen auf neue Richtlinien reagieren sollten.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Ändernde Regulierungen als Risikofaktor für Unternehmen",
+            "articleBody": "Regulatorische Veränderungen gehören zu den grössten Herausforderungen für Unternehmen. Neue Vorgaben wie die EU-Lieferkettenrichtlinie (CSRD) oder die Entwaldungsverordnung (EUDR) zwingen Firmen, ihre Geschäftsprozesse zu überarbeiten. Verstösse können hohe Strafen nach sich ziehen. KMU stehen dabei besonders unter Druck. Auch geopolitische Unsicherheiten und der Brexit erschweren den internationalen Handel. Unternehmen benötigen heute dynamische Compliance-Strategien und ein proaktives Monitoring der regulatorischen Lage in ihren Zielmärkten.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Regulatorische Risiken",
+            "Lieferkettengesetz",
+            "CSRD",
+            "EUDR",
+            "Compliance",
+            "Brexit-Handel",
+            "Funk Global Risk Consensus"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Ändernde Regulierungen",
+            "item": "https://funk-global-risk-consensus.com/aendernde-regulierungen"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Welche regulatorischen Änderungen betreffen Unternehmen aktuell?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zu den wichtigsten regulatorischen Änderungen zählen die EU-Lieferkettenrichtlinie (CSRD), die Entwaldungsverordnung (EUDR) sowie neue Datenschutz- und Umweltvorgaben. Auch der Brexit sorgt für zusätzliche Anforderungen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Was bedeutet das für KMU?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kleine und mittlere Unternehmen haben oft nicht die Ressourcen, um lückenlose Nachverfolgung in ihren Lieferketten zu gewährleisten. Sie sind daher besonders stark von den neuen Pflichten betroffen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie können Unternehmen sich vorbereiten?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wichtig sind ein strategisches Monitoring der regulatorischen Entwicklungen sowie Kooperationen mit Branchenlösungen. Auch Investitionen in Compliance-Systeme und Transparenz in der Lieferkette sind entscheidend."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -66,23 +176,37 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" alt="funk-global-risk-consensus-risiko-aendernde-regulierungen">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg" 
+                        alt="Ändernde Regulierungen als rechtliches Risiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Ändernde Regulierungen</h1>
+                    <h1>Ändernde Regulierungen: Anpassungsdruck für Unternehmen</h1>
+
+                    <h2>Regulatorische Veränderungen als Herausforderung für Unternehmen</h2>
                     <p>
-                        <strong>Firmen wollen Kontinuität</strong><br>
-                        Viele Firmen sind sich der Bedeutung von "Red Tape" bewusst. Unnötige und komplizierte bürokratische Hürden und Anforderungen erschweren die Marktteilnahme und verursachen Kosten, ohne einen Mehrwert zu bieten.
-                        <br><br>
-                        Was oft jedoch unterschätzt wird und noch viel grössere Kopfschmerzen verursacht sind konstant ändernde Regulierungen. Wenn Prozesse und Dokumentationen andauernd angepasst werden müssen, weil sich die Anforderungen ändern, geht viel Effizienz und so Produktivität verloren. Im schlimmsten Fall muss sogar auf die Teilnahme an einem bestimmten Markt verzichtet werden, da die Kosten für Compliance höher sind als der erwartete Ertrag.
+                        Regulatorische Veränderungen gehören zu den grössten Herausforderungen für Unternehmen. Insbesondere in den letzten Jahren haben neue Umwelt- und Datenschutzrichtlinien dazu geführt, dass Unternehmen ihre Geschäftsprozesse umfassend anpassen mussten.
                     </p>
-                    <p class="hidden-text">
-                        <strong>Brexit und die Folgen</strong><br>
-                        Weil ändernde Regulierungen ein konstantes Risiko darstellen und in allen Märkten und Rechtsräumen vorkommen, hat der Brexit und die daraus resultierenden Folgen für den EU-Binnenmarkt das Risiko greifbar gemacht. Innerhalb von 3.5 Jahren ist der UK-Markt bis Ende 2020 aus dem EU-Binnenmarkt gelöst worden, was grosse Verwerfungen nach sich zog. Nach dem Austritt mussten Produkte, die zuvor nur für den Binnenmarkt zertifiziert waren, zusätzlich nochmals für den UK-Markt zertifiziert werden, um den Verkauf in beiden Märkten zu ermöglichen. Das bedeutet mehr Aufwand und mehr Kosten. Zudem müssen Produkte beim Import und Export nach Grossbritannien jetzt auch auf ihre Zertifizierung geprüft werden. Dies führt zu mehr Aufwand und Kosten bei der Zulassung und dem Handel von Produkten.
-                        <br><br>
-                        Je mehr solche verschiedenen Märkte vorhanden sind, desto grösser ist das Risiko einer Änderung der Regulierungen in einem der Märkte. Unter Umständen kann dies die gesamte Produktion betreffen, da es kostspielig wäre, speziell für jeden Markt zu produzieren. Daher müsste die gesamte Produktion umgestellt werden, um den Anforderungen einer Marktregulierung gerecht zu werden. Dies reduziert die Produktivität und so die Wettbewerbsfähigkeit der Firmen.
+
+                    <h2>Neue Umwelt- und Lieferkettenrichtlinien in der EU</h2>
+                    <p>
+                        Zwei aktuelle Beispiele sind die EU-Lieferkettenrichtlinie (CSRD) und die Entwaldungsverordnung (EUDR), die Unternehmen verpflichten, ihre Lieferanten hinsichtlich Herkunft und Gewinnung von Rohstoffen, Produkten und deren Herstellung strenger zu kontrollieren. Verstösse gegen Umwelt- oder Menschenrechtsstandards können hohe Strafen nach sich ziehen. Vor allem kleine und mittlere Unternehmen (KMU) haben Schwierigkeiten, diese Anforderungen zu erfüllen, da ihnen oft die Ressourcen für eine lückenlose Kontrolle fehlen.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
+
+                    <div class="hidden-text">
+                        <h2>Regulatorische Unsicherheiten in den USA und nach dem Brexit</h2>
+                        <p>
+                        Auch in den USA bestehen regulatorische Unsicherheiten. Handelszölle und geopolitische Spannungen mit China führen zu Verzögerungen und zusätzlichen Kosten im internationalen Handel. Nach dem Brexit bleiben zusätzliche Zertifizierungsanforderungen für den Handel mit Grossbritannien notwendig, was die Kosten für Exporteure erhöht.
+                        </p>
+
+                        <h2>Strategie zur Anpassung an neue Regulierungen</h2>
+                        <p>
+                        Der Trend geht dahin, dass Unternehmen flexiblere Compliance-Strategien benötigen, um sich schnell an neue regulatorische Anforderungen anpassen zu können. Ein strategisches Monitoring der regulatorischen Situation in den wichtigsten Märkten und wenn möglich der Anschluss an Branchenlösungen zur Vereinfachung der Prozesse können helfen, diese Herausforderungen besser zu meistern.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
                 </div>
             </div>
 
@@ -122,7 +246,10 @@ Version 1.0
                 <div class="rdevents" id="container">
                     <a href="global-event-us-china-handelskrieg" class="event bg green">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-china-handelskrieg">
+                            <img 
+                                src="img/funk-global-risk-consensus-globale-events-us-china-handelskrieg.jpg" 
+                                alt="US-China-Handelskrieg als wirtschaftlich-politisches Ereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
                             <h1>US-China Handelskrieg <br> 2018 - 2023</h1>
@@ -130,7 +257,10 @@ Version 1.0
                     </a>
                     <a href="global-event-us-eu-handelskrieg" class="event bg green">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" alt="funk-global-risk-consensus-globale-events-us-eu-handelskrieg">
+                            <img 
+                                src="img/funk-global-risk-consensus-globale-events-us-eu-handelskrieg.jpg" 
+                                alt="US-EU-Handelskrieg als globales wirtschaftliches Ereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
                             <h1>US-EU Handelskrieg <br> 2018 - 2021</h1>
@@ -138,7 +268,10 @@ Version 1.0
                     </a>
                     <a href="global-event-brexit" class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-brexit.jpg" alt="funk-global-risk-consensus-globale-events-brexit">
+                            <img 
+                                src="img/funk-global-risk-consensus-globale-events-brexit.jpg" 
+                                alt="Brexit als geopolitisches Ereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
                             <h1>Brexit 2016 - 2020</h1>
@@ -146,7 +279,10 @@ Version 1.0
                     </a>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-oecd-mindeststeuer-2021.jpg" alt="funk-global-risk-consensus-event-oecd-mindeststeuer-2021">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-oecd-mindeststeuer-2021.jpg" 
+                                alt="OECD-Mindeststeuer 2021 als bedeutendes wirtschaftspolitisches Ereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>OECD-Mindeststeuer - 2021 </h1>

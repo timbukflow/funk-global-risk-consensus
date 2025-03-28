@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Fachkräftemangel </title>
+    <title>Fachkräftemangel | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Dieser globale Fachkräftemangel hat mehrere Gründe.">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta property="og:title" content="Fachkräftemangel | Funk Global Risk Consensus">
     <meta property="og:description" content="Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Dieser globale Fachkräftemangel hat mehrere Gründe.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/fachkraeftemangel">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Fachkräftemangel">
+    <meta name="twitter:title" content="Fachkräftemangel | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Dieser globale Fachkräftemangel hat mehrere Gründe.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,118 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Fachkräftemangel | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/fachkraeftemangel",
+        "description": "Fachkräftemangel bleibt auch 2024 eine zentrale Herausforderung – verstärkt durch demografischen Wandel, neue Anforderungen und veränderte Erwartungen der Arbeitnehmer.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Fachkräftemangel als strukturelle Herausforderung für Wirtschaft und Gesellschaft",
+            "articleBody": "Der Fachkräftemangel betrifft zunehmend viele Branchen – von IT über Pflege bis zum Handwerk. Gründe dafür sind der demografische Wandel, technologische Entwicklungen und veränderte Ansprüche der Arbeitskräfte. Unternehmen sind gefordert, in Weiterbildung, neue Arbeitsmodelle und Mitarbeiterbindung zu investieren.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Fachkräftemangel",
+            "Arbeitsmarkt",
+            "Demografie",
+            "Weiterbildung",
+            "New Work",
+            "hybride Arbeitsmodelle",
+            "Mitarbeiterbindung",
+            "Automatisierung"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Fachkräftemangel",
+            "item": "https://funk-global-risk-consensus.com/fachkraeftemangel"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Welche Ursachen hat der Fachkräftemangel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Er entsteht durch den demografischen Wandel, fehlenden Nachwuchs, technologische Umbrüche und sich wandelnde Ansprüche der Arbeitskräfte."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche Branchen sind besonders betroffen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vor allem IT-Berufe, Pflegeberufe, das Handwerk sowie technische und industrielle Bereiche leiden unter akutem Fachkräftemangel."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Wie können Unternehmen dem Fachkräftemangel begegnen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Durch gezielte Weiterbildung, Mitarbeiterbindung, flexible Arbeitsmodelle, Förderung hybrider Arbeitsformen und attraktive Rahmenbedingungen."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -66,24 +177,41 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" alt="funk-global-risk-consensus-risiko-fachkraeftemangel">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg" 
+                        alt="Fachkräftemangel als wirtschaftliches Risiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Fachkräftemangel</h1>
+                    <h1>Fachkräftemangel: Herausforderungen und Chancen für Unternehmen</h1>
+
+                    <h2>Fachkräftemangel bleibt eine zentrale Herausforderung</h2>
                     <p>
-                        <strong>Nachfolgeplanung</strong><br>
-                        Viele KMU stehen vor oder befinden sich bereits im Generationswechsel der Geschäftsleitung. Dieser Übergang stellt eine bedeutende Herausforderung dar, da es schwierig ist, geeignete Nachfolger zu finden. Einerseits herrscht weniger Loyalität bei den Mitarbeitern, was die Suche erschwert, und andererseits werden qualifizierte Führungskräfte immer seltener, wodurch der Aufbau langfristiger Nachfolgelösungen erschwert wird.
+                        Der Fachkräftemangel bleibt auch 2024 eine der grössten Herausforderungen für Unternehmen weltweit. Besonders betroffen sind IT-Berufe, Pflegeberufe und das Handwerk.
                     </p>
-                    <p class="hidden-text">
-                        <strong>Spezialisierung</strong><br>
-                        Im Zuge des Wandels vieler Berufsbilder vom Alleskönner zum Spezialisten wird der Fachkräftemangel immer deutlicher spürbar. Es gibt einen wachsenden Mangel an Talenten mit den erforderlichen Ausbildungen, um diese spezialisierten Positionen besetzen zu können. Dieser Fachkräftemangel hat mehrere Gründe: Einige Fachberufe sind zwar stark nachgefragt, aber bieten nicht genügend Attraktivität, um ausreichend Interessierte anzuziehen. Dieses Phänomen ist insbesondere im Bereich der Pflege zu beobachten.
-                        <br><br>
-                        
-                        <strong>Bevölkerungsstruktur</strong><br>
-                        Ein weiterer Grund für den Fachkräftemangel ist die fortlaufende Digitalisierung. Immer mehr Jobs benötigen einen soliden IT-Background, jedoch wird in der Ausbildung noch zu wenig Wert auf diese Fähigkeiten gelegt. Ein weiteres Problem ist die Alterspyramide in den meisten westlichen Nationen: Die "Babyboomer-Generation" erreicht das Pensionierungsalter und viele Fachkräfte verlassen den Arbeitsmarkt auf der anderen Seite kommen aufgrund der seit längerer Zeit geringen Geburtenrate weniger neue Arbeitskräfte nach. Diese Lücke wird versucht durch Immigration zu schliessen. Dies gelingt aber nur bedingt, da ganz Europa mit demselben Problem zu kämpfen hat und das Problem sich so nur verlagert und nicht löst.
+
+                    <h2>Demografischer Wandel verschärft das Problem</h2>
+                    <p>
+                        Ein wesentlicher Grund dafür ist die demografische Entwicklung. Die geburtenstarken Jahrgänge gehen in Rente, während zu wenig junge Fachkräfte nachrücken. Vor allem in Europa und Nordamerika führt dies zu einem wachsenden Ungleichgewicht auf dem Arbeitsmarkt. Gleichzeitig erfordert der technologische Fortschritt neue Qualifikationen, die in vielen Ausbildungssystemen bislang nicht ausreichend berücksichtigt werden.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
-                </div>
+
+                    <div class="hidden-text">
+                        <h2>Lösungsansätze und Erwartungen der Arbeitnehmer</h2>
+                        <p>
+                        Verschiedene Regierungen setzen verstärkt auf Migration und Umschulungsprogramme, um diese Lücke zu schliessen. KI und Automatisierung könnten langfristig helfen, einige Aufgaben zu übernehmen, aber in vielen Bereichen bleiben qualifizierte Fachkräfte unverzichtbar.
+                        </p>
+
+                        <p>
+                        Neben den demografischen Herausforderungen verändern sich auch die Ansprüche der Arbeitnehmer an ihre Arbeit. Die Work-Life-Balance gewinnt an Bedeutung und die Nachfrage nach Teilzeit- und Heimarbeitsplätzen sowie hybriden Arbeitsformen nimmt zu. Dieser Wandel führt zu Spannungen und erfordert flexible Prozesse, um die Produktivität auch unter diesen Bedingungen hochzuhalten.
+                        </p>
+
+                        <p>
+                        Unternehmen müssen daher verstärkt in Mitarbeiterbindung, Weiterbildung und neue Arbeitsmodelle investieren, um wettbewerbsfähig zu bleiben.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
+                    </div>
             </div>
 
             <div class="item40 bg">
@@ -99,8 +227,8 @@ Version 1.0
             <div class="rdcfakten">
                 <h2>Interessante Fakten</h2>
                 <div class="fakten bg">
-                    <h1>Der globale Fachkräftemangel erreicht den höchsten Stand seit 17 Jahren</h1>
-                    <p>Weltweit beklagen immer mehr Arbeitgeber, dass Sie ihre ausgeschriebenen Stellen nicht adäquat besetzen können. Im Jahr 2023 haben beinahe 4 von 5 befragten Arbeitgeber angegeben, dass Sie Mühe hatten eine passende Fachkraft zu finden.</p>
+                    <h1>Globaler Fachkräftemangel</h1>
+                    <p>Weltweit beklagen immer mehr Arbeitgeber, dass Sie ihre ausgeschriebenen Stellen nicht adäquat besetzen können. Im Jahr 2025 haben beinahe 3 von 4 befragten Arbeitgeber angegeben, dass Sie Mühe hatten eine passende Fachkraft zu finden.</p>
                     <div class="mchartscont">
                         <div class="mcharts">
                             <canvas id="fachkraeftemangel-grafik-01"></canvas>
@@ -109,13 +237,14 @@ Version 1.0
                     <p class="dquelle">Quelle: ManpowerGroup</p>
                 </div>
                 <div class="fakten bg">
-                    <h1>Folgende Fähigkeiten werden bei der Rekrutierung am weltweit meisten gesucht</h1>
+                    <h1>Fachkräftemangel in der Schweiz</h1>
+                    <p>Die folgende Grafik zeigt die Stellenausschreibungen in der Reihenfolge Ihrer Häufigkeit inklusive der geforderten Ausbildung.</p>
                     <div class="mchartscont">
                         <div class="mcharts">
                             <canvas id="fachkraeftemangel-grafik-02"></canvas>
                         </div>
                     </div>
-                    <p class="dquelle">Quelle: ManpowerGroup</p>
+                    <p class="dquelle">Quelle: The Adecco Group</p>
                 </div>
             </div>
             <!-- Abhängigkeit zu Events -->
@@ -124,7 +253,10 @@ Version 1.0
                 <div class="rdevents" id="container">
                     <a href="global-event-coronapandemie" class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" alt="funk-global-risk-consensus-globale-events-coronapandemie">
+                            <img 
+                                src="img/funk-global-risk-consensus-globale-events-coronapandemie.jpg" 
+                                alt="Coronapandemie als globales Gesundheitsereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
                             <h1>COVID-19 Pandemie <br> 2019 - 2023</h1>

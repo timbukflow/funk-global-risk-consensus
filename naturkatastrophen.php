@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Naturkatastrophen </title>
+    <title>Naturkatastrophen | Funk Global Risk Consensus </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Naturkatastrophen">
+    <meta property="og:title" content="Naturkatastrophen | Funk Global Risk Consensus">
     <meta property="og:description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/naturkatastrophen">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Naturkatastrophen">
+    <meta name="twitter:title" content="Naturkatastrophen | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Grosse Naturkatastrophen haben ein gewaltiges Zerstörungspotenzial und mehrdimensionale Auswirkungen. Obwohl sie selten eintreten, ist es wichtig, sich auch auf solche Risiken vorzubereiten. ">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,117 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Naturkatastrophen | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/naturkatastrophen",
+        "description": "Naturkatastrophen wie Erdbeben, Tsunamis und Vulkanausbrüche verursachen enorme Schäden. Erfahren Sie, wie Unternehmen sich vorbereiten können – mit Funk Global Risk Consensus.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Naturkatastrophen: Grosses Risiko trotz seltener Eintrittswahrscheinlichkeit",
+            "articleBody": "Naturkatastrophen wie Erdbeben, Vulkanausbrüche oder Tsunamis stellen für Unternehmen weltweit eine erhebliche Gefahr dar. Neben der direkten Zerstörung kommt es oft zu Lieferkettenunterbrüchen, Produktionsausfällen oder Marktverlusten – selbst wenn das eigene Unternehmen geografisch verschont bleibt. Gerade weil Naturkatastrophen selten auftreten, werden sie in der Risikoabwägung häufig vernachlässigt. Doch ihre potenziellen Folgen sind enorm.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Naturkatastrophen",
+            "Erdbeben",
+            "Tsunami",
+            "Vulkanausbruch",
+            "Krisenprävention",
+            "Lieferketten",
+            "Katastrophenmanagement"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Naturkatastrophen",
+            "item": "https://funk-global-risk-consensus.com/naturkatastrophen"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Welche Naturkatastrophen stellen für Unternehmen die grösste Gefahr dar?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zu den gefährlichsten Naturkatastrophen zählen Erdbeben, Tsunamis und Vulkanausbrüche. Sie verursachen nicht nur physische Schäden, sondern können globale Lieferketten lahmlegen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Warum ist das Risiko von Naturkatastrophen schwer greifbar?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da Naturkatastrophen selten auftreten, unterschätzen viele Unternehmen ihre Risiken. Ihr grosses Schadenpotenzial macht sie jedoch zu einem kritischen Risikofaktor in der Unternehmensplanung."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Welche indirekten Folgen können Naturkatastrophen für Unternehmen haben?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Auch ohne direkte Betroffenheit können Unternehmen durch unterbrochene Lieferketten, Produktionsausfälle, Flugverkehrsstillstände oder Tourismusverluste betroffen sein."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
 </head>
 
 <body>
@@ -69,22 +179,31 @@ Version 1.0
                       <img src="img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg" alt="funk-global-risk-consensus-risiko-naturkatastrophen">
                 </div>
                 <div class="rdcontent">
-                    <h1>Naturkatastrophen</h1>
-                    <p>
-                        <strong>Gewaltiges Zerstörungspotenzial</strong><br>
-                        Erdbeben, Tsunamis, Vulkanausbrüche. Sobald über eine dieser Events in den Medien berichtet wird, bedeutet dies meistens, dass irgendwo auf der Welt eine Katastrophe stattgefunden hat. Tausende Todesopfer und Milliardenschäden an Gebäuden und Infrastruktur sind keine Seltenheit, wenn diese Naturkatastrophen in der Nähe von stark überbauten Gebieten auftreten. Pompei, Haiti, Fukushima oder Sumatra - viele Menschen assoziieren diese Orte direkt mit schlimmen Naturkatastrophen.
-                    </p>
-                    <p class="hidden-text">
-                        <strong>Ein schwer greifbares Risiko</strong><br>
-                        Glücklicherweise sind grosse Naturkatastrophen relativ selten. Dies kann jedoch auch ein Problem sein, da sie dadurch sehr schwer als Risiko greifbar sind. Oft werden diese Risiken aufgrund ihrer geringen Eintrittswahrscheinlichkeit vernachlässigt, obwohl sie, falls sie dann eintreten, oft einen Totalschaden verursachen. Daher ist es wichtig, sich auch auf solche Risiken vorzubereiten, obwohl oft davon ausgegangen werden kann, dass sie während einer Managementkarriere nie eintreten werden.
-                        <br><br>
+                    <h1>Naturkatastrophen: Unberechenbare Risiken mit massiven Folgen</h1>
 
-                        <strong>Mehrdimensionale Auswirkungen</strong><br>
-                        Ein sehr gefährlicher Aspekt grosser Naturkatastrophen ist, dass Sie grosse Auswirkungen auf ein Unternehmen haben können, ohne dass man selbst direkt betroffen ist. Zerstört ein Erdbeben oder ein Tsunami einen wichtigen Hafen, können Rohwaren, Hilfsstoffe und Halbfabrikate nicht geliefert werden und zu einem Produktionsrückgang oder sogar -stopp führen.<br><br>
-                        Vulkanausbrüche können den Flugverkehr auf ganzen Kontinenten lahmlegen, da die ausgeworfene Asche die Triebwerke zerstören würde. Unternehmen, die auf den Tourismus angewiesen sind, verlieren so auf einen Schlag Ihre Haupteinnahmequelle. Da neben Passagieren auch viele, teils sehr wertvolle, Produkte per Luftfracht transportiert werden hat dies direkt einen grossen Einfluss auf einzelne Unternehmen.
+                    <h2>Gewaltiges Zerstörungspotenzial</h2>
+                    <p>
+                        Erdbeben, Tsunamis, Vulkanausbrüche. Sobald über eine dieser Events in den Medien berichtet wird, bedeutet dies meistens, dass irgendwo auf der Welt eine Katastrophe stattgefunden hat. Tausende Todesopfer und Milliardenschäden an Gebäuden und Infrastruktur sind keine Seltenheit, wenn diese Naturkatastrophen in der Nähe von stark überbauten Gebieten auftreten. Pompei, Haiti, Fukushima oder Sumatra – viele Menschen assoziieren diese Orte direkt mit schlimmen Naturkatastrophen.
                     </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
-                </div>
+
+                    <h2>Ein schwer greifbares Risiko</h2>
+                    <p>
+                        Glücklicherweise sind grosse Naturkatastrophen relativ selten. Dies kann jedoch auch ein Problem sein, da sie dadurch sehr schwer als Risiko greifbar sind. Oft werden diese Risiken aufgrund ihrer geringen Eintrittswahrscheinlichkeit vernachlässigt, obwohl sie, falls sie dann eintreten, oft einen Totalschaden verursachen. Daher ist es wichtig, sich auch auf solche Risiken vorzubereiten, obwohl oft davon ausgegangen werden kann, dass sie während einer Managementkarriere nie eintreten werden.
+                    </p>
+
+                    <div class="hidden-text">
+                        <h2>Mehrdimensionale Auswirkungen</h2>
+                        <p>
+                        Ein sehr gefährlicher Aspekt grosser Naturkatastrophen ist, dass sie grosse Auswirkungen auf ein Unternehmen haben können, ohne dass man selbst direkt betroffen ist. Zerstört ein Erdbeben oder ein Tsunami einen wichtigen Hafen, können Rohwaren, Hilfsstoffe und Halbfabrikate nicht geliefert werden und zu einem Produktionsrückgang oder sogar -stopp führen.
+                        </p>
+
+                        <p>
+                        Vulkanausbrüche können den Flugverkehr auf ganzen Kontinenten lahmlegen, da die ausgeworfene Asche die Triebwerke zerstören würde. Unternehmen, die auf den Tourismus angewiesen sind, verlieren so auf einen Schlag ihre Haupteinnahmequelle. Da neben Passagieren auch viele, teils sehr wertvolle, Produkte per Luftfracht transportiert werden, hat dies direkt einen grossen Einfluss auf einzelne Unternehmen.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
+                    </div>
             </div>
 
             <div class="item40 bg">
@@ -116,7 +235,10 @@ Version 1.0
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-erdbeben-tsunami-indonesien-2018.jpg" alt="funk-global-risk-consensus-event-erdbeben-tsunami-indonesien-2018">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-erdbeben-tsunami-indonesien-2018.jpg" 
+                                alt="Erdbeben und Tsunami in Indonesien 2018 als Naturkatastrophe im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Erdbeben und Tsunami in Indonesien - 2018</h1>
@@ -131,7 +253,10 @@ Version 1.0
                     </div>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-erdbeben-italien-2016.jpg" alt="funk-global-risk-consensus-event-erdbeben-italien-2016">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-erdbeben-italien-2016.jpg" 
+                                alt="Erdbeben in Italien 2016 als geophysikalisches Ereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Erdbeben in Italien - 2016</h1>
@@ -148,7 +273,10 @@ Version 1.0
                     <div class="hidden-events">
                         <div class="event bg">
                             <div class="eventimg">
-                                <img src="img/funk-global-risk-consensus-event-ausbruch-eyjafjallajoekull-2010.jpg" alt="funk-global-risk-consensus-event-ausbruch-eyjafjallajoekull-2010">
+                                <img 
+                                    src="img/funk-global-risk-consensus-event-ausbruch-eyjafjallajoekull-2010.jpg" 
+                                    alt="Vulkanausbruch des Eyjafjallajökull 2010 als Störereignis im internationalen Luftverkehr im Funk Global Risk Consensus" 
+                                    loading="lazy">
                             </div>
                             <div class="eventtitle">
                                 <h1>Ausbruch des Eyjafjallajökull - 2010</h1>

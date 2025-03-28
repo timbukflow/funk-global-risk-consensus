@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -24,13 +24,12 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
     <meta property="og:title" content="Funk Global Risk Consensus">
     <meta property="og:description" content="Der Funk Global Risk Consensus ist eine Zusammenstellung von fünf jährlich wiederkehrenden Studien und Risikoreporten, die eine Bewertung der globalen Risiken für Unternehmen bieten. Diese neutrale Bewertung der globalen Unternehmensrisiken dient Risikomanagern als Vergleich mit ihrer eigenen Risikoerfahrung und unterstützt sie bei zukünftigen Risikobewertungen.">
@@ -56,6 +55,15 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <!-- Schemamamamam
+     asdfasd
+     fa
+     sdf
+     asd
+     fas
+     df -->
+     
 </head>
 
 <body>
@@ -79,7 +87,8 @@ Version 1.0
                 <button data-year="2021">2021</button>
                 <button data-year="2022">2022</button>
                 <button data-year="2023">2023</button>
-                <button data-year="2024" class="active">2024</button>
+                <button data-year="2024">2024</button>
+                <button data-year="2025" class="active">2025</button>
             </div>
             <?php require_once 'supernav.php'; ?>
         </div> 
@@ -110,6 +119,14 @@ Version 1.0
         </div>
     </div>
 
+    <!-- Download -->
+    <a href="download/funk-global-risk-consensus-top-5-risiken-2025.pdf" target="_blank" rel="noopener noreferrer">
+        <div class="download bg">
+            <h2>
+            <span class="material-symbols-outlined">download</span> Top 5 Risiken 2025 (PDF)
+            </h2>
+        </div>
+    </a>
             
     <?php require_once 'nav.php'; ?>
     <?php require_once 'footer.php'; ?>

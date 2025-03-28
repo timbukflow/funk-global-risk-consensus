@@ -2,7 +2,7 @@
 
 Made by Schwizer Design GmbH
 Say hello @ schwizerdesign.ch
-Version 1.0
+Version 1.1 - 03.2025
 
 -->
 
@@ -11,7 +11,7 @@ Version 1.0
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Funk Global Risk Consensus | Klimawandel </title>
+    <title>Klimawandel | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
@@ -24,15 +24,14 @@ Version 1.0
     <meta http-equiv="expires" content="0" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#848484">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Funk Global Risk Consensus | Klimawandel">
+    <meta property="og:title" content="Klimawandel | Funk Global Risk Consensus">
     <meta property="og:description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/klimawandel">
@@ -40,7 +39,7 @@ Version 1.0
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Funk Global Risk Consensus | Klimawandel">
+    <meta name="twitter:title" content="Klimawandel | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Unternehmen sollten ihre Lieferketten genau beobachten. ">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -56,6 +55,119 @@ Version 1.0
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+        "@type": "WebPage",
+        "name": "Klimawandel | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/klimawandel",
+        "description": "Klimawandel beeinflusst Unternehmen weltweit durch Extremwetter, gestörte Lieferketten und steigende Risiken. Erfahren Sie mehr über wirtschaftliche Auswirkungen und resiliente Strategien.",
+        "inLanguage": "de-CH",
+        "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Funk Gruppe",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-logo-blau.svg",
+            "width": 200,
+            "height": 200
+            }
+        },
+        "mainEntity": {
+            "@type": "Article",
+            "headline": "Klimawandel: Globale Risiken für Unternehmen",
+            "articleBody": "Der Klimawandel bringt veränderte Umweltbedingungen mit sich: steigende Temperaturen, Extremwetter, Meeresspiegelanstieg. Unternehmen weltweit sehen sich mit Risiken in der Lieferkette, neuen regulatorischen Anforderungen und operativen Einschränkungen konfrontiert. Besonders betroffen sind Branchen mit hohem Energie- oder Rohstoffbedarf sowie global vernetzte Produktionsprozesse.",
+            "author": {
+            "@type": "Organization",
+            "name": "Funk Gruppe"
+            },
+            "editor": {
+            "@type": "Person",
+            "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
+            },
+            "datePublished": "2025-03-28",
+            "dateModified": "2025-03-28",
+            "keywords": [
+            "Klimawandel",
+            "ESG",
+            "Unternehmensrisiken",
+            "Lieferketten",
+            "Extremwetter",
+            "Globale Erwärmung",
+            "Meeresspiegelanstieg",
+            "Funk Risk Consensus"
+            ],
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-risiko-klimawandel.jpg",
+            "width": 1200,
+            "height": 800
+            },
+            "isPartOf": {
+            "@type": "WebSite",
+            "name": "Funk Global Risk Consensus",
+            "url": "https://funk-global-risk-consensus.com"
+            }
+        }
+        },
+        {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dashboard Risiken 2025",
+            "item": "https://funk-global-risk-consensus.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Klimawandel",
+            "item": "https://funk-global-risk-consensus.com/klimawandel"
+            }
+        ]
+        },
+        {
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Welche Folgen hat der Klimawandel für Unternehmen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unternehmen sind durch den Klimawandel zunehmend von Extremwetter, unterbrochenen Lieferketten, regulatorischem Druck und steigenden Produktionskosten betroffen."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Warum sind Lieferketten besonders gefährdet?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Klimatische Veränderungen wie Dürren, Überschwemmungen oder Verwüstung können Zulieferbetriebe lahmlegen, was ganze Lieferketten ins Wanken bringt."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Was sind resiliente Strategien gegen Klimarisiken?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dazu gehören Risikoanalysen entlang der Lieferkette, Investitionen in nachhaltige Technologien, flexible Produktionsnetzwerke und Szenarioplanung."
+            }
+            }
+        ]
+        }
+    ]
+    }
+    </script>
+
 </head>
 
 <body>
@@ -66,27 +178,41 @@ Version 1.0
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
-                      <img src="img/funk-global-risk-consensus-risiko-klimawandel.jpg" alt="funk-global-risk-consensus-risiko-klimawandel">
+                    <img 
+                        src="img/funk-global-risk-consensus-risiko-klimawandel.jpg" 
+                        alt="Klimawandel als langfristiges Umweltrisiko im Funk Global Risk Consensus" 
+                        loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <h1>Klimawandel</h1>
+                    <h1>Klimawandel: Globale Auswirkungen für Unternehmen</h1>
+
+                    <h2>Weltweites Phänomen</h2>
                     <p>
-                        <strong>Weltweites Phänomen</strong><br>
-                        Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Da der Klimawandel ein langsames, aber kontinuierliches Phänomen ist, ist es schwierig das Risiko greifbar zu machen.
-                        <br><br>
+                        Die Veränderungen der klimatischen Bedingungen stellen in der einen oder anderen Form für alle Firmen ein grosses Risiko dar, das oft noch unterschätzt wird. Da der Klimawandel ein langsames, aber kontinuierliches Phänomen ist, ist es schwierig, das Risiko greifbar zu machen.
+                    </p>
+
+                    <h2>Globale Umweltveränderungen</h2>
+                    <p>
                         Global ändern sich durch den Klimawandel Niederschlagsmengen, Temperaturen und viele weitere Umweltfaktoren. Der Meeresspiegel steigt an, ganze Klimazonen verwüsten, während andere nie dagewesene Feuchtigkeit sehen. Klimatische Wettereffekte werden intensiviert, andere verschwinden ganz.
                     </p>
-                    <p class="hidden-text">
-                        <strong>Lieferketten genau beobachten</strong><br>
-                        An einem bestimmten Standort mag es den Anschein haben, dass die Auswirkungen des Klimawandels nicht spürbar sind und das Risiko ignoriert werden kann. Jedoch könnte eine Fabrik eines Lieferanten aufgrund des steigenden Meeresspiegels bald von Überschwemmungen betroffen sein.
-                        <br><br>
-                        In der Nahrungsmittelindustrie stellt der Klimawandel ein besonders hohes Risiko dar. Durch die Verschiebung der Klimazonen verändern sich das Niederschlagsverhalten und die Temperaturen in bestimmten Regionen. Dadurch kann es vorkommen, dass eine Region nicht mehr für die Zucht bestimmter Arten geeignet ist. Dies führt dazu, dass die gesamte Lieferkette umgestellt werden muss oder im schlimmsten Fall zusammenbricht.
-                        <br><br>
 
-                        <strong>Intensivierung von extremen Wetterereignissen</strong><br>
-                        Auf lange Sicht führt der Klimawandel dazu, dass die Risiken bei den extremen Wetterereignissen weiter zunehmen. Höhere Luft- und Meerestemperaturen führen zu höheren energetischen Zuständen. Dies bedeutet, dass sich mehr Energie in Wettersystemen befinden, sei es Niederschlag (warme Luft kann mehr Feuchtigkeit speichern) oder stärkere Winde, da die Temperaturgradienten ausgeprägter sind.
-                    </p>
-                    <button class="mBtn" data-open="true">mehr</button>      
+                    <div class="hidden-text">
+                        <h2>Lieferketten genau beobachten</h2>
+                        <p>
+                        An einem bestimmten Standort mag es den Anschein haben, dass die Auswirkungen des Klimawandels nicht spürbar sind und das Risiko ignoriert werden kann. Jedoch könnte eine Fabrik eines Lieferanten aufgrund des steigenden Meeresspiegels bald von Überschwemmungen betroffen sein.
+                        </p>
+
+                        <p>
+                        In der Nahrungsmittelindustrie stellt der Klimawandel ein besonders hohes Risiko dar. Durch die Verschiebung der Klimazonen verändern sich das Niederschlagsverhalten und die Temperaturen in bestimmten Regionen. Dadurch kann es vorkommen, dass eine Region nicht mehr für die Zucht bestimmter Arten geeignet ist. Dies führt dazu, dass die gesamte Lieferkette umgestellt werden muss oder im schlimmsten Fall zusammenbricht.
+                        </p>
+
+                        <h2>Intensivierung von extremen Wetterereignissen</h2>
+                        <p>
+                        Auf lange Sicht führt der Klimawandel dazu, dass die Risiken bei den extremen Wetterereignissen weiter zunehmen. Höhere Luft- und Meerestemperaturen führen zu höheren energetischen Zuständen. Dies bedeutet, dass sich mehr Energie in Wettersystemen befindet, sei es Niederschlag (warme Luft kann mehr Feuchtigkeit speichern) oder stärkere Winde, da die Temperaturgradienten ausgeprägter sind.
+                        </p>
+                    </div>
+
+                    <button class="mBtn" data-open="true">mehr</button>
                 </div>
             </div>
 
@@ -119,7 +245,10 @@ Version 1.0
                 <div class="rdevents" id="container">
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-gletscherschwund.jpg" alt="funk-global-risk-consensus-event-gletscherschwund">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-gletscherschwund.jpg" 
+                                alt="Gletscherschwund als sichtbare Folge des Klimawandels im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Gletscherschwund</h1>
@@ -136,7 +265,10 @@ Version 1.0
                     </div>
                     <div class="event bg">
                         <div class="eventimg">
-                            <img src="img/funk-global-risk-consensus-event-meeresspiegelanstieg.jpg" alt="funk-global-risk-consensus-event-meeresspiegelanstieg">
+                            <img 
+                                src="img/funk-global-risk-consensus-event-meeresspiegelanstieg.jpg" 
+                                alt="Meeresspiegelanstieg als klimabedingtes Umweltereignis im Funk Global Risk Consensus" 
+                                loading="lazy">
                         </div>
                         <div class="eventtitle">
                             <h1>Meeresspiegelanstieg</h1>

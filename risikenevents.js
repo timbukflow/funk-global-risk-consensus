@@ -1,4 +1,45 @@
 const data = {
+  "2025": {
+    "risks": [
+        {
+          "name": "Cyber-Risiken",
+          "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+          "link": "cyber-risiken"
+        },
+        {
+          "name": "Inflation",
+          "image": "img/funk-global-risk-consensus-risiko-inflation.jpg",
+          "link": "inflation"
+        },
+        {
+          "name": "Zwischenstaatliche Konflikte",
+          "image": "img/funk-global-risk-consensus-risiko-zwischenstaatliche-konflikte.jpg",
+          "link": "zwischenstaatliche-konflikte"
+        },
+        {
+          "name": "Extreme Wetterereignisse",
+          "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
+          "link": "extreme-wetterereignisse"
+        },
+        {
+          "name": "Ändernde Regulierungen",
+          "image": "img/funk-global-risk-consensus-risiko-aendernde-regulierungen.jpg",
+          "link": "aendernde-regulierungen"
+        },
+        {
+          "name": "Fachkräftemangel",
+          "image": "img/funk-global-risk-consensus-risiko-fachkraeftemangel.jpg",
+          "link": "fachkraeftemangel"
+        }        
+    ],
+    "events": [
+        {
+          "name": "Ukrainekrieg",
+          "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
+          "link": "global-event-ukrainekrieg"
+        }
+    ],
+  },
   "2024": {
     "risks": [
         {
@@ -471,7 +512,7 @@ $(document).ready(() => {
     updateContent(year);
   });
 
-  updateContent("2024");
+  updateContent("2025");
 
   // Buttons Year
   const buttonsContainer = document.querySelector('.buttons');

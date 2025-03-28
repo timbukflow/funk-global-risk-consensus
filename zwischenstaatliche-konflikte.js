@@ -4,7 +4,7 @@ $(document).ready(function() {
     labels: ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"],
     datasets: [{
       label: "Entwicklung",
-      data: [40, 10, 20, 18, 11, 0, 4, 3, 2],
+      data: [0, 1, 3, 1, 2, 5, 8, 10, 19],
       borderColor: "#005092",
       backgroundColor: "#005092",
       borderWidth: 1,
@@ -39,7 +39,7 @@ $(document).ready(function() {
     }
   };
 
-  const ctx = document.getElementById("entwicklung-politische-risiken").getContext("2d");
+  const ctx = document.getElementById("entwicklung-zwischenstaatliche-konflikte").getContext("2d");
   new Chart(ctx, {
     type: 'line',
     data: data,

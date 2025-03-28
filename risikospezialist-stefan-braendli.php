@@ -2,7 +2,10 @@
     <h2>Ihr Risikospezialist</h2> 
     <div class="rdcontact bg">
         <div class="contactimg">
-            <img src="img/funk-risikospezialist-stefan-braendli.jpg" alt="funk-risikospezialist-stefan-braendli">
+            <img 
+                src="img/funk-risikospezialist-stefan-braendli.jpg" 
+                alt="Stefan Brändli, Risikospezialist bei Funk" 
+                loading="lazy">
         </div>
         <div class="contactdata">
             <p>
