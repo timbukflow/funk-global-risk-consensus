@@ -1052,6 +1052,7 @@ footer .logo img {
   .riskseventstrends {flex-direction: column; margin: 160px auto 30px; gap: 0px;}
   .crisks, .cgeventstrends {width: 100%; gap: 0px;}
   .risks, .gevents, .trends {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
+  .download {margin-left: 25px;}
   .risk, .gevent {min-width: 330px;}
   .trend {width: 50%;}
   .gevent {margin-bottom: 0;}
