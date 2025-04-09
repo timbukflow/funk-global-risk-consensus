@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
                 "articleBody": "Extreme Wetterereignisse wie Dürren, Überschwemmungen und Hitzewellen treten weltweit häufiger und intensiver auf. Regionen wie Mitteleuropa sind zunehmend betroffen. Unternehmen sehen sich mit klimabedingten Schäden, Produktionsausfällen und steigenden Regulierungskosten konfrontiert. Nachhaltige Strategien und resiliente Strukturen sind unverzichtbar.",
                 "author": {
                 "@type": "Organization",
-                "name": "Funk Gruppe"
+                "name": "Funk Gruppe",
+                "url": "https://funk-gruppe.ch"
                 },
                 "editor": {
                 "@type": "Person",
                 "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
                 },
-                "datePublished": "2025-03-28",
-                "dateModified": "2025-03-28",
+                "datePublished": "2024-03-20T10:00:00+01:00",
+                "dateModified": "2025-04-09T10:00:00+01:00",
                 "keywords": [
                 "Extreme Wetterereignisse",
                 "Klimawandel",
@@ -184,6 +185,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2025</p></div>
                     <h1>Extreme Wetterereignisse: Wirtschaftliche Folgen des Klimawandels</h1>
 
                     <h2>Extreme Wetterereignisse nehmen zu</h2>

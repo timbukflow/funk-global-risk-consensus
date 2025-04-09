@@ -671,6 +671,22 @@ canvas {
   margin-bottom: 30px;
 }
 
+.label-year {
+  background-color: var(--funkhover);
+  border-radius: 5px;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.label-year p {
+  font-size: 12px;
+  
+  color: var(--funkgrey);
+  padding: 0;
+  margin: 0;
+}
+
 .rdcfakten{
   width: 70%;
   display: flex;

@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Die EU-Datenschutzgrundverordnung (DSGVO) ist seit 25. Mai 2018 verbindlich und betrifft alle Unternehmen, die personenbezogene Daten von EU-Bürgern verarbeiten. Sie verlangt Transparenz, Einwilligung, technische und organisatorische Schutzmassnahmen sowie Meldepflichten bei Datenpannen. Die Umsetzung bleibt für viele Firmen herausfordernd.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "DSGVO",
             "Datenschutz",

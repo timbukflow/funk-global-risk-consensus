@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Der Fachkräftemangel betrifft zunehmend viele Branchen – von IT über Pflege bis zum Handwerk. Gründe dafür sind der demografische Wandel, technologische Entwicklungen und veränderte Ansprüche der Arbeitskräfte. Unternehmen sind gefordert, in Weiterbildung, neue Arbeitsmodelle und Mitarbeiterbindung zu investieren.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Fachkräftemangel",
             "Arbeitsmarkt",
@@ -183,6 +184,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2025</p></div>
                     <h1>Fachkräftemangel: Herausforderungen und Chancen für Unternehmen</h1>
 
                     <h2>Fachkräftemangel bleibt eine zentrale Herausforderung</h2>

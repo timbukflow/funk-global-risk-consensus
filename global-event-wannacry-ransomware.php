@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Im Mai 2017 verbreitete sich WannaCry rasant über Windows-Systeme und verschlüsselte weltweit Daten. Betroffen waren unter anderem Krankenhäuser, Logistikunternehmen und Infrastrukturen in über 150 Ländern. Die Schadsoftware forderte Bitcoin-Zahlungen zur Datenfreigabe und verursachte Schäden in Milliardenhöhe. Als mutmassliche Urheber gilt die nordkoreanische Lazarus-Gruppe.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "WannaCry",
             "Ransomware",

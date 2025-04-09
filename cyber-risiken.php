@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Cyber-Risiken betreffen zunehmend Unternehmen, Behörden und Privatpersonen. Mit dem Einsatz von künstlicher Intelligenz und Deepfake-Technologien haben sich die Angriffsmethoden weiterentwickelt. Neue Formen wie Double-Extortion-Ransomware und gezielte Angriffe auf kritische Infrastrukturen erfordern umfassende technische und organisatorische Schutzmassnahmen.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Cyber-Risiken",
             "Ransomware",
@@ -183,6 +184,7 @@ Version 1.1 - 03.2025
                     loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2025</p></div>
                     <h1>Cyber-Risiken: Neue Bedrohungen durch KI, Ransomware und geopolitische Angriffe</h1>
 
                     <h2>Steigende Cyber-Risiken für Unternehmen und Privatpersonen</h2>

@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Seit 2018 sind die Handelsbeziehungen zwischen den USA und der EU angespannt. Strafzölle auf Stahl und Aluminium sowie Vergeltungsmassnahmen auf europäische Exporte wie Whiskey oder Erdnussbutter sorgten für eine neue Phase transatlantischer Spannungen. Zwar gibt es unter Präsident Biden Dialoginitiativen, viele Handelsfragen wie Subventionen, Digitalsteuer und Luftfahrtkonkurrenz bleiben jedoch ungelöst.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "US-EU Handelskrieg",
             "Strafzölle",

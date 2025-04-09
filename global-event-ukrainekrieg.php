@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Seit dem russischen Angriff auf die Ukraine im Februar 2022 sind die geopolitischen Spannungen eskaliert. Die massiven Sanktionen, unterbrochene Lieferketten und der Rohstoffmangel haben Inflation, Preissteigerungen und Unsicherheit auf globaler Ebene ausgelöst. Unternehmen, Staaten und Märkte sind nachhaltig betroffen.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Ukrainekrieg",
             "Russland Sanktionen",
@@ -185,7 +186,7 @@ Version 1.1 - 03.2025
                 </div>
                 <div class="globaleventcontent">
                     <div class="globaleventmain">
-                        <h1>Ukrainekrieg</h1>
+                        <h1>Krieg in der Ukraine</h1>
                         <p>
                             Der Ukrainekrieg begann am 24.02.2022 als russische Truppen in die Ukraine einmarschierten. Bereits im Jahr 2014 hat Russland die Krim annektiert und über Proxys im Donbas einen Stellvertreterkrieg gegen die Ukraine geführt. Während der Ukrainekonflikt (2014-2022) relativ wenig Auswirkungen auf das Weltgeschehen hatte, hat sich das mit dem Einmarsch der russischen Truppen in die Ukraine schlagartig geändert.
                             <br><br>
