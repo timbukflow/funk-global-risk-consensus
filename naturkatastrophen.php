@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Naturkatastrophen wie Erdbeben, Vulkanausbrüche oder Tsunamis stellen für Unternehmen weltweit eine erhebliche Gefahr dar. Neben der direkten Zerstörung kommt es oft zu Lieferkettenunterbrüchen, Produktionsausfällen oder Marktverlusten – selbst wenn das eigene Unternehmen geografisch verschont bleibt. Gerade weil Naturkatastrophen selten auftreten, werden sie in der Risikoabwägung häufig vernachlässigt. Doch ihre potenziellen Folgen sind enorm.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Naturkatastrophen",
             "Erdbeben",
@@ -179,6 +180,7 @@ Version 1.1 - 03.2025
                       <img src="img/funk-global-risk-consensus-risiko-naturkatastrophen.jpg" alt="funk-global-risk-consensus-risiko-naturkatastrophen">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2024</p></div>
                     <h1>Naturkatastrophen: Unberechenbare Risiken mit massiven Folgen</h1>
 
                     <h2>Gewaltiges Zerstörungspotenzial</h2>

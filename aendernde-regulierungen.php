@@ -183,7 +183,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <div class="label-year"><p>Stand 2024</p></div>
+                    <div class="label-year"><p>Stand 2025</p></div>
                     <h1>Ändernde Regulierungen: Anpassungsdruck für Unternehmen</h1>
 
                     <h2>Regulatorische Veränderungen als Herausforderung für Unternehmen</h2>

@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Politische Risiken umfassen geopolitische Spannungen, protektionistische Massnahmen, politische Umbrüche oder regulatorische Alleingänge. Beispiele wie der Brexit oder der US-China-Handelskonflikt zeigen, wie schnell Standorte an Attraktivität verlieren können. Für international tätige Unternehmen bedeutet dies eine erhebliche Gefährdung von Investitionen, Lieferketten und wirtschaftlicher Planungssicherheit.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Politische Risiken",
             "Geopolitische Unsicherheit",
@@ -182,6 +183,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2024</p></div>
                     <h1>Politische Risiken: Stabilitätsverlust und wirtschaftliche Folgen</h1>
 
                     <h2>Veränderung ist nicht immer gut</h2>

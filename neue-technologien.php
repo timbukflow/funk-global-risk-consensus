@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Die Digitalisierung schreitet schnell voran – mit Chancen, aber auch Risiken. IoT, KI und digitale Tools verändern Prozesse, erhöhen aber auch die Angriffsfläche für Cyberattacken und bergen operative Risiken. Unternehmen, die den Wandel verschlafen, verlieren schnell ihre Wettbewerbsfähigkeit. Auch überhastete oder konzeptlose Implementierung kann zu Effizienzverlusten und Kostenexplosionen führen. Die Funk Gruppe hilft, diese Risiken zu identifizieren und gezielt zu steuern.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Technologierisiken",
             "Digitale Transformation",
@@ -181,6 +182,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2024</p></div>
                     <h1>Neue Technologien: Chancen und Risiken im digitalen Wandel</h1>
 
                     <h2>Rasante Entwicklung</h2>

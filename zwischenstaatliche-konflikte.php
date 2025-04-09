@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "In den letzten Jahren haben geopolitische Spannungen und militärische Konflikte weltweit zugenommen. Der Krieg in der Ukraine, die Lage in Taiwan und die Entwicklungen im Nahen Osten wirken sich massiv auf Lieferketten, Energiepreise und Unternehmensrisiken aus. Unternehmen müssen sich auf hybride Bedrohungen wie Cyber-Angriffe, Desinformation und wirtschaftliche Sanktionen vorbereiten.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Max Keller, Lead Funk RiskLab, MAS Digital Business"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Zwischenstaatliche Konflikte",
             "Geopolitik",
@@ -182,6 +183,7 @@ Version 1.1 - 03.2025
                     loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2025</p></div>
                     <h1>Zwischenstaatliche Konflikte und ihre wirtschaftlichen Folgen</h1>
 
                     <h2>Zunehmende geopolitische Spannungen und militärische Konflikte</h2>

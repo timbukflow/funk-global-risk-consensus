@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Supply Chain Risiken umfassen Störungen in der Beschaffung, Logistik oder bei IT-Dienstleistern. Ereignisse wie die Ever Given-Blockade oder Engpässe im Panamakanal verdeutlichen, wie anfällig Lieferketten auf externe Schocks reagieren. Pandemiebedingte Betriebsschliessungen, Cyber-Angriffe auf Zulieferer oder der Ausfall kritischer Transportwege können die gesamte Wertschöpfungskette lahmlegen.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Supply Chain Risiken",
             "Lieferkettenstörung",
@@ -183,6 +184,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2024</p></div>
                     <h1>Supply Chain Risiken: Komplexität, Abhängigkeit und Ausfallgefahren</h1>
 
                     <h2>Ausfall von Zulieferern und Lean-Produktionsrisiken</h2>

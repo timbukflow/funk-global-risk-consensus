@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Industriekatastrophen wie die Explosion in Tianjin oder die Deepwater-Horizon-Ölkatastrophe zeigen, wie menschliches Versagen ganze Wertschöpfungsketten beeinträchtigen kann. Nicht nur die direkt betroffenen Unternehmen, sondern auch Zulieferer, Logistikpartner und benachbarte Branchen leiden unter Produktionsstillständen, höheren Sicherheitsanforderungen und Reputationsverlust.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Industrieunfall",
             "menschengemachte Katastrophe",
@@ -184,6 +185,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2024</p></div>
                     <h1>Von Menschen verursachte Katastrophen: Industrieunfälle und ihre Folgen</h1>
 
                     <h2>Die weitreichenden Auswirkungen von Industrieunfällen</h2>

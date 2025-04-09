@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Die globale Inflation ist nach 2023 rückläufig, bleibt jedoch aufgrund geopolitischer Spannungen, steigender Lohn- und Produktionskosten sowie unklarer geldpolitischer Strategien eine zentrale Herausforderung. Energiepreise, Lieferengpässe und ESG-Auflagen treiben die Teuerung weiter an.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Inflation",
             "Zinspolitik",
@@ -186,6 +187,7 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
+                    <div class="label-year"><p>Stand 2025</p></div>
                     <h1>Inflation: Abschwächung mit anhaltenden wirtschaftlichen Risiken</h1>
 
                     <h2>Abschwächung der Inflation, aber anhaltende Herausforderungen</h2>
