@@ -254,7 +254,7 @@ Version 1.1 - 03.2025
                             loading="lazy">
                     </div>
                     <div class="eventtitle globalevent">
-                        <h1>Ukraine Krieg <br> 2022 - 2025</h1>
+                        <h1>Krieg in der Ukraine</h1>
                     </div>
                 </a>
                 <a href="global-event-coronapandemie" class="event bg">

@@ -242,7 +242,7 @@ Version 1.1 - 03.2025
         
         <div class="rdcontainer">
             <!-- Abhängigkeit zu Events -->
-            <div class="rdcevents ">
+            <div class="rdcevents full">
                 <h2>Abhängigkeit zu Events</h2>
                 <div class="rdevents full">
                     <a href="global-event-ukrainekrieg" class="event bg">
@@ -253,7 +253,29 @@ Version 1.1 - 03.2025
                             loading="lazy">
                         </div>
                         <div class="eventtitle globalevent">
-                            <h1>Ukraine Krieg <br> 2022 - 2025</h1>
+                            <h1>Krieg in der Ukraine</h1>
+                        </div>
+                    </a>
+                    <a href="global-event-internationaler-handelskonflikt" class="event bg">
+                        <div class="eventimg">
+                        <img 
+                            src="img/funk-global-risk-consensus-globale-events-internationaler-handelskonflikt.jpg" 
+                            alt="Auswirkungen des Ukrainekriegs als globales Event im Funk Global Risk Consensus" 
+                            loading="lazy">
+                        </div>
+                        <div class="eventtitle globalevent">
+                            <h1>Internationaler Handelskonflikt</h1>
+                        </div>
+                    </a>
+                    <a href="global-event-krieg-im-nahen-osten" class="event bg">
+                        <div class="eventimg">
+                        <img 
+                            src="img/funk-global-risk-consensus-globale-events-krieg-im-nahen-osten.jpg" 
+                            alt="Auswirkungen des Ukrainekriegs als globales Event im Funk Global Risk Consensus" 
+                            loading="lazy">
+                        </div>
+                        <div class="eventtitle globalevent">
+                            <h1>Krieg im Nahen Osten</h1>
                         </div>
                     </a>
                 </div>

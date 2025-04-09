@@ -37,6 +37,16 @@ const data = {
           "name": "Krieg in der Ukraine",
           "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
           "link": "global-event-ukrainekrieg"
+        },
+        {
+          "name": "Internationaler Handelskonflikt",
+          "image": "img/funk-global-risk-consensus-globale-events-internationaler-handelskonflikt.jpg",
+          "link": "global-event-internationaler-handelskonflikt"
+        },
+        {
+          "name": "Krieg im Nahen Osten",
+          "image": "img/funk-global-risk-consensus-globale-events-krieg-im-nahen-osten.jpg",
+          "link": "global-event-krieg-im-nahen-osten"
         }
     ],
   },

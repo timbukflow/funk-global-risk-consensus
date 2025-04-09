@@ -672,7 +672,7 @@ canvas {
 }
 
 .label-year {
-  background-color: var(--funkhover);
+  background-color: #ededed;
   border-radius: 5px;
   padding: 5px 10px;
   display: inline-block;
@@ -837,7 +837,7 @@ canvas {
 .globaleventimg {
   overflow: hidden;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   height: 450px;
 }
 .globaleventimg img {
