@@ -34,7 +34,7 @@ const data = {
     ],
     "events": [
         {
-          "name": "Ukrainekrieg",
+          "name": "Krieg in der Ukraine",
           "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
           "link": "global-event-ukrainekrieg"
         }
@@ -75,7 +75,7 @@ const data = {
     ],
     "events": [
         {
-          "name": "Ukrainekrieg",
+          "name": "Krieg in der Ukraine",
           "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
           "link": "global-event-ukrainekrieg"
         },
@@ -121,7 +121,7 @@ const data = {
     ],
     "events": [
         {
-          "name": "Ukrainekrieg",
+          "name": "Krieg in der Ukraine",
           "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
           "link": "global-event-ukrainekrieg"
         },
@@ -182,7 +182,7 @@ const data = {
         "link": "global-event-us-china-handelskrieg"
       },
       {
-        "name": "Ukrainekrieg",
+        "name": "Krieg in der Ukraine",
         "image": "img/funk-global-risk-consensus-globale-events-ukrainekrieg.jpg",
         "link": "global-event-ukrainekrieg"
       },

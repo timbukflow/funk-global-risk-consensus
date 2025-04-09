@@ -283,7 +283,7 @@ Version 1.1 - 03.2025
         </div>
         <div class="cgeventstrends">
             <div class="cgevents">
-                <h2>Globale Events</h2>
+                <h2>Internationale Ereignisse</h2>
                 <div class="gevents"></div>
                 <button class="gewBtn">Mehr Events</button>
             </div>

@@ -87,14 +87,15 @@ Version 1.1 - 03.2025
             "articleBody": "Regulatorische Veränderungen gehören zu den grössten Herausforderungen für Unternehmen. Neue Vorgaben wie die EU-Lieferkettenrichtlinie (CSRD) oder die Entwaldungsverordnung (EUDR) zwingen Firmen, ihre Geschäftsprozesse zu überarbeiten. Verstösse können hohe Strafen nach sich ziehen. KMU stehen dabei besonders unter Druck. Auch geopolitische Unsicherheiten und der Brexit erschweren den internationalen Handel. Unternehmen benötigen heute dynamische Compliance-Strategien und ein proaktives Monitoring der regulatorischen Lage in ihren Zielmärkten.",
             "author": {
             "@type": "Organization",
-            "name": "Funk Gruppe"
+            "name": "Funk Gruppe",
+            "url": "https://funk-gruppe.ch"
             },
             "editor": {
             "@type": "Person",
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
-            "datePublished": "2025-03-28",
-            "dateModified": "2025-03-28",
+            "datePublished": "2024-03-20T10:00:00+01:00",
+            "dateModified": "2025-04-09T10:00:00+01:00",
             "keywords": [
             "Regulatorische Risiken",
             "Lieferkettengesetz",
