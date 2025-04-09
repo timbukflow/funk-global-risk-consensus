@@ -35,13 +35,13 @@ Version 1.1 - 03.2025
     <meta property="og:description" content="Der internationale Handelskonflikt beeinflusst seit 2018 Lieferketten, Investitionen und die Preisentwicklung weltweit. Technologische Machtkämpfe und Sanktionen führen zu Unsicherheit und geopolitischer Fragmentierung.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-internationaler-handelskonflikt">
-    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-internationaler-handelskonflikt.jpg">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Internationaler Handelskonflikt | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Handelsbarrieren, Sanktionspolitik und geopolitische Machtspiele treiben die Fragmentierung der Weltwirtschaft voran.">
-    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-internationaler-handelskonflikt.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
 
     <meta name="format-detection" content="telephone=yes">

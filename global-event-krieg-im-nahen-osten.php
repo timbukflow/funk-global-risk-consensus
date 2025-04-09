@@ -35,13 +35,13 @@ Version 1.1 - 03.2025
     <meta property="og:description" content="Der aktuelle Krieg im Nahen Osten eskalierte am 7. Oktober 2023. Gewalt, humanitäre Krisen und wirtschaftliche Spannungen dominieren die Region.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/global-event-krieg-im-nahen-osten">
-    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-krieg-im-nahen-osten.jpg">
+    <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Krieg im Nahen Osten | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Der aktuelle Krieg im Nahen Osten eskalierte am 7. Oktober 2023 und führt zu schwerwiegenden humanitären und wirtschaftlichen Folgen.">
-    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/funk-global-risk-consensus-globale-events-krieg-im-nahen-osten.jpg">
+    <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
     <meta property="business:contact_data:street_address" content="Hagenholzstrasse 56">
