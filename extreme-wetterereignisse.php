@@ -14,7 +14,7 @@ Version 1.1 - 03.2025
     <title>Extreme Wetterereignisse | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
+    <meta name="description" content="Extreme Wetterereignisse treten häufiger, intensiver und vernetzter auf. Ihre Wirkung reicht von Sachschäden über Lieferketten und Infrastruktur bis hin zur Versicherbarkeit – Resilienz wird zum Wettbewerbsfaktor.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.com/extreme-wetterereignisse" />
     
@@ -32,7 +32,7 @@ Version 1.1 - 03.2025
     <link rel="manifest" href="/site.webmanifest" />
 
     <meta property="og:title" content="Extreme Wetterereignisse | Funk Global Risk Consensus">
-    <meta property="og:description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
+    <meta property="og:description" content="Extreme Wetterereignisse treten häufiger, intensiver und vernetzter auf. Ihre Wirkung reicht von Sachschäden über Lieferketten und Infrastruktur bis hin zur Versicherbarkeit – Resilienz wird zum Wettbewerbsfaktor.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/extreme-wetterereignisse">
     <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
@@ -40,7 +40,7 @@ Version 1.1 - 03.2025
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Extreme Wetterereignisse | Funk Global Risk Consensus">
-    <meta name="twitter:description" content="Starkregen, Dürren, Hurricanes haben weitreichende Konsequenzen. Die Frequenz und Intensität solcher extremen Wetterereignisse nehmen global stark zu.">
+    <meta name="twitter:description" content="Extreme Wetterereignisse treten häufiger, intensiver und vernetzter auf. Ihre Wirkung reicht von Sachschäden über Lieferketten und Infrastruktur bis hin zur Versicherbarkeit – Resilienz wird zum Wettbewerbsfaktor.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -64,7 +64,7 @@ Version 1.1 - 03.2025
             "@type": "WebPage",
             "name": "Extreme Wetterereignisse | Funk Global Risk Consensus",
             "url": "https://funk-global-risk-consensus.com/extreme-wetterereignisse",
-            "description": "Extreme Wetterereignisse nehmen weltweit zu: Dürren, Überschwemmungen und Hitzewellen verursachen massive Schäden und stellen Unternehmen vor neue Herausforderungen.",
+            "description": "Extreme Wetterereignisse treten häufiger, intensiver und vernetzter auf. Ihre Wirkung reicht von Sachschäden über Lieferketten und Infrastruktur bis hin zur Versicherbarkeit – Resilienz wird zum Wettbewerbsfaktor.",
             "inLanguage": "de-CH",
             "author": {
                 "@type": "Organization",
@@ -83,8 +83,8 @@ Version 1.1 - 03.2025
             },
             "mainEntity": {
                 "@type": "Article",
-                "headline": "Extreme Wetterereignisse als Folge des Klimawandels",
-                "articleBody": "Extreme Wetterereignisse wie Dürren, Überschwemmungen und Hitzewellen treten weltweit häufiger und intensiver auf. Regionen wie Mitteleuropa sind zunehmend betroffen. Unternehmen sehen sich mit klimabedingten Schäden, Produktionsausfällen und steigenden Regulierungskosten konfrontiert. Nachhaltige Strategien und resiliente Strukturen sind unverzichtbar.",
+                "headline": "Extreme Wetterereignisse: Häufiger, intensiver, vernetzter",
+                "articleBody": "Extreme Wetterereignisse umfassen akute, wetterbedingte Naturgefahren wie Starkniederschläge, Hochwasser, Stürme, Hagel, Murgänge, Hitzeperioden, Trockenheit oder Kälteeinbrüche. Selten bleibt die Wirkungskette auf unmittelbare Sachschäden beschränkt: Lieferketten, Transportwege, Energie- und Kommunikationsnetze sowie die Verfügbarkeit von Arbeitskräften können ebenfalls betroffen sein. Auf strategischer Ebene wirken extreme Wetterereignisse auf Standortentscheidungen, Investitionsplanung, Instandhaltungsbudgets und die Versicherbarkeit. Für die Geschäftsleitung steht damit weniger die Frage im Vordergrund, ob ein Ereignis einmalig eintritt, sondern wie robust das Unternehmen gegenüber einer Serie von Störungen ist.",
                 "author": {
                 "@type": "Organization",
                 "name": "Funk Gruppe",
@@ -95,16 +95,18 @@ Version 1.1 - 03.2025
                 "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
                 },
                 "datePublished": "2024-03-20T10:00:00+01:00",
-                "dateModified": "2025-04-09T10:00:00+01:00",
+                "dateModified": "2026-05-04T10:00:00+02:00",
                 "keywords": [
                 "Extreme Wetterereignisse",
-                "Klimawandel",
-                "Hitzewellen",
-                "Überschwemmungen",
-                "Dürren",
-                "Klimarisiken",
-                "CO2-Bepreisung",
-                "Resiliente Lieferketten"
+                "Naturgefahren",
+                "Starkniederschläge",
+                "Hochwasser",
+                "Hitze",
+                "Lieferkettenrisiken",
+                "Klumpenrisiko",
+                "BCM",
+                "Versicherbarkeit",
+                "Resilienz"
                 ],
                 "image": {
                 "@type": "ImageObject",
@@ -125,7 +127,7 @@ Version 1.1 - 03.2025
                 {
                 "@type": "ListItem",
                 "position": 1,
-                "name": "Dashboard Risiken 2025",
+                "name": "Dashboard Risiken 2026",
                 "item": "https://funk-global-risk-consensus.com"
                 },
                 {
@@ -185,28 +187,26 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <div class="label-year"><p>Stand 2025</p></div>
-                    <h1>Extreme Wetterereignisse: Wirtschaftliche Folgen des Klimawandels</h1>
+                    <div class="label-year"><p>Stand 2026</p></div>
+                    <h1>Extreme Wetterereignisse: Häufiger, intensiver, vernetzter</h1>
 
-                    <h2>Extreme Wetterereignisse nehmen zu</h2>
+                    <h2>Akute Naturgefahren mit gekoppelter Wirkung</h2>
                     <p>
-                        Im Jahr 2024 sind die Auswirkungen des Klimawandels deutlicher denn je. Extreme Wetterereignisse nehmen an Häufigkeit und Intensität weiter zu und verursachen massive wirtschaftliche und soziale Schäden.
-                    </p>
-
-                    <h2>Rekordtemperaturen und Naturkatastrophen weltweit</h2>
-                    <p>
-                        In den letzten Jahren haben Rekordtemperaturen in Europa zu verheerenden Dürren geführt, während Überschwemmungen in Asien Millionen Menschen obdachlos gemacht haben. Besorgniserregend ist die Zunahme von Wetterextremen in Regionen, die bisher nicht in diesem Ausmass betroffen waren. In Mitteleuropa häufen sich Hitzewellen mit Temperaturen über 40 Grad. Die wirtschaftlichen Schäden sind immens: Die Landwirtschaft leidet unter Ernteausfällen, extreme Wetterereignisse belasten die Infrastruktur und zerstören Gebäude, Strassen und Versorgungssysteme. Das liegt vor allem daran, dass diese Regionen auf Extremwetterereignisse nicht vorbereitet sind, da sie in der Vergangenheit nicht in diesem Ausmass aufgetreten sind.
+                        Extreme Wetterereignisse umfassen akute, wetterbedingte Naturgefahren wie Starkniederschläge und Hochwasser, Stürme/Hagel, Murgänge, Hitzeperioden, Trockenheit oder Kälteeinbrüche. Die aktuelle Entwicklung zeigt, dass solche Ereignisse in vielen Regionen häufiger auftreten, intensiver ausfallen und teils neue Expositionsmuster erzeugen. Für Unternehmen ist entscheidend, dass die Wirkungskette selten auf unmittelbare Sachschäden beschränkt bleibt: Auch ohne direkte Schäden am Standort können Lieferketten, Transportwege, Energie- und Kommunikationsnetze oder die Verfügbarkeit von Arbeitskräften betroffen sein. Besonders relevant ist die zunehmende Kopplung von Risiken: Ein Starkregenereignis kann gleichzeitig Infrastruktur (Zufahrten, Bahnlinien), Versorgungsnetze (Strom, Wasser) und Zulieferer in der Region beeinträchtigen.
                     </p>
 
                     <div class="hidden-text">
-                        <h2>Auswirkungen auf Unternehmen und Industrie</h2>
+                        <h2>Strategische Auswirkungen auf Standorte und Versicherbarkeit</h2>
                         <p>
-                        Unternehmen sind in mehrfacher Hinsicht betroffen. Produktionsanlagen können durch Überschwemmungen oder Stürme beschädigt werden, während anhaltende Hitzewellen die Arbeitsproduktivität senken. Zudem erhöhen neue Klimaschutzrichtlinien den regulatorischen Druck auf Unternehmen. Viele Länder führen eine strengere CO₂-Bepreisung ein, die zusätzliche Kosten verursacht. Langfristig sind Unternehmen gezwungen, nachhaltigere Strategien zu entwickeln, um klimabedingte Risiken zu minimieren.
+                            Auf strategischer Ebene wirken extreme Wetterereignisse auf Standortentscheidungen, Investitionsplanung, Instandhaltungsbudgets und die Versicherbarkeit. Gleichzeitig steigen die Anforderungen von Kunden, Investoren und Regulatoren an die Transparenz physischer Klimarisiken und an nachweisbare Resilienz- und Kontinuitätsplanung. Unternehmen mit stark konzentrierten Produktions- oder Logistikstrukturen sind besonders exponiert, wenn kritische Anlagen, Lager oder IT-Infrastruktur (z. B. Rechenzentren, zentrale Serverräume) an wenigen Standorten gebündelt sind. Zudem können indirekte Effekte wie Wasserknappheit, Kühlbedarf bei Hitze, Arbeitsausfälle oder behördliche Einschränkungen (z. B. Sperrungen, Evakuierungen) die Leistungserbringung unmittelbar beeinflussen.
                         </p>
 
-                        <h2>Notwendige Anpassungen und Zukunftsperspektiven</h2>
+                        <h2>Resilienz als Führungsaufgabe</h2>
                         <p>
-                        Resiliente Lieferketten, nachhaltige Produktionsmethoden und umfassende Katastrophenvorsorge werden zu entscheidenden Faktoren, um den Herausforderungen des Klimawandels zu begegnen.
+                            Für die Geschäftsleitung steht damit weniger die Frage im Vordergrund, ob ein Ereignis „einmalig" eintritt, sondern wie robust das Unternehmen gegenüber einer Serie von Störungen ist, wie schnell es wieder anlaufen kann und wie gut Standorte und Lieferketten an neue Rahmenbedingungen angepasst werden.
+                        </p>
+                        <p>
+                            Extreme Wetterereignisse sind in diesem Sinn ein Resilienzthema: Sie betreffen operatives Tagesgeschäft, aber auch langfristige Kapitalbindung, Versicherungskosten und Wettbewerbsfähigkeit.
                         </p>
                     </div>
 
@@ -222,95 +222,49 @@ Version 1.1 - 03.2025
             </div>
         </div>
 
-        <div class="rdcontainer">
-            <!-- Interessante Fakten -->
-            <div class="rdcfakten">
-                <h2>Interessante Fakten</h2>
-                <div class="fakten bg">
-                    <h1>500 Milliarden Schaden</h1>
-                    <p>Extreme Wetterereignisse haben in den letzten 40 Jahren (1980-2020) in Europa (EEA-32 Länder) über 500 Milliarden Schäden verursacht, wovon nur 116 Milliarden versichert waren. Ungefähr 142'000 Menschen sind diesen Events zum Opfer gefallen.</p>
-                    <div class="piecontainer">
-                        <div class="pie"><canvas id="pie-economic-losses"></canvas></div>
-                        <div class="pie"><canvas id="pie-insured-economic-losses"></canvas></div>
-                        <div class="pie"><canvas id="pie-fatalities"></canvas></div>
-                    </div>
-                    <div class="piedescription">
-                        <div> 
-                            <p><span style='background-color:#60A3D9;'></span> Hydrologische Ereignisse</p>
-                            <p><span style='background-color:#5487A6;'></span> Meteorologische Ereignisse</p>
-                            <p><span style='background-color:#A9977F;'></span> Klimatologische Ereignisse - Hitzewelle</p>
-                            <p><span style='background-color:#BFBFBF;'></span> Klimatologische Ereignisse - Andere</p>
-                        </div>
-                        <p>Hydrologische Events beschreiben Hochwasser und Überschwemmungen, meteorologische Events sind Stürme, klimatologische Events sind Hitzewellen und andere klimatologische Events beschreiben Dürren, Kältewellen und extreme Feuchtperioden.</p>
-                    </div>
-                </div>
+        <div class="rdcontainer rdc3grid">
+            <!-- Ursachen -->
+            <div class="rdcol bg">
+                <h2>Ursachen</h2>
+                <ul>
+                    <li><strong>Geografische Exposition:</strong> Nähe zu Gewässern, Hanglagen, Wind- und Hagelzonen, urbane Hitzeinseln</li>
+                    <li><strong>Bauweise:</strong> Keller- und Tiefgaragen, fehlende Schutzmassnahmen, empfindliche Anlagen, ungenügende Baustandards</li>
+                    <li><strong>Abhängigkeit von Infrastruktur:</strong> Strom, Verkehr, Telekommunikation, Wasser</li>
+                    <li><strong>Konzentration kritischer Prozesse und Bestände an wenigen Standorten:</strong> Klumpenrisiko</li>
+                    <li><strong>Klima- und Wettertrends</strong> sowie veränderte Extremereignismuster</li>
+                </ul>
             </div>
-            <!-- Abhängigkeit zu Events -->
-            <div class="rdcevents">
-                <h2>Abhängigkeit zu Events</h2>
-                <div class="rdevents" id="container">
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img 
-                                src="img/funk-global-risk-consensus-event-hurricane-ian-2022.jpg" 
-                                alt="Hurrikan Ian 2022 als Naturkatastrophe mit globaler Relevanz im Funk Global Risk Consensus" 
-                                loading="lazy">
-                        </div>
-                        <div class="eventtitle">
-                            <h1>Hurricane Ian - 2022</h1>
-                            <p class="hidden-text">
-                                Hurricane Ian wütete vom 23.-30 September 2022 in der Karibik und richtete grossflächige Zerstörung an. Die Windgeschwindigkeit erreichte bis 260km/h und somit war Ian ein Hurricane der Kategorie 5. Neben den starken Winden war die Sturmflut gepaart mit den sehr starken Niederschlägen und der langsamen Wanderung für die massiven Schäden verantwortlich. 
-                                <br><br>
-                                Insgesamt sind mindestens 160 Menschen ums Leben gekommen, 149 davon in Florida und Ian richtete Schäden von über 113 Milliarden Dollar an. Es war der tödlichste Hurricane in Florida seit 1935.
-                            </p>
-                        </div>
-                    </div>  
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img 
-                                src="img/funk-global-risk-consensus-event-jahrhunderthochwasser-in-deutschland-2021.jpg" 
-                                alt="Jahrhunderthochwasser in Deutschland 2021 als prägendes Umweltereignis im Funk Global Risk Consensus" 
-                                loading="lazy">
-                        </div>
-                        <div class="eventtitle">
-                            <h1>Jahrhunderthochwasser in Deutschland - 2021</h1>
-                            <p class="hidden-text">
-                                Im Juli 2021 kam es in Teilen Deutschlands aufgrund starker Regenfälle zu einem verheerenden Hochwasser. Die Überschwemmungen trafen vor allem die Bundesländer Nordrhein-Westfalen und Rheinland-Pfalz, aber auch andere Regionen wie Bayern, Sachsen und Sachsen-Anhalt waren betroffen.
-                                <br><br>
-                                Die Flüsse Rhein, Mosel und deren Nebenflüsse sowie die Zuflüsse der Elbe führten aufgrund der Regenfälle ungewöhnlich viel Wasser, das teilweise weit über die Ufer trat und zahlreiche Ortschaften und Städte in den betroffenen Regionen überflutete.<br><br>
-                                Die Schäden durch das Hochwasser waren enorm. Häuser, Straßen und Brücken wurden beschädigt oder zerstört, Autos und andere Fahrzeuge wurden fortgespült und es gab zahlreiche Tote und Verletzte.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="hidden-events">
-                        <div class="event bg">
-                            <div class="eventimg">
-                                <img 
-                                    src="img/funk-global-risk-consensus-event-buschfeuer-in-australien-2019-2020.jpg" 
-                                    alt="Buschfeuer in Australien 2019/2020 als extremes Klimaereignis im Funk Global Risk Consensus" 
-                                    loading="lazy">
-                                </div>
-                            <div class="eventtitle">
-                                <h1>Buschfeuer in Australien <br> 2019 - 2020</h1>
-                                <p class="hidden-text">
-                                    Die Buschfeuer in Australien 2019-2020 waren eine der schlimmsten Feuerkatastrophen in der Geschichte des Landes. Die Brände begannen im Oktober 2019 und dauerten bis Februar 2020 an. 
-                                    <br><br>
-                                    Die Feuer breiteten sich in vielen Teilen des Landes aus, insbesondere in den Bundesstaaten New South Wales und Victoria, und zerstörten große Flächen von Wäldern, Buschland und Nationalparks. Es wird geschätzt, dass mehr als 10 Millionen Hektar Land verbrannt wurden, was ungefähr der Größe von Island entspricht. Viele Tierarten wurden durch die Feuer aus ihren Lebensräumen vertrieben und es wird angenommen, dass Hunderte von Millionen Tieren durch die Brände ums Leben gekommen sind. 
-                                    <br><br>
-                                    Die Feuer hatten auch schwerwiegende Auswirkungen auf die Gesundheit der Menschen in den betroffenen Gebieten. Die Luftqualität war in vielen Regionen aufgrund des Rauchs und der Asche stark beeinträchtigt, was zu gesundheitlichen Problemen bei der Bevölkerung führte.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="ewBtn" data-open="true">Mehr Events</button>
-                </div>
-            </div>    
+            <!-- Auswirkungen -->
+            <div class="rdcol bg bgblue">
+                <h2>Auswirkungen</h2>
+                <ul>
+                    <li><strong>Sachschäden:</strong> Gebäude, Dächer, Fassaden, Maschinen, Lagerbestände, Fahrzeuge</li>
+                    <li><strong>Betriebsunterbruch:</strong> Produktionsstopp, Ausfall Lager und Logistik, Sperrung von Zufahrten, eingeschränkte Schichtfähigkeit</li>
+                    <li><strong>Lieferketten:</strong> Ausfälle bei Zulieferern, Transportverzögerungen, Engpässe bei Rohstoffen und Komponenten</li>
+                    <li><strong>Versorgung:</strong> Stromausfälle, Wasserknappheit, Kühlprobleme, IT- und Telekommunikations-Unterbrüche</li>
+                    <li><strong>Mitarbeitende:</strong> Sicherheitsrisiken, Arbeitsausfälle, Belastung durch Hitze, Einschränkungen im Aussendienst</li>
+                    <li><strong>Finanzen:</strong> Reparaturen, Überstunden, Ersatzbeschaffung, Vertragsstrafen, Verlust von Aufträgen</li>
+                    <li><strong>Versicherbarkeit:</strong> steigende Versicherungsprämien und Selbstbehalte, Deckungslücken, strengere Auflagen</li>
+                </ul>
+            </div>
+            <!-- Bewältigungsmassnahmen -->
+            <div class="rdcol bg bggreen">
+                <h2>Bewältigungsmassnahmen</h2>
+                <ul>
+                    <li><strong>Expositionsanalyse:</strong> Standort-Mapping, Szenarioanalysen, Kritikalität je Standort und Prozess</li>
+                    <li><strong>Bauliche und technische Resilienz:</strong> Rückstauklappen, mobile Barrieren, Dach- und Hagelschutz, Schutz sensibler Technikräume</li>
+                    <li><strong>BCM und Notfallplanung:</strong> Notbetrieb, Verlagerung, Alternativlogistik, Evakuations- und Sicherheitspläne, regelmässige Übungen</li>
+                    <li><strong>Lieferkette:</strong> Multi-Sourcing, Alternativrouten, Sicherheitsbestände, vertragliche SLA und Force-Majeure-Klarheit</li>
+                    <li><strong>Betrieb und Wartung:</strong> präventive Instandhaltung, Monitoring (Wetterwarnungen), Schutzkonzepte für Hitze und Trockenheit</li>
+                    <li><strong>Finanz und Versicherung:</strong> Deckungsprüfung, parametrische und klassische Lösungen, Schadenprävention als Verhandlungsargument</li>
+                </ul>
+            </div>
         </div>
-        
+
         <div class="rdcontainer">
-            <!-- Lösungen -->
+            <!-- Risikolösungen -->
             <div class="rdCsolution">
-                <h2>Lösungen</h2>
+                <h2>Risikolösungen</h2>
                 <div class="rdsolution bg">
                     <h1>Naturgefahren Risiko Analyse.</h1>
                     <p>

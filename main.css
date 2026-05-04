@@ -494,7 +494,7 @@ canvas {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  width: 70%;
+  width: 100%;
 }
 
 .risks {
@@ -507,11 +507,11 @@ canvas {
 .risk {
   display: flex;
   flex-direction: column;
-  flex-basis: calc(100% / 2 - 15px);
+  flex-basis: calc(100% / 3 - 20px);
   top: 0;
   transition: box-shadow 0.3s, top 0.3s ease-in-out;
   cursor: pointer;
-  height: 220px;
+  height: 290px;
 }
 
 .risktitle h1, .geventtitle h1, .trendtitle h1 {
@@ -687,11 +687,55 @@ canvas {
   margin: 0;
 }
 
+.rdc3grid {
+  flex-wrap: nowrap;
+  align-items: flex-start;
+}
+.rdcol {
+  width: calc(100% / 3 - 20px);
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.rdcol h2 {
+  margin-left: 0;
+  margin-bottom: 35px;
+}
+.rdcol ul {
+  padding-left: 0;
+  margin: 0;
+}
+.rdcol li {
+  list-style: none;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--funkgrey);
+}
+.rdcol li:first-child {
+  padding-top: 0;
+}
+.rdcol li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.rdcol.bgblue {
+  background-color: var(--funkhover);
+}
+.rdcol.bggreen {
+  background-color: #e7eee1;
+}
+.rdcol > a {
+  margin-top: 25px;
+  align-self: flex-start;
+}
+.rdcontainer.contactonly {
+  justify-content: flex-end;
+}
+
 .rdcfakten{
   width: 70%;
   display: flex;
   flex-direction: column;
-} 
+}
 
 .rdcevents {
   width: 30%;
@@ -1066,14 +1110,11 @@ footer .logo img {
   /* home */
   body {padding: 0;}
   .riskseventstrends {flex-direction: column; margin: 160px auto 30px; gap: 0px;}
-  .crisks, .cgeventstrends {width: 100%; gap: 0px;}
-  .risks, .gevents, .trends {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
+  .crisks {width: 100%; gap: 0px;}
+  .risks {width: 100%; overflow-x: scroll; padding: 25px; flex-wrap: nowrap; flex-direction: row; gap: 30px;}
   .download {margin-left: 25px;}
-  .risk, .gevent {min-width: 330px;}
-  .trend {width: 50%;}
-  .gevent {margin-bottom: 0;}
+  .risk {min-width: 330px;}
   .riskseventstrends h2 {padding-left: 35px; margin-top: 20px;}
-  .cgevents h2, .ctrends h2 {margin-bottom: 0;}
 
   /* risk */
   .rdmain {padding: 10px 50px; margin-top: 90px; margin-bottom: 20px;}
@@ -1114,12 +1155,12 @@ footer .logo img {
   .supernav ul:last-child {padding-bottom: 100px;}
 
   /* home */
-  .risk, .gevent {min-width: 300px;}
+  .risk {min-width: 300px;}
   .trend {width: 100%;}
 
   /* risk */
   .rdeinleitung, .rdcontainer {flex-direction: column;}
-  .item60, .item40, .rdcfakten, .rdcevents, .rdCsolution, .rdCcontact {width: 100%}
+  .item60, .item40, .rdcfakten, .rdcevents, .rdCsolution, .rdCcontact, .rdcol {width: 100%}
   .rdimg {align-items: stretch;}
   .mchartscont {width: calc(100% + 30px); overflow-x: scroll;}
   .mcharts{width: 600px; padding-right: 30px;}

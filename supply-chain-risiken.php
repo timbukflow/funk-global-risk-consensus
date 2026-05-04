@@ -14,7 +14,7 @@ Version 1.1 - 03.2025
     <title>Supply Chain | Funk Global Risk Consensus </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
+    <meta name="description" content="Supply-Chain-Risiken sind ein dynamisches, extern wie intern getriebenes Risikofeld: Geopolitik, Makroökonomie, Digitalisierung und Regulierung treffen auf Klumpenrisiken und unzureichende Transparenz.">
     <meta name="author" content="Funk Gruppe">
     <link rel="canonical" href="https://funk-global-risk-consensus.com/supply-chain-risiken" />
     
@@ -32,7 +32,7 @@ Version 1.1 - 03.2025
     <link rel="manifest" href="/site.webmanifest" />
 
     <meta property="og:title" content="Supply Chain | Funk Global Risk Consensus">
-    <meta property="og:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
+    <meta property="og:description" content="Supply-Chain-Risiken sind ein dynamisches, extern wie intern getriebenes Risikofeld: Geopolitik, Makroökonomie, Digitalisierung und Regulierung treffen auf Klumpenrisiken und unzureichende Transparenz.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://funk-global-risk-consensus.com/supply-chain-risiken">
     <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
@@ -40,7 +40,7 @@ Version 1.1 - 03.2025
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Supply Chain | Funk Global Risk Consensus">
-    <meta name="twitter:description" content="Global vernetzte Lieferketten bergen Risiken: Ausfälle, Logistikprobleme, Cyber-Risiken. Pandemie-bedingte Betriebsschliessungen verstärkten die Herausforderungen. Effektives Risikomanagement ist entscheidend.">
+    <meta name="twitter:description" content="Supply-Chain-Risiken sind ein dynamisches, extern wie intern getriebenes Risikofeld: Geopolitik, Makroökonomie, Digitalisierung und Regulierung treffen auf Klumpenrisiken und unzureichende Transparenz.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
     <meta name="format-detection" content="telephone=yes">
@@ -64,7 +64,7 @@ Version 1.1 - 03.2025
         "@type": "WebPage",
         "name": "Supply Chain Risiken erkennen & steuern | Funk Global Risk Consensus",
         "url": "https://funk-global-risk-consensus.com/supply-chain-risiken",
-        "description": "Globale Lieferketten stehen unter Druck: Naturereignisse, Engpässe, IT-Störungen oder geopolitische Konflikte erhöhen die Ausfallrisiken. Funk zeigt Wege auf, Lieferketten resilienter zu gestalten.",
+        "description": "Supply-Chain-Risiken sind ein dynamisches, extern wie intern getriebenes Risikofeld: Geopolitik, Makroökonomie, Digitalisierung und Regulierung treffen auf Klumpenrisiken und unzureichende Transparenz.",
         "inLanguage": "de-CH",
         "author": {
             "@type": "Organization",
@@ -83,8 +83,8 @@ Version 1.1 - 03.2025
         },
         "mainEntity": {
             "@type": "Article",
-            "headline": "Supply Chain Risiken – Globale Lieferketten im Stresstest",
-            "articleBody": "Supply Chain Risiken umfassen Störungen in der Beschaffung, Logistik oder bei IT-Dienstleistern. Ereignisse wie die Ever Given-Blockade oder Engpässe im Panamakanal verdeutlichen, wie anfällig Lieferketten auf externe Schocks reagieren. Pandemiebedingte Betriebsschliessungen, Cyber-Angriffe auf Zulieferer oder der Ausfall kritischer Transportwege können die gesamte Wertschöpfungskette lahmlegen.",
+            "headline": "Supply-Chain-Risiken: Vom geopolitischen Schock zur internen Resilienz",
+            "articleBody": "Die Gefahr, dass Verfügbarkeit, Qualität, Kosten oder Integrität von Vorleistungen, Produkten oder Dienstleistungen entlang der Lieferkette beeinträchtigt werden, ist im letzten Jahr stark angestiegen. Politische Spannungen, Handelsbeschränkungen, Sanktionen, regionale Konflikte sowie veränderte Zoll- und Exportkontrollen führen zu kurzfristigen Unterbrüchen oder strukturellen Verwerfungen. Gleichzeitig wirken Inflation, volatile Energiepreise, Wechselkurse, Cyberangriffe sowie steigender regulatorischer Druck auf Beschaffung und Vertragsstabilität. Interne Faktoren wie unzureichende Planung oder fehlende Redundanzen verstärken Ausmass und Dauer von Störungen.",
             "author": {
             "@type": "Organization",
             "name": "Funk Gruppe",
@@ -95,16 +95,17 @@ Version 1.1 - 03.2025
             "name": "Stefan Brändli, Risk Analyst, MSc ERDW ETHZ"
             },
             "datePublished": "2024-03-20T10:00:00+01:00",
-            "dateModified": "2025-04-09T10:00:00+01:00",
+            "dateModified": "2026-05-04T10:00:00+02:00",
             "keywords": [
             "Supply Chain Risiken",
             "Lieferkettenstörung",
-            "Cyber-Risiken",
-            "Logistik",
-            "Funk Global Risk Consensus",
-            "Suezkanal Blockade",
-            "Panamakanal Trockenheit",
-            "Risikomanagement"
+            "Geopolitik",
+            "Sanktionen",
+            "Sorgfaltspflichten",
+            "Multi-Sourcing",
+            "BCM",
+            "Klumpenrisiko",
+            "Resilienz"
             ],
             "image": {
             "@type": "ImageObject",
@@ -125,7 +126,7 @@ Version 1.1 - 03.2025
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "Dashboard Risiken 2025",
+            "name": "Dashboard Risiken 2026",
             "item": "https://funk-global-risk-consensus.com"
             },
             {
@@ -184,32 +185,26 @@ Version 1.1 - 03.2025
                         loading="lazy">
                 </div>
                 <div class="rdcontent">
-                    <div class="label-year"><p>Stand 2024</p></div>
-                    <h1>Supply Chain Risiken: Komplexität, Abhängigkeit und Ausfallgefahren</h1>
+                    <div class="label-year"><p>Stand 2026</p></div>
+                    <h1>Supply-Chain-Risiken: Vom geopolitischen Schock zur internen Resilienz</h1>
 
-                    <h2>Ausfall von Zulieferern und Lean-Produktionsrisiken</h2>
+                    <h2>Komplexität, Geopolitik und makroökonomischer Druck</h2>
                     <p>
-                        Durch die sehr starke Vernetzung zwischen Produzenten und Zulieferern, aber auch die immer stärkere Zerstückelung (Outsourcing) von Produktionsketten, steigen auch die Risiken, dass bei einem Ausfall eines Zulieferers die Wertschöpfung in der ganzen Kette zum Erliegen kommt. Die Tendenz zu weniger Lagerhaltung und zur Produktion im Lean-Verfahren spart Kosten, kann aber dazu führen, dass bei einem Ausfall eines Lieferanten die Produktion stillsteht, da Rohstoffe oder Bauteile nicht verfügbar sind.
-                    </p>
-
-                    <h2>Logistikprobleme als wachsendes Risiko</h2>
-                    <p>
-                        Nicht nur ein Lieferantenausfall ist ein Risiko in der Supply Chain – vermehrt ist auch die Logistik, also der Transport von Waren und Rohstoffen, ein Problem. Blockierte Wasserstrassen, reduzierte Kapazitäten aufgrund von Niedrigwasser oder geschlossene Häfen führen zu Verzögerungen und Lieferausfällen. Die Unberechenbarkeit in den Lieferketten führt zu Mehrkosten und Planungsunsicherheit.
+                        Die Gefahr, dass die Verfügbarkeit, Qualität, Kosten oder Integrität von Vorleistungen, Produkten oder Dienstleistungen entlang der Lieferkette beeinträchtigt werden, ist im letzten Jahr stark angestiegen. In der aktuellen wirtschaftlichen und geopolitischen Lage sind Lieferketten zunehmend komplex, global vernetzt und gegenseitig abhängig. Politische Spannungen, Handelsbeschränkungen, Sanktionen, regionale Konflikte sowie veränderte Zoll- und Exportkontrollen können zu kurzfristigen Unterbrüchen oder strukturellen Verwerfungen führen. Gleichzeitig wirken makroökonomische Faktoren wie Inflation, volatile Energiepreise und Wechselkursbewegungen auf Beschaffungskosten und Vertragsstabilität.
                     </p>
 
                     <div class="hidden-text">
-                        <h2>IT- und Cyber-Risiken in der Lieferkette</h2>
+                        <h2>Digitalisierung und steigende Regulierung</h2>
                         <p>
-                        Ein drittes und immer grösser werdendes Risiko sind IT- und Cyber-Risiken, die aus der Lieferkette entstehen. Mehr und mehr Zulieferer liefern Software und Cloudlösungen zur Datenverarbeitung sowie Applikationen, um die IoT-fähigen Teil- und Endprodukte zu steuern. Wenn diese Lieferanten ausfallen, sind die gelieferten Applikationen auch beim Bezüger nicht mehr verfügbar, was zu Produktionsausfällen und Unterbrüchen in der Wertschöpfung führt.
+                            Technologische Entwicklungen und die fortschreitende Digitalisierung der Lieferketten erhöhen Effizienz und Transparenz, schaffen aber auch neue Abhängigkeiten von IT-Systemen, Datenqualität und digitalen Plattformen. Cyberangriffe, Systemausfälle oder mangelhafte Integration zwischen internen und externen Systemen können die operative Steuerung der Lieferkette beeinträchtigen. Parallel dazu steigt der regulatorische Druck, insbesondere in Bezug auf Nachhaltigkeit, Sorgfaltspflichten, Produkthaftung und Transparenz entlang der Lieferkette. Neue oder verschärfte regulatorische Anforderungen können Anpassungen bei Lieferantenauswahl, Dokumentation und Reporting erforderlich machen und zu Verzögerungen oder Kostensteigerungen führen.
                         </p>
 
-                        <h2>Folgen der Pandemie auf globale Lieferketten</h2>
+                        <h2>Externe Schocks und interne Verwundbarkeit</h2>
                         <p>
-                        Betriebsschliessungen während der Pandemie führten ebenfalls zu massiven Ausfällen in der Lieferkette, wodurch die globale Produktion stark eingebrochen ist. Die Entlassungen während dieser Zeit wirken bis heute nach, da es schwierig ist, das jetzt benötigte Personal wieder einzustellen. Zudem wurde häufig ein Investitionsstopp verhängt, und viele Betriebe haben Schulden angehäuft, um das Fortbestehen zu sichern.
+                            Gesellschaftliche Erwartungen an Umwelt- und Sozialstandards sowie an Resilienz und Krisenfähigkeit von Unternehmen nehmen zu. Ereignisse wie Naturkatastrophen, extreme Wetterlagen oder Pandemien verdeutlichen die Verwundbarkeit globaler Lieferketten und können Produktionsstandorte, Transportwege oder Verfügbarkeiten von Schlüsselkomponenten kurzfristig beeinträchtigen. Gleichzeitig können interne Faktoren wie unzureichende Planung, geringe Transparenz über Abhängigkeiten, fehlende Redundanzen oder unklare Verantwortlichkeiten das Ausmass und die Dauer von Lieferkettenstörungen verstärken.
                         </p>
-
                         <p>
-                        Dadurch hinkt die vor Covid geplante Kapazität der aktuell möglichen Kapazität weit hinterher. Bereits kleine Vorfälle, die die Produktion beeinträchtigen, führen heute zu grossen Auswirkungen bei den Endproduzenten.
+                            Insgesamt stellen Supply-Chain-Risiken ein dynamisches, extern wie intern getriebenes Risikofeld dar, dessen Eintrittswahrscheinlichkeit und Auswirkungen je nach Marktumfeld, Geschäftsmodell und Komplexität der Lieferkette variieren und sich über kurze, mittlere und längere Zeithorizonte materialisieren können.
                         </p>
                     </div>
 
@@ -224,61 +219,46 @@ Version 1.1 - 03.2025
             </div>
         </div>
 
-        <div class="rdcontainer">
-            <!-- Interessante Fakten -->
-            <div class="rdcfakten">
-                <h2>Interessante Fakten</h2>
-                <div class="fakten bg">
-                    <h1>Auswirkungen von Supply-Chain-Vorfällen auf Unternehmen</h1>
-                    <div class="mchartscont">
-                        <div class="mchartsbig">
-                            <canvas id="supply-chain-grafik-01"></canvas>
-                        </div>
-                    </div>
-                    <p class="dquelle">Quelle: BCI Supply Chain Resilience Report 2023</p>
-                </div>
+        <div class="rdcontainer rdc3grid">
+            <!-- Ursachen -->
+            <div class="rdcol bg">
+                <h2>Ursachen</h2>
+                <ul>
+                    <li><strong>Geopolitische Spannungen:</strong> Handelskonflikte oder Sanktionen in Beschaffungs- oder Absatzmärkten</li>
+                    <li><strong>Single-Source:</strong> Abhängigkeit von einzelnen Lieferanten, Ländern oder Transportwegen</li>
+                    <li><strong>Verletzlichkeit der Supply-Chain:</strong> Naturereignisse oder extreme Wetterlagen mit Auswirkungen auf Produktion und Logistik, IT-Systemausfälle, Cybervorfälle oder Dateninkonsistenzen in der Lieferkette</li>
+                    <li><strong>Regulatorische Änderungen:</strong> Neue Sorgfaltspflichten oder Auflagen entlang der Lieferkette</li>
+                    <li><strong>Fehlendes Supply-Chain-Management:</strong> Unzureichende interne Bedarfsplanung oder Prognosequalität, vertragliche Schwächen oder unklare Haftungsregelungen, interne Prozessfehler oder unklare Verantwortlichkeiten, mangelnde Transparenz über Unterlieferanten und Vorstufen</li>
+                </ul>
             </div>
-            <!-- Abhängigkeit zu Events -->
-            <div class="rdcevents">
-                <h2>Abhängigkeit zu Events</h2>
-                <div class="rdevents">
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img 
-                                src="img/funk-global-risk-consensus-event-ever-given-2021.jpg" 
-                                alt="Blockade des Suezkanals durch die Ever Given 2021 als globales Lieferkettenereignis im Funk Global Risk Consensus" 
-                                loading="lazy">
-                        </div>
-                        <div class="eventtitle">
-                            <h1>Blockade des Suezkanals durch die "Ever Given" - 2021</h1>
-                            <p class="hidden-text">
-                                Die "Ever Given", ein massives Containerschiff, wurde während eines Sandsturms diagonal im Kanal festgefahren. Dieser Vorfall hatte erhebliche globale Auswirkungen, da der Suezkanal eine der verkehrsreichsten Handelsrouten der Welt ist und das Mittelmeer mit dem Roten Meer verbindet. Er bietet eine Abkürzung für Schiffe, die zwischen Europa und Asien unterwegs sind.
-                                <br><br>
-                                Die Havarie des Schiffs blockierte den Verkehr in beide Richtungen entlang des Kanals und führte zu einem massiven Stau von Schiffen, die darauf warteten, passieren zu können. Die Bemühungen, die Ever Given zu befreien, umfassten Schlepper, Bagger und Aushubgeräte, die daran arbeiteten, das Schiff von den sandigen Ufern des Kanals zu befreien. Es dauerte sechs Tage, bis das Schiff erfolgreich wieder flott gemacht und der Kanal für den Verkehr geöffnet wurde.
-                                <br><br>
-                                Der Vorfall verdeutlichte die Verwundbarkeit globaler Handelsrouten gegenüber Störungen und die potenziellen Auswirkungen auf Lieferketten. Er löste auch Diskussionen über die Notwendigkeit verbesserter Sicherheitsmassnahmen für die Navigation in wichtigen Wasserstrassen wie dem Suezkanal aus. Die Havarie der Ever Given führte zu erheblichen Verzögerungen im globalen Schiffsverkehr und löste Bedenken hinsichtlich der Knappheit von Gütern und der gestiegenen Kosten für Unternehmen aus, die auf eine rechtzeitige Lieferung von Waren per Seetransport angewiesen sind.die bei den Löscharbeiten waren. Tausende von Menschen wurden verletzt, einige davon schwer.   
-                            </p>  
-                        </div>
-                    </div>
-                    <div class="event bg">
-                        <div class="eventimg">
-                            <img 
-                                src="img/funk-global-risk-consensus-event-panamakanal-2023.jpg" 
-                                alt="Einschränkungen am Panamakanal 2023 als globales Logistikereignis im Funk Global Risk Consensus" 
-                                loading="lazy">
-                        </div>
-                        <div class="eventtitle">
-                            <h1>Wassermangel beim <br> Panamakanal - 2023</h1>
-                            <p class="hidden-text">
-                                Aufgrund geringer Niederschläge kann der Panamakanal nur mit reduzierter Beladung durchfahren werden. Dies liegt daran, dass das natürliche Wasserreservoir, von dem aus der Kanal gespiesen wird, nicht ausreichend gefüllt ist. Dadurch kann weniger Fracht pro Schiff befördert werden kann, was zu Kapazitätsengpässen führt, da zum einen nicht unlimitiert Frachtkapazität vorhanden ist und der Kanal auch nicht mehr Schiffe mit verteilter Fracht aufnehmen kann.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>    
+            <!-- Auswirkungen -->
+            <div class="rdcol bg bgblue">
+                <h2>Auswirkungen</h2>
+                <ul>
+                    <li><strong>Ertragsausfälle:</strong> Unterbrechungen oder Verzögerungen in Produktion und Leistungserbringung, Lieferverzögerungen oder Produktknappheit</li>
+                    <li><strong>Mehrkosten:</strong> Erhöhte Beschaffungs-, Produktions- oder Logistikkosten</li>
+                    <li><strong>Rechtliche Risiken:</strong> Vertragsverletzungen gegenüber Kunden oder Geschäftspartnern</li>
+                    <li><strong>Compliance-Risiken:</strong> Nichteinhaltung regulatorischer Vorgaben</li>
+                    <li><strong>Projekt-Risiken:</strong> Verzögerungen bei strategischen Projekten oder Markteinführungen</li>
+                </ul>
+            </div>
+            <!-- Bewältigungsmassnahmen -->
+            <div class="rdcol bg bggreen">
+                <h2>Bewältigungsmassnahmen</h2>
+                <ul>
+                    <li><strong>Governance &amp; Rahmenbedingungen:</strong> Etablieren einer klaren Governance sowie definierter Verantwortlichkeiten entlang der Lieferkette, Definition von Mindestanforderungen an Qualität, Compliance, Nachhaltigkeit und ethische Standards, regelmässige Überprüfung von Verträgen, Lieferbedingungen und Haftungsregelungen</li>
+                    <li><strong>Transparenz &amp; Risikoidentifikation:</strong> Systematische Identifikation und Bewertung kritischer Lieferanten, Unterlieferanten und Abhängigkeiten, Etablieren transparenter Informations- und Kommunikationsprozesse mit Lieferanten und Drittparteien</li>
+                    <li><strong>Lieferanten- &amp; Abhängigkeitsmanagement:</strong> Prüfen und, wo möglich, Diversifizieren von Lieferanten, Regionen und Transportwegen, Einbindung von Lieferanten und Drittparteien in Risikoanalysen und Audits</li>
+                    <li><strong>Resilienz, BCM &amp; Reaktionsfähigkeit:</strong> Aufbau geeigneter Notfall-, Eskalations- und Substitutionspläne für Lieferkettenstörungen, Integration von Supply-Chain-Risiken in das Business-Continuity- und Krisenmanagement, regelmässige Tests von Reaktions-, Wiederanlauf- und Krisenprozessen</li>
+                    <li><strong>Organisation, Fähigkeiten &amp; Awareness:</strong> Sensibilisierung und Schulung relevanter Mitarbeitender zu Lieferkettenrisiken</li>
+                </ul>
+                <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Supply%20Chain%20Risiken">
+                    <button class="anfrageBtn">Anfragen</button>
+                </a>
+            </div>
         </div>
-        
-        <div class="rdcontainer">
+
+        <div class="rdcontainer contactonly">
             <!-- Kontakt -->
             <?php require_once 'risikospezialist-stefan-braendli.php' ?>
         </div>

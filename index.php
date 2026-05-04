@@ -72,57 +72,57 @@ Version 1.1 - 03.2025
             "@type": "ListItem",
             "position": 1,
             "name": "Cyber-Risiken",
-            "description": "Cyber-Risiken nehmen rasant zu: KI-gestützte Angriffe, Deepfakes und Ransomware bedrohen Unternehmen, Behörden und Privatpersonen – inklusive kritischer Infrastrukturen.",
+            "description": "Cyber-Risiken umfassen externe Angriffe, interne Fehler und Fehlkonfigurationen in komplexen IT-Landschaften. Resilienz erfordert Prävention, Erkennung, Reaktion und geübte Wiederherstellung.",
             "url": "https://funk-global-risk-consensus.com/cyber-risiken"
         },
         {
             "@type": "ListItem",
             "position": 2,
-            "name": "Inflation",
-            "description": "Die Inflation hat sich 2024 zwar abgeschwächt, bleibt aber durch geopolitische Krisen, hohe Produktionskosten und unklare Geldpolitik eine zentrale wirtschaftliche Herausforderung.",
-            "url": "https://funk-global-risk-consensus.com/inflation"
+            "name": "Extreme Wetterereignisse",
+            "description": "Extreme Wetterereignisse treten häufiger, intensiver und vernetzter auf. Ihre Wirkung reicht von Sachschäden über Lieferketten und Infrastruktur bis hin zur Versicherbarkeit – Resilienz wird zum Wettbewerbsfaktor.",
+            "url": "https://funk-global-risk-consensus.com/extreme-wetterereignisse"
         },
         {
             "@type": "ListItem",
             "position": 3,
+            "name": "Handelskonflikte",
+            "description": "Handelskonflikte verknüpfen Wirtschaftspolitik mit nationaler Sicherheit: Zölle, Sanktionen und Exportkontrollen erhöhen Unsicherheit für Lieferketten, Marktzugang und Compliance.",
+            "url": "https://funk-global-risk-consensus.com/handelskonflikte"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Künstliche Intelligenz",
+            "description": "Generative KI eröffnet Chancen, schafft aber neue Risiken: Halluzinationen, Shadow AI, Datenschutz, Bias und Deepfakes erfordern klare Governance, Kontrollen und Befähigung.",
+            "url": "https://funk-global-risk-consensus.com/kuenstliche-intelligenz"
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Supply Chain Risiken",
+            "description": "Supply-Chain-Risiken sind ein dynamisches, extern wie intern getriebenes Risikofeld: Geopolitik, Makroökonomie, Digitalisierung und Regulierung treffen auf Klumpenrisiken und unzureichende Transparenz.",
+            "url": "https://funk-global-risk-consensus.com/supply-chain-risiken"
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Makroökonomische Veränderungen",
+            "description": "Makroökonomische Veränderungen wirken als Rahmenbedingung auf Margen, Cashflow und Investitionsspielräume. Robuste Steuerung mit Frühindikatoren, Szenarien und klaren Schwellenwerten wird zur Führungsaufgabe.",
+            "url": "https://funk-global-risk-consensus.com/makrooekonomische-veraenderungen"
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
             "name": "Zwischenstaatliche Konflikte",
             "description": "Geopolitische Spannungen und militärische Konflikte gefährden zunehmend die weltweite wirtschaftliche Stabilität, insbesondere durch unterbrochene Lieferketten und steigende Verteidigungsausgaben.",
             "url": "https://funk-global-risk-consensus.com/zwischenstaatliche-konflikte"
         },
         {
             "@type": "ListItem",
-            "position": 4,
-            "name": "Fachkräftemangel",
-            "description": "Fachkräftemangel bleibt auch 2024 eine zentrale Herausforderung – verstärkt durch demografischen Wandel, neue Anforderungen und veränderte Erwartungen der Arbeitnehmer.",
-            "url": "https://funk-global-risk-consensus.com/fachkraeftemangel"
-        },
-        {
-            "@type": "ListItem",
-            "position": 5,
-            "name": "Makroökonomische Veränderungen",
-            "description": "Makroökonomische Veränderungen wie steigende Leitzinsen beeinflussen Unternehmen, Finanzierungen und Konsumverhalten. Erfahren Sie mehr über Risiken und Schutzstrategien.",
-            "url": "https://funk-global-risk-consensus.com/makrooekonomische-veraenderungen"
-        },
-        {
-            "@type": "ListItem",
-            "position": 6,
-            "name": "Supply Chain Risiken",
-            "description": "Globale Lieferketten stehen unter Druck: Naturereignisse, Engpässe, IT-Störungen oder geopolitische Konflikte erhöhen die Ausfallrisiken. Funk zeigt Wege auf, Lieferketten resilienter zu gestalten.",
-            "url": "https://funk-global-risk-consensus.com/supply-chain-risiken"
-        },
-        {
-            "@type": "ListItem",
-            "position": 7,
-            "name": "Extreme Wetterereignisse",
-            "description": "Extreme Wetterereignisse nehmen weltweit zu: Dürren, Überschwemmungen und Hitzewellen verursachen massive Schäden und stellen Unternehmen vor neue Herausforderungen.",
-            "url": "https://funk-global-risk-consensus.com/extreme-wetterereignisse"
-        },
-        {
-            "@type": "ListItem",
             "position": 8,
-            "name": "Nichtberufskrankheiten",
-            "description": "Nichtberufskrankheiten wie Covid-19 können zu massiven Produktivitätsverlusten führen. Erfahren Sie, welche Risiken für Unternehmen daraus entstehen und wie sie sich wappnen können.",
-            "url": "https://funk-global-risk-consensus.com/nichtberufskrankheiten"
+            "name": "Fachkräftemangel",
+            "description": "Fachkräftemangel bleibt eine zentrale Herausforderung – verstärkt durch demografischen Wandel, neue Anforderungen und veränderte Erwartungen der Arbeitnehmer.",
+            "url": "https://funk-global-risk-consensus.com/fachkraeftemangel"
         },
         {
             "@type": "ListItem",
@@ -134,90 +134,104 @@ Version 1.1 - 03.2025
         {
             "@type": "ListItem",
             "position": 10,
-            "name": "Klimawandel",
-            "description": "Klimawandel beeinflusst Unternehmen weltweit durch Extremwetter, gestörte Lieferketten und steigende Risiken. Erfahren Sie mehr über wirtschaftliche Auswirkungen und resiliente Strategien.",
-            "url": "https://funk-global-risk-consensus.com/klimawandel"
-        },
-        {
-            "@type": "ListItem",
-            "position": 11,
-            "name": "Naturkatastrophen",
-            "description": "Naturkatastrophen wie Erdbeben, Tsunamis und Vulkanausbrüche verursachen enorme Schäden. Erfahren Sie, wie Unternehmen sich vorbereiten können – mit Funk Global Risk Consensus.",
-            "url": "https://funk-global-risk-consensus.com/naturkatastrophen"
-        },
-        {
-            "@type": "ListItem",
-            "position": 12,
-            "name": "Politische Risiken",
-            "description": "Politische Risiken wie Handelskonflikte, Sanktionen oder nationale Alleingänge stellen eine wachsende Bedrohung für internationale Unternehmen dar. Funk analysiert diese Risiken und bietet Orientierung.",
-            "url": "https://funk-global-risk-consensus.com/politische-risiken"
-        },
-        {
-            "@type": "ListItem",
-            "position": 13,
             "name": "Neue Technologien",
             "description": "Technologien wie KI, IoT und Remote Work bieten Chancen, bringen aber auch Risiken für Unternehmen. Erfahren Sie mehr zu Risiken und Prävention mit Funk Global Risk Consensus.",
             "url": "https://funk-global-risk-consensus.com/neue-technologien"
         },
         {
             "@type": "ListItem",
-            "position": 14,
+            "position": 11,
+            "name": "Klimawandel",
+            "description": "Klimawandel beeinflusst Unternehmen weltweit durch Extremwetter, gestörte Lieferketten und steigende Risiken. Erfahren Sie mehr über wirtschaftliche Auswirkungen und resiliente Strategien.",
+            "url": "https://funk-global-risk-consensus.com/klimawandel"
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "name": "Inflation",
+            "description": "Die Inflation bleibt durch geopolitische Krisen, hohe Produktionskosten und unklare Geldpolitik eine wirtschaftliche Herausforderung – mit direkter Wirkung auf Konsum, Margen und Finanzierung.",
+            "url": "https://funk-global-risk-consensus.com/inflation"
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
             "name": "Ungünstige Marktentwicklung",
             "description": "Ungünstige Marktentwicklungen stellen eine fundamentale Bedrohung für Unternehmen dar. Die Ursachen sind vielfältig – von geopolitischen Konflikten bis zu Pandemien. Der Funk Global Risk Consensus hilft, Resilienz aufzubauen.",
             "url": "https://funk-global-risk-consensus.com/unguenstige-marktentwicklung"
         },
         {
             "@type": "ListItem",
+            "position": 14,
+            "name": "Politische Risiken",
+            "description": "Politische Risiken wie Handelskonflikte, Sanktionen oder nationale Alleingänge stellen eine wachsende Bedrohung für internationale Unternehmen dar. Funk analysiert diese Risiken und bietet Orientierung.",
+            "url": "https://funk-global-risk-consensus.com/politische-risiken"
+        },
+        {
+            "@type": "ListItem",
             "position": 15,
+            "name": "Nichtberufskrankheiten",
+            "description": "Nichtberufskrankheiten wie Covid-19 können zu massiven Produktivitätsverlusten führen. Erfahren Sie, welche Risiken für Unternehmen daraus entstehen und wie sie sich wappnen können.",
+            "url": "https://funk-global-risk-consensus.com/nichtberufskrankheiten"
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "Naturkatastrophen",
+            "description": "Naturkatastrophen wie Erdbeben, Tsunamis und Vulkanausbrüche verursachen enorme Schäden. Erfahren Sie, wie Unternehmen sich vorbereiten können – mit Funk Global Risk Consensus.",
+            "url": "https://funk-global-risk-consensus.com/naturkatastrophen"
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
             "name": "Von Menschen verursachte Katastrophen",
             "description": "Industrieunfälle und menschengemachte Katastrophen wie Hafenexplosionen oder Öllecks verursachen nicht nur Umwelt- und Sachschäden, sondern beeinträchtigen oft ganze Lieferketten und Industrien. Der Funk Global Risk Consensus analysiert die Auswirkungen solcher Ereignisse und zeigt Lösungen zur Risikominimierung.",
             "url": "https://funk-global-risk-consensus.com/von-menschen-verursachte-katastrophen"
         },
         {
             "@type": "ListItem",
-            "position": 16,
+            "position": 18,
             "name": "Ukrainekrieg",
             "description": "Der Ukrainekrieg hat zu geopolitischen Spannungen, Sanktionen, Preisexplosionen und globaler Unsicherheit geführt – mit enormen wirtschaftlichen und humanitären Folgen.",
             "url": "https://funk-global-risk-consensus.com/global-event-ukrainekrieg"
         },
         {
             "@type": "ListItem",
-            "position": 17,
+            "position": 19,
             "name": "COVID-19 Pandemie",
             "description": "Die COVID-19 Pandemie hat seit 2020 weltweit tiefgreifende gesundheitliche, wirtschaftliche und gesellschaftliche Auswirkungen verursacht – und prägt globale Risiken bis heute.",
-            "url": "https://funk-global-risk-consensus.com/global-event-covid-19-pandemie"
+            "url": "https://funk-global-risk-consensus.com/global-event-coronapandemie"
         },
         {
             "@type": "ListItem",
-            "position": 18,
+            "position": 20,
             "name": "Brexit",
             "description": "Der Brexit – ein historischer Schritt mit weitreichenden wirtschaftlichen, politischen und sozialen Folgen für Unternehmen, Handel und Gesellschaft.",
             "url": "https://funk-global-risk-consensus.com/global-event-brexit"
         },
         {
             "@type": "ListItem",
-            "position": 19,
+            "position": 21,
             "name": "WannaCry",
             "description": "WannaCry verursachte 2017 einen weltweiten Cyber-Notstand. Die Ransomware legte Systeme lahm, verschlüsselte Daten und verursachte Milliardenschäden – ein Wendepunkt der IT-Sicherheit.",
-            "url": "https://funk-global-risk-consensus.com/global-event-wannacry"
+            "url": "https://funk-global-risk-consensus.com/global-event-wannacry-ransomware"
         },
         {
             "@type": "ListItem",
-            "position": 20,
+            "position": 22,
             "name": "DSGVO",
             "description": "Die DSGVO ist seit 2018 in Kraft und stellt Unternehmen vor hohe Anforderungen beim Datenschutz. Verstösse können zu massiven Bussen führen – weltweit.",
             "url": "https://funk-global-risk-consensus.com/global-event-dsgvo"
         },
         {
             "@type": "ListItem",
-            "position": 21,
+            "position": 23,
             "name": "US – EU Handelskrieg",
             "description": "Der US–EU Handelskrieg wurde durch Strafzölle ausgelöst und belastet seit 2018 die transatlantischen Beziehungen. Trotz Dialog bleiben zentrale Handelsfragen offen.",
             "url": "https://funk-global-risk-consensus.com/global-event-us-eu-handelskrieg"
         },
         {
             "@type": "ListItem",
-            "position": 22,
+            "position": 24,
             "name": "US – China Handelskrieg",
             "description": "Der Handelskonflikt zwischen den USA und China wirkt sich seit 2018 auf globale Lieferketten, Technologiehandel und politische Beziehungen aus – mit wirtschaftlichen Risiken weltweit.",
             "url": "https://funk-global-risk-consensus.com/global-event-us-china-handelskrieg"
@@ -269,42 +283,26 @@ Version 1.1 - 03.2025
                 <button data-year="2022">2022</button>
                 <button data-year="2023">2023</button>
                 <button data-year="2024">2024</button>
-                <button data-year="2025" class="active">2025</button>
+                <button data-year="2025">2025</button>
+                <button data-year="2026" class="active">2026</button>
             </div>
             <?php require_once 'supernav.php'; ?>
         </div> 
     </div>
     
-    <!-- Risiken - Globale Events - Trend -->
+    <!-- Risiken -->
     <div class="riskseventstrends">
         <div class="crisks">
             <h2>Top Risiken</h2>
             <div class="risks"></div>
         </div>
-        <div class="cgeventstrends">
-            <div class="cgevents">
-                <h2>Internationale Ereignisse</h2>
-                <div class="gevents"></div>
-                <button class="gewBtn">Mehr Events</button>
-            </div>
-            <!-- <div class="ctrends">
-                <h2>Trend 2024</h2>
-                <div class="trends">
-                    <a href="trend" class="trend bg">
-                        <div class="trendtitle">
-                            <h1>Funk Risiko Vorhersage Expertenmeinung</h1>
-                        </div>
-                    </a>
-                </div>
-            </div> -->
-        </div>
     </div>
 
     <!-- Download -->
-    <a href="download/funk-global-risk-consensus-top-5-risiken-2025.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="download/funk-global-risk-consensus-top-5-risiken-2026.pdf" target="_blank" rel="noopener noreferrer">
         <div class="download bg">
             <h2>
-            <span class="material-symbols-outlined">download</span> Top 5 Risiken 2025 (PDF)
+            <span class="material-symbols-outlined">download</span> Top 5 Risiken 2026 (PDF)
             </h2>
         </div>
     </a>

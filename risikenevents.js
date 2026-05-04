@@ -1,4 +1,39 @@
 const data = {
+  "2026": {
+    "risks": [
+        {
+          "name": "Cyber-Risiken",
+          "image": "img/funk-global-risk-consensus-risiko-cyberrisiken.jpg",
+          "link": "cyber-risiken"
+        },
+        {
+          "name": "Extreme Wetterereignisse",
+          "image": "img/funk-global-risk-consensus-risiko-extreme-wetterereignisse.jpg",
+          "link": "extreme-wetterereignisse"
+        },
+        {
+          "name": "Handelskonflikte",
+          "image": "img/funk-global-risk-consensus-risiko-handelskonflikte.jpg",
+          "link": "handelskonflikte"
+        },
+        {
+          "name": "Künstliche Intelligenz",
+          "image": "img/funk-global-risk-consensus-risiko-kuenstliche-intelligenz.jpg",
+          "link": "kuenstliche-intelligenz"
+        },
+        {
+          "name": "Supply Chain Risiken",
+          "image": "img/funk-global-risk-consensus-risiko-supply-chain-risiken.jpg",
+          "link": "supply-chain-risiken"
+        },
+        {
+          "name": "Makroökonomische Veränderungen",
+          "image": "img/funk-global-risk-consensus-risiko-makrooekonomische-veraenderungen.jpg",
+          "link": "makrooekonomische-veraenderungen"
+        }
+    ],
+    "events": [],
+  },
   "2025": {
     "risks": [
         {
@@ -452,12 +487,10 @@ const data = {
 
 $(document).ready(() => {
   const $risks = $(".risks");
-  const $events = $(".gevents");
   const $yearButtons = $(".years button");
 
   function updateContent(year) {
     $risks.empty();
-    $events.empty();
 
     const yearData = data[year];
 
@@ -473,47 +506,7 @@ $(document).ready(() => {
           </a>
       `);
     });
-
-    yearData.events.forEach(event => {
-      $events.append(`
-          <a href="${event.link}" class="gevent bg">
-              <div class="geventimg">
-                <img src="${event.image}" alt="${event.name}">
-              </div>
-              <div class="geventtitle">
-                <h1>${event.name}</h1>
-              </div>
-          </a>
-      `);
-    });
-
-    toggleHiddenItems();
   }
-
-  function toggleHiddenItems() {
-    var $items = $('.gevent');
-    var $geventsweitereBtn = $('.gewBtn');
-  
-    if ($items.length > 3) {
-      $items.slice(0, 3).slideDown(1000);
-      $items.slice(3).hide();
-  
-      $geventsweitereBtn.on('click', function() {
-        $items.slice(3).slideToggle(1000);
-        
-        var currentText = $(this).text();
-        var newText = (currentText === 'Mehr Events') ? 'Weniger Events' : 'Mehr Events';
-        $(this).text(newText);
-      });
-  
-      $geventsweitereBtn.show();
-    } else {
-      $items.slideDown(1000);
-      $geventsweitereBtn.hide();
-    }
-  }
-
-  
 
   $yearButtons.click(event => {
     const year = $(event.target).data("year");
@@ -522,7 +515,7 @@ $(document).ready(() => {
     updateContent(year);
   });
 
-  updateContent("2025");
+  updateContent("2026");
 
   // Buttons Year
   const buttonsContainer = document.querySelector('.buttons');
