@@ -39,7 +39,7 @@ $(document).ready(function() {
     }
   };
 
-  const ctx = document.getElementById("entwicklung-kuenstliche-intelligenz").getContext("2d");
+  const ctx = document.getElementById("entwicklung-ki-risiken").getContext("2d");
   new Chart(ctx, {
     type: 'line',
     data: data,

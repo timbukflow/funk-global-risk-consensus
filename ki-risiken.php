@@ -11,12 +11,12 @@ Version 1.1 - 03.2025
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
 
     <meta charset="UTF-8">
-    <title>Künstliche Intelligenz | Funk Global Risk Consensus</title>
+    <title>KI-Risiken | Funk Global Risk Consensus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Generative KI eröffnet Chancen, schafft aber neue Risiken: Halluzinationen, Shadow AI, Datenschutz, Bias und Deepfakes erfordern klare Governance, Kontrollen und Befähigung.">
     <meta name="author" content="Funk Gruppe">
-    <link rel="canonical" href="https://funk-global-risk-consensus.com/kuenstliche-intelligenz" />
+    <link rel="canonical" href="https://funk-global-risk-consensus.com/ki-risiken" />
 
     <meta name="robots" content="index, follow" />
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -31,15 +31,15 @@ Version 1.1 - 03.2025
     <meta name="apple-mobile-web-app-title" content="Funk Global Risk Consensus" />
     <link rel="manifest" href="/site.webmanifest" />
 
-    <meta property="og:title" content="Künstliche Intelligenz | Funk Global Risk Consensus">
+    <meta property="og:title" content="KI-Risiken | Funk Global Risk Consensus">
     <meta property="og:description" content="Generative KI eröffnet Chancen, schafft aber neue Risiken: Halluzinationen, Shadow AI, Datenschutz, Bias und Deepfakes erfordern klare Governance, Kontrollen und Befähigung.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://funk-global-risk-consensus.com/kuenstliche-intelligenz">
+    <meta property="og:url" content="https://funk-global-risk-consensus.com/ki-risiken">
     <meta property="og:image" content="https://funk-global-risk-consensus.com/img/og-image.jpg">
     <meta property="og:locale" content="de_CH">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Künstliche Intelligenz | Funk Global Risk Consensus">
+    <meta name="twitter:title" content="KI-Risiken | Funk Global Risk Consensus">
     <meta name="twitter:description" content="Generative KI eröffnet Chancen, schafft aber neue Risiken: Halluzinationen, Shadow AI, Datenschutz, Bias und Deepfakes erfordern klare Governance, Kontrollen und Befähigung.">
     <meta name="twitter:image" content="https://funk-global-risk-consensus.com/img/twitter-image.jpg">
 
@@ -62,8 +62,8 @@ Version 1.1 - 03.2025
     "@graph": [
         {
         "@type": "WebPage",
-        "name": "Künstliche Intelligenz | Funk Global Risk Consensus",
-        "url": "https://funk-global-risk-consensus.com/kuenstliche-intelligenz",
+        "name": "KI-Risiken | Funk Global Risk Consensus",
+        "url": "https://funk-global-risk-consensus.com/ki-risiken",
         "description": "Generative KI eröffnet Chancen, schafft aber neue Risiken: Halluzinationen, Shadow AI, Datenschutz, Bias und Deepfakes erfordern klare Governance, Kontrollen und Befähigung.",
         "inLanguage": "de-CH",
         "author": {
@@ -83,7 +83,7 @@ Version 1.1 - 03.2025
         },
         "mainEntity": {
             "@type": "Article",
-            "headline": "Künstliche Intelligenz: Chancen, Restrisiken und der Weg zu sicherer Anwendung",
+            "headline": "KI-Risiken: Chancen, Restrisiken und der Weg zu sicherer Anwendung",
             "articleBody": "Der Einsatz von KI – insbesondere generativer KI – entwickelt sich rasant von Experimenten zu produktiven Anwendungen. Damit steigen Effizienz- und Innovationspotenziale, gleichzeitig entstehen neue Risikoarten: probabilistische Ergebnisse, Halluzinationen, Bias, fehlende Erklärbarkeit, Shadow AI, neue Bedrohungen wie Deepfakes sowie ein dynamisches regulatorisches Umfeld. Entscheidend sind klare KI-Governance, geeignete Kontrollmechanismen und eine pragmatische Balance zwischen Innovationsfähigkeit und Risikoappetit.",
             "author": {
             "@type": "Organization",
@@ -97,7 +97,7 @@ Version 1.1 - 03.2025
             "datePublished": "2026-05-04T10:00:00+02:00",
             "dateModified": "2026-05-04T10:00:00+02:00",
             "keywords": [
-            "Künstliche Intelligenz",
+            "KI-Risiken",
             "Generative KI",
             "Shadow AI",
             "KI-Governance",
@@ -132,8 +132,8 @@ Version 1.1 - 03.2025
             {
             "@type": "ListItem",
             "position": 2,
-            "name": "Künstliche Intelligenz",
-            "item": "https://funk-global-risk-consensus.com/kuenstliche-intelligenz"
+            "name": "KI-Risiken",
+            "item": "https://funk-global-risk-consensus.com/ki-risiken"
             }
         ]
         }
@@ -146,18 +146,18 @@ Version 1.1 - 03.2025
     <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
-    <div class="rdmain">
+    <div class="rdmain aligned">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
                 <img
                     src="img/funk-global-risk-consensus-risiko-kuenstliche-intelligenz.jpg"
-                    alt="Künstliche Intelligenz als zentrales Risiko im Funk Global Risk Consensus"
+                    alt="KI-Risiken als zentrales Risiko im Funk Global Risk Consensus"
                     loading="lazy">
                 </div>
                 <div class="rdcontent">
                     <div class="label-year"><p>Stand 2026</p></div>
-                    <h1>Künstliche Intelligenz: Chancen, Restrisiken und der Weg zu sicherer Anwendung</h1>
+                    <h1>KI-Risiken: Chancen, Restrisiken und der Weg zu sicherer Anwendung</h1>
 
                     <h2>Vom Experiment zur produktiven Anwendung</h2>
                     <p>
@@ -182,7 +182,7 @@ Version 1.1 - 03.2025
             <div class="item40 bg">
                 <h2>Entwicklung des Risikos</h2>
                 <p>In der Zeitreihe wird die Dynamik des Risikos über die Jahre hinweg aufgezeigt. Die Punkte zeigen die jeweilige Bewertung des Risikos im jährlich publizierten Funk Global Risk Consensus.</p>
-                <canvas id="entwicklung-kuenstliche-intelligenz"></canvas>
+                <canvas id="entwicklung-ki-risiken"></canvas>
                 <p class="dquelle info-btn " data-target="methode">Methode <span class="material-symbols-outlined ibtn">info</span></p>
             </div>
         </div>
@@ -240,7 +240,7 @@ Version 1.1 - 03.2025
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="kuenstliche-intelligenz.js"></script>
+    <script src="ki-risiken.js"></script>
     <?php require_once 'googleanalytics.php'; ?>
 </body>
 </html>

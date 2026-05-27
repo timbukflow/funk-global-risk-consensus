@@ -175,7 +175,7 @@ Version 1.1 - 03.2025
     <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
-    <div class="rdmain">
+    <div class="rdmain aligned">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">

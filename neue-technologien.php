@@ -99,7 +99,7 @@ Version 1.1 - 03.2025
             "keywords": [
             "Technologierisiken",
             "Digitale Transformation",
-            "Künstliche Intelligenz",
+            "KI-Risiken",
             "IoT",
             "Cybersecurity",
             "Remote Work"

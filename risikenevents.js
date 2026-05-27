@@ -17,9 +17,9 @@ const data = {
           "link": "handelskonflikte"
         },
         {
-          "name": "Künstliche Intelligenz",
+          "name": "KI-Risiken",
           "image": "img/funk-global-risk-consensus-risiko-kuenstliche-intelligenz.jpg",
-          "link": "kuenstliche-intelligenz"
+          "link": "ki-risiken"
         },
         {
           "name": "Supply Chain Risiken",

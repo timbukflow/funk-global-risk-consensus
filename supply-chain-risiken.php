@@ -175,7 +175,7 @@ Version 1.1 - 03.2025
     <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
-    <div class="rdmain">
+    <div class="rdmain aligned">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
@@ -252,7 +252,7 @@ Version 1.1 - 03.2025
                     <li><strong>Resilienz, BCM &amp; Reaktionsfähigkeit:</strong> Aufbau geeigneter Notfall-, Eskalations- und Substitutionspläne für Lieferkettenstörungen, Integration von Supply-Chain-Risiken in das Business-Continuity- und Krisenmanagement, regelmässige Tests von Reaktions-, Wiederanlauf- und Krisenprozessen</li>
                     <li><strong>Organisation, Fähigkeiten &amp; Awareness:</strong> Sensibilisierung und Schulung relevanter Mitarbeitender zu Lieferkettenrisiken</li>
                 </ul>
-                <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Supply%20Chain%20Risiken">
+                <a href="mailto:bastian.gutmann@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Supply%20Chain%20Risiken">
                     <button class="anfrageBtn">Anfragen</button>
                 </a>
             </div>
@@ -260,7 +260,7 @@ Version 1.1 - 03.2025
 
         <div class="rdcontainer contactonly">
             <!-- Kontakt -->
-            <?php require_once 'risikospezialist-stefan-braendli.php' ?>
+            <?php require_once 'risikospezialist-bastian-gutmann.php' ?>
         </div>
     </div>
 

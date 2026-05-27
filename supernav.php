@@ -5,7 +5,7 @@
             <li><a href="cyber-risiken">Cyber-Risiken</a></li>
             <li><a href="extreme-wetterereignisse">Extreme Wetterereignisse</a></li>
             <li><a href="handelskonflikte">Handelskonflikte</a></li>
-            <li><a href="kuenstliche-intelligenz">Künstliche Intelligenz</a></li>
+            <li><a href="ki-risiken">KI-Risiken</a></li>
             <li><a href="supply-chain-risiken">Supply Chain Risiken</a></li>
             <li><a href="makrooekonomische-veraenderungen">Makroökonomische Veränderungen</a></li>
             <li><a href="zwischenstaatliche-konflikte">Zwischenstaatliche Konflikte</a></li>

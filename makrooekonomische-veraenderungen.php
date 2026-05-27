@@ -175,7 +175,7 @@ Version 1.1 - 03.2025
     <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
-    <div class="rdmain">
+    <div class="rdmain aligned">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
@@ -251,7 +251,7 @@ Version 1.1 - 03.2025
                     <li><strong>Hedging:</strong> FX und Rohstoffe nach klarer Policy; Gegenparteirisiken überwachen</li>
                     <li><strong>Portfolio &amp; Diversifikation:</strong> Absatzmärkte, Kundensegmente, Produktmix; Resilienz im Geschäftsmodell</li>
                 </ul>
-                <a href="mailto:stefan.braendli@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Makro%C3%B6konomische%20Ver%C3%A4nderungen">
+                <a href="mailto:max.keller@funk-gruppe.ch?subject=Anfrage:%20Funk%20Global%20Risk%20Consensus%20Makro%C3%B6konomische%20Ver%C3%A4nderungen">
                     <button class="anfrageBtn">Anfragen</button>
                 </a>
             </div>
@@ -259,7 +259,7 @@ Version 1.1 - 03.2025
 
         <div class="rdcontainer contactonly">
             <!-- Kontakt -->
-            <?php require_once 'risikospezialist-stefan-braendli.php' ?>
+            <?php require_once 'risikospezialist-max-keller.php' ?>
         </div>
     </div>
 

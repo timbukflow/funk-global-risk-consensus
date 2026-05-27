@@ -92,9 +92,9 @@ Version 1.1 - 03.2025
         {
             "@type": "ListItem",
             "position": 4,
-            "name": "Künstliche Intelligenz",
+            "name": "KI-Risiken",
             "description": "Generative KI eröffnet Chancen, schafft aber neue Risiken: Halluzinationen, Shadow AI, Datenschutz, Bias und Deepfakes erfordern klare Governance, Kontrollen und Befähigung.",
-            "url": "https://funk-global-risk-consensus.com/kuenstliche-intelligenz"
+            "url": "https://funk-global-risk-consensus.com/ki-risiken"
         },
         {
             "@type": "ListItem",

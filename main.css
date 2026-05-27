@@ -731,6 +731,21 @@ canvas {
   justify-content: flex-end;
 }
 
+.rdmain.aligned .rdeinleitung,
+.rdmain.aligned .rdc3grid,
+.rdmain.aligned .rdcontainer:not(.rdc3grid) {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  align-items: start;
+}
+.rdmain.aligned .rdeinleitung .item60 { width: auto; grid-column: span 2; }
+.rdmain.aligned .rdeinleitung .item40 { width: auto; grid-column: span 1; }
+.rdmain.aligned .rdc3grid .rdcol      { width: auto; }
+.rdmain.aligned .rdCsolution          { width: auto; grid-column: span 2; }
+.rdmain.aligned .rdCcontact           { width: auto; grid-column: span 1; }
+.rdmain.aligned .rdcontainer.contactonly .rdCcontact { grid-column: 3 / span 1; }
+
 .rdcfakten{
   width: 70%;
   display: flex;
@@ -1161,6 +1176,15 @@ footer .logo img {
   /* risk */
   .rdeinleitung, .rdcontainer {flex-direction: column;}
   .item60, .item40, .rdcfakten, .rdcevents, .rdCsolution, .rdCcontact, .rdcol {width: 100%}
+  .rdmain.aligned .rdeinleitung,
+  .rdmain.aligned .rdc3grid,
+  .rdmain.aligned .rdcontainer:not(.rdc3grid) {grid-template-columns: 1fr;}
+  .rdmain.aligned .item60,
+  .rdmain.aligned .item40,
+  .rdmain.aligned .rdcol,
+  .rdmain.aligned .rdCsolution,
+  .rdmain.aligned .rdCcontact {grid-column: span 1;}
+  .rdmain.aligned .rdcontainer.contactonly .rdCcontact {grid-column: 1 / span 1;}
   .rdimg {align-items: stretch;}
   .mchartscont {width: calc(100% + 30px); overflow-x: scroll;}
   .mcharts{width: 600px; padding-right: 30px;}

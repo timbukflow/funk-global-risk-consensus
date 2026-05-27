@@ -1,4 +1,8 @@
-RewriteEngine on 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteEngine on
+
+# 301-Redirects fuer umbenannte Seiten
+RewriteRule ^kuenstliche-intelligenz/?$ /ki-risiken [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php

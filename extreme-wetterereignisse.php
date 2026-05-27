@@ -177,7 +177,7 @@ Version 1.1 - 03.2025
     <?php require_once 'risknav.php'; ?>
     <?php require_once 'supernav.php'; ?>
 
-    <div class="rdmain">
+    <div class="rdmain aligned">
         <div class="rdeinleitung">
             <div class="item60 bg">
                 <div class="rdimg">
@@ -266,7 +266,7 @@ Version 1.1 - 03.2025
             <div class="rdCsolution">
                 <h2>Risikolösungen</h2>
                 <div class="rdsolution bg">
-                    <h1>Naturgefahren Risiko Analyse.</h1>
+                    <h1>Naturgefahrenanalyse</h1>
                     <p>
                         Funk untersucht Firmenstandorte auf Ihre Gefährdung durch Naturgefahren und die Wahrscheinlichkeit von Events. Aus den Firmenkennzahlen und Prozessen gemischt mit den Eintrittswahrscheinlichkeiten von Naturgefahren sowie derer Intensität können Höchstschadenssummen abgeleitet werden.
                     </p>
